@@ -1,0 +1,217 @@
+Disc Label:     7.Zwerge.Der.Wald.ist.nicht.genug.2006.German.COMPLETE.Bluray.Untouched
+Disc Size:      20,756,798,696 bytes
+Protection:     AACS
+BDInfo:         0.7.5.0
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:35:07 20,424,996,864  20,756,798,696  28.63   24.99   DTS-HD Master 5.1 2061Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     7.Zwerge.Der.Wald.ist.nicht.genug.2006.German.COMPLETE.Bluray.Untouched
+Disc Size:      20,756,798,696 bytes
+Protection:     AACS
+BDInfo:         0.7.5.0
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:35:07.000 (h:m:s.ms)
+Size:                   20,424,996,864 bytes
+Total Bitrate:          28.63 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24993 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2061 kbps       5.1 / 48 kHz /  2061 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          43.272 kbps                     
+Presentation Graphics           English         37.665 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:35:07.000     20,424,996,864  28,632          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:39.250     13,642 kbps     31,717 kbps     00:00:08.708    25,557 kbps     00:00:06.333    25,072 kbps     00:01:13.375    71,038 bytes    551,193 bytes   00:03:36.541    
+2               0:03:39.250     0:09:42.416     25,858 kbps     36,534 kbps     00:08:09.333    33,487 kbps     00:08:05.583    32,846 kbps     00:08:29.749    134,677 bytes   654,567 bytes   00:08:11.333    
+3               0:13:21.666     0:03:20.375     23,719 kbps     34,654 kbps     00:13:27.708    32,245 kbps     00:13:30.041    31,005 kbps     00:13:26.458    123,538 bytes   491,506 bytes   00:13:29.375    
+4               0:16:42.041     0:06:09.375     25,106 kbps     34,760 kbps     00:22:04.000    30,706 kbps     00:16:52.666    28,965 kbps     00:16:47.875    130,760 bytes   641,861 bytes   00:22:51.333    
+5               0:22:51.416     0:03:16.791     28,319 kbps     36,343 kbps     00:22:52.291    33,380 kbps     00:23:01.166    33,100 kbps     00:22:52.291    147,497 bytes   657,645 bytes   00:24:31.041    
+6               0:26:08.208     0:06:03.750     27,271 kbps     36,017 kbps     00:26:28.708    33,414 kbps     00:26:15.083    33,108 kbps     00:26:09.083    142,034 bytes   594,664 bytes   00:26:30.750    
+7               0:32:11.958     0:07:06.958     28,653 kbps     35,914 kbps     00:32:14.833    33,137 kbps     00:34:07.125    32,771 kbps     00:34:02.875    149,236 bytes   575,885 bytes   00:33:02.875    
+8               0:39:18.916     0:07:57.958     27,864 kbps     36,356 kbps     00:46:23.208    33,519 kbps     00:46:23.166    33,041 kbps     00:42:56.500    145,123 bytes   639,937 bytes   00:46:21.916    
+9               0:47:16.875     0:07:15.041     29,144 kbps     34,847 kbps     00:53:22.375    33,124 kbps     00:52:17.791    32,062 kbps     00:53:21.375    151,793 bytes   596,779 bytes   00:49:02.500    
+10              0:54:31.916     0:07:14.125     27,712 kbps     34,688 kbps     00:59:24.458    32,734 kbps     00:57:53.625    31,968 kbps     00:55:35.083    144,334 bytes   622,562 bytes   00:59:28.500    
+11              1:01:46.041     0:06:48.583     25,664 kbps     34,150 kbps     01:04:11.625    32,539 kbps     01:04:01.083    31,600 kbps     01:05:39.833    133,668 bytes   530,104 bytes   01:08:31.791    
+12              1:08:34.625     0:06:29.625     29,046 kbps     36,307 kbps     01:14:57.458    33,400 kbps     01:14:59.250    33,164 kbps     01:14:54.208    151,281 bytes   624,586 bytes   01:14:58.500    
+13              1:15:04.250     0:06:48.166     22,613 kbps     35,638 kbps     01:17:48.666    32,477 kbps     01:17:45.625    30,686 kbps     01:17:40.125    117,773 bytes   635,504 bytes   01:15:05.208    
+14              1:21:52.416     0:07:03.541     27,750 kbps     35,037 kbps     01:22:18.250    32,057 kbps     01:26:30.500    31,598 kbps     01:26:30.541    144,532 bytes   465,241 bytes   01:28:41.875    
+15              1:28:55.958     0:06:11.041     5,440 kbps      9,357 kbps      01:34:38.333    7,980 kbps      01:34:34.583    8,006 kbps      01:34:34.333    28,334 bytes    208,561 bytes   01:34:38.375    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5706.833                24,994                  17,829,425,246  96,978,832      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5706.833                2,061                   1,470,131,052   8,879,072       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5706.833                43                      30,869,163      176,458         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5706.833                38                      26,869,211      154,601         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: 7.Zwerge.Der.Wald.ist.nicht.genug.2006.German.COMPLETE.Bluray.Untouched
+Disc Size: 20,756,798,696 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 20,424,996,864 bytes
+Length: 1:35:07.000
+Total Bitrate: 28.63 Mbps
+Video: MPEG-4 AVC Video / 24993 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2061 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 43.272 kbps
+Subtitle: English / 37.665 kbps
+
+
+********************
+PLAYLIST: 00062.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00062.MPLS                                                      AVC     1:34:44 20,374,546,752  20,756,798,696  28.68   25.04   DTS-HD Master 5.1 2060Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     7.Zwerge.Der.Wald.ist.nicht.genug.2006.German.COMPLETE.Bluray.Untouched
+Disc Size:      20,756,798,696 bytes
+Protection:     AACS
+BDInfo:         0.7.5.0
+
+PLAYLIST REPORT:
+
+Name:                   00062.MPLS
+Length:                 1:34:44.000 (h:m:s.ms)
+Size:                   20,374,546,752 bytes
+Total Bitrate:          28.68 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25037 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2060 kbps       5.1 / 48 kHz /  2060 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          43.447 kbps                     
+Presentation Graphics           English         37.817 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:34:44.000     20,374,546,752  28,676          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:16.250     13,574 kbps     28,024 kbps     00:00:13.041    25,174 kbps     00:00:56.666    25,072 kbps     00:00:50.375    70,684 bytes    551,193 bytes   00:03:13.541    
+2               0:03:16.250     0:09:42.416     25,858 kbps     36,534 kbps     00:07:46.333    33,487 kbps     00:07:42.583    32,846 kbps     00:08:06.749    134,677 bytes   654,567 bytes   00:07:48.333    
+3               0:12:58.666     0:03:20.375     23,719 kbps     34,654 kbps     00:13:04.708    32,245 kbps     00:13:07.041    31,005 kbps     00:13:03.458    123,538 bytes   491,506 bytes   00:13:06.375    
+4               0:16:19.041     0:06:09.375     25,106 kbps     34,760 kbps     00:21:41.000    30,706 kbps     00:16:29.666    28,965 kbps     00:16:24.875    130,760 bytes   641,861 bytes   00:22:28.333    
+5               0:22:28.416     0:03:16.791     28,319 kbps     36,343 kbps     00:22:29.291    33,380 kbps     00:22:38.166    33,100 kbps     00:22:29.291    147,497 bytes   657,645 bytes   00:24:08.041    
+6               0:25:45.208     0:06:03.750     27,271 kbps     36,017 kbps     00:26:05.708    33,414 kbps     00:25:52.083    33,108 kbps     00:25:46.083    142,034 bytes   594,664 bytes   00:26:07.750    
+7               0:31:48.958     0:07:06.958     28,653 kbps     35,914 kbps     00:31:51.833    33,137 kbps     00:33:44.125    32,771 kbps     00:33:39.875    149,236 bytes   575,885 bytes   00:32:39.875    
+8               0:38:55.916     0:07:57.958     27,864 kbps     36,356 kbps     00:46:00.208    33,519 kbps     00:46:00.166    33,041 kbps     00:42:33.500    145,123 bytes   639,937 bytes   00:45:58.916    
+9               0:46:53.875     0:07:15.041     29,144 kbps     34,847 kbps     00:52:59.375    33,124 kbps     00:51:54.791    32,062 kbps     00:52:58.375    151,793 bytes   596,779 bytes   00:48:39.500    
+10              0:54:08.916     0:07:14.125     27,712 kbps     34,688 kbps     00:59:01.458    32,734 kbps     00:57:30.625    31,968 kbps     00:55:12.083    144,334 bytes   622,562 bytes   00:59:05.500    
+11              1:01:23.041     0:06:48.583     25,664 kbps     34,150 kbps     01:03:48.625    32,539 kbps     01:03:38.083    31,600 kbps     01:05:16.833    133,668 bytes   530,104 bytes   01:08:08.791    
+12              1:08:11.625     0:06:29.625     29,046 kbps     36,307 kbps     01:14:34.458    33,400 kbps     01:14:36.250    33,164 kbps     01:14:31.208    151,281 bytes   624,586 bytes   01:14:35.500    
+13              1:14:41.250     0:06:48.166     22,613 kbps     35,638 kbps     01:17:25.666    32,477 kbps     01:17:22.625    30,686 kbps     01:17:17.125    117,773 bytes   635,504 bytes   01:14:42.208    
+14              1:21:29.416     0:07:03.541     27,750 kbps     35,037 kbps     01:21:55.250    32,057 kbps     01:26:07.500    31,598 kbps     01:26:07.541    144,532 bytes   465,241 bytes   01:28:18.875    
+15              1:28:32.958     0:06:11.041     5,440 kbps      9,357 kbps      01:34:15.333    7,980 kbps      01:34:11.583    8,006 kbps      01:34:11.333    28,334 bytes    208,561 bytes   01:34:15.375    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5706.833                24,994                  17,829,425,246  96,978,832      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5706.833                2,061                   1,470,131,052   8,879,072       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5706.833                43                      30,869,163      176,458         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5706.833                38                      26,869,211      154,601         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: 7.Zwerge.Der.Wald.ist.nicht.genug.2006.German.COMPLETE.Bluray.Untouched
+Disc Size: 20,756,798,696 bytes
+Protection: AACS
+Playlist: 00062.MPLS
+Size: 20,374,546,752 bytes
+Length: 1:34:44.000
+Total Bitrate: 28.68 Mbps
+Video: MPEG-4 AVC Video / 25037 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2060 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 43.447 kbps
+Subtitle: English / 37.817 kbps
+
