@@ -1,0 +1,227 @@
+Disc Label:     7.Zwerge.Maenner.allein.im.Wald.2004.German.COMPLETE.Bluray.Untouched
+Disc Size:      20,508,117,544 bytes
+Protection:     AACS
+BDInfo:         0.7.5.0
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:33:47 20,190,916,608  20,508,117,544  28.70   24.99   DTS-HD Master 5.1 2147Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     7.Zwerge.Maenner.allein.im.Wald.2004.German.COMPLETE.Bluray.Untouched
+Disc Size:      20,508,117,544 bytes
+Protection:     AACS
+BDInfo:         0.7.5.0
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:33:47.583 (h:m:s.ms)
+Size:                   20,190,916,608 bytes
+Total Bitrate:          28.70 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24988 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2147 kbps       5.1 / 48 kHz /  2147 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          40.870 kbps                     
+Presentation Graphics           English         29.766 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:33:47.583     20,190,916,608  28,703          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:45.666     19,569 kbps     36,194 kbps     00:02:39.916    32,964 kbps     00:02:19.375    32,781 kbps     00:02:20.208    101,911 bytes   546,754 bytes   00:02:38.500    
+2               0:05:45.666     0:04:47.833     25,849 kbps     33,934 kbps     00:06:38.500    31,686 kbps     00:09:57.583    29,912 kbps     00:06:44.541    134,629 bytes   499,922 bytes   00:08:16.041    
+3               0:10:33.500     0:06:15.000     27,641 kbps     37,174 kbps     00:13:47.916    33,342 kbps     00:10:57.791    33,105 kbps     00:10:51.958    143,966 bytes   643,236 bytes   00:14:29.500    
+4               0:16:48.500     0:04:50.333     28,721 kbps     35,539 kbps     00:19:51.083    33,357 kbps     00:19:53.166    33,099 kbps     00:20:40.083    149,586 bytes   557,945 bytes   00:18:57.333    
+5               0:21:38.833     0:04:57.000     28,700 kbps     36,513 kbps     00:26:34.750    33,489 kbps     00:26:30.791    32,933 kbps     00:22:58.375    149,481 bytes   626,743 bytes   00:26:34.791    
+6               0:26:35.833     0:05:27.541     29,692 kbps     39,063 kbps     00:31:51.875    33,405 kbps     00:31:57.833    32,805 kbps     00:30:01.000    154,644 bytes   657,267 bytes   00:31:58.875    
+7               0:32:03.375     0:04:56.041     29,085 kbps     35,692 kbps     00:33:20.208    33,231 kbps     00:32:40.208    32,850 kbps     00:32:06.583    151,482 bytes   532,891 bytes   00:36:58.375    
+8               0:36:59.416     0:04:50.541     28,106 kbps     35,583 kbps     00:37:42.541    33,380 kbps     00:40:21.875    33,053 kbps     00:37:44.250    146,386 bytes   537,033 bytes   00:37:42.583    
+9               0:41:49.958     0:03:35.958     20,256 kbps     32,190 kbps     00:41:56.333    27,067 kbps     00:44:34.250    24,619 kbps     00:44:30.125    105,501 bytes   328,042 bytes   00:42:48.166    
+10              0:45:25.916     0:05:28.375     22,629 kbps     34,374 kbps     00:47:52.916    31,667 kbps     00:50:35.000    30,663 kbps     00:50:32.708    117,862 bytes   367,696 bytes   00:50:54.208    
+11              0:50:54.291     0:04:31.833     27,350 kbps     35,330 kbps     00:53:59.958    33,162 kbps     00:54:33.708    33,058 kbps     00:54:12.375    142,449 bytes   566,652 bytes   00:53:26.541    
+12              0:55:26.125     0:07:10.208     28,074 kbps     35,793 kbps     00:57:02.750    33,475 kbps     00:56:58.791    33,052 kbps     00:56:49.833    146,218 bytes   533,037 bytes   00:56:10.541    
+13              1:02:36.333     0:03:49.875     26,231 kbps     35,993 kbps     01:03:00.875    33,359 kbps     01:02:58.875    31,949 kbps     01:05:41.666    136,617 bytes   569,008 bytes   01:03:01.916    
+14              1:06:26.208     0:03:54.375     24,308 kbps     36,453 kbps     01:10:17.416    33,532 kbps     01:07:30.416    32,166 kbps     01:07:26.000    126,603 bytes   633,228 bytes   01:07:35.208    
+15              1:10:20.583     0:03:40.916     25,423 kbps     35,378 kbps     01:11:02.916    32,992 kbps     01:10:23.666    32,588 kbps     01:10:21.416    132,411 bytes   519,493 bytes   01:10:48.916    
+16              1:14:01.500     0:03:37.875     23,327 kbps     32,186 kbps     01:14:06.541    28,960 kbps     01:17:25.500    28,841 kbps     01:17:24.708    121,494 bytes   381,581 bytes   01:14:04.083    
+17              1:17:39.375     0:03:40.375     23,377 kbps     32,114 kbps     01:19:40.291    29,626 kbps     01:18:13.291    28,426 kbps     01:18:13.291    121,755 bytes   419,941 bytes   01:21:19.666    
+18              1:21:19.750     0:03:28.916     26,774 kbps     35,455 kbps     01:24:11.083    33,067 kbps     01:21:37.250    32,119 kbps     01:23:47.541    139,447 bytes   504,193 bytes   01:24:11.125    
+19              1:24:48.666     0:03:45.500     30,125 kbps     35,640 kbps     01:28:23.208    33,249 kbps     01:27:59.291    33,133 kbps     01:28:14.208    156,899 bytes   536,406 bytes   01:28:24.250    
+20              1:28:34.166     0:05:13.416     4,481 kbps      13,965 kbps     01:28:34.166    8,209 kbps      01:33:17.875    7,964 kbps      01:33:16.458    23,340 bytes    284,844 bytes   01:33:18.500    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5627.417                24,988                  17,577,521,818  95,608,856      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5627.417                2,147                   1,509,980,392   9,080,839       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5627.417                41                      28,749,661      162,425         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5627.417                30                      20,938,664      120,341         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: 7.Zwerge.Maenner.allein.im.Wald.2004.German.COMPLETE.Bluray.Untouched
+Disc Size: 20,508,117,544 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 20,190,916,608 bytes
+Length: 1:33:47.583
+Total Bitrate: 28.70 Mbps
+Video: MPEG-4 AVC Video / 24988 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2147 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 40.870 kbps
+Subtitle: English / 29.766 kbps
+
+
+********************
+PLAYLIST: 00059.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00059.MPLS                                                      AVC     1:33:24 20,131,464,000  20,508,117,544  28.74   25.02   DTS-HD Master 5.1 2146Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     7.Zwerge.Maenner.allein.im.Wald.2004.German.COMPLETE.Bluray.Untouched
+Disc Size:      20,508,117,544 bytes
+Protection:     AACS
+BDInfo:         0.7.5.0
+
+PLAYLIST REPORT:
+
+Name:                   00059.MPLS
+Length:                 1:33:24.583 (h:m:s.ms)
+Size:                   20,131,464,000 bytes
+Total Bitrate:          28.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25019 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2146 kbps       5.1 / 48 kHz /  2146 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          41.037 kbps                     
+Presentation Graphics           English         29.888 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:33:24.583     20,131,464,000  28,736          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:22.666     19,732 kbps     36,194 kbps     00:02:16.916    32,964 kbps     00:01:56.375    32,781 kbps     00:01:57.208    102,758 bytes   546,754 bytes   00:02:15.500    
+2               0:05:22.666     0:04:47.833     25,849 kbps     33,934 kbps     00:06:15.500    31,686 kbps     00:09:34.583    29,912 kbps     00:06:21.541    134,629 bytes   499,922 bytes   00:07:53.041    
+3               0:10:10.500     0:06:15.000     27,641 kbps     37,174 kbps     00:13:24.916    33,342 kbps     00:10:34.791    33,105 kbps     00:10:28.958    143,966 bytes   643,236 bytes   00:14:06.500    
+4               0:16:25.500     0:04:50.333     28,721 kbps     35,539 kbps     00:19:28.083    33,357 kbps     00:19:30.166    33,099 kbps     00:20:17.083    149,586 bytes   557,945 bytes   00:18:34.333    
+5               0:21:15.833     0:04:57.000     28,700 kbps     36,513 kbps     00:26:11.750    33,489 kbps     00:26:07.791    32,933 kbps     00:22:35.375    149,481 bytes   626,743 bytes   00:26:11.791    
+6               0:26:12.833     0:05:27.541     29,692 kbps     39,063 kbps     00:31:28.875    33,405 kbps     00:31:34.833    32,805 kbps     00:29:38.000    154,644 bytes   657,267 bytes   00:31:35.875    
+7               0:31:40.375     0:04:56.041     29,085 kbps     35,692 kbps     00:32:57.208    33,231 kbps     00:32:17.208    32,850 kbps     00:31:43.583    151,482 bytes   532,891 bytes   00:36:35.375    
+8               0:36:36.416     0:04:50.541     28,106 kbps     35,583 kbps     00:37:19.541    33,380 kbps     00:39:58.875    33,053 kbps     00:37:21.250    146,386 bytes   537,033 bytes   00:37:19.583    
+9               0:41:26.958     0:03:35.958     20,256 kbps     32,190 kbps     00:41:33.333    27,067 kbps     00:44:11.250    24,619 kbps     00:44:07.125    105,501 bytes   328,042 bytes   00:42:25.166    
+10              0:45:02.916     0:05:28.375     22,629 kbps     34,374 kbps     00:47:29.916    31,667 kbps     00:50:12.000    30,663 kbps     00:50:09.708    117,862 bytes   367,696 bytes   00:50:31.208    
+11              0:50:31.291     0:04:31.833     27,350 kbps     35,330 kbps     00:53:36.958    33,162 kbps     00:54:10.708    33,058 kbps     00:53:49.375    142,449 bytes   566,652 bytes   00:53:03.541    
+12              0:55:03.125     0:07:10.208     28,074 kbps     35,793 kbps     00:56:39.750    33,475 kbps     00:56:35.791    33,052 kbps     00:56:26.833    146,218 bytes   533,037 bytes   00:55:47.541    
+13              1:02:13.333     0:03:49.875     26,231 kbps     35,993 kbps     01:02:37.875    33,359 kbps     01:02:35.875    31,949 kbps     01:05:18.666    136,617 bytes   569,008 bytes   01:02:38.916    
+14              1:06:03.208     0:03:54.375     24,308 kbps     36,453 kbps     01:09:54.416    33,532 kbps     01:07:07.416    32,166 kbps     01:07:03.000    126,603 bytes   633,228 bytes   01:07:12.208    
+15              1:09:57.583     0:03:40.916     25,423 kbps     35,378 kbps     01:10:39.916    32,992 kbps     01:10:00.666    32,588 kbps     01:09:58.416    132,411 bytes   519,493 bytes   01:10:25.916    
+16              1:13:38.500     0:03:37.875     23,327 kbps     32,186 kbps     01:13:43.541    28,960 kbps     01:17:02.500    28,841 kbps     01:17:01.708    121,494 bytes   381,581 bytes   01:13:41.083    
+17              1:17:16.375     0:03:40.375     23,377 kbps     32,114 kbps     01:19:17.291    29,626 kbps     01:17:50.291    28,426 kbps     01:17:50.291    121,755 bytes   419,941 bytes   01:20:56.666    
+18              1:20:56.750     0:03:28.916     26,774 kbps     35,455 kbps     01:23:48.083    33,067 kbps     01:21:14.250    32,119 kbps     01:23:24.541    139,447 bytes   504,193 bytes   01:23:48.125    
+19              1:24:25.666     0:03:45.500     30,125 kbps     35,640 kbps     01:28:00.208    33,249 kbps     01:27:36.291    33,133 kbps     01:27:51.208    156,899 bytes   536,406 bytes   01:28:01.250    
+20              1:28:11.166     0:05:13.416     4,481 kbps      13,965 kbps     01:28:11.166    8,209 kbps      01:32:54.875    7,964 kbps      01:32:53.458    23,340 bytes    284,844 bytes   01:32:55.500    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5627.417                24,988                  17,577,521,818  95,608,856      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5627.417                2,147                   1,509,980,392   9,080,839       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5627.417                41                      28,749,661      162,425         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5627.417                30                      20,938,664      120,341         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: 7.Zwerge.Maenner.allein.im.Wald.2004.German.COMPLETE.Bluray.Untouched
+Disc Size: 20,508,117,544 bytes
+Protection: AACS
+Playlist: 00059.MPLS
+Size: 20,131,464,000 bytes
+Length: 1:33:24.583
+Total Bitrate: 28.74 Mbps
+Video: MPEG-4 AVC Video / 25019 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2146 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 41.037 kbps
+Subtitle: English / 29.888 kbps
+
