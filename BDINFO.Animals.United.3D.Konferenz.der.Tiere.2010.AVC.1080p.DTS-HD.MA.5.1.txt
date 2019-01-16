@@ -1,0 +1,121 @@
+Disc Label:     Animals.United.3D.Konferenz.der.Tiere.2010.AVC.1080p.DTS-HD.MA.5.1
+Disc Size:      26,140,553,756 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00010.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00010.MPLS                                                      AVC     1:33:04 14,682,279,936  26,140,553,756  21.03   15.97   DTS-HD Master 5.1 1920Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Animals.United.3D.Konferenz.der.Tiere.2010.AVC.1080p.DTS-HD.MA.5.1
+Disc Size:      26,140,553,756 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00010.MPLS
+Length:                 1:33:04.579 (h:m:s.ms)
+Size:                   14,682,279,936 bytes
+Total Bitrate:          21.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        15973 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         1920 kbps       5.1 / 48 kHz /  1920 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+DTS-HD Master Audio             English         1882 kbps       5.1 / 48 kHz /  1882 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         24.970 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00011.M2TS      0:00:00.000     1:33:04.579     14,682,279,936  21,033          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:35.913     16,382 kbps     32,534 kbps     00:05:25.033    25,314 kbps     00:05:23.781    24,036 kbps     00:05:22.488    85,399 bytes    960,552 bytes   00:04:59.799    
+2               0:07:35.913     0:06:08.242     15,504 kbps     29,840 kbps     00:12:06.600    26,607 kbps     00:12:06.183    24,165 kbps     00:12:06.142    80,831 bytes    916,618 bytes   00:08:33.721    
+3               0:13:44.156     0:10:42.600     16,248 kbps     32,171 kbps     00:15:33.599    27,061 kbps     00:18:17.137    24,223 kbps     00:15:33.515    84,711 bytes    982,096 bytes   00:16:07.216    
+4               0:24:26.756     0:06:06.741     16,470 kbps     32,963 kbps     00:29:59.964    26,937 kbps     00:25:06.463    24,163 kbps     00:25:06.463    85,866 bytes    974,198 bytes   00:29:38.109    
+5               0:30:33.498     0:07:01.504     15,858 kbps     32,316 kbps     00:36:31.939    23,597 kbps     00:32:13.723    20,707 kbps     00:34:10.214    82,678 bytes    956,161 bytes   00:36:32.773    
+6               0:37:35.002     0:08:30.510     16,396 kbps     31,399 kbps     00:38:25.553    26,863 kbps     00:38:21.424    23,048 kbps     00:38:17.420    85,482 bytes    964,660 bytes   00:44:21.033    
+7               0:46:05.512     0:08:56.994     15,891 kbps     33,559 kbps     00:46:24.490    26,404 kbps     00:48:49.426    22,603 kbps     00:46:29.203    82,848 bytes    907,824 bytes   00:50:18.724    
+8               0:55:02.507     0:06:34.560     16,859 kbps     29,729 kbps     00:57:40.290    25,355 kbps     00:59:12.465    22,070 kbps     00:59:09.337    87,897 bytes    967,662 bytes   00:58:04.689    
+9               1:01:37.068     0:03:47.268     14,975 kbps     43,015 kbps     01:02:38.921    25,880 kbps     01:03:48.658    23,237 kbps     01:04:27.071    78,072 bytes    788,884 bytes   01:02:39.922    
+10              1:05:24.337     0:07:09.137     16,247 kbps     30,658 kbps     01:06:15.137    26,157 kbps     01:08:14.590    24,457 kbps     01:08:14.548    84,704 bytes    972,644 bytes   01:12:20.252    
+11              1:12:33.474     0:05:36.669     16,666 kbps     34,078 kbps     01:15:29.900    23,542 kbps     01:15:27.731    21,617 kbps     01:13:06.799    86,890 bytes    983,191 bytes   01:15:02.831    
+12              1:18:10.143     0:05:27.535     16,605 kbps     28,163 kbps     01:21:34.306    23,410 kbps     01:21:34.306    20,546 kbps     01:22:20.644    86,572 bytes    951,693 bytes   01:23:36.970    
+13              1:23:37.679     0:03:11.816     16,913 kbps     27,712 kbps     01:23:53.111    22,922 kbps     01:25:39.092    21,854 kbps     01:26:00.238    88,176 bytes    944,657 bytes   01:23:37.971    
+14              1:26:49.495     0:01:56.157     7,565 kbps      46,089 kbps     01:27:34.499    24,401 kbps     01:28:35.643    20,892 kbps     01:28:00.149    39,441 bytes    662,897 bytes   01:28:01.609    
+15              1:28:45.653     0:02:25.687     15,975 kbps     25,636 kbps     01:28:51.659    20,700 kbps     01:28:57.498    19,403 kbps     01:29:59.060    83,284 bytes    837,299 bytes   01:28:56.622    
+16              1:31:11.340     0:00:03.128     12,612 kbps     13,156 kbps     01:31:12.383    0 kbps          00:00:00.000    0 kbps          00:00:00.000    65,755 bytes    143,382 bytes   01:31:13.259    
+17              1:31:14.469     0:01:50.109     12,624 kbps     24,538 kbps     01:31:53.633    23,425 kbps     01:31:51.130    21,776 kbps     01:31:47.793    65,843 bytes    279,171 bytes   01:31:54.300    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00011.M2TS      4113 (0x1011)   0x1B            AVC                                     5584.496                15,974                  11,150,547,529  60,678,932      
+00011.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5584.496                1,920                   1,340,491,500   7,824,845       
+00011.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5584.496                1,882                   1,313,869,648   7,679,121       
+00011.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5584.496                25                      17,430,977      100,193         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Animals.United.3D.Konferenz.der.Tiere.2010.AVC.1080p.DTS-HD.MA.5.1
+Disc Size: 26,140,553,756 bytes
+Protection: AACS
+Playlist: 00010.MPLS
+Size: 14,682,279,936 bytes
+Length: 1:33:04.579
+Total Bitrate: 21.03 Mbps
+Video: MPEG-4 AVC Video / 15973 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  1920 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1882 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: Italian / 24.970 kbps
+

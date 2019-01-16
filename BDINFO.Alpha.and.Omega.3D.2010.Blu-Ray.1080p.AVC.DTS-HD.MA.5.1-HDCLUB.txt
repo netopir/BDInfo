@@ -1,0 +1,112 @@
+Disc Label:     Alpha.and.Omega.3D.2010.Blu-Ray.1080p.AVC.DTS-HD.MA.5.1-HDCLUB
+Disc Size:      30,583,667,793 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:27:56 19,797,153,792  30,583,667,793  30.01   26.84   DTS-HD Master 5.1 1717Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Alpha.and.Omega.3D.2010.Blu-Ray.1080p.AVC.DTS-HD.MA.5.1-HDCLUB
+Disc Size:      30,583,667,793 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:27:56.688 (h:m:s.ms)
+Size:                   19,797,153,792 bytes
+Total Bitrate:          30.01 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26836 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         1717 kbps       5.1 / 48 kHz /  1717 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     0:53:08.351     12,126,713,856  30,428          
+00006.M2TS      0:53:08.351     0:34:48.336     7,670,439,936   29,384          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:47.018     27,875 kbps     44,299 kbps     00:03:30.460    35,294 kbps     00:00:29.320    34,207 kbps     00:02:27.397    145,303 bytes   930,992 bytes   00:03:27.582    
+2               0:03:47.018     0:03:43.890     28,852 kbps     39,674 kbps     00:06:49.534    35,113 kbps     00:06:49.534    34,643 kbps     00:06:49.534    150,422 bytes   721,110 bytes   00:06:49.575    
+3               0:07:30.908     0:05:19.277     25,879 kbps     40,472 kbps     00:12:03.639    33,621 kbps     00:10:28.711    32,423 kbps     00:10:23.748    134,923 bytes   887,680 bytes   00:10:52.151    
+4               0:12:50.186     0:04:43.783     26,858 kbps     38,241 kbps     00:14:33.205    34,750 kbps     00:15:37.770    30,874 kbps     00:14:58.856    140,027 bytes   816,142 bytes   00:15:37.811    
+5               0:17:33.969     0:05:22.697     26,970 kbps     41,296 kbps     00:20:55.837    35,262 kbps     00:22:32.392    34,047 kbps     00:22:27.763    140,610 bytes   927,424 bytes   00:21:44.303    
+6               0:22:56.666     0:03:06.769     26,596 kbps     49,358 kbps     00:24:44.774    34,424 kbps     00:25:41.623    32,363 kbps     00:25:36.535    138,661 bytes   879,117 bytes   00:23:13.725    
+7               0:26:03.436     0:08:37.391     27,569 kbps     50,906 kbps     00:34:33.780    35,570 kbps     00:28:56.818    33,761 kbps     00:30:28.701    143,731 bytes   1,056,479 bytes 00:29:05.952    
+8               0:34:40.828     0:04:24.597     27,196 kbps     50,907 kbps     00:34:56.636    35,001 kbps     00:35:24.163    33,261 kbps     00:37:42.927    141,787 bytes   948,693 bytes   00:38:43.821    
+9               0:39:05.426     0:03:35.381     26,191 kbps     48,866 kbps     00:42:08.734    32,840 kbps     00:41:36.577    30,174 kbps     00:41:31.197    136,550 bytes   941,307 bytes   00:42:31.924    
+10              0:42:40.808     0:03:57.612     29,589 kbps     39,853 kbps     00:46:37.419    34,952 kbps     00:44:52.064    34,604 kbps     00:45:03.951    154,263 bytes   732,445 bytes   00:46:35.417    
+11              0:46:38.420     0:03:23.369     26,212 kbps     39,410 kbps     00:47:33.725    32,463 kbps     00:47:43.569    29,840 kbps     00:47:39.690    136,659 bytes   859,042 bytes   00:47:33.767    
+12              0:50:01.790     0:06:51.160     28,100 kbps     47,251 kbps     00:50:45.834    34,811 kbps     00:53:22.532    34,500 kbps     00:54:14.542    146,502 bytes   929,727 bytes   00:51:23.497    
+13              0:56:52.951     0:05:08.766     27,566 kbps     41,199 kbps     00:57:21.229    34,707 kbps     01:00:43.598    32,856 kbps     01:00:27.582    143,718 bytes   856,887 bytes   00:57:21.437    
+14              1:02:01.717     0:06:54.080     27,022 kbps     42,738 kbps     01:07:35.843    33,114 kbps     01:02:37.879    32,079 kbps     01:08:20.179    140,879 bytes   938,431 bytes   01:02:03.719    
+15              1:08:55.798     0:03:01.806     27,469 kbps     40,069 kbps     01:10:25.262    34,466 kbps     01:09:39.425    33,316 kbps     01:10:00.195    143,210 bytes   778,989 bytes   01:10:22.009    
+16              1:11:57.604     0:05:44.052     27,610 kbps     38,073 kbps     01:12:43.525    34,700 kbps     01:13:47.339    34,297 kbps     01:13:44.503    143,946 bytes   909,714 bytes   01:15:42.746    
+17              1:17:41.656     0:01:24.417     25,876 kbps     38,813 kbps     01:19:04.030    29,256 kbps     01:17:51.166    28,358 kbps     01:18:20.529    134,907 bytes   668,460 bytes   01:19:04.072    
+18              1:19:06.074     0:08:50.613     22,361 kbps     45,245 kbps     01:22:18.183    34,936 kbps     01:24:06.541    34,657 kbps     01:24:05.540    116,592 bytes   675,054 bytes   01:21:53.241    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     3188.268                27,245                  10,858,018,194  59,055,651      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           3188.268                1,704                   679,292,748     3,997,492       
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     2088.253                26,213                  6,842,380,310   37,216,155      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           2088.253                1,737                   453,420,980     2,664,050       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Alpha.and.Omega.3D.2010.Blu-Ray.1080p.AVC.DTS-HD.MA.5.1-HDCLUB
+Disc Size: 30,583,667,793 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 19,797,153,792 bytes
+Length: 1:27:56.688
+Total Bitrate: 30.01 Mbps
+Video: MPEG-4 AVC Video / 26836 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  1717 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+

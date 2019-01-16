@@ -1,0 +1,120 @@
+Disc Label:     Arthur.III-The.War.of.the.Two.Worlds.2010.Blu-Ray.1080p.AVC.DTS-HD.MA.7.1
+Disc Size:      27,655,810,664 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:41:09 22,170,869,760  27,655,810,664  29.22   14.95   DTS-HD Master 7.1 6207Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Arthur.III-The.War.of.the.Two.Worlds.2010.Blu-Ray.1080p.AVC.DTS-HD.MA.7.1
+Disc Size:      27,655,810,664 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:41:09.271 (h:m:s.ms)
+Size:                   22,170,869,760 bytes
+Total Bitrate:          29.22 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        14948 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         6207 kbps       7.1 / 48 kHz /  6207 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         6294 kbps       7.1 / 48 kHz /  6294 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Russian         26.292 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00007.M2TS      0:00:00.000     1:41:09.271     22,170,869,760  29,224          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:45.576     15,046 kbps     36,909 kbps     00:01:08.109    32,862 kbps     00:01:05.023    31,555 kbps     00:01:00.018    78,429 bytes    538,673 bytes   00:00:55.805    
+2               0:04:45.576     0:10:01.726     14,962 kbps     26,026 kbps     00:07:51.762    18,232 kbps     00:07:51.179    16,840 kbps     00:07:44.297    78,006 bytes    543,148 bytes   00:08:20.374    
+3               0:14:47.303     0:02:29.691     15,181 kbps     27,826 kbps     00:16:22.314    21,215 kbps     00:14:50.055    18,044 kbps     00:14:49.388    79,149 bytes    424,045 bytes   00:14:52.558    
+4               0:17:16.994     0:06:10.828     14,986 kbps     28,053 kbps     00:21:22.489    18,469 kbps     00:23:03.882    16,788 kbps     00:22:45.113    78,130 bytes    530,308 bytes   00:21:22.531    
+5               0:23:27.823     0:06:28.721     15,013 kbps     26,628 kbps     00:24:21.126    17,607 kbps     00:24:21.126    16,489 kbps     00:24:21.126    78,272 bytes    534,093 bytes   00:24:21.168    
+6               0:29:56.544     0:05:34.917     15,004 kbps     26,856 kbps     00:35:15.446    18,377 kbps     00:35:12.360    16,054 kbps     00:35:07.396    78,224 bytes    451,041 bytes   00:35:15.530    
+7               0:35:31.462     0:09:45.501     14,998 kbps     24,353 kbps     00:41:38.162    17,463 kbps     00:41:35.534    16,222 kbps     00:36:56.255    78,191 bytes    493,778 bytes   00:39:30.493    
+8               0:45:16.964     0:04:55.712     15,147 kbps     34,419 kbps     00:47:36.562    24,755 kbps     00:47:36.311    21,159 kbps     00:47:30.013    78,967 bytes    544,433 bytes   00:47:06.615    
+9               0:50:12.676     0:07:39.625     14,921 kbps     25,575 kbps     00:57:28.194    17,623 kbps     00:52:32.023    16,704 kbps     00:57:12.095    77,793 bytes    525,634 bytes   00:54:01.780    
+10              0:57:52.302     0:05:09.934     14,982 kbps     25,675 kbps     01:02:52.727    18,991 kbps     01:02:52.560    16,834 kbps     01:02:47.180    78,109 bytes    541,597 bytes   01:02:28.119    
+11              1:03:02.236     0:04:45.618     15,000 kbps     24,765 kbps     01:04:30.950    17,319 kbps     01:04:27.863    16,342 kbps     01:04:23.276    78,202 bytes    508,928 bytes   01:07:00.141    
+12              1:07:47.855     0:06:15.541     15,010 kbps     25,425 kbps     01:13:39.123    17,776 kbps     01:12:12.453    16,604 kbps     01:12:11.702    78,253 bytes    536,917 bytes   01:13:39.164    
+13              1:14:03.397     0:06:11.621     14,986 kbps     33,033 kbps     01:18:21.238    22,908 kbps     01:18:19.069    18,450 kbps     01:18:14.147    78,132 bytes    530,457 bytes   01:19:02.237    
+14              1:20:15.018     0:07:51.846     15,034 kbps     24,873 kbps     01:24:35.862    17,336 kbps     01:25:19.948    16,551 kbps     01:22:24.356    78,380 bytes    426,745 bytes   01:25:20.406    
+15              1:28:06.864     0:04:48.121     14,988 kbps     24,444 kbps     01:30:13.991    17,521 kbps     01:30:44.772    16,408 kbps     01:30:39.725    78,140 bytes    486,055 bytes   01:30:14.033    
+16              1:32:54.986     0:08:14.285     14,305 kbps     33,474 kbps     01:33:03.786    27,922 kbps     01:33:01.534    21,794 kbps     01:33:01.534    74,583 bytes    497,550 bytes   01:33:01.576    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     6069.188                14,949                  11,340,673,235  61,719,326      
+00007.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           6069.188                6,207                   4,708,745,072   26,537,157      
+00007.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6069.188                6,294                   4,774,835,224   26,896,353      
+00007.M2TS      4608 (0x1200)   0x90            PGS             rus (Russian)           6069.188                26                      19,946,783      117,127         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Arthur.III-The.War.of.the.Two.Worlds.2010.Blu-Ray.1080p.AVC.DTS-HD.MA.7.1
+Disc Size: 27,655,810,664 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 22,170,869,760 bytes
+Length: 1:41:09.271
+Total Bitrate: 29.22 Mbps
+Video: MPEG-4 AVC Video / 14948 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 7.1 / 48 kHz /  6207 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  6294 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Russian / 26.292 kbps
+

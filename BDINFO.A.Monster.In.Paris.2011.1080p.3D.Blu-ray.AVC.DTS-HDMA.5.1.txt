@@ -1,0 +1,127 @@
+Disc Label:     A.Monster.In.Paris.2011.1080p.3D.Blu-ray.AVC.DTS-HDMA.5.1
+Disc Size:      36,514,332,180 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:29:59 17,751,889,920  36,514,332,180  26.30   19.59   DTS-HD Master 5.1 2010Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     A.Monster.In.Paris.2011.1080p.3D.Blu-ray.AVC.DTS-HDMA.5.1
+Disc Size:      36,514,332,180 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:29:59.185 (h:m:s.ms)
+Size:                   17,751,889,920 bytes
+Total Bitrate:          26.30 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19592 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         2010 kbps       5.1 / 48 kHz /  2010 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD High-Res Audio           French          2046 kbps       5.1 / 48 kHz /  2046 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       English         768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+Dolby Digital Audio             Russian         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Russian         39.224 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     1:29:59.185     17,751,889,920  26,303          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:14.611     21,840 kbps     37,241 kbps     00:02:23.601    33,284 kbps     00:00:13.263    32,034 kbps     00:01:18.995    113,842 bytes   942,943 bytes   00:01:56.491    
+2               0:03:14.611     0:07:23.651     23,847 kbps     38,234 kbps     00:04:29.185    33,948 kbps     00:05:50.308    32,274 kbps     00:05:48.389    124,330 bytes   982,635 bytes   00:08:17.997    
+3               0:10:38.262     0:04:29.686     18,506 kbps     38,865 kbps     00:13:53.123    32,985 kbps     00:10:38.554    30,177 kbps     00:10:38.262    96,481 bytes    938,171 bytes   00:14:47.553    
+4               0:15:07.948     0:02:40.160     15,462 kbps     29,538 kbps     00:15:36.018    24,108 kbps     00:15:34.516    20,863 kbps     00:15:36.101    80,610 bytes    583,134 bytes   00:16:54.388    
+5               0:17:48.108     0:03:50.521     19,586 kbps     34,537 kbps     00:18:09.546    32,484 kbps     00:17:52.112    30,571 kbps     00:17:50.110    102,112 bytes   503,046 bytes   00:21:12.562    
+6               0:21:38.630     0:06:23.591     16,437 kbps     33,845 kbps     00:25:36.826    28,989 kbps     00:24:13.869    27,466 kbps     00:24:12.367    85,696 bytes    909,370 bytes   00:23:44.214    
+7               0:28:02.222     0:02:37.532     17,322 kbps     36,757 kbps     00:28:36.631    29,651 kbps     00:28:34.796    25,332 kbps     00:28:30.625    90,306 bytes    833,352 bytes   00:28:40.218    
+8               0:30:39.754     0:04:22.428     16,445 kbps     35,460 kbps     00:34:37.825    27,957 kbps     00:30:42.215    24,396 kbps     00:33:05.858    85,735 bytes    940,150 bytes   00:33:24.585    
+9               0:35:02.183     0:07:22.567     19,036 kbps     36,795 kbps     00:36:58.674    32,607 kbps     00:36:57.006    28,649 kbps     00:36:52.001    99,245 bytes    689,158 bytes   00:37:02.011    
+10              0:42:24.750     0:05:35.585     21,193 kbps     37,916 kbps     00:46:04.553    32,472 kbps     00:45:14.920    30,776 kbps     00:45:11.166    110,488 bytes   796,193 bytes   00:45:58.172    
+11              0:48:00.335     0:05:31.706     18,276 kbps     36,440 kbps     00:49:07.903    30,307 kbps     00:50:33.613    27,237 kbps     00:49:25.712    95,282 bytes    969,077 bytes   00:49:26.838    
+12              0:53:32.042     0:03:45.308     22,669 kbps     37,429 kbps     00:54:57.294    33,148 kbps     00:54:01.905    32,675 kbps     00:53:56.900    118,186 bytes   783,545 bytes   00:55:42.047    
+13              0:57:17.350     0:05:41.382     22,275 kbps     36,917 kbps     01:00:47.894    32,174 kbps     00:59:17.595    30,581 kbps     00:59:17.804    116,133 bytes   982,744 bytes   00:58:53.279    
+14              1:02:58.733     0:03:37.383     22,486 kbps     37,907 kbps     01:03:05.656    32,547 kbps     01:05:29.342    30,883 kbps     01:05:24.337    117,230 bytes   760,652 bytes   01:05:43.272    
+15              1:06:36.117     0:04:31.896     18,496 kbps     34,228 kbps     01:10:08.579    28,866 kbps     01:08:38.572    25,635 kbps     01:09:00.719    96,431 bytes    568,144 bytes   01:10:20.841    
+16              1:11:08.013     0:04:29.310     19,404 kbps     35,854 kbps     01:12:28.427    30,128 kbps     01:13:09.176    28,595 kbps     01:13:33.409    101,166 bytes   632,856 bytes   01:12:33.432    
+17              1:15:37.324     0:04:37.235     17,660 kbps     36,556 kbps     01:15:45.082    33,239 kbps     01:15:40.911    26,171 kbps     01:18:31.456    92,070 bytes    890,467 bytes   01:15:49.461    
+18              1:20:14.559     0:09:38.786     19,427 kbps     37,514 kbps     01:25:46.808    34,817 kbps     01:26:32.812    33,750 kbps     01:26:32.812    101,285 bytes   982,261 bytes   01:25:38.842    
+19              1:29:53.346     0:00:05.839     4,431 kbps      11,172 kbps     01:29:54.222    5,160 kbps      01:29:53.346    0 kbps          00:00:00.000    23,270 bytes    823,862 bytes   01:29:55.223    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     5399.102                19,592                  13,222,695,936  71,938,216      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           5399.102                2,010                   1,356,513,060   8,210,926       
+00006.M2TS      4353 (0x1101)   0x85            DTS-HD HR       fra (French)            5399.102                2,045                   1,380,327,080   8,095,760       
+00006.M2TS      4354 (0x1102)   0x82            DTS             eng (English)           5399.102                768                     518,322,176     3,037,044       
+00006.M2TS      4355 (0x1103)   0x81            AC3             rus (Russian)           5399.102                192                     129,580,800     843,625         
+00006.M2TS      4608 (0x1200)   0x90            PGS             rus (Russian)           5399.102                39                      26,472,198      151,276         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: A.Monster.In.Paris.2011.1080p.3D.Blu-ray.AVC.DTS-HDMA.5.1
+Disc Size: 36,514,332,180 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 17,751,889,920 bytes
+Length: 1:29:59.185
+Total Bitrate: 26.30 Mbps
+Video: MPEG-4 AVC Video / 19592 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  2010 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: French / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: Russian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: Russian / 39.224 kbps
+

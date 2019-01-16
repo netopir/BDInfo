@@ -1,0 +1,202 @@
+Disc Title:     El Americano
+Disc Label:     Americano.3D.2016.COMPLETE.MULTi.BLURAY-UNTOUCHED
+Disc Size:      28,852,089,859 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:27:59 20,866,934,784  28,852,089,859  31.62   24.00   DTS-HD Master 5.1 1843Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     El Americano
+Disc Label:     Americano.3D.2016.COMPLETE.MULTi.BLURAY-UNTOUCHED
+Disc Size:      28,852,089,859 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:27:59.357 (h:m:s.ms)
+Size:                   20,866,934,784 bytes
+Total Bitrate:          31.62 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          1843 kbps       5.1 / 48 kHz /  1843 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         3885 kbps       5.1 / 48 kHz /  3885 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          3.769 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:27:59.357     20,866,934,784  31,620          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:27:59.357     23,999 kbps     52,019 kbps     00:00:22.522    29,792 kbps     00:00:18.810    26,896 kbps     00:00:13.805    125,120 bytes   982,087 bytes   00:55:34.331    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5279.274                23,999                  15,837,321,234  86,149,439      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5279.274                1,843                   1,216,261,192   7,433,645       
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5279.274                3,885                   2,563,787,124   14,756,916      
+00002.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5279.274                4                       2,487,376       14,026          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: El Americano
+Disc Label: Americano.3D.2016.COMPLETE.MULTi.BLURAY-UNTOUCHED
+Disc Size: 28,852,089,859 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 20,866,934,784 bytes
+Length: 1:27:59.357
+Total Bitrate: 31.62 Mbps
+Video: MPEG-4 AVC Video / 23999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1843 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3885 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 3.769 kbps
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:27:59 20,866,934,784  28,852,089,859  31.62   24.00   DTS-HD Master 5.1 1843Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     El Americano
+Disc Label:     Americano.3D.2016.COMPLETE.MULTi.BLURAY-UNTOUCHED
+Disc Size:      28,852,089,859 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:27:59.357 (h:m:s.ms)
+Size:                   20,866,934,784 bytes
+Total Bitrate:          31.62 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          1843 kbps       5.1 / 48 kHz /  1843 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         3885 kbps       5.1 / 48 kHz /  3885 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          3.769 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:27:59.357     20,866,934,784  31,620          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:00.600     24,007 kbps     52,019 kbps     00:00:22.522    29,792 kbps     00:00:18.810    26,896 kbps     00:00:13.805    125,160 bytes   831,940 bytes   00:04:55.044    
+2               0:10:00.600     0:10:00.600     24,002 kbps     44,461 kbps     00:15:04.862    27,737 kbps     00:18:30.275    26,008 kbps     00:18:32.152    125,136 bytes   924,339 bytes   00:16:19.186    
+3               0:20:01.200     0:10:00.600     24,001 kbps     42,876 kbps     00:24:04.067    28,791 kbps     00:22:40.609    26,007 kbps     00:20:39.571    125,128 bytes   907,068 bytes   00:29:43.990    
+4               0:30:01.800     0:10:00.599     23,993 kbps     40,695 kbps     00:37:00.760    28,767 kbps     00:36:57.673    25,858 kbps     00:30:42.674    125,087 bytes   906,042 bytes   00:38:51.746    
+5               0:40:02.400     0:10:00.599     23,996 kbps     51,134 kbps     00:42:08.734    28,213 kbps     00:48:38.749    26,879 kbps     00:41:59.767    125,106 bytes   937,316 bytes   00:48:18.145    
+6               0:50:03.000     0:10:00.599     24,010 kbps     44,797 kbps     00:56:53.993    27,991 kbps     00:55:53.558    26,263 kbps     00:54:26.388    125,177 bytes   982,087 bytes   00:55:34.331    
+7               1:00:03.600     0:10:00.599     24,014 kbps     42,150 kbps     01:06:54.218    27,770 kbps     01:05:41.646    26,088 kbps     01:08:34.610    125,196 bytes   981,442 bytes   01:09:24.660    
+8               1:10:04.200     0:10:00.600     23,997 kbps     41,868 kbps     01:17:07.539    27,659 kbps     01:15:35.364    26,375 kbps     01:15:17.387    125,111 bytes   853,638 bytes   01:15:47.918    
+9               1:20:04.800     0:07:54.557     23,963 kbps     42,113 kbps     01:21:35.181    28,257 kbps     01:23:33.800    26,136 kbps     01:20:39.543    124,943 bytes   745,418 bytes   01:23:18.827    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5279.274                23,999                  15,837,321,234  86,149,439      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5279.274                1,843                   1,216,261,192   7,433,645       
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5279.274                3,885                   2,563,787,124   14,756,916      
+00002.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5279.274                4                       2,487,376       14,026          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: El Americano
+Disc Label: Americano.3D.2016.COMPLETE.MULTi.BLURAY-UNTOUCHED
+Disc Size: 28,852,089,859 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 20,866,934,784 bytes
+Length: 1:27:59.357
+Total Bitrate: 31.62 Mbps
+Video: MPEG-4 AVC Video / 23999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1843 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3885 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 3.769 kbps
+
