@@ -1,0 +1,223 @@
+Disc Label:     Niko.2.Lentäjäveljekset.2012.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.5.1-DDN
+Disc Size:      23,363,991,772 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:16:05 17,068,720,128  23,363,991,772  29.91   21.58   DTS 5.1 1509Kbps (48kHz/24-bit)           
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Niko.2.Lentäjäveljekset.2012.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.5.1-DDN
+Disc Size:      23,363,991,772 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:16:05.560 (h:m:s.ms)
+Size:                   17,068,720,128 bytes
+Total Bitrate:          29.91 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21583 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+Dolby Digital Audio             Russian         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+Dolby TrueHD Audio              Russian         2140 kbps       5.1 / 48 kHz /  1500 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+DTS-HD Master Audio             English         1827 kbps       5.1 / 48 kHz /  1827 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Russian         34.611 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     1:16:05.560     17,068,720,128  29,909          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:57.313     21,205 kbps     39,942 kbps     00:00:29.320    33,435 kbps     00:00:25.900    27,861 kbps     00:00:24.774    110,540 bytes   519,622 bytes   00:00:29.738    
+2               0:05:57.313     0:10:21.955     21,951 kbps     31,206 kbps     00:12:41.927    27,439 kbps     00:15:19.627    27,030 kbps     00:15:28.093    114,445 bytes   527,096 bytes   00:12:42.011    
+3               0:16:19.269     0:07:35.873     21,856 kbps     30,794 kbps     00:23:09.805    27,046 kbps     00:23:08.804    25,431 kbps     00:23:08.804    113,946 bytes   861,853 bytes   00:23:08.845    
+4               0:23:55.142     0:07:54.722     21,812 kbps     34,758 kbps     00:27:52.837    27,067 kbps     00:29:43.072    26,639 kbps     00:29:39.819    113,716 bytes   915,546 bytes   00:27:53.755    
+5               0:31:49.864     0:08:48.444     21,733 kbps     32,665 kbps     00:37:25.826    28,613 kbps     00:34:32.445    26,055 kbps     00:33:49.527    113,305 bytes   713,467 bytes   00:39:23.569    
+6               0:40:38.309     0:06:35.436     21,430 kbps     36,664 kbps     00:45:06.829    28,531 kbps     00:45:03.450    24,508 kbps     00:44:01.555    111,724 bytes   685,346 bytes   00:42:36.887    
+7               0:47:13.746     0:06:50.618     21,318 kbps     40,975 kbps     00:49:46.316    30,110 kbps     00:49:42.437    26,898 kbps     00:49:39.559    111,141 bytes   943,233 bytes   00:48:56.850    
+8               0:54:04.364     0:04:28.769     21,994 kbps     33,164 kbps     00:58:00.268    27,192 kbps     00:56:44.818    25,630 kbps     00:56:40.897    114,669 bytes   507,324 bytes   00:57:57.807    
+9               0:58:33.134     0:06:31.015     22,349 kbps     33,142 kbps     00:58:59.911    26,481 kbps     01:00:02.974    25,418 kbps     01:00:07.437    116,517 bytes   749,220 bytes   00:58:59.953    
+10              1:05:04.150     0:02:58.011     21,901 kbps     30,444 kbps     01:07:46.103    26,094 kbps     01:06:26.065    24,252 kbps     01:07:18.117    114,180 bytes   509,937 bytes   01:07:46.145    
+11              1:08:02.161     0:02:51.211     20,688 kbps     36,143 kbps     01:10:09.747    25,856 kbps     01:09:53.188    23,980 kbps     01:09:41.093    107,855 bytes   662,243 bytes   01:10:09.788    
+12              1:10:53.372     0:05:12.187     19,817 kbps     34,398 kbps     01:14:53.989    31,722 kbps     01:14:50.652    30,229 kbps     01:14:50.903    103,332 bytes   421,286 bytes   01:15:02.623    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     4565.436                21,583                  12,317,157,613  67,004,990      
+00006.M2TS      4352 (0x1100)   0x82            DTS             ita (Italian)           4565.436                1,509                   861,154,108     5,136,108       
+00006.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           4565.436                192                     109,573,632     713,370         
+00006.M2TS      4354 (0x1102)   0x83            TrueHD          rus (Russian)           4565.436                2,140                   1,221,446,812   9,370,187       
+00006.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           4565.436                1,827                   1,042,448,732   6,369,081       
+00006.M2TS      4608 (0x1200)   0x90            PGS             rus (Russian)           4565.436                35                      19,752,049      113,959         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Niko.2.Lentäjäveljekset.2012.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.5.1-DDN
+Disc Size: 23,363,991,772 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 17,068,720,128 bytes
+Length: 1:16:05.560
+Total Bitrate: 29.91 Mbps
+Video: MPEG-4 AVC Video / 21583 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Russian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+Audio: Russian / Dolby TrueHD Audio / 5.1 / 48 kHz /  1500 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1827 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Russian / 34.611 kbps
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:16:05 17,068,720,128  23,363,991,772  29.91   21.58   DTS 5.1 1509Kbps (48kHz/24-bit)           
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Niko.2.Lentäjäveljekset.2012.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.5.1-DDN
+Disc Size:      23,363,991,772 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:16:05.560 (h:m:s.ms)
+Size:                   17,068,720,128 bytes
+Total Bitrate:          29.91 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21583 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+Dolby Digital Audio             Russian         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+Dolby TrueHD Audio              Russian         2140 kbps       5.1 / 48 kHz /  1500 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+DTS-HD Master Audio             English         1827 kbps       5.1 / 48 kHz /  1827 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Russian         34.611 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     1:16:05.560     17,068,720,128  29,909          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:57.313     21,205 kbps     39,942 kbps     00:00:29.320    33,435 kbps     00:00:25.900    27,861 kbps     00:00:24.774    110,540 bytes   519,622 bytes   00:00:29.738    
+2               0:05:57.313     0:10:21.955     21,951 kbps     31,206 kbps     00:12:41.927    27,439 kbps     00:15:19.627    27,030 kbps     00:15:28.093    114,445 bytes   527,096 bytes   00:12:42.011    
+3               0:16:19.269     0:07:35.873     21,856 kbps     30,794 kbps     00:23:09.805    27,046 kbps     00:23:08.804    25,431 kbps     00:23:08.804    113,946 bytes   861,853 bytes   00:23:08.845    
+4               0:23:55.142     0:07:54.722     21,812 kbps     34,758 kbps     00:27:52.837    27,067 kbps     00:29:43.072    26,639 kbps     00:29:39.819    113,716 bytes   915,546 bytes   00:27:53.755    
+5               0:31:49.864     0:08:48.444     21,733 kbps     32,665 kbps     00:37:25.826    28,613 kbps     00:34:32.445    26,055 kbps     00:33:49.527    113,305 bytes   713,467 bytes   00:39:23.569    
+6               0:40:38.309     0:06:35.436     21,430 kbps     36,664 kbps     00:45:06.829    28,531 kbps     00:45:03.450    24,508 kbps     00:44:01.555    111,724 bytes   685,346 bytes   00:42:36.887    
+7               0:47:13.746     0:06:50.618     21,318 kbps     40,975 kbps     00:49:46.316    30,110 kbps     00:49:42.437    26,898 kbps     00:49:39.559    111,141 bytes   943,233 bytes   00:48:56.850    
+8               0:54:04.364     0:04:28.769     21,994 kbps     33,164 kbps     00:58:00.268    27,192 kbps     00:56:44.818    25,630 kbps     00:56:40.897    114,669 bytes   507,324 bytes   00:57:57.807    
+9               0:58:33.134     0:06:31.015     22,349 kbps     33,142 kbps     00:58:59.911    26,481 kbps     01:00:02.974    25,418 kbps     01:00:07.437    116,517 bytes   749,220 bytes   00:58:59.953    
+10              1:05:04.150     0:02:58.011     21,901 kbps     30,444 kbps     01:07:46.103    26,094 kbps     01:06:26.065    24,252 kbps     01:07:18.117    114,180 bytes   509,937 bytes   01:07:46.145    
+11              1:08:02.161     0:02:51.211     20,688 kbps     36,143 kbps     01:10:09.747    25,856 kbps     01:09:53.188    23,980 kbps     01:09:41.093    107,855 bytes   662,243 bytes   01:10:09.788    
+12              1:10:53.372     0:05:12.187     19,817 kbps     34,398 kbps     01:14:53.989    31,722 kbps     01:14:50.652    30,229 kbps     01:14:50.903    103,332 bytes   421,286 bytes   01:15:02.623    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     4565.436                21,583                  12,317,157,613  67,004,990      
+00006.M2TS      4352 (0x1100)   0x82            DTS             ita (Italian)           4565.436                1,509                   861,154,108     5,136,108       
+00006.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           4565.436                192                     109,573,632     713,370         
+00006.M2TS      4354 (0x1102)   0x83            TrueHD          rus (Russian)           4565.436                2,140                   1,221,446,812   9,370,187       
+00006.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           4565.436                1,827                   1,042,448,732   6,369,081       
+00006.M2TS      4608 (0x1200)   0x90            PGS             rus (Russian)           4565.436                35                      19,752,049      113,959         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Niko.2.Lentäjäveljekset.2012.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.5.1-DDN
+Disc Size: 23,363,991,772 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 17,068,720,128 bytes
+Length: 1:16:05.560
+Total Bitrate: 29.91 Mbps
+Video: MPEG-4 AVC Video / 21583 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Russian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+Audio: Russian / Dolby TrueHD Audio / 5.1 / 48 kHz /  1500 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1827 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Russian / 34.611 kbps
+

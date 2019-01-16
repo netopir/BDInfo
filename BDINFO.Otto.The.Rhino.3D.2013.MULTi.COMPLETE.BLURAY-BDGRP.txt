@@ -1,0 +1,120 @@
+Disc Title:     Otto Is A Rhino
+Disc Label:     Otto.The.Rhino.3D.2013.MULTi.COMPLETE.BLURAY-BDGRP
+Disc Size:      24,620,269,409 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:16:35 17,299,335,168  24,620,269,409  30.11   17.38   DTS-HD Master 5.1 3801Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Otto Is A Rhino
+Disc Label:     Otto.The.Rhino.3D.2013.MULTi.COMPLETE.BLURAY-BDGRP
+Disc Size:      24,620,269,409 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:16:35.799 (h:m:s.ms)
+Size:                   17,299,335,168 bytes
+Total Bitrate:          30.11 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        17376 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3801 kbps       5.1 / 48 kHz /  3801 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 24-bit)
+DTS-HD Master Audio             French          3503 kbps       5.1 / 48 kHz /  3503 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 24-bit)
+DTS-HD Master Audio             German          3611 kbps       5.1 / 48 kHz /  3611 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         66.461 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:16:35.799     17,299,335,168  30,113          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:21.172     17,063 kbps     33,777 kbps     00:00:01.543    27,282 kbps     00:00:01.376    24,367 kbps     00:00:01.209    88,947 bytes    948,410 bytes   00:02:33.736    
+2               0:06:21.172     0:06:36.479     17,678 kbps     30,800 kbps     00:08:04.483    23,916 kbps     00:08:00.980    21,917 kbps     00:06:52.787    92,163 bytes    864,596 bytes   00:10:24.373    
+3               0:12:57.651     0:05:26.659     17,360 kbps     33,381 kbps     00:17:20.706    23,441 kbps     00:15:04.570    22,670 kbps     00:15:00.232    90,509 bytes    939,774 bytes   00:14:50.347    
+4               0:18:24.311     0:07:24.902     17,160 kbps     29,872 kbps     00:22:44.529    23,077 kbps     00:19:55.319    21,182 kbps     00:19:53.317    89,464 bytes    962,810 bytes   00:24:11.908    
+5               0:25:49.214     0:06:00.985     17,272 kbps     34,524 kbps     00:30:10.808    24,031 kbps     00:29:29.434    22,073 kbps     00:27:18.845    90,050 bytes    863,298 bytes   00:25:58.139    
+6               0:31:50.199     0:05:19.819     16,520 kbps     32,071 kbps     00:33:20.289    23,652 kbps     00:32:30.323    21,808 kbps     00:32:26.945    86,125 bytes    804,151 bytes   00:36:49.999    
+7               0:37:10.019     0:05:51.726     17,023 kbps     30,550 kbps     00:40:45.526    22,229 kbps     00:41:30.696    21,710 kbps     00:37:20.613    88,748 bytes    902,309 bytes   00:39:31.285    
+8               0:43:01.745     0:06:29.931     17,782 kbps     30,200 kbps     00:48:31.825    23,314 kbps     00:48:54.264    21,732 kbps     00:48:48.258    92,710 bytes    969,654 bytes   00:47:37.062    
+9               0:49:31.677     0:06:50.368     17,237 kbps     31,976 kbps     00:53:31.166    22,987 kbps     00:53:27.329    21,375 kbps     00:53:23.325    89,868 bytes    940,227 bytes   00:53:29.497    
+10              0:56:22.045     0:05:28.077     17,321 kbps     34,022 kbps     00:59:48.584    24,649 kbps     01:00:43.973    22,730 kbps     01:00:44.807    90,303 bytes    967,681 bytes   00:56:52.242    
+11              1:01:50.123     0:07:13.933     17,223 kbps     29,091 kbps     01:04:24.569    23,748 kbps     01:04:46.757    21,579 kbps     01:07:51.650    89,792 bytes    817,093 bytes   01:06:28.025    
+12              1:09:04.056     0:07:31.742     18,530 kbps     29,494 kbps     01:16:32.462    23,902 kbps     01:09:39.174    22,788 kbps     01:09:35.170    96,616 bytes    980,115 bytes   01:13:24.191    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     4595.633                17,377                  9,982,279,914   54,315,376      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4595.633                3,801                   2,183,514,856   12,310,969      
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       fra (French)            4595.633                3,503                   2,012,516,292   11,382,857      
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       deu (German)            4595.633                3,612                   2,074,651,340   11,719,761      
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4595.633                66                      38,180,381      217,757         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Otto Is A Rhino
+Disc Label: Otto.The.Rhino.3D.2013.MULTi.COMPLETE.BLURAY-BDGRP
+Disc Size: 24,620,269,409 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 17,299,335,168 bytes
+Length: 1:16:35.799
+Total Bitrate: 30.11 Mbps
+Video: MPEG-4 AVC Video / 17376 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3801 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 24-bit)
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  3503 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3611 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 24-bit)
+Subtitle: English / 66.461 kbps
+

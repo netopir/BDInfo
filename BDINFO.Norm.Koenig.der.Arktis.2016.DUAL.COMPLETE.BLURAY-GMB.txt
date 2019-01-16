@@ -1,0 +1,211 @@
+Disc Title:     Norm of the North
+Disc Label:     Norm.Koenig.der.Arktis.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      24,203,394,299 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00009.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00009.MPLS                                                      AVC     1:27:05 22,409,739,648  24,203,394,299  34.31   23.98   DTS-HD Master 5.1 4117Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Norm of the North
+Disc Label:     Norm.Koenig.der.Arktis.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      24,203,394,299 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00009.MPLS
+Length:                 1:27:05.960 (h:m:s.ms)
+Size:                   22,409,739,648 bytes
+Total Bitrate:          34.31 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23977 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4117 kbps       5.1 / 48 kHz /  4117 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             German          4200 kbps       5.1 / 48 kHz /  4200 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          32.718 kbps                     
+Presentation Graphics           German          0.219 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     1:27:05.960     22,409,739,648  34,305          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:27:05.960     23,977 kbps     53,807 kbps     01:18:17.040    39,296 kbps     01:14:11.840    36,578 kbps     00:21:51.200    119,888 bytes   896,807 bytes   00:01:33.600    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x1B            AVC                                     5225.880                23,978                  15,662,947,086  85,202,006      
+00009.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5225.880                4,118                   2,689,709,687   15,432,505      
+00009.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5225.880                4,201                   2,743,933,960   15,727,647      
+00009.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5225.880                33                      21,372,938      122,161         
+00009.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5225.880                0                       142,946         831             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Norm of the North
+Disc Label: Norm.Koenig.der.Arktis.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size: 24,203,394,299 bytes
+Protection: AACS
+Playlist: 00009.MPLS
+Size: 22,409,739,648 bytes
+Length: 1:27:05.960
+Total Bitrate: 34.31 Mbps
+Video: MPEG-4 AVC Video / 23977 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4117 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4200 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 32.718 kbps
+Subtitle: German / 0.219 kbps
+
+
+********************
+PLAYLIST: 01010.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01010.MPLS                                                      AVC     1:27:05 22,409,739,648  24,203,394,299  34.31   23.98   DTS-HD Master 5.1 4117Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Norm of the North
+Disc Label:     Norm.Koenig.der.Arktis.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      24,203,394,299 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01010.MPLS
+Length:                 1:27:05.960 (h:m:s.ms)
+Size:                   22,409,739,648 bytes
+Total Bitrate:          34.31 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23977 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4117 kbps       5.1 / 48 kHz /  4117 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             German          4200 kbps       5.1 / 48 kHz /  4200 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          32.718 kbps                     
+Presentation Graphics           German          0.219 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     1:27:05.960     22,409,739,648  34,305          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:38.200     24,957 kbps     46,703 kbps     00:01:54.120    35,834 kbps     00:00:37.120    33,692 kbps     00:00:36.640    124,774 bytes   896,807 bytes   00:01:33.600    
+2               0:06:38.200     0:13:21.640     24,968 kbps     47,421 kbps     00:18:47.560    38,697 kbps     00:18:43.560    35,724 kbps     00:18:38.680    124,840 bytes   872,465 bytes   00:19:35.160    
+3               0:19:59.840     0:13:22.720     24,736 kbps     49,298 kbps     00:20:48.160    37,727 kbps     00:21:55.840    36,578 kbps     00:21:51.200    123,681 bytes   889,177 bytes   00:27:44.560    
+4               0:33:22.560     0:11:13.359     24,875 kbps     48,272 kbps     00:43:02.840    37,710 kbps     00:33:42.960    33,144 kbps     00:34:41.160    124,376 bytes   891,741 bytes   00:38:52.920    
+5               0:44:35.920     0:13:58.040     24,974 kbps     50,361 kbps     00:48:00.480    37,037 kbps     00:53:52.320    35,073 kbps     00:50:45.080    124,868 bytes   884,504 bytes   00:52:44.240    
+6               0:58:33.960     0:13:06.199     25,370 kbps     49,806 kbps     01:07:26.120    38,842 kbps     01:07:41.000    34,753 kbps     01:07:40.480    126,849 bytes   894,502 bytes   00:58:34.680    
+7               1:11:40.160     0:09:57.880     24,953 kbps     53,807 kbps     01:18:17.040    39,296 kbps     01:14:11.840    36,468 kbps     01:12:39.200    124,766 bytes   889,630 bytes   01:18:17.120    
+8               1:21:38.040     0:05:25.960     9,046 kbps      45,171 kbps     01:21:39.320    33,515 kbps     01:21:39.320    31,318 kbps     01:21:39.320    45,229 bytes    836,926 bytes   01:21:39.360    
+9               1:27:04.000     0:00:01.960     890 kbps        1,518 kbps      01:27:04.160    0 kbps          00:00:00.000    0 kbps          00:00:00.000    4,743 bytes     46,266 bytes    01:27:04.200    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x1B            AVC                                     5225.880                23,978                  15,662,947,086  85,202,006      
+00009.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5225.880                4,118                   2,689,709,687   15,432,505      
+00009.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5225.880                4,201                   2,743,933,960   15,727,647      
+00009.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5225.880                33                      21,372,938      122,161         
+00009.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5225.880                0                       142,946         831             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Norm of the North
+Disc Label: Norm.Koenig.der.Arktis.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size: 24,203,394,299 bytes
+Protection: AACS
+Playlist: 01010.MPLS
+Size: 22,409,739,648 bytes
+Length: 1:27:05.960
+Total Bitrate: 34.31 Mbps
+Video: MPEG-4 AVC Video / 23977 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4117 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4200 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 32.718 kbps
+Subtitle: German / 0.219 kbps
+

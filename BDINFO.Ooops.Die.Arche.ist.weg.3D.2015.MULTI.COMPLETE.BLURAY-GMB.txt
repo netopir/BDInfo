@@ -1,0 +1,229 @@
+Disc Title:     Ooops! Die Arche ist weg...
+Disc Label:     Ooops.Die.Arche.ist.weg.3D.2015.MULTI.COMPLETE.BLURAY-GMB
+Disc Size:      48,866,423,137 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:26:54 18,553,479,168  48,866,423,137  28.47   17.98   DTS-HD Master 5.1 4188Kbps (48kHz/24-bit) DTS 2.0 320Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ooops! Die Arche ist weg...
+Disc Label:     Ooops.Die.Arche.ist.weg.3D.2015.MULTI.COMPLETE.BLURAY-GMB
+Disc Size:      48,866,423,137 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:26:54.292 (h:m:s.ms)
+Size:                   18,553,479,168 bytes
+Total Bitrate:          28.47 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        17984 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4188 kbps       5.1 / 48 kHz /  4188 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4128 kbps       5.1 / 48 kHz /  4128 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          36.753 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:26:42.322     18,529,247,232  28,494          
+00051.M2TS      1:26:42.322     0:00:11.970     24,231,936      16,195          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:25.184     19,781 kbps     35,401 kbps     00:01:08.193    33,245 kbps     00:01:05.857    30,743 kbps     00:03:29.334    103,124 bytes   575,246 bytes   00:05:00.133    
+2               0:11:25.184     0:12:49.560     21,318 kbps     35,741 kbps     00:22:39.441    33,346 kbps     00:20:43.408    32,508 kbps     00:21:20.362    111,140 bytes   459,961 bytes   00:18:42.162    
+3               0:24:14.744     0:11:45.413     19,288 kbps     34,953 kbps     00:33:15.910    32,164 kbps     00:32:51.386    30,029 kbps     00:32:26.110    100,557 bytes   476,913 bytes   00:30:59.440    
+4               0:36:00.158     0:13:47.910     17,259 kbps     31,751 kbps     00:47:43.652    28,891 kbps     00:36:31.898    26,851 kbps     00:36:27.935    89,983 bytes    475,350 bytes   00:38:27.680    
+5               0:49:48.068     0:09:14.136     15,512 kbps     31,632 kbps     00:49:51.655    28,577 kbps     00:49:48.276    22,534 kbps     00:58:08.067    80,874 bytes    419,730 bytes   00:49:52.656    
+6               0:59:02.205     0:06:08.451     17,465 kbps     32,196 kbps     01:00:35.631    27,022 kbps     01:04:57.143    25,228 kbps     01:04:54.181    91,056 bytes    391,035 bytes   01:04:29.532    
+7               1:05:10.656     0:15:16.498     19,356 kbps     36,871 kbps     01:06:12.718    33,620 kbps     01:06:11.550    32,631 kbps     01:06:10.716    100,911 bytes   401,593 bytes   01:20:06.885    
+8               1:20:27.155     0:06:27.136     8,134 kbps      31,339 kbps     01:21:03.608    23,102 kbps     01:20:43.004    22,497 kbps     01:21:16.454    42,411 bytes    384,115 bytes   01:20:41.378    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5202.155                18,000                  11,704,536,797  63,684,314      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5202.155                4,194                   2,727,385,412   15,624,904      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5202.155                4,134                   2,688,027,584   15,421,485      
+00021.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            5202.155                318                     206,792,432     1,463,154       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5202.155                37                      23,955,296      138,332         
+00051.M2TS      4113 (0x1011)   0x1B            AVC                                     11.803                  11,602                  17,118,550      93,186          
+00051.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            11.803                  1,598                   2,358,300       14,599          
+00051.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           11.803                  1,598                   2,358,300       14,599          
+00051.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            11.803                  323                     476,152         3,369           
+00051.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            11.803                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ooops! Die Arche ist weg...
+Disc Label: Ooops.Die.Arche.ist.weg.3D.2015.MULTI.COMPLETE.BLURAY-GMB
+Disc Size: 48,866,423,137 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 18,553,479,168 bytes
+Length: 1:26:54.292
+Total Bitrate: 28.47 Mbps
+Video: MPEG-4 AVC Video / 17984 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4188 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4128 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit
+Subtitle: German / 36.753 kbps
+
+
+********************
+PLAYLIST: 00022.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      AVC     1:26:54 19,686,383,616  48,866,423,137  30.20   19.65   DTS-HD Master 5.1 4188Kbps (48kHz/24-bit) DTS 2.0 320Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ooops! Die Arche ist weg...
+Disc Label:     Ooops.Die.Arche.ist.weg.3D.2015.MULTI.COMPLETE.BLURAY-GMB
+Disc Size:      48,866,423,137 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS
+Length:                 1:26:54.292 (h:m:s.ms)
+Size:                   19,686,383,616 bytes
+Total Bitrate:          30.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19649 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4188 kbps       5.1 / 48 kHz /  4188 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4128 kbps       5.1 / 48 kHz /  4128 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          36.751 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     1:26:42.322     19,661,592,576  30,235          
+00052.M2TS      1:26:42.322     0:00:11.970     24,791,040      16,568          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:25.184     19,637 kbps     42,429 kbps     00:00:26.818    27,603 kbps     00:03:28.041    25,692 kbps     00:00:26.818    102,375 bytes   551,122 bytes   00:05:00.425    
+2               0:11:25.184     0:12:49.560     20,602 kbps     32,491 kbps     00:22:38.648    27,367 kbps     00:21:13.522    26,035 kbps     00:21:11.270    107,407 bytes   456,829 bytes   00:22:55.207    
+3               0:24:14.744     0:11:45.413     20,007 kbps     36,010 kbps     00:24:42.022    26,232 kbps     00:31:52.827    24,714 kbps     00:31:52.702    104,307 bytes   501,458 bytes   00:28:40.593    
+4               0:36:00.158     0:13:47.910     19,896 kbps     34,259 kbps     00:38:41.027    25,563 kbps     00:45:50.289    23,884 kbps     00:45:48.537    103,727 bytes   506,852 bytes   00:38:26.762    
+5               0:49:48.068     0:09:14.136     19,557 kbps     30,729 kbps     00:49:50.362    28,537 kbps     00:49:48.235    23,804 kbps     00:55:30.035    101,959 bytes   413,541 bytes   00:49:53.031    
+6               0:59:02.205     0:06:08.451     20,238 kbps     29,603 kbps     01:02:02.301    25,038 kbps     01:01:59.507    23,974 kbps     01:01:53.292    105,510 bytes   387,303 bytes   01:03:08.993    
+7               1:05:10.656     0:15:16.498     19,489 kbps     30,780 kbps     01:18:47.931    24,136 kbps     01:19:53.413    22,351 kbps     01:19:49.910    101,609 bytes   387,537 bytes   01:11:49.221    
+8               1:20:27.155     0:06:27.136     16,552 kbps     36,669 kbps     01:21:08.738    28,176 kbps     01:25:37.048    26,843 kbps     01:25:37.006    86,302 bytes    484,320 bytes   01:26:51.664    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x1B            AVC                                     5202.239                19,668                  12,789,574,140  69,581,959      
+00022.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5202.239                4,194                   2,727,385,412   15,624,904      
+00022.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5202.239                4,134                   2,688,027,584   15,421,485      
+00022.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            5202.239                318                     206,792,432     1,463,154       
+00022.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5202.239                37                      23,953,607      138,322         
+00052.M2TS      4113 (0x1011)   0x1B            AVC                                     11.887                  11,880                  17,651,623      96,113          
+00052.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            11.887                  1,587                   2,358,300       14,599          
+00052.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           11.887                  1,587                   2,358,300       14,599          
+00052.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            11.887                  320                     476,152         3,369           
+00052.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            11.887                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ooops! Die Arche ist weg...
+Disc Label: Ooops.Die.Arche.ist.weg.3D.2015.MULTI.COMPLETE.BLURAY-GMB
+Disc Size: 48,866,423,137 bytes
+Protection: AACS
+Playlist: 00022.MPLS
+Size: 19,686,383,616 bytes
+Length: 1:26:54.292
+Total Bitrate: 30.20 Mbps
+Video: MPEG-4 AVC Video / 19649 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4188 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4128 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit
+Subtitle: German / 36.751 kbps
+
