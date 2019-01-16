@@ -1,0 +1,114 @@
+Disc Label:     Khumba.2013.1080p.3D.Blu-ray.AVC.TrueHD.5.1
+Disc Size:      28,755,932,279 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:25:31 18,625,579,008  28,755,932,279  29.04   19.62   DTS-HD Master 5.1 3889Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Khumba.2013.1080p.3D.Blu-ray.AVC.TrueHD.5.1
+Disc Size:      28,755,932,279 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:25:31.042 (h:m:s.ms)
+Size:                   18,625,579,008 bytes
+Total Bitrate:          29.04 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19621 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         3889 kbps       5.1 / 48 kHz /  3889 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3753 kbps       5.1 / 48 kHz /  3753 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         35.275 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:25:30.208     18,625,560,576  29,045          
+00011.M2TS      1:25:30.208     0:00:00.834     18,432          177             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:22.997     21,248 kbps     39,622 kbps     00:00:23.773    33,375 kbps     00:00:22.897    31,239 kbps     00:00:22.897    110,768 bytes   983,075 bytes   00:09:23.646    
+2               0:10:22.997     0:09:27.108     21,784 kbps     40,407 kbps     00:18:02.664    32,940 kbps     00:18:00.662    30,378 kbps     00:16:45.587    113,571 bytes   979,758 bytes   00:11:07.416    
+3               0:19:50.105     0:13:58.045     18,941 kbps     41,954 kbps     00:28:09.604    33,556 kbps     00:31:25.633    31,661 kbps     00:31:25.633    98,748 bytes    983,753 bytes   00:32:28.905    
+4               0:33:48.151     0:12:04.640     20,223 kbps     39,801 kbps     00:35:04.143    34,202 kbps     00:41:01.750    28,938 kbps     00:36:57.131    105,431 bytes   953,698 bytes   00:41:55.846    
+5               0:45:52.791     0:09:32.488     18,899 kbps     38,476 kbps     00:49:23.543    30,842 kbps     00:49:27.047    29,556 kbps     00:49:23.001    98,533 bytes    972,767 bytes   00:50:05.919    
+6               0:55:25.280     0:11:08.834     18,676 kbps     40,473 kbps     00:56:48.404    33,768 kbps     01:00:45.350    31,375 kbps     00:56:44.692    97,369 bytes    977,688 bytes   01:04:59.228    
+7               1:06:34.115     0:11:01.118     21,936 kbps     40,364 kbps     01:10:13.000    34,837 kbps     01:07:14.905    29,161 kbps     01:16:52.024    114,363 bytes   931,778 bytes   01:07:00.307    
+8               1:17:35.233     0:07:55.808     14,176 kbps     37,666 kbps     01:18:22.823    31,298 kbps     01:18:18.819    28,476 kbps     01:18:13.814    73,911 bytes    980,826 bytes   01:18:14.689    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5130.083                19,625                  12,584,505,676  68,466,021      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5130.083                3,890                   2,494,295,252   14,355,918      
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5130.083                3,754                   2,407,224,028   13,882,960      
+00000.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5130.083                35                      22,624,575      131,463         
+00011.M2TS      4113 (0x1011)   0x1B            AVC                                     0.751                   91                      8,557           52              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Khumba.2013.1080p.3D.Blu-ray.AVC.TrueHD.5.1
+Disc Size: 28,755,932,279 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 18,625,579,008 bytes
+Length: 1:25:31.042
+Total Bitrate: 29.04 Mbps
+Video: MPEG-4 AVC Video / 19621 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  3889 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3753 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 35.275 kbps
+

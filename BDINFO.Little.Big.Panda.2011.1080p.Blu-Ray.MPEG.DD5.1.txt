@@ -1,0 +1,100 @@
+Disc Label:     Little.Big.Panda.2011.1080p.Blu-Ray.MPEG.DD5.1
+Disc Size:      19,342,576,432 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      MPEG-2  1:27:25 19,093,147,200  19,342,576,432  29.12   27.14   DD AC3 5.1 640Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Little.Big.Panda.2011.1080p.Blu-Ray.MPEG.DD5.1
+Disc Size:      19,342,576,432 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:27:25.791 (h:m:s.ms)
+Size:                   19,093,147,200 bytes
+Total Bitrate:          29.12 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            27144 kbps          1080p / 24 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:27:25.791     19,093,147,200  29,117          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:02.333     26,661 kbps     33,796 kbps     00:00:37.624    29,073 kbps     00:00:35.916    27,960 kbps     00:00:35.499    138,769 bytes   636,624 bytes   00:00:08.041    
+2               0:01:02.333     0:07:47.583     27,712 kbps     35,083 kbps     00:05:07.333    31,083 kbps     00:06:24.166    30,453 kbps     00:06:24.249    144,335 bytes   782,891 bytes   00:02:58.041    
+3               0:08:49.916     0:10:19.750     27,648 kbps     35,906 kbps     00:14:37.875    30,698 kbps     00:18:31.125    30,230 kbps     00:18:24.875    143,999 bytes   925,079 bytes   00:10:08.916    
+4               0:19:09.666     0:12:03.583     27,793 kbps     35,831 kbps     00:27:01.124    30,631 kbps     00:26:57.125    29,957 kbps     00:19:17.875    144,753 bytes   903,329 bytes   00:20:06.791    
+5               0:31:13.250     0:11:12.875     27,941 kbps     35,832 kbps     00:31:55.791    31,016 kbps     00:40:42.875    30,395 kbps     00:40:01.125    145,528 bytes   927,413 bytes   00:33:48.041    
+6               0:42:26.125     0:11:27.833     27,846 kbps     36,099 kbps     00:48:28.000    30,409 kbps     00:52:39.750    30,065 kbps     00:53:30.500    145,032 bytes   932,469 bytes   00:48:19.166    
+7               0:53:53.958     0:12:15.874     27,569 kbps     35,976 kbps     00:55:14.125    30,678 kbps     00:54:54.083    30,175 kbps     00:55:13.750    143,589 bytes   937,022 bytes   01:01:06.666    
+8               1:06:09.833     0:10:22.541     27,718 kbps     36,206 kbps     01:12:42.125    30,853 kbps     01:09:45.583    30,246 kbps     01:09:17.750    144,364 bytes   887,721 bytes   01:12:37.416    
+9               1:16:32.375     0:10:53.416     23,006 kbps     36,017 kbps     01:20:54.625    30,549 kbps     01:17:28.500    30,104 kbps     01:17:27.750    119,825 bytes   903,258 bytes   01:21:54.541    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x02            MPEG-2                                  5245.750                27,145                  17,799,367,985  96,809,095      
+00004.M2TS      4352 (0x1100)   0x81            AC3             rus (Russian)           5245.750                640                     419,663,360     2,458,965       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Little.Big.Panda.2011.1080p.Blu-Ray.MPEG.DD5.1
+Disc Size: 19,342,576,432 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 19,093,147,200 bytes
+Length: 1:27:25.791
+Total Bitrate: 29.12 Mbps
+Video: MPEG-2 Video / 27144 kbps / 1080p / 24 fps / 16:9
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+

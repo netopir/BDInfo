@@ -1,0 +1,108 @@
+Disc Title:     Luis und die Aliens
+Disc Label:     Luis.und.die.Aliens.2018.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size:      23,285,202,342 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:25:14 20,820,092,928  23,285,202,342  32.56   22.98   DTS-HD Master 5.1 3843Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Luis und die Aliens
+Disc Label:     Luis.und.die.Aliens.2018.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size:      23,285,202,342 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:25:14.916 (h:m:s.ms)
+Size:                   20,820,092,928 bytes
+Total Bitrate:          32.56 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22982 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3843 kbps       5.1 / 48 kHz /  3843 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -8dB)
+DTS-HD Master Audio             English         3853 kbps       5.1 / 48 kHz /  3853 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -6dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:25:14.916     20,820,092,928  32,564          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:02.541     22,875 kbps     37,656 kbps     00:03:50.541    35,627 kbps     00:03:49.083    32,886 kbps     00:03:44.625    119,131 bytes   507,806 bytes   00:10:59.791    
+2               0:11:02.541     0:08:52.125     26,933 kbps     37,767 kbps     00:14:24.833    36,258 kbps     00:14:24.041    34,285 kbps     00:14:22.416    140,274 bytes   476,205 bytes   00:14:04.666    
+3               0:19:54.666     0:09:17.125     23,699 kbps     37,928 kbps     00:21:31.208    33,105 kbps     00:25:35.791    32,653 kbps     00:25:34.625    123,432 bytes   506,333 bytes   00:21:32.875    
+4               0:29:11.791     0:10:18.541     25,510 kbps     35,388 kbps     00:30:42.958    31,285 kbps     00:37:27.500    29,285 kbps     00:38:33.750    132,865 bytes   530,699 bytes   00:30:44.000    
+5               0:39:30.333     0:08:18.750     25,376 kbps     36,891 kbps     00:46:46.291    32,544 kbps     00:46:20.041    31,441 kbps     00:46:15.916    132,169 bytes   472,520 bytes   00:46:45.333    
+6               0:47:49.083     0:08:09.333     26,043 kbps     38,097 kbps     00:55:49.541    34,538 kbps     00:50:35.000    33,186 kbps     00:50:30.875    135,643 bytes   560,478 bytes   00:54:47.291    
+7               0:55:58.416     0:09:03.583     22,650 kbps     36,639 kbps     01:04:08.791    32,211 kbps     01:02:36.583    29,938 kbps     01:02:36.500    117,969 bytes   442,693 bytes   01:01:45.000    
+8               1:05:02.000     0:11:38.625     19,454 kbps     33,948 kbps     01:07:06.875    29,892 kbps     01:05:52.041    28,357 kbps     01:07:00.000    101,321 bytes   447,895 bytes   01:06:18.000    
+9               1:16:40.625     0:08:34.291     15,121 kbps     38,348 kbps     01:19:49.750    35,883 kbps     01:19:50.125    34,715 kbps     01:19:52.250    78,764 bytes    517,794 bytes   01:19:50.791    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5114.750                22,982                  14,693,675,515  79,928,533      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5114.750                3,843                   2,457,079,984   14,149,798      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5114.750                3,853                   2,463,662,932   14,188,271      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Luis und die Aliens
+Disc Label: Luis.und.die.Aliens.2018.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size: 23,285,202,342 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 20,820,092,928 bytes
+Length: 1:25:14.916
+Total Bitrate: 32.56 Mbps
+Video: MPEG-4 AVC Video / 22982 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3843 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -8dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3853 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -6dB)
+

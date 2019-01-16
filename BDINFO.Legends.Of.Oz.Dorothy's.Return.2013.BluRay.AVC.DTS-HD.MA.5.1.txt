@@ -1,0 +1,109 @@
+Disc Title:     Legends Of Oz
+Disc Label:     Legends.Of.Oz.Dorothy's.Return.2013.BluRay.AVC.DTS-HD.MA.5.1
+Disc Size:      25,014,784,997 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:31:57 16,298,256,384  25,014,784,997  23.63   20.00   DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Legends Of Oz
+Disc Label:     Legends.Of.Oz.Dorothy's.Return.2013.BluRay.AVC.DTS-HD.MA.5.1
+Disc Size:      25,014,784,997 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:31:57.345 (h:m:s.ms)
+Size:                   16,298,256,384 bytes
+Total Bitrate:          23.63 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Russian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+DTS-HD Master Audio             English         1976 kbps       5.1 / 48 kHz /  1976 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:31:57.345     16,298,256,384  23,632          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:24.175     19,013 kbps     36,765 kbps     00:00:42.292    30,398 kbps     00:00:03.670    28,072 kbps     00:04:25.848    99,113 bytes    953,052 bytes   00:05:40.423    
+2               0:06:24.175     0:07:54.849     20,370 kbps     30,206 kbps     00:08:19.916    25,999 kbps     00:11:03.287    24,067 kbps     00:12:28.247    106,199 bytes   929,881 bytes   00:08:17.747    
+3               0:14:19.024     0:07:53.764     20,345 kbps     30,504 kbps     00:17:52.863    25,846 kbps     00:17:16.660    25,039 kbps     00:17:15.868    106,070 bytes   847,881 bytes   00:17:45.272    
+4               0:22:12.789     0:07:37.331     20,204 kbps     28,152 kbps     00:22:23.675    25,295 kbps     00:28:24.619    23,662 kbps     00:28:41.845    105,336 bytes   753,084 bytes   00:27:17.218    
+5               0:29:50.121     0:07:37.123     20,351 kbps     30,098 kbps     00:37:13.022    25,225 kbps     00:36:31.355    24,326 kbps     00:36:29.312    106,101 bytes   735,798 bytes   00:33:58.411    
+6               0:37:27.245     0:07:49.385     20,103 kbps     31,696 kbps     00:38:33.394    26,832 kbps     00:42:12.196    25,752 kbps     00:42:08.400    104,809 bytes   939,206 bytes   00:41:54.428    
+7               0:45:16.630     0:07:38.708     20,310 kbps     32,183 kbps     00:45:16.964    27,384 kbps     00:45:16.880    24,793 kbps     00:52:13.547    105,887 bytes   980,066 bytes   00:52:17.300    
+8               0:52:55.338     0:07:52.763     19,935 kbps     39,894 kbps     00:56:23.129    25,571 kbps     00:53:48.642    24,240 kbps     00:55:12.058    103,934 bytes   725,553 bytes   00:54:13.375    
+9               1:00:48.102     0:06:56.749     20,372 kbps     32,595 kbps     01:02:37.253    27,146 kbps     01:06:43.374    25,622 kbps     01:06:38.369    106,210 bytes   936,296 bytes   01:02:37.378    
+10              1:07:44.852     0:07:25.111     20,181 kbps     33,684 kbps     01:08:31.273    26,933 kbps     01:08:29.438    25,250 kbps     01:08:24.433    105,213 bytes   795,966 bytes   01:09:59.737    
+11              1:15:09.963     0:07:32.994     19,989 kbps     31,257 kbps     01:21:53.450    24,667 kbps     01:17:43.408    23,570 kbps     01:17:51.625    104,211 bytes   809,869 bytes   01:21:53.575    
+12              1:22:42.958     0:09:14.387     18,908 kbps     48,892 kbps     01:26:27.265    28,697 kbps     01:26:27.056    27,645 kbps     01:26:27.265    98,584 bytes    945,626 bytes   01:30:08.194    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5517.220                20,000                  13,793,180,940  75,040,220      
+00000.M2TS      4352 (0x1100)   0x81            AC3             rus (Russian)           5517.220                448                     308,971,264     1,724,170       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5517.220                1,976                   1,362,601,716   7,937,499       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Legends Of Oz
+Disc Label: Legends.Of.Oz.Dorothy's.Return.2013.BluRay.AVC.DTS-HD.MA.5.1
+Disc Size: 25,014,784,997 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 16,298,256,384 bytes
+Length: 1:31:57.345
+Total Bitrate: 23.63 Mbps
+Video: MPEG-4 AVC Video / 20000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1976 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+

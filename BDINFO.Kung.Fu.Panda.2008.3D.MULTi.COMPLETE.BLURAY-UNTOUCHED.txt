@@ -1,0 +1,147 @@
+Disc Title:     Kung Fu Panda 3D
+Disc Label:     Kung.Fu.Panda.2008.3D.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      38,550,620,204 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00006.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00006.MPLS                                                      AVC     1:31:59 25,741,891,584  38,550,620,204  37.31   24.00   Dolby TrueHD 5.1 3724Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Kung Fu Panda 3D
+Disc Label:     Kung.Fu.Panda.2008.3D.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      38,550,620,204 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00006.MPLS
+Length:                 1:31:59.639 (h:m:s.ms)
+Size:                   25,741,891,584 bytes
+Total Bitrate:          37.31 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3724 kbps       5.1 / 48 kHz /  3084 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Audio             Arabic          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Chinese         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Portuguese      640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Thai            640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     1:31:59.639     25,741,891,584  37,310          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:30.191     23,448 kbps     31,022 kbps     00:01:20.663    29,208 kbps     00:01:43.853    28,123 kbps     00:01:45.271    122,211 bytes   462,583 bytes   00:01:55.824    
+2               0:02:30.191     0:02:45.832     22,698 kbps     30,744 kbps     00:03:52.690    28,652 kbps     00:03:50.021    26,769 kbps     00:03:49.854    118,337 bytes   484,024 bytes   00:03:01.431    
+3               0:05:16.024     0:02:41.828     24,721 kbps     31,256 kbps     00:05:59.942    29,213 kbps     00:07:32.994    28,412 kbps     00:07:28.948    128,886 bytes   536,189 bytes   00:07:41.627    
+4               0:07:57.852     0:02:43.037     24,897 kbps     31,805 kbps     00:09:11.342    29,530 kbps     00:09:44.458    28,968 kbps     00:07:59.687    129,801 bytes   640,302 bytes   00:09:51.048    
+5               0:10:40.890     0:05:57.398     24,659 kbps     32,923 kbps     00:13:20.633    29,557 kbps     00:16:09.677    29,312 kbps     00:16:04.546    128,562 bytes   637,505 bytes   00:11:21.764    
+6               0:16:38.288     0:02:49.169     22,610 kbps     31,212 kbps     00:19:26.456    28,977 kbps     00:16:38.747    28,925 kbps     00:16:38.956    117,880 bytes   434,719 bytes   00:19:27.457    
+7               0:19:27.457     0:03:13.151     21,805 kbps     30,295 kbps     00:19:30.752    26,987 kbps     00:19:29.751    25,527 kbps     00:21:26.410    113,681 bytes   427,634 bytes   00:19:28.333    
+8               0:22:40.609     0:03:38.218     22,934 kbps     32,401 kbps     00:25:58.515    27,390 kbps     00:25:26.691    26,205 kbps     00:22:56.958    119,569 bytes   434,628 bytes   00:23:22.901    
+9               0:26:18.827     0:04:54.002     22,135 kbps     28,868 kbps     00:26:30.797    26,981 kbps     00:30:46.094    25,737 kbps     00:29:47.160    115,402 bytes   465,208 bytes   00:26:49.608    
+10              0:31:12.829     0:04:12.251     25,578 kbps     33,082 kbps     00:32:44.879    29,776 kbps     00:32:40.875    29,163 kbps     00:31:39.230    133,350 bytes   621,275 bytes   00:35:25.081    
+11              0:35:25.081     0:03:09.480     23,781 kbps     31,743 kbps     00:35:54.777    29,303 kbps     00:35:47.061    28,501 kbps     00:35:41.806    123,985 bytes   633,782 bytes   00:35:25.873    
+12              0:38:34.562     0:03:59.155     23,247 kbps     32,684 kbps     00:40:38.269    28,643 kbps     00:40:46.402    27,359 kbps     00:40:45.985    121,201 bytes   507,616 bytes   00:42:33.717    
+13              0:42:33.717     0:03:11.149     25,283 kbps     31,424 kbps     00:44:20.866    29,285 kbps     00:45:25.139    28,923 kbps     00:45:20.134    131,816 bytes   487,132 bytes   00:44:21.617    
+14              0:45:44.867     0:05:43.801     22,852 kbps     30,249 kbps     00:51:04.978    27,502 kbps     00:51:16.531    26,673 kbps     00:51:11.526    119,138 bytes   462,621 bytes   00:46:06.805    
+15              0:51:28.668     0:04:59.340     22,968 kbps     33,726 kbps     00:55:58.938    30,255 kbps     00:55:54.934    28,692 kbps     00:54:57.877    119,747 bytes   622,308 bytes   00:56:01.566    
+16              0:56:28.009     0:02:19.305     24,061 kbps     32,785 kbps     00:56:29.969    28,631 kbps     00:57:31.614    28,007 kbps     00:57:34.701    125,445 bytes   633,341 bytes   00:57:44.711    
+17              0:58:47.315     0:03:17.864     26,016 kbps     31,080 kbps     00:59:00.078    29,465 kbps     00:58:56.074    29,018 kbps     00:59:38.575    135,637 bytes   457,820 bytes   01:01:33.898    
+18              1:02:05.179     0:04:46.661     23,943 kbps     31,731 kbps     01:03:51.452    29,262 kbps     01:02:19.986    28,957 kbps     01:02:15.940    124,830 bytes   549,365 bytes   01:03:39.232    
+19              1:06:51.841     0:03:00.054     23,163 kbps     27,959 kbps     01:06:52.133    25,760 kbps     01:09:33.085    25,004 kbps     01:07:52.735    120,761 bytes   344,136 bytes   01:07:48.939    
+20              1:09:51.896     0:04:12.543     24,774 kbps     32,834 kbps     01:10:00.237    29,359 kbps     01:11:26.031    29,015 kbps     01:11:22.528    129,163 bytes   370,153 bytes   01:11:04.677    
+21              1:14:04.440     0:05:58.983     25,935 kbps     33,567 kbps     01:15:59.638    29,655 kbps     01:19:09.202    29,251 kbps     01:19:10.829    135,213 bytes   632,709 bytes   01:19:13.832    
+22              1:20:03.423     0:03:07.520     25,283 kbps     31,869 kbps     01:21:17.414    29,421 kbps     01:20:54.975    29,074 kbps     01:20:35.497    131,813 bytes   552,334 bytes   01:21:25.714    
+23              1:23:10.944     0:08:48.694     24,283 kbps     34,886 kbps     01:23:26.042    29,187 kbps     01:26:38.860    29,108 kbps     01:26:42.822    126,610 bytes   547,727 bytes   01:31:45.708    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x1B            AVC                                     5519.556                24,000                  16,558,790,013  90,073,064      
+00010.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5519.556                3,724                   2,569,205,452   17,882,388      
+00010.M2TS      4353 (0x1101)   0x81            AC3             ara (Arabic)            5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4356 (0x1104)   0x81            AC3             fra (French)            5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4357 (0x1105)   0x81            AC3             ita (Italian)           5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4358 (0x1106)   0x81            AC3             zho (Chinese)           5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4359 (0x1107)   0x81            AC3             nld (Dutch)             5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4360 (0x1108)   0x81            AC3             por (Portuguese)        5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4361 (0x1109)   0x81            AC3             tha (Thai)              5519.556                640                     441,571,840     2,587,335       
+00010.M2TS      4362 (0x110A)   0x81            AC3             tur (Turkish)           5519.556                640                     441,571,840     2,587,335       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Kung Fu Panda 3D
+Disc Label: Kung.Fu.Panda.2008.3D.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 38,550,620,204 bytes
+Protection: AACS
+Playlist: 00006.MPLS
+Size: 25,741,891,584 bytes
+Length: 1:31:59.639
+Total Bitrate: 37.31 Mbps
+Video: MPEG-4 AVC Video / 24000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  3084 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+

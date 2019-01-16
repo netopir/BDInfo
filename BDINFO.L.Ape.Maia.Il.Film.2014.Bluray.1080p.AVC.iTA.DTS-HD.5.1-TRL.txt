@@ -1,0 +1,216 @@
+Disc Title:     APE MAIA
+Disc Label:     L.Ape.Maia.Il.Film.2014.Bluray.1080p.AVC.iTA.DTS-HD.5.1-TRL
+Disc Size:      16,598,815,141 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:28:41 15,997,255,680  16,598,815,141  24.05   20.18   DTS-HD Master 5.1 2529Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     APE MAIA
+Disc Label:     L.Ape.Maia.Il.Film.2014.Bluray.1080p.AVC.iTA.DTS-HD.5.1-TRL
+Disc Size:      16,598,815,141 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:28:41.041 (h:m:s.ms)
+Size:                   15,997,255,680 bytes
+Total Bitrate:          24.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20180 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2529 kbps       5.1 / 48 kHz /  2529 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         26.254 kbps                     
+Presentation Graphics           Italian         0.003 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:28:41.041     15,997,255,680  24,051          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:28:41.041     20,180 kbps     43,579 kbps     01:22:14.791    31,179 kbps     00:46:19.375    30,043 kbps     01:21:16.874    105,107 bytes   753,598 bytes   00:11:05.500    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5320.958                20,181                  13,422,628,966  73,023,711      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5320.958                2,529                   1,682,282,436   9,955,145       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5320.958                26                      17,462,582      103,714         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5320.958                0                       1,848           17              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: APE MAIA
+Disc Label: L.Ape.Maia.Il.Film.2014.Bluray.1080p.AVC.iTA.DTS-HD.5.1-TRL
+Disc Size: 16,598,815,141 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 15,997,255,680 bytes
+Length: 1:28:41.041
+Total Bitrate: 24.05 Mbps
+Video: MPEG-4 AVC Video / 20180 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2529 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 26.254 kbps
+Subtitle: Italian / 0.003 kbps
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:28:41 15,997,255,680  16,598,815,141  24.05   20.18   DTS-HD Master 5.1 2529Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     APE MAIA
+Disc Label:     L.Ape.Maia.Il.Film.2014.Bluray.1080p.AVC.iTA.DTS-HD.5.1-TRL
+Disc Size:      16,598,815,141 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:28:41.041 (h:m:s.ms)
+Size:                   15,997,255,680 bytes
+Total Bitrate:          24.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20180 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2529 kbps       5.1 / 48 kHz /  2529 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         26.254 kbps                     
+Presentation Graphics           Italian         0.003 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:28:41.041     15,997,255,680  24,051          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:04.875     12,515 kbps     29,461 kbps     00:00:47.166    26,920 kbps     00:00:46.208    25,019 kbps     00:00:41.958    65,161 bytes    300,630 bytes   00:02:01.583    
+2               0:02:04.875     0:04:01.833     20,134 kbps     37,113 kbps     00:04:56.458    29,556 kbps     00:04:53.916    27,546 kbps     00:04:15.458    104,863 bytes   421,424 bytes   00:04:57.166    
+3               0:06:06.708     0:04:05.541     20,843 kbps     41,003 kbps     00:08:05.166    30,517 kbps     00:08:21.458    28,787 kbps     00:08:18.166    108,559 bytes   672,592 bytes   00:08:05.208    
+4               0:10:12.250     0:04:05.875     20,973 kbps     41,830 kbps     00:11:03.541    30,125 kbps     00:10:47.875    29,049 kbps     00:10:44.041    109,234 bytes   753,598 bytes   00:11:05.500    
+5               0:14:18.125     0:05:18.375     20,772 kbps     36,473 kbps     00:16:47.833    30,808 kbps     00:17:03.375    29,824 kbps     00:17:00.458    108,187 bytes   568,766 bytes   00:16:19.125    
+6               0:19:36.500     0:03:48.375     18,690 kbps     37,541 kbps     00:20:53.749    30,213 kbps     00:20:49.416    27,168 kbps     00:20:48.041    97,342 bytes    467,562 bytes   00:20:54.250    
+7               0:23:24.875     0:04:14.666     19,762 kbps     37,222 kbps     00:25:01.624    30,284 kbps     00:25:01.541    29,016 kbps     00:24:55.958    102,926 bytes   567,047 bytes   00:24:11.125    
+8               0:27:39.541     0:04:26.583     20,694 kbps     35,162 kbps     00:29:26.708    28,283 kbps     00:29:25.791    26,463 kbps     00:29:25.749    107,780 bytes   413,041 bytes   00:31:43.291    
+9               0:32:06.125     0:04:34.583     22,567 kbps     38,156 kbps     00:32:08.749    31,168 kbps     00:32:07.791    29,831 kbps     00:32:22.874    117,539 bytes   532,980 bytes   00:32:08.791    
+10              0:36:40.708     0:04:23.083     20,596 kbps     37,099 kbps     00:38:17.916    30,868 kbps     00:36:45.791    26,506 kbps     00:36:41.625    107,269 bytes   513,789 bytes   00:39:52.625    
+11              0:41:03.791     0:06:38.625     25,893 kbps     40,364 kbps     00:46:28.833    31,179 kbps     00:46:19.375    29,816 kbps     00:47:23.625    134,858 bytes   583,634 bytes   00:43:27.708    
+12              0:47:42.416     0:04:24.500     19,630 kbps     35,566 kbps     00:48:40.375    27,122 kbps     00:51:09.833    25,431 kbps     00:51:06.000    102,238 bytes   400,385 bytes   00:50:41.291    
+13              0:52:06.916     0:04:37.375     17,939 kbps     37,539 kbps     00:54:37.833    28,394 kbps     00:54:34.916    24,958 kbps     00:54:29.750    93,434 bytes    547,145 bytes   00:54:39.541    
+14              0:56:44.291     0:05:10.416     18,635 kbps     32,679 kbps     00:56:46.666    27,563 kbps     00:58:02.000    24,606 kbps     00:57:57.000    97,056 bytes    490,633 bytes   00:56:47.666    
+15              1:01:54.708     0:04:20.375     16,531 kbps     34,563 kbps     01:05:35.166    28,301 kbps     01:05:33.375    25,858 kbps     01:05:20.291    86,101 bytes    367,318 bytes   01:05:34.250    
+16              1:06:15.083     0:04:11.083     16,970 kbps     36,510 kbps     01:09:44.666    29,081 kbps     01:09:41.166    26,971 kbps     01:09:39.499    88,387 bytes    455,194 bytes   01:06:52.041    
+17              1:10:26.166     0:04:15.541     20,828 kbps     37,435 kbps     01:13:03.874    29,047 kbps     01:11:24.791    26,061 kbps     01:11:21.708    108,480 bytes   518,641 bytes   01:13:03.916    
+18              1:14:41.708     0:03:56.333     20,937 kbps     38,986 kbps     01:15:16.458    30,325 kbps     01:15:07.625    28,491 kbps     01:15:01.583    109,045 bytes   493,515 bytes   01:15:16.500    
+19              1:18:38.041     0:02:58.916     24,952 kbps     42,993 kbps     01:21:16.874    30,992 kbps     01:20:43.000    30,043 kbps     01:21:16.874    129,958 bytes   541,858 bytes   01:21:19.791    
+20              1:21:36.958     0:07:04.083     18,993 kbps     43,579 kbps     01:22:14.791    29,145 kbps     01:22:30.625    27,071 kbps     01:27:34.874    98,942 bytes    692,489 bytes   01:22:16.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5320.958                20,181                  13,422,628,966  73,023,711      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5320.958                2,529                   1,682,282,436   9,955,145       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5320.958                26                      17,462,582      103,714         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5320.958                0                       1,848           17              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: APE MAIA
+Disc Label: L.Ape.Maia.Il.Film.2014.Bluray.1080p.AVC.iTA.DTS-HD.5.1-TRL
+Disc Size: 16,598,815,141 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 15,997,255,680 bytes
+Length: 1:28:41.041
+Total Bitrate: 24.05 Mbps
+Video: MPEG-4 AVC Video / 20180 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2529 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 26.254 kbps
+Subtitle: Italian / 0.003 kbps
+

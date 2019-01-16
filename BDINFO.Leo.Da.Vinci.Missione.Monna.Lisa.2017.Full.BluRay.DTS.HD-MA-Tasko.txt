@@ -1,0 +1,112 @@
+Disc Label:     Leo.Da.Vinci.Missione.Monna.Lisa.2017.Full.BluRay.DTS.HD-MA-Tasko
+Disc Size:      24,278,792,208 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:21:46 22,026,928,128  24,278,792,208  35.92   29.97   DTS-HD Master 5.1 4119Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Leo.Da.Vinci.Missione.Monna.Lisa.2017.Full.BluRay.DTS.HD-MA-Tasko
+Disc Size:      24,278,792,208 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:21:46.041 (h:m:s.ms)
+Size:                   22,026,928,128 bytes
+Total Bitrate:          35.92 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29971 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         4119 kbps       5.1 / 48 kHz /  4119 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         30.073 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:21:46.041     22,026,928,128  35,918          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:44.000     7,163 kbps      30,633 kbps     00:00:30.083    17,500 kbps     00:00:28.208    12,570 kbps     00:00:26.958    37,271 bytes    325,080 bytes   00:00:19.000    
+2               0:00:44.000     0:07:48.291     32,734 kbps     41,217 kbps     00:02:23.749    38,379 kbps     00:01:50.208    37,983 kbps     00:01:45.083    170,488 bytes   622,759 bytes   00:06:08.875    
+3               0:08:32.291     0:05:54.250     32,216 kbps     41,712 kbps     00:09:51.333    38,217 kbps     00:09:20.833    37,960 kbps     00:09:22.833    167,791 bytes   637,091 bytes   00:09:52.750    
+4               0:14:26.541     0:06:18.125     29,777 kbps     40,873 kbps     00:14:35.708    38,193 kbps     00:14:49.708    37,781 kbps     00:14:42.041    155,088 bytes   601,155 bytes   00:15:03.666    
+5               0:20:44.666     0:08:24.791     31,066 kbps     42,122 kbps     00:26:14.333    38,417 kbps     00:26:18.916    37,045 kbps     00:26:14.208    161,801 bytes   640,157 bytes   00:28:44.208    
+6               0:29:09.458     0:07:59.208     29,956 kbps     41,331 kbps     00:31:27.833    38,019 kbps     00:31:28.166    37,475 kbps     00:30:21.499    156,021 bytes   572,920 bytes   00:30:19.666    
+7               0:37:08.666     0:05:40.333     27,527 kbps     42,550 kbps     00:42:31.625    37,838 kbps     00:38:22.916    36,942 kbps     00:38:17.875    143,369 bytes   626,799 bytes   00:37:14.708    
+8               0:42:49.000     0:06:10.416     30,379 kbps     40,895 kbps     00:47:22.875    37,919 kbps     00:44:41.791    36,548 kbps     00:44:38.458    158,225 bytes   544,061 bytes   00:47:00.500    
+9               0:48:59.416     0:05:16.625     28,403 kbps     39,930 kbps     00:49:44.583    36,088 kbps     00:49:44.625    35,550 kbps     00:49:44.208    147,935 bytes   511,553 bytes   00:49:53.625    
+10              0:54:16.041     0:08:52.875     30,090 kbps     41,417 kbps     01:01:31.375    38,163 kbps     01:01:27.375    36,020 kbps     00:59:23.416    156,718 bytes   606,899 bytes   01:01:28.416    
+11              1:03:08.916     0:07:28.750     32,100 kbps     42,301 kbps     01:08:47.250    38,520 kbps     01:08:43.375    37,864 kbps     01:08:38.458    167,188 bytes   545,000 bytes   01:09:02.208    
+12              1:10:37.666     0:07:53.500     30,459 kbps     41,072 kbps     01:17:25.833    38,148 kbps     01:11:48.916    36,664 kbps     01:12:04.583    158,638 bytes   617,222 bytes   01:17:26.875    
+13              1:18:31.166     0:03:14.875     21,616 kbps     37,277 kbps     01:20:41.125    33,581 kbps     01:20:38.625    33,084 kbps     01:20:35.125    112,605 bytes   640,902 bytes   01:19:18.166    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4905.875                29,972                  18,380,122,993  99,960,532      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           4905.875                4,119                   2,525,835,480   14,492,047      
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           4905.875                30                      18,442,451      106,603         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Leo.Da.Vinci.Missione.Monna.Lisa.2017.Full.BluRay.DTS.HD-MA-Tasko
+Disc Size: 24,278,792,208 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 22,026,928,128 bytes
+Length: 1:21:46.041
+Total Bitrate: 35.92 Mbps
+Video: MPEG-4 AVC Video / 29971 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  4119 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 30.073 kbps
+
