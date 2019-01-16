@@ -1,0 +1,522 @@
+Disc Title:     ParaNorman 3D
+Disc Label:     ParaNorman.2012.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      44,144,008,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:32:09 23,767,308,288  44,144,008,187  34.39   24.08   DTS-HD Master 5.1 3648Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     ParaNorman 3D
+Disc Label:     ParaNorman.2012.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      44,144,008,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:32:09.148 (h:m:s.ms)
+Size:                   23,767,308,288 bytes
+Total Bitrate:          34.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24076 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3648 kbps       5.1 / 48 kHz /  3648 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Turkish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         37.936 kbps                     
+Presentation Graphics           Italian         29.353 kbps                     
+Presentation Graphics           German          33.226 kbps                     
+Presentation Graphics           Turkish         31.340 kbps                     
+Presentation Graphics           Greek           32.082 kbps                     
+Presentation Graphics           Icelandic       32.192 kbps                     
+Presentation Graphics           Romanian        28.696 kbps                     
+Presentation Graphics           Slovenian       26.008 kbps                     
+Presentation Graphics           English         81.776 kbps                     
+Presentation Graphics           Italian         1.416 kbps                      
+Presentation Graphics           German          1.365 kbps                      
+Presentation Graphics           Turkish         1.317 kbps                      
+Presentation Graphics           Greek           1.366 kbps                      
+Presentation Graphics           Icelandic       1.389 kbps                      
+Presentation Graphics           Romanian        1.691 kbps                      
+Presentation Graphics           Slovenian       1.184 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00023.M2TS      0:00:00.000     1:32:09.148     23,767,308,288  34,388          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:55.420     24,372 kbps     36,093 kbps     00:04:25.431    31,819 kbps     00:00:17.726    31,749 kbps     00:00:21.062    127,046 bytes   462,637 bytes   00:01:17.410    
+2               0:04:55.420     0:03:34.005     23,379 kbps     33,866 kbps     00:05:31.414    30,628 kbps     00:08:06.986    29,679 kbps     00:07:24.026    121,889 bytes   587,769 bytes   00:08:23.002    
+3               0:08:29.425     0:03:09.439     22,726 kbps     32,150 kbps     00:11:00.618    28,205 kbps     00:11:25.226    26,904 kbps     00:11:25.393    118,482 bytes   297,201 bytes   00:09:29.652    
+4               0:11:38.864     0:03:31.711     24,565 kbps     33,570 kbps     00:13:46.116    31,922 kbps     00:13:36.315    31,512 kbps     00:13:33.687    128,068 bytes   510,191 bytes   00:12:35.713    
+5               0:15:10.576     0:03:00.096     23,178 kbps     32,941 kbps     00:17:31.258    31,991 kbps     00:15:49.907    29,535 kbps     00:15:48.030    120,840 bytes   637,063 bytes   00:17:23.042    
+6               0:18:10.672     0:03:43.473     24,084 kbps     33,846 kbps     00:18:51.213    29,951 kbps     00:18:48.794    28,403 kbps     00:18:51.004    125,565 bytes   344,546 bytes   00:21:50.767    
+7               0:21:54.146     0:04:31.354     24,606 kbps     34,371 kbps     00:25:40.163    30,539 kbps     00:25:37.369    28,521 kbps     00:25:33.365    128,283 bytes   383,192 bytes   00:26:25.500    
+8               0:26:25.500     0:03:39.469     23,143 kbps     31,213 kbps     00:27:21.973    28,628 kbps     00:28:25.704    25,972 kbps     00:28:40.260    120,657 bytes   479,064 bytes   00:28:26.079    
+9               0:30:04.969     0:03:51.147     24,235 kbps     33,204 kbps     00:32:18.436    31,563 kbps     00:33:16.452    29,915 kbps     00:33:16.202    126,348 bytes   392,156 bytes   00:33:56.117    
+10              0:33:56.117     0:04:20.802     25,104 kbps     34,795 kbps     00:37:38.172    31,895 kbps     00:36:26.350    31,426 kbps     00:36:25.308    130,879 bytes   577,908 bytes   00:34:29.067    
+11              0:38:16.919     0:04:49.622     23,251 kbps     32,353 kbps     00:38:36.772    30,709 kbps     00:38:32.935    28,234 kbps     00:38:28.514    121,221 bytes   321,564 bytes   00:41:17.892    
+12              0:43:06.542     0:06:30.306     24,234 kbps     34,384 kbps     00:46:33.916    30,684 kbps     00:45:43.073    29,713 kbps     00:43:36.405    126,343 bytes   374,091 bytes   00:48:35.954    
+13              0:49:36.848     0:03:09.939     24,771 kbps     42,483 kbps     00:52:10.252    31,897 kbps     00:52:12.295    31,329 kbps     00:52:07.666    129,146 bytes   639,035 bytes   00:52:11.211    
+14              0:52:46.788     0:03:59.405     24,835 kbps     33,013 kbps     00:52:51.376    31,860 kbps     00:55:32.579    30,174 kbps     00:55:31.286    129,478 bytes   581,028 bytes   00:53:01.386    
+15              0:56:46.194     0:04:29.769     23,315 kbps     35,465 kbps     01:00:11.608    30,746 kbps     01:00:59.489    29,137 kbps     01:00:54.317    121,552 bytes   340,196 bytes   00:59:20.974    
+16              1:01:15.963     0:04:37.610     24,349 kbps     36,212 kbps     01:02:42.967    31,715 kbps     01:02:21.195    29,757 kbps     01:02:19.402    126,947 bytes   316,069 bytes   01:02:43.676    
+17              1:05:53.574     0:05:57.482     24,575 kbps     33,701 kbps     01:06:28.985    31,714 kbps     01:05:56.160    30,387 kbps     01:05:53.574    128,122 bytes   304,850 bytes   01:06:38.369    
+18              1:11:51.056     0:06:28.429     24,533 kbps     35,787 kbps     01:15:55.175    32,131 kbps     01:15:48.961    30,976 kbps     01:15:43.956    127,905 bytes   327,815 bytes   01:18:15.899    
+19              1:18:19.486     0:06:47.907     23,638 kbps     33,923 kbps     01:21:42.647    31,977 kbps     01:24:07.459    31,832 kbps     01:24:07.375    123,237 bytes   614,562 bytes   01:20:50.095    
+20              1:25:07.393     0:07:01.754     23,944 kbps     38,874 kbps     01:26:08.788    33,038 kbps     01:25:16.194    32,155 kbps     01:25:11.189    124,847 bytes   484,864 bytes   01:26:12.333    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00023.M2TS      4113 (0x1011)   0x1B            AVC                                     5529.065                24,076                  16,639,765,814  90,512,569      
+00023.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5529.065                3,648                   2,521,007,336   14,564,595      
+00023.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4356 (0x1104)   0x81            AC3             ell (Greek)             5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4357 (0x1105)   0x81            AC3             isl (Icelandic)         5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4358 (0x1106)   0x81            AC3             ron (Romanian)          5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4359 (0x1107)   0x81            AC3             slv (Slovenian)         5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5529.065                192                     132,699,648     863,930         
+00023.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5529.065                38                      26,218,926      151,836         
+00023.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5529.065                29                      20,287,176      117,722         
+00023.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5529.065                33                      22,963,876      132,223         
+00023.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           5529.065                31                      21,660,690      125,189         
+00023.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5529.065                32                      22,173,446      128,049         
+00023.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         5529.065                32                      22,249,202      128,358         
+00023.M2TS      4614 (0x1206)   0x90            PGS             ron (Romanian)          5529.065                29                      19,833,173      115,228         
+00023.M2TS      4615 (0x1207)   0x90            PGS             slv (Slovenian)         5529.065                26                      17,975,427      105,055         
+00023.M2TS      4616 (0x1208)   0x90            PGS             eng (English)           5529.065                82                      56,518,991      318,665         
+00023.M2TS      4617 (0x1209)   0x90            PGS             ita (Italian)           5529.065                1                       978,895         5,643           
+00023.M2TS      4618 (0x120A)   0x90            PGS             deu (German)            5529.065                1                       943,683         5,447           
+00023.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5529.065                1                       910,489         5,276           
+00023.M2TS      4620 (0x120C)   0x90            PGS             ell (Greek)             5529.065                1                       944,404         5,499           
+00023.M2TS      4621 (0x120D)   0x90            PGS             isl (Icelandic)         5529.065                1                       959,734         5,541           
+00023.M2TS      4622 (0x120E)   0x90            PGS             ron (Romanian)          5529.065                2                       1,168,911       6,714           
+00023.M2TS      4623 (0x120F)   0x90            PGS             slv (Slovenian)         5529.065                1                       818,515         4,749           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: ParaNorman 3D
+Disc Label: ParaNorman.2012.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1
+Disc Size: 44,144,008,187 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 23,767,308,288 bytes
+Length: 1:32:09.148
+Total Bitrate: 34.39 Mbps
+Video: MPEG-4 AVC Video / 24076 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3648 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 37.936 kbps
+Subtitle: Italian / 29.353 kbps
+Subtitle: German / 33.226 kbps
+Subtitle: Turkish / 31.340 kbps
+Subtitle: Greek / 32.082 kbps
+Subtitle: Icelandic / 32.192 kbps
+Subtitle: Romanian / 28.696 kbps
+Subtitle: Slovenian / 26.008 kbps
+Subtitle: English / 81.776 kbps
+Subtitle: Italian / 1.416 kbps
+Subtitle: German / 1.365 kbps
+Subtitle: Turkish / 1.317 kbps
+Subtitle: Greek / 1.366 kbps
+Subtitle: Icelandic / 1.389 kbps
+Subtitle: Romanian / 1.691 kbps
+Subtitle: Slovenian / 1.184 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:32:09 23,767,308,288  44,144,008,187  34.39   24.08   DTS-HD Master 5.1 3648Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     ParaNorman 3D
+Disc Label:     ParaNorman.2012.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      44,144,008,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:32:09.148 (h:m:s.ms)
+Size:                   23,767,308,288 bytes
+Total Bitrate:          34.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24076 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3648 kbps       5.1 / 48 kHz /  3648 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Turkish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         37.936 kbps                     
+Presentation Graphics           Italian         29.353 kbps                     
+Presentation Graphics           German          33.226 kbps                     
+Presentation Graphics           Turkish         31.340 kbps                     
+Presentation Graphics           Greek           32.082 kbps                     
+Presentation Graphics           Icelandic       32.192 kbps                     
+Presentation Graphics           Romanian        28.696 kbps                     
+Presentation Graphics           Slovenian       26.008 kbps                     
+Presentation Graphics           English         81.776 kbps                     
+Presentation Graphics           Italian         1.416 kbps                      
+Presentation Graphics           German          1.365 kbps                      
+Presentation Graphics           Turkish         1.317 kbps                      
+Presentation Graphics           Greek           1.366 kbps                      
+Presentation Graphics           Icelandic       1.389 kbps                      
+Presentation Graphics           Romanian        1.691 kbps                      
+Presentation Graphics           Slovenian       1.184 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00023.M2TS      0:00:00.000     1:32:09.148     23,767,308,288  34,388          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:55.420     24,372 kbps     36,093 kbps     00:04:25.431    31,819 kbps     00:00:17.726    31,749 kbps     00:00:21.062    127,046 bytes   462,637 bytes   00:01:17.410    
+2               0:04:55.420     0:03:34.005     23,379 kbps     33,866 kbps     00:05:31.414    30,628 kbps     00:08:06.986    29,679 kbps     00:07:24.026    121,889 bytes   587,769 bytes   00:08:23.002    
+3               0:08:29.425     0:03:09.439     22,726 kbps     32,150 kbps     00:11:00.618    28,205 kbps     00:11:25.226    26,904 kbps     00:11:25.393    118,482 bytes   297,201 bytes   00:09:29.652    
+4               0:11:38.864     0:03:31.711     24,565 kbps     33,570 kbps     00:13:46.116    31,922 kbps     00:13:36.315    31,512 kbps     00:13:33.687    128,068 bytes   510,191 bytes   00:12:35.713    
+5               0:15:10.576     0:03:00.096     23,178 kbps     32,941 kbps     00:17:31.258    31,991 kbps     00:15:49.907    29,535 kbps     00:15:48.030    120,840 bytes   637,063 bytes   00:17:23.042    
+6               0:18:10.672     0:03:43.473     24,084 kbps     33,846 kbps     00:18:51.213    29,951 kbps     00:18:48.794    28,403 kbps     00:18:51.004    125,565 bytes   344,546 bytes   00:21:50.767    
+7               0:21:54.146     0:04:31.354     24,606 kbps     34,371 kbps     00:25:40.163    30,539 kbps     00:25:37.369    28,521 kbps     00:25:33.365    128,283 bytes   383,192 bytes   00:26:25.500    
+8               0:26:25.500     0:03:39.469     23,143 kbps     31,213 kbps     00:27:21.973    28,628 kbps     00:28:25.704    25,972 kbps     00:28:40.260    120,657 bytes   479,064 bytes   00:28:26.079    
+9               0:30:04.969     0:03:51.147     24,235 kbps     33,204 kbps     00:32:18.436    31,563 kbps     00:33:16.452    29,915 kbps     00:33:16.202    126,348 bytes   392,156 bytes   00:33:56.117    
+10              0:33:56.117     0:04:20.802     25,104 kbps     34,795 kbps     00:37:38.172    31,895 kbps     00:36:26.350    31,426 kbps     00:36:25.308    130,879 bytes   577,908 bytes   00:34:29.067    
+11              0:38:16.919     0:04:49.622     23,251 kbps     32,353 kbps     00:38:36.772    30,709 kbps     00:38:32.935    28,234 kbps     00:38:28.514    121,221 bytes   321,564 bytes   00:41:17.892    
+12              0:43:06.542     0:06:30.306     24,234 kbps     34,384 kbps     00:46:33.916    30,684 kbps     00:45:43.073    29,713 kbps     00:43:36.405    126,343 bytes   374,091 bytes   00:48:35.954    
+13              0:49:36.848     0:03:09.939     24,771 kbps     42,483 kbps     00:52:10.252    31,897 kbps     00:52:12.295    31,329 kbps     00:52:07.666    129,146 bytes   639,035 bytes   00:52:11.211    
+14              0:52:46.788     0:03:59.405     24,835 kbps     33,013 kbps     00:52:51.376    31,860 kbps     00:55:32.579    30,174 kbps     00:55:31.286    129,478 bytes   581,028 bytes   00:53:01.386    
+15              0:56:46.194     0:04:29.769     23,315 kbps     35,465 kbps     01:00:11.608    30,746 kbps     01:00:59.489    29,137 kbps     01:00:54.317    121,552 bytes   340,196 bytes   00:59:20.974    
+16              1:01:15.963     0:04:37.610     24,349 kbps     36,212 kbps     01:02:42.967    31,715 kbps     01:02:21.195    29,757 kbps     01:02:19.402    126,947 bytes   316,069 bytes   01:02:43.676    
+17              1:05:53.574     0:05:57.482     24,575 kbps     33,701 kbps     01:06:28.985    31,714 kbps     01:05:56.160    30,387 kbps     01:05:53.574    128,122 bytes   304,850 bytes   01:06:38.369    
+18              1:11:51.056     0:06:28.429     24,533 kbps     35,787 kbps     01:15:55.175    32,131 kbps     01:15:48.961    30,976 kbps     01:15:43.956    127,905 bytes   327,815 bytes   01:18:15.899    
+19              1:18:19.486     0:06:47.907     23,638 kbps     33,923 kbps     01:21:42.647    31,977 kbps     01:24:07.459    31,832 kbps     01:24:07.375    123,237 bytes   614,562 bytes   01:20:50.095    
+20              1:25:07.393     0:07:01.754     23,944 kbps     38,874 kbps     01:26:08.788    33,038 kbps     01:25:16.194    32,155 kbps     01:25:11.189    124,847 bytes   484,864 bytes   01:26:12.333    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00023.M2TS      4113 (0x1011)   0x1B            AVC                                     5529.065                24,076                  16,639,765,814  90,512,569      
+00023.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5529.065                3,648                   2,521,007,336   14,564,595      
+00023.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4356 (0x1104)   0x81            AC3             ell (Greek)             5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4357 (0x1105)   0x81            AC3             isl (Icelandic)         5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4358 (0x1106)   0x81            AC3             ron (Romanian)          5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4359 (0x1107)   0x81            AC3             slv (Slovenian)         5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5529.065                192                     132,699,648     863,930         
+00023.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5529.065                38                      26,218,926      151,836         
+00023.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5529.065                29                      20,287,176      117,722         
+00023.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5529.065                33                      22,963,876      132,223         
+00023.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           5529.065                31                      21,660,690      125,189         
+00023.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5529.065                32                      22,173,446      128,049         
+00023.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         5529.065                32                      22,249,202      128,358         
+00023.M2TS      4614 (0x1206)   0x90            PGS             ron (Romanian)          5529.065                29                      19,833,173      115,228         
+00023.M2TS      4615 (0x1207)   0x90            PGS             slv (Slovenian)         5529.065                26                      17,975,427      105,055         
+00023.M2TS      4616 (0x1208)   0x90            PGS             eng (English)           5529.065                82                      56,518,991      318,665         
+00023.M2TS      4617 (0x1209)   0x90            PGS             ita (Italian)           5529.065                1                       978,895         5,643           
+00023.M2TS      4618 (0x120A)   0x90            PGS             deu (German)            5529.065                1                       943,683         5,447           
+00023.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5529.065                1                       910,489         5,276           
+00023.M2TS      4620 (0x120C)   0x90            PGS             ell (Greek)             5529.065                1                       944,404         5,499           
+00023.M2TS      4621 (0x120D)   0x90            PGS             isl (Icelandic)         5529.065                1                       959,734         5,541           
+00023.M2TS      4622 (0x120E)   0x90            PGS             ron (Romanian)          5529.065                2                       1,168,911       6,714           
+00023.M2TS      4623 (0x120F)   0x90            PGS             slv (Slovenian)         5529.065                1                       818,515         4,749           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: ParaNorman 3D
+Disc Label: ParaNorman.2012.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1
+Disc Size: 44,144,008,187 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 23,767,308,288 bytes
+Length: 1:32:09.148
+Total Bitrate: 34.39 Mbps
+Video: MPEG-4 AVC Video / 24076 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3648 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 37.936 kbps
+Subtitle: Italian / 29.353 kbps
+Subtitle: German / 33.226 kbps
+Subtitle: Turkish / 31.340 kbps
+Subtitle: Greek / 32.082 kbps
+Subtitle: Icelandic / 32.192 kbps
+Subtitle: Romanian / 28.696 kbps
+Subtitle: Slovenian / 26.008 kbps
+Subtitle: English / 81.776 kbps
+Subtitle: Italian / 1.416 kbps
+Subtitle: German / 1.365 kbps
+Subtitle: Turkish / 1.317 kbps
+Subtitle: Greek / 1.366 kbps
+Subtitle: Icelandic / 1.389 kbps
+Subtitle: Romanian / 1.691 kbps
+Subtitle: Slovenian / 1.184 kbps
+
+
+********************
+PLAYLIST: 00803.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00803.MPLS                                                      AVC     1:32:09 23,767,308,288  44,144,008,187  34.39   24.08   DTS-HD Master 5.1 3648Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     ParaNorman 3D
+Disc Label:     ParaNorman.2012.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      44,144,008,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00803.MPLS
+Length:                 1:32:09.148 (h:m:s.ms)
+Size:                   23,767,308,288 bytes
+Total Bitrate:          34.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24076 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3648 kbps       5.1 / 48 kHz /  3648 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Turkish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         37.936 kbps                     
+Presentation Graphics           Italian         29.353 kbps                     
+Presentation Graphics           German          33.226 kbps                     
+Presentation Graphics           Turkish         31.340 kbps                     
+Presentation Graphics           Greek           32.082 kbps                     
+Presentation Graphics           Icelandic       32.192 kbps                     
+Presentation Graphics           Romanian        28.696 kbps                     
+Presentation Graphics           Slovenian       26.008 kbps                     
+Presentation Graphics           English         81.776 kbps                     
+Presentation Graphics           Italian         1.416 kbps                      
+Presentation Graphics           German          1.365 kbps                      
+Presentation Graphics           Turkish         1.317 kbps                      
+Presentation Graphics           Greek           1.366 kbps                      
+Presentation Graphics           Icelandic       1.389 kbps                      
+Presentation Graphics           Romanian        1.691 kbps                      
+Presentation Graphics           Slovenian       1.184 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00023.M2TS      0:00:00.000     1:32:09.148     23,767,308,288  34,388          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:32:09.148     24,076 kbps     42,483 kbps     00:52:10.252    33,038 kbps     01:25:16.194    32,155 kbps     01:25:11.189    125,520 bytes   639,035 bytes   00:52:11.211    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00023.M2TS      4113 (0x1011)   0x1B            AVC                                     5529.065                24,076                  16,639,765,814  90,512,569      
+00023.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5529.065                3,648                   2,521,007,336   14,564,595      
+00023.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           5529.065                768                     530,798,592     3,110,148       
+00023.M2TS      4356 (0x1104)   0x81            AC3             ell (Greek)             5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4357 (0x1105)   0x81            AC3             isl (Icelandic)         5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4358 (0x1106)   0x81            AC3             ron (Romanian)          5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4359 (0x1107)   0x81            AC3             slv (Slovenian)         5529.065                448                     309,632,512     1,727,860       
+00023.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5529.065                192                     132,699,648     863,930         
+00023.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5529.065                38                      26,218,926      151,836         
+00023.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5529.065                29                      20,287,176      117,722         
+00023.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5529.065                33                      22,963,876      132,223         
+00023.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           5529.065                31                      21,660,690      125,189         
+00023.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5529.065                32                      22,173,446      128,049         
+00023.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         5529.065                32                      22,249,202      128,358         
+00023.M2TS      4614 (0x1206)   0x90            PGS             ron (Romanian)          5529.065                29                      19,833,173      115,228         
+00023.M2TS      4615 (0x1207)   0x90            PGS             slv (Slovenian)         5529.065                26                      17,975,427      105,055         
+00023.M2TS      4616 (0x1208)   0x90            PGS             eng (English)           5529.065                82                      56,518,991      318,665         
+00023.M2TS      4617 (0x1209)   0x90            PGS             ita (Italian)           5529.065                1                       978,895         5,643           
+00023.M2TS      4618 (0x120A)   0x90            PGS             deu (German)            5529.065                1                       943,683         5,447           
+00023.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5529.065                1                       910,489         5,276           
+00023.M2TS      4620 (0x120C)   0x90            PGS             ell (Greek)             5529.065                1                       944,404         5,499           
+00023.M2TS      4621 (0x120D)   0x90            PGS             isl (Icelandic)         5529.065                1                       959,734         5,541           
+00023.M2TS      4622 (0x120E)   0x90            PGS             ron (Romanian)          5529.065                2                       1,168,911       6,714           
+00023.M2TS      4623 (0x120F)   0x90            PGS             slv (Slovenian)         5529.065                1                       818,515         4,749           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: ParaNorman 3D
+Disc Label: ParaNorman.2012.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1
+Disc Size: 44,144,008,187 bytes
+Protection: AACS
+Playlist: 00803.MPLS
+Size: 23,767,308,288 bytes
+Length: 1:32:09.148
+Total Bitrate: 34.39 Mbps
+Video: MPEG-4 AVC Video / 24076 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3648 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 37.936 kbps
+Subtitle: Italian / 29.353 kbps
+Subtitle: German / 33.226 kbps
+Subtitle: Turkish / 31.340 kbps
+Subtitle: Greek / 32.082 kbps
+Subtitle: Icelandic / 32.192 kbps
+Subtitle: Romanian / 28.696 kbps
+Subtitle: Slovenian / 26.008 kbps
+Subtitle: English / 81.776 kbps
+Subtitle: Italian / 1.416 kbps
+Subtitle: German / 1.365 kbps
+Subtitle: Turkish / 1.317 kbps
+Subtitle: Greek / 1.366 kbps
+Subtitle: Icelandic / 1.389 kbps
+Subtitle: Romanian / 1.691 kbps
+Subtitle: Slovenian / 1.184 kbps
+

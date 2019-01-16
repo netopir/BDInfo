@@ -1,0 +1,121 @@
+Disc Label:     Planet.51.2009.1080p.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size:      37,207,608,316 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:31:01 27,363,090,432  37,207,608,316  40.08   31.98   DTS-HD Master 5.1 2013Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Planet.51.2009.1080p.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size:      37,207,608,316 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:31:01.456 (h:m:s.ms)
+Size:                   27,363,090,432 bytes
+Total Bitrate:          40.08 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        31979 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         2013 kbps       5.1 / 48 kHz /  2013 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         3815 kbps       5.1 / 48 kHz /  3815 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Russian         42.201 kbps                     
+Presentation Graphics           English         28.938 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:31:01.456     27,363,090,432  40,082          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:03.813     28,303 kbps     34,914 kbps     00:00:17.809    33,295 kbps     00:00:13.722    32,462 kbps     00:00:08.717    147,461 bytes   451,970 bytes   00:01:03.730    
+2               0:01:03.813     0:06:02.862     31,881 kbps     39,139 kbps     00:02:56.968    33,619 kbps     00:04:43.157    33,128 kbps     00:03:54.984    166,212 bytes   639,791 bytes   00:04:47.161    
+3               0:07:06.676     0:05:13.312     32,382 kbps     36,570 kbps     00:09:26.399    33,633 kbps     00:11:21.389    33,135 kbps     00:11:21.931    168,827 bytes   640,825 bytes   00:07:19.397    
+4               0:12:19.989     0:06:10.620     31,736 kbps     37,098 kbps     00:15:21.170    33,934 kbps     00:16:27.987    33,180 kbps     00:16:22.940    165,456 bytes   640,806 bytes   00:16:12.304    
+5               0:18:30.609     0:03:13.693     32,378 kbps     36,332 kbps     00:19:03.934    33,488 kbps     00:20:13.170    33,147 kbps     00:20:08.165    168,803 bytes   639,245 bytes   00:20:23.764    
+6               0:21:44.302     0:04:44.158     32,126 kbps     36,285 kbps     00:26:17.409    33,785 kbps     00:26:13.321    33,195 kbps     00:26:08.358    167,493 bytes   639,309 bytes   00:26:17.075    
+7               0:26:28.461     0:04:55.169     32,033 kbps     37,211 kbps     00:29:15.587    33,788 kbps     00:28:03.056    33,140 kbps     00:31:00.024    167,007 bytes   640,984 bytes   00:30:52.308    
+8               0:31:23.631     0:02:40.660     32,002 kbps     36,915 kbps     00:31:45.820    33,353 kbps     00:33:12.740    33,042 kbps     00:32:24.150    166,846 bytes   632,316 bytes   00:33:38.182    
+9               0:34:04.292     0:09:15.263     32,259 kbps     37,894 kbps     00:37:26.869    33,465 kbps     00:36:04.871    33,085 kbps     00:36:28.519    168,181 bytes   640,749 bytes   00:40:56.370    
+10              0:43:19.555     0:04:49.747     32,206 kbps     38,354 kbps     00:47:52.202    33,366 kbps     00:45:28.934    33,088 kbps     00:45:48.454    167,907 bytes   598,057 bytes   00:45:33.355    
+11              0:48:09.303     0:05:26.743     32,239 kbps     36,607 kbps     00:50:18.390    33,447 kbps     00:50:17.431    33,104 kbps     00:49:54.157    168,079 bytes   636,117 bytes   00:50:48.837    
+12              0:53:36.046     0:14:00.130     31,557 kbps     37,738 kbps     01:06:31.445    33,530 kbps     01:06:27.525    33,197 kbps     01:06:22.478    164,526 bytes   639,685 bytes   01:06:30.361    
+13              1:07:36.177     0:05:45.970     31,991 kbps     37,433 kbps     01:09:37.047    33,766 kbps     01:09:32.918    33,014 kbps     01:09:29.456    166,789 bytes   640,739 bytes   01:09:28.664    
+14              1:13:22.147     0:04:17.674     31,743 kbps     37,235 kbps     01:14:50.277    33,416 kbps     01:13:42.084    33,024 kbps     01:13:43.001    165,493 bytes   593,776 bytes   01:13:36.912    
+15              1:17:39.821     0:02:31.025     32,135 kbps     36,749 kbps     01:19:51.077    33,369 kbps     01:18:31.331    32,982 kbps     01:18:26.535    167,537 bytes   602,546 bytes   01:19:32.100    
+16              1:20:10.847     0:10:50.608     32,249 kbps     36,732 kbps     01:25:19.906    33,480 kbps     01:22:05.795    33,081 kbps     01:20:43.088    168,141 bytes   640,063 bytes   01:26:14.794    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5461.289                31,980                  21,831,396,319  118,725,291     
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           5461.289                2,013                   1,374,084,264   8,322,299       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5461.289                3,815                   2,604,483,260   15,006,045      
+00005.M2TS      4608 (0x1200)   0x90            PGS             rus (Russian)           5461.289                42                      28,810,083      166,086         
+00005.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5461.289                29                      19,755,210      113,382         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Planet.51.2009.1080p.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size: 37,207,608,316 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 27,363,090,432 bytes
+Length: 1:31:01.456
+Total Bitrate: 40.08 Mbps
+Video: MPEG-4 AVC Video / 31979 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  2013 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3815 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Russian / 42.201 kbps
+Subtitle: English / 28.938 kbps
+

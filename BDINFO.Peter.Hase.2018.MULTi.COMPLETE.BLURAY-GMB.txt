@@ -1,0 +1,392 @@
+Disc Title:     Peter Rabbit – Blu-ray™
+Disc Label:     Peter.Hase.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      34,048,343,736 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00354.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00354.MPLS                                                      AVC     1:34:42 27,447,613,440  34,048,343,736  38.64   26.85   DTS-HD Master 5.1 2222Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Peter Rabbit – Blu-ray™
+Disc Label:     Peter.Hase.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      34,048,343,736 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00354.MPLS
+Length:                 1:34:42.676 (h:m:s.ms)
+Size:                   27,447,613,440 bytes
+Total Bitrate:          38.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26849 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2222 kbps       5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2235 kbps       5.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Italian         2220 kbps       5.1 / 48 kHz /  2220 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Spanish         2230 kbps       5.1 / 48 kHz /  2230 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         48.906 kbps                     
+Presentation Graphics           German          52.212 kbps                     
+Presentation Graphics           Italian         49.026 kbps                     
+Presentation Graphics           Spanish         49.887 kbps                     
+Presentation Graphics           Turkish         52.261 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00354.M2TS      0:00:00.000     1:23:32.090     24,217,159,680  38,654          
+00355.M2TS      1:23:32.090     0:11:10.586     3,230,453,760   38,539          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:04.786     26,463 kbps     44,849 kbps     00:01:49.442    32,026 kbps     00:02:56.217    30,652 kbps     00:01:49.442    137,941 bytes   707,177 bytes   00:03:08.313    
+2               0:04:04.786     0:04:21.511     27,085 kbps     45,669 kbps     00:06:51.577    30,890 kbps     00:04:47.120    28,805 kbps     00:06:42.610    141,207 bytes   702,386 bytes   00:04:58.131    
+3               0:08:26.297     0:06:45.405     26,952 kbps     38,495 kbps     00:14:52.892    30,653 kbps     00:13:08.788    28,860 kbps     00:10:57.990    140,513 bytes   762,013 bytes   00:11:15.675    
+4               0:15:11.702     0:05:48.931     26,418 kbps     33,746 kbps     00:16:37.329    28,622 kbps     00:18:07.169    28,043 kbps     00:19:01.640    137,729 bytes   637,635 bytes   00:15:43.525    
+5               0:21:00.634     0:04:42.949     26,892 kbps     35,450 kbps     00:23:25.946    29,492 kbps     00:24:18.331    28,700 kbps     00:24:12.909    140,202 bytes   599,141 bytes   00:24:40.854    
+6               0:25:43.583     0:05:06.681     27,073 kbps     34,040 kbps     00:26:36.386    29,576 kbps     00:30:01.966    28,777 kbps     00:30:01.966    141,144 bytes   726,750 bytes   00:26:34.759    
+7               0:30:50.265     0:07:10.596     27,104 kbps     38,216 kbps     00:31:46.905    30,859 kbps     00:31:43.151    29,789 kbps     00:31:37.896    141,306 bytes   641,450 bytes   00:35:18.574    
+8               0:38:00.861     0:06:36.479     26,805 kbps     37,130 kbps     00:39:01.547    29,998 kbps     00:44:18.947    28,745 kbps     00:44:14.068    139,751 bytes   640,123 bytes   00:41:36.202    
+9               0:44:37.341     0:05:30.329     26,837 kbps     38,710 kbps     00:46:32.790    30,920 kbps     00:46:30.287    30,129 kbps     00:46:32.790    139,917 bytes   680,684 bytes   00:44:47.935    
+10              0:50:07.671     0:06:13.623     26,998 kbps     37,797 kbps     00:55:58.354    30,444 kbps     00:56:14.412    28,836 kbps     00:56:09.157    140,753 bytes   753,004 bytes   00:50:51.965    
+11              0:56:21.294     0:04:46.286     26,825 kbps     37,135 kbps     00:58:16.993    29,395 kbps     01:00:31.586    28,464 kbps     00:59:48.710    139,851 bytes   721,872 bytes   01:00:08.604    
+12              1:01:07.580     0:05:54.979     27,020 kbps     38,244 kbps     01:02:55.730    31,606 kbps     01:01:33.773    29,689 kbps     01:01:32.689    140,872 bytes   764,844 bytes   01:04:43.462    
+13              1:07:02.560     0:03:28.249     26,573 kbps     38,938 kbps     01:10:03.991    28,990 kbps     01:09:44.889    28,329 kbps     01:07:20.453    138,539 bytes   722,564 bytes   01:08:21.263    
+14              1:10:30.809     0:04:04.327     26,479 kbps     41,271 kbps     01:12:26.050    29,400 kbps     01:13:19.103    28,535 kbps     01:13:20.396    138,047 bytes   697,961 bytes   01:12:41.357    
+15              1:14:35.137     0:07:16.853     26,768 kbps     36,310 kbps     01:18:06.640    29,729 kbps     01:21:10.448    28,523 kbps     01:18:01.259    139,555 bytes   638,857 bytes   01:20:35.330    
+16              1:21:51.990     0:12:50.686     26,907 kbps     38,606 kbps     01:22:31.196    30,475 kbps     01:34:29.455    28,547 kbps     01:34:29.455    140,286 bytes   645,357 bytes   01:23:11.611    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00354.M2TS      4113 (0x1011)   0x1B            AVC                                     5011.965                26,841                  16,816,044,765  91,462,164      
+00354.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5011.965                2,222                   1,392,251,168   8,365,408       
+00354.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5011.965                2,232                   1,398,438,836   8,398,446       
+00354.M2TS      4354 (0x1102)   0x86            DTS-HD MA       ita (Italian)           5011.965                2,221                   1,391,300,964   8,366,352       
+00354.M2TS      4355 (0x1103)   0x86            DTS-HD MA       spa (Spanish)           5011.965                2,231                   1,397,723,744   8,393,597       
+00354.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5011.965                53                      33,018,328      189,326         
+00354.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5011.965                56                      35,023,782      200,038         
+00354.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           5011.965                54                      33,948,149      194,285         
+00354.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5011.965                54                      33,545,397      192,344         
+00354.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5011.965                56                      35,203,440      201,126         
+00355.M2TS      4113 (0x1011)   0x1B            AVC                                     670.503                 26,910                  2,255,412,673   12,267,124      
+00355.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           670.503                 2,223                   186,274,896     1,116,885       
+00355.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            670.503                 2,257                   189,169,504     1,137,404       
+00355.M2TS      4354 (0x1102)   0x86            DTS-HD MA       ita (Italian)           670.503                 2,219                   185,942,380     1,115,523       
+00355.M2TS      4355 (0x1103)   0x86            DTS-HD MA       spa (Spanish)           670.503                 2,224                   186,397,192     1,117,396       
+00355.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           670.503                 21                      1,721,462       9,900           
+00355.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            670.503                 25                      2,064,069       11,753          
+00355.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           670.503                 10                      876,944         5,012           
+00355.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           670.503                 23                      1,891,288       10,834          
+00355.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           670.503                 23                      1,919,259       10,976          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Peter Rabbit – Blu-ray™
+Disc Label: Peter.Hase.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 34,048,343,736 bytes
+Protection: AACS
+Playlist: 00354.MPLS
+Size: 27,447,613,440 bytes
+Length: 1:34:42.676
+Total Bitrate: 38.64 Mbps
+Video: MPEG-4 AVC Video / 26849 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2220 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  2230 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: English / 48.906 kbps
+Subtitle: German / 52.212 kbps
+Subtitle: Italian / 49.026 kbps
+Subtitle: Spanish / 49.887 kbps
+Subtitle: Turkish / 52.261 kbps
+
+
+********************
+PLAYLIST: 00355.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00355.MPLS                                                      AVC     1:34:42 27,447,902,208  34,048,343,736  38.64   26.85   DTS-HD Master 5.1 2222Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Peter Rabbit – Blu-ray™
+Disc Label:     Peter.Hase.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      34,048,343,736 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00355.MPLS
+Length:                 1:34:42.676 (h:m:s.ms)
+Size:                   27,447,902,208 bytes
+Total Bitrate:          38.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26849 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2222 kbps       5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2235 kbps       5.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Italian         2220 kbps       5.1 / 48 kHz /  2220 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Spanish         2230 kbps       5.1 / 48 kHz /  2230 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         48.906 kbps                     
+Presentation Graphics           German          52.212 kbps                     
+Presentation Graphics           Italian         49.026 kbps                     
+Presentation Graphics           Spanish         49.887 kbps                     
+Presentation Graphics           Turkish         52.261 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00354.M2TS      0:00:00.000     1:23:32.090     24,217,159,680  38,654          
+00356.M2TS      1:23:32.090     0:11:10.586     3,230,742,528   38,542          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:04.786     26,463 kbps     44,849 kbps     00:01:49.442    32,026 kbps     00:02:56.217    30,652 kbps     00:01:49.442    137,941 bytes   707,177 bytes   00:03:08.313    
+2               0:04:04.786     0:04:21.511     27,085 kbps     45,669 kbps     00:06:51.577    30,890 kbps     00:04:47.120    28,805 kbps     00:06:42.610    141,207 bytes   702,386 bytes   00:04:58.131    
+3               0:08:26.297     0:06:45.405     26,952 kbps     38,495 kbps     00:14:52.892    30,653 kbps     00:13:08.788    28,860 kbps     00:10:57.990    140,513 bytes   762,013 bytes   00:11:15.675    
+4               0:15:11.702     0:05:48.931     26,418 kbps     33,746 kbps     00:16:37.329    28,622 kbps     00:18:07.169    28,043 kbps     00:19:01.640    137,729 bytes   637,635 bytes   00:15:43.525    
+5               0:21:00.634     0:04:42.949     26,892 kbps     35,450 kbps     00:23:25.946    29,492 kbps     00:24:18.331    28,700 kbps     00:24:12.909    140,202 bytes   599,141 bytes   00:24:40.854    
+6               0:25:43.583     0:05:06.681     27,073 kbps     34,040 kbps     00:26:36.386    29,576 kbps     00:30:01.966    28,777 kbps     00:30:01.966    141,144 bytes   726,750 bytes   00:26:34.759    
+7               0:30:50.265     0:07:10.596     27,104 kbps     38,216 kbps     00:31:46.905    30,859 kbps     00:31:43.151    29,789 kbps     00:31:37.896    141,306 bytes   641,450 bytes   00:35:18.574    
+8               0:38:00.861     0:06:36.479     26,805 kbps     37,130 kbps     00:39:01.547    29,998 kbps     00:44:18.947    28,745 kbps     00:44:14.068    139,751 bytes   640,123 bytes   00:41:36.202    
+9               0:44:37.341     0:05:30.329     26,837 kbps     38,710 kbps     00:46:32.790    30,920 kbps     00:46:30.287    30,129 kbps     00:46:32.790    139,917 bytes   680,684 bytes   00:44:47.935    
+10              0:50:07.671     0:06:13.623     26,998 kbps     37,797 kbps     00:55:58.354    30,444 kbps     00:56:14.412    28,836 kbps     00:56:09.157    140,753 bytes   753,004 bytes   00:50:51.965    
+11              0:56:21.294     0:04:46.286     26,825 kbps     37,135 kbps     00:58:16.993    29,395 kbps     01:00:31.586    28,464 kbps     00:59:48.710    139,851 bytes   721,872 bytes   01:00:08.604    
+12              1:01:07.580     0:05:54.979     27,020 kbps     38,244 kbps     01:02:55.730    31,606 kbps     01:01:33.773    29,689 kbps     01:01:32.689    140,872 bytes   764,844 bytes   01:04:43.462    
+13              1:07:02.560     0:03:28.249     26,573 kbps     38,938 kbps     01:10:03.991    28,990 kbps     01:09:44.889    28,329 kbps     01:07:20.453    138,539 bytes   722,564 bytes   01:08:21.263    
+14              1:10:30.809     0:04:04.327     26,479 kbps     41,271 kbps     01:12:26.050    29,400 kbps     01:13:19.103    28,535 kbps     01:13:20.396    138,047 bytes   697,961 bytes   01:12:41.357    
+15              1:14:35.137     0:07:16.853     26,768 kbps     36,310 kbps     01:18:06.640    29,729 kbps     01:21:10.448    28,523 kbps     01:18:01.259    139,555 bytes   638,857 bytes   01:20:35.330    
+16              1:21:51.990     0:12:50.686     26,909 kbps     38,606 kbps     01:22:31.196    30,364 kbps     01:34:29.455    28,543 kbps     01:34:29.455    140,301 bytes   645,357 bytes   01:23:11.611    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00354.M2TS      4113 (0x1011)   0x1B            AVC                                     5011.965                26,841                  16,816,044,765  91,462,164      
+00354.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5011.965                2,222                   1,392,251,168   8,365,408       
+00354.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5011.965                2,232                   1,398,438,836   8,398,446       
+00354.M2TS      4354 (0x1102)   0x86            DTS-HD MA       ita (Italian)           5011.965                2,221                   1,391,300,964   8,366,352       
+00354.M2TS      4355 (0x1103)   0x86            DTS-HD MA       spa (Spanish)           5011.965                2,231                   1,397,723,744   8,393,597       
+00354.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5011.965                53                      33,018,328      189,326         
+00354.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5011.965                56                      35,023,782      200,038         
+00354.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           5011.965                54                      33,948,149      194,285         
+00354.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5011.965                54                      33,545,397      192,344         
+00354.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5011.965                56                      35,203,440      201,126         
+00356.M2TS      4113 (0x1011)   0x1B            AVC                                     670.503                 26,913                  2,255,689,721   12,268,628      
+00356.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           670.503                 2,223                   186,274,896     1,116,885       
+00356.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            670.503                 2,257                   189,169,504     1,137,404       
+00356.M2TS      4354 (0x1102)   0x86            DTS-HD MA       ita (Italian)           670.503                 2,219                   185,942,380     1,115,523       
+00356.M2TS      4355 (0x1103)   0x86            DTS-HD MA       spa (Spanish)           670.503                 2,224                   186,397,192     1,117,396       
+00356.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           670.503                 21                      1,721,462       9,900           
+00356.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            670.503                 25                      2,064,069       11,753          
+00356.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           670.503                 10                      876,944         5,012           
+00356.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           670.503                 23                      1,891,288       10,834          
+00356.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           670.503                 23                      1,919,259       10,976          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Peter Rabbit – Blu-ray™
+Disc Label: Peter.Hase.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 34,048,343,736 bytes
+Protection: AACS
+Playlist: 00355.MPLS
+Size: 27,447,902,208 bytes
+Length: 1:34:42.676
+Total Bitrate: 38.64 Mbps
+Video: MPEG-4 AVC Video / 26849 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2220 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  2230 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: English / 48.906 kbps
+Subtitle: German / 52.212 kbps
+Subtitle: Italian / 49.026 kbps
+Subtitle: Spanish / 49.887 kbps
+Subtitle: Turkish / 52.261 kbps
+
+
+********************
+PLAYLIST: 00356.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00356.MPLS                                                      AVC     1:23:32 24,217,159,680  34,048,343,736  38.65   26.84   DTS-HD Master 5.1 2222Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Peter Rabbit – Blu-ray™
+Disc Label:     Peter.Hase.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      34,048,343,736 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00356.MPLS
+Length:                 1:23:32.090 (h:m:s.ms)
+Size:                   24,217,159,680 bytes
+Total Bitrate:          38.65 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26841 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2222 kbps       5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2232 kbps       5.1 / 48 kHz /  2232 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Italian         2221 kbps       5.1 / 48 kHz /  2221 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Spanish         2231 kbps       5.1 / 48 kHz /  2231 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         52.702 kbps                     
+Presentation Graphics           German          55.903 kbps                     
+Presentation Graphics           Italian         54.186 kbps                     
+Presentation Graphics           Spanish         53.543 kbps                     
+Presentation Graphics           Turkish         56.190 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00354.M2TS      0:00:00.000     1:23:32.090     24,217,159,680  38,654          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:23:32.090     26,841 kbps     45,669 kbps     00:06:51.577    32,026 kbps     00:02:56.217    30,652 kbps     00:01:49.442    139,935 bytes   764,844 bytes   01:04:43.462    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00354.M2TS      4113 (0x1011)   0x1B            AVC                                     5011.965                26,841                  16,816,044,765  91,462,164      
+00354.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5011.965                2,222                   1,392,251,168   8,365,408       
+00354.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5011.965                2,232                   1,398,438,836   8,398,446       
+00354.M2TS      4354 (0x1102)   0x86            DTS-HD MA       ita (Italian)           5011.965                2,221                   1,391,300,964   8,366,352       
+00354.M2TS      4355 (0x1103)   0x86            DTS-HD MA       spa (Spanish)           5011.965                2,231                   1,397,723,744   8,393,597       
+00354.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5011.965                53                      33,018,328      189,326         
+00354.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5011.965                56                      35,023,782      200,038         
+00354.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           5011.965                54                      33,948,149      194,285         
+00354.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5011.965                54                      33,545,397      192,344         
+00354.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5011.965                56                      35,203,440      201,126         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Peter Rabbit – Blu-ray™
+Disc Label: Peter.Hase.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 34,048,343,736 bytes
+Protection: AACS
+Playlist: 00356.MPLS
+Size: 24,217,159,680 bytes
+Length: 1:23:32.090
+Total Bitrate: 38.65 Mbps
+Video: MPEG-4 AVC Video / 26841 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2232 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2221 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  2231 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: English / 52.702 kbps
+Subtitle: German / 55.903 kbps
+Subtitle: Italian / 54.186 kbps
+Subtitle: Spanish / 53.543 kbps
+Subtitle: Turkish / 56.190 kbps
+

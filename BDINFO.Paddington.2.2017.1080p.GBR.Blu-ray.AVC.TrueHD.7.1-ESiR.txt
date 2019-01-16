@@ -1,0 +1,228 @@
+Disc Title:     Paddington 2
+Disc Label:     Paddington.2.2017.1080p.GBR.Blu-ray.AVC.TrueHD.7.1-ESiR
+Disc Size:      41,966,855,335 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00035.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00035.MPLS                                                      AVC     1:43:17 31,238,615,040  41,966,855,335  40.32   27.99   Dolby Atmos 7.1 4760Kbps (48kHz/24-bit)   DTS-HD Master 5.1 2212Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Paddington 2
+Disc Label:     Paddington.2.2017.1080p.GBR.Blu-ray.AVC.TrueHD.7.1-ESiR
+Disc Size:      41,966,855,335 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00035.MPLS
+Length:                 1:43:17.958 (h:m:s.ms)
+Size:                   31,238,615,040 bytes
+Total Bitrate:          40.32 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27995 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         4760 kbps       7.1 / 48 kHz /  4120 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+DTS-HD Master Audio             English         2212 kbps       5.1 / 48 kHz /  2212 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         1734 kbps       2.0 / 48 kHz /  1734 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         56.476 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00038.M2TS      0:00:00.000     1:43:17.958     31,238,615,040  40,321          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:08.541     27,508 kbps     35,936 kbps     00:00:15.666    31,144 kbps     00:00:11.708    30,311 kbps     00:04:39.000    143,257 bytes   479,359 bytes   00:05:48.708    
+2               0:08:08.541     0:10:40.041     29,348 kbps     32,628 kbps     00:17:37.916    30,437 kbps     00:16:17.750    30,190 kbps     00:16:12.625    152,852 bytes   535,907 bytes   00:17:50.875    
+3               0:18:48.583     0:08:17.416     28,781 kbps     32,241 kbps     00:22:48.333    30,276 kbps     00:26:23.750    30,059 kbps     00:26:18.833    149,902 bytes   445,262 bytes   00:19:32.125    
+4               0:27:06.000     0:11:41.375     29,469 kbps     32,527 kbps     00:32:52.875    30,404 kbps     00:28:09.208    30,115 kbps     00:28:04.166    153,484 bytes   470,073 bytes   00:37:00.500    
+5               0:38:47.375     0:08:59.541     29,358 kbps     34,747 kbps     00:39:04.791    30,983 kbps     00:39:13.541    30,208 kbps     00:38:53.541    152,907 bytes   637,482 bytes   00:39:19.625    
+6               0:47:46.916     0:08:06.791     28,849 kbps     32,566 kbps     00:54:23.958    30,416 kbps     00:53:58.708    30,109 kbps     00:54:19.958    150,253 bytes   510,908 bytes   00:54:25.000    
+7               0:55:53.708     0:06:23.791     28,823 kbps     32,822 kbps     00:57:14.458    30,349 kbps     01:02:10.333    30,024 kbps     01:02:05.291    150,119 bytes   545,666 bytes   00:57:14.500    
+8               1:02:17.500     0:07:14.375     29,088 kbps     33,285 kbps     01:02:46.875    30,520 kbps     01:02:42.916    30,105 kbps     01:09:21.833    151,502 bytes   491,836 bytes   01:09:31.833    
+9               1:09:31.875     0:07:07.166     29,634 kbps     32,730 kbps     01:13:22.375    30,390 kbps     01:15:25.750    30,055 kbps     01:12:22.000    154,342 bytes   495,439 bytes   01:09:32.833    
+10              1:16:39.041     0:07:34.208     28,764 kbps     32,872 kbps     01:18:43.666    30,334 kbps     01:18:39.750    30,028 kbps     01:22:38.041    149,815 bytes   427,438 bytes   01:21:51.291    
+11              1:24:13.250     0:09:36.750     28,394 kbps     35,990 kbps     01:24:38.583    30,792 kbps     01:33:43.666    30,330 kbps     01:33:38.625    147,887 bytes   452,637 bytes   01:24:39.583    
+12              1:33:50.000     0:09:27.958     18,703 kbps     34,395 kbps     01:36:47.166    30,815 kbps     01:36:43.291    30,374 kbps     01:36:38.083    97,420 bytes    513,323 bytes   01:36:59.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00038.M2TS      4113 (0x1011)   0x1B            AVC                                     6197.792                27,996                  21,688,789,923  117,960,552     
+00038.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           6197.792                4,760                   3,687,966,888   24,778,473      
+00038.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6197.792                2,212                   1,713,685,120   10,317,849      
+00038.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           6197.792                1,734                   1,343,096,092   8,218,075       
+00038.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           6197.792                192                     148,751,616     968,435         
+00038.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6197.792                56                      43,754,380      250,063         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Paddington 2
+Disc Label: Paddington.2.2017.1080p.GBR.Blu-ray.AVC.TrueHD.7.1-ESiR
+Disc Size: 41,966,855,335 bytes
+Protection: AACS
+Playlist: 00035.MPLS
+Size: 31,238,615,040 bytes
+Length: 1:43:17.958
+Total Bitrate: 40.32 Mbps
+Video: MPEG-4 AVC Video / 27995 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4120 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2212 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1734 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB / Dolby Surround
+Subtitle: English / 56.476 kbps
+
+
+********************
+PLAYLIST: 00036.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00036.MPLS                                                      AVC     1:43:17 31,238,615,040  41,966,855,335  40.32   27.99   Dolby Atmos 7.1 4760Kbps (48kHz/24-bit)   DTS-HD Master 5.1 2212Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Paddington 2
+Disc Label:     Paddington.2.2017.1080p.GBR.Blu-ray.AVC.TrueHD.7.1-ESiR
+Disc Size:      41,966,855,335 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00036.MPLS
+Length:                 1:43:17.958 (h:m:s.ms)
+Size:                   31,238,615,040 bytes
+Total Bitrate:          40.32 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27995 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         4760 kbps       7.1 / 48 kHz /  4120 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+DTS-HD Master Audio             English         2212 kbps       5.1 / 48 kHz /  2212 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         1734 kbps       2.0 / 48 kHz /  1734 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         56.476 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00038.M2TS      0:00:00.000     1:43:17.958     31,238,615,040  40,321          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:08.541     27,508 kbps     35,936 kbps     00:00:15.666    31,144 kbps     00:00:11.708    30,311 kbps     00:04:39.000    143,257 bytes   479,359 bytes   00:05:48.708    
+2               0:08:08.541     0:10:40.041     29,348 kbps     32,628 kbps     00:17:37.916    30,437 kbps     00:16:17.750    30,190 kbps     00:16:12.625    152,852 bytes   535,907 bytes   00:17:50.875    
+3               0:18:48.583     0:08:17.416     28,781 kbps     32,241 kbps     00:22:48.333    30,276 kbps     00:26:23.750    30,059 kbps     00:26:18.833    149,902 bytes   445,262 bytes   00:19:32.125    
+4               0:27:06.000     0:11:41.375     29,469 kbps     32,527 kbps     00:32:52.875    30,404 kbps     00:28:09.208    30,115 kbps     00:28:04.166    153,484 bytes   470,073 bytes   00:37:00.500    
+5               0:38:47.375     0:08:59.541     29,358 kbps     34,747 kbps     00:39:04.791    30,983 kbps     00:39:13.541    30,208 kbps     00:38:53.541    152,907 bytes   637,482 bytes   00:39:19.625    
+6               0:47:46.916     0:08:06.791     28,849 kbps     32,566 kbps     00:54:23.958    30,416 kbps     00:53:58.708    30,109 kbps     00:54:19.958    150,253 bytes   510,908 bytes   00:54:25.000    
+7               0:55:53.708     0:06:23.791     28,823 kbps     32,822 kbps     00:57:14.458    30,349 kbps     01:02:10.333    30,024 kbps     01:02:05.291    150,119 bytes   545,666 bytes   00:57:14.500    
+8               1:02:17.500     0:07:14.375     29,088 kbps     33,285 kbps     01:02:46.875    30,520 kbps     01:02:42.916    30,105 kbps     01:09:21.833    151,502 bytes   491,836 bytes   01:09:31.833    
+9               1:09:31.875     0:07:07.166     29,634 kbps     32,730 kbps     01:13:22.375    30,390 kbps     01:15:25.750    30,055 kbps     01:12:22.000    154,342 bytes   495,439 bytes   01:09:32.833    
+10              1:16:39.041     0:07:34.208     28,764 kbps     32,872 kbps     01:18:43.666    30,334 kbps     01:18:39.750    30,028 kbps     01:22:38.041    149,815 bytes   427,438 bytes   01:21:51.291    
+11              1:24:13.250     0:09:36.750     28,394 kbps     35,990 kbps     01:24:38.583    30,792 kbps     01:33:43.666    30,330 kbps     01:33:38.625    147,887 bytes   452,637 bytes   01:24:39.583    
+12              1:33:50.000     0:09:27.958     18,703 kbps     34,395 kbps     01:36:47.166    30,815 kbps     01:36:43.291    30,374 kbps     01:36:38.083    97,420 bytes    513,323 bytes   01:36:59.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00038.M2TS      4113 (0x1011)   0x1B            AVC                                     6197.792                27,996                  21,688,789,923  117,960,552     
+00038.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           6197.792                4,760                   3,687,966,888   24,778,473      
+00038.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6197.792                2,212                   1,713,685,120   10,317,849      
+00038.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           6197.792                1,734                   1,343,096,092   8,218,075       
+00038.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           6197.792                192                     148,751,616     968,435         
+00038.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6197.792                56                      43,754,380      250,063         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Paddington 2
+Disc Label: Paddington.2.2017.1080p.GBR.Blu-ray.AVC.TrueHD.7.1-ESiR
+Disc Size: 41,966,855,335 bytes
+Protection: AACS
+Playlist: 00036.MPLS
+Size: 31,238,615,040 bytes
+Length: 1:43:17.958
+Total Bitrate: 40.32 Mbps
+Video: MPEG-4 AVC Video / 27995 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4120 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2212 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1734 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB / Dolby Surround
+Subtitle: English / 56.476 kbps
+
