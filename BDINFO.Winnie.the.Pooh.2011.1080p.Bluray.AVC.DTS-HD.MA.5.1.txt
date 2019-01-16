@@ -1,0 +1,408 @@
+Disc Title:     Winnie The Pooh - Blu-ray™
+Disc Label:     Winnie.the.Pooh.2011.1080p.Bluray.AVC.DTS-HD.MA.5.1
+Disc Size:      31,454,645,745 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00509.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00509.MPLS                                                      AVC     1:03:03 18,851,377,152  31,454,645,745  39.86   32.02   DTS-HD Master 5.1 3472Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Winnie The Pooh - Blu-ray™
+Disc Label:     Winnie.the.Pooh.2011.1080p.Bluray.AVC.DTS-HD.MA.5.1
+Disc Size:      31,454,645,745 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00509.MPLS
+Length:                 1:03:03.446 (h:m:s.ms)
+Size:                   18,851,377,152 bytes
+Total Bitrate:          39.86 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32018 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3472 kbps       5.1 / 48 kHz /  3472 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             Russian         384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+Dolby Digital Audio             Ukrainian       384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         765.224 kbps                    
+Presentation Graphics           Russian         45.782 kbps                     
+Presentation Graphics           Ukrainian       46.781 kbps                     
+Presentation Graphics           Russian         0.014 kbps                      
+Presentation Graphics           Ukrainian       0.014 kbps                      
+Presentation Graphics           English         318.298 kbps                    
+Presentation Graphics           Russian         0.014 kbps                      
+Presentation Graphics           Ukrainian       0.014 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00222.M2TS      0:00:00.000     1:03:03.446     18,851,377,152  39,861          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:31.581     32,216 kbps     46,604 kbps     00:00:46.546    38,840 kbps     00:00:26.151    38,404 kbps     00:00:21.146    167,941 bytes   640,884 bytes   00:04:02.450    
+2               0:05:31.581     0:04:22.929     31,422 kbps     45,360 kbps     00:09:28.859    37,817 kbps     00:09:41.455    36,568 kbps     00:09:36.701    163,820 bytes   640,489 bytes   00:09:31.362    
+3               0:09:54.510     0:06:07.241     31,859 kbps     45,754 kbps     00:13:06.285    37,854 kbps     00:14:04.510    36,859 kbps     00:10:42.683    166,096 bytes   640,925 bytes   00:14:39.211    
+4               0:16:01.752     0:04:22.136     32,441 kbps     41,725 kbps     00:16:12.471    38,451 kbps     00:16:08.425    38,286 kbps     00:16:03.420    169,134 bytes   639,968 bytes   00:18:06.376    
+5               0:20:23.889     0:02:50.295     34,079 kbps     47,397 kbps     00:21:21.989    39,006 kbps     00:21:17.985    38,441 kbps     00:21:12.938    177,675 bytes   639,807 bytes   00:21:48.765    
+6               0:23:14.184     0:03:08.646     30,456 kbps     42,955 kbps     00:23:18.772    36,971 kbps     00:23:14.810    35,026 kbps     00:24:36.349    158,785 bytes   640,578 bytes   00:23:29.199    
+7               0:26:22.831     0:03:46.768     32,026 kbps     45,284 kbps     00:29:24.012    38,755 kbps     00:26:57.616    36,126 kbps     00:28:50.729    166,970 bytes   640,834 bytes   00:27:04.205    
+8               0:30:09.599     0:05:14.564     32,074 kbps     45,238 kbps     00:33:16.786    38,693 kbps     00:34:38.910    38,311 kbps     00:34:33.988    167,218 bytes   640,051 bytes   00:31:28.094    
+9               0:35:24.163     0:06:13.164     31,837 kbps     41,299 kbps     00:37:35.878    36,928 kbps     00:38:19.755    35,401 kbps     00:38:17.420    165,986 bytes   640,665 bytes   00:37:12.021    
+10              0:41:37.328     0:04:09.832     31,950 kbps     44,292 kbps     00:45:24.596    37,766 kbps     00:43:32.568    36,300 kbps     00:43:32.568    166,572 bytes   640,843 bytes   00:44:50.312    
+11              0:45:47.161     0:02:21.766     31,828 kbps     41,955 kbps     00:47:29.972    37,671 kbps     00:46:05.262    36,081 kbps     00:46:05.137    165,935 bytes   640,706 bytes   00:46:37.252    
+12              0:48:08.927     0:02:56.175     31,399 kbps     42,588 kbps     00:48:26.945    37,290 kbps     00:50:11.758    34,880 kbps     00:50:13.135    163,701 bytes   639,467 bytes   00:48:29.323    
+13              0:51:05.103     0:02:30.900     33,255 kbps     46,034 kbps     00:53:34.085    39,004 kbps     00:53:30.165    38,639 kbps     00:53:25.160    173,375 bytes   640,921 bytes   00:52:32.482    
+14              0:53:36.004     0:09:27.441     32,010 kbps     46,132 kbps     01:02:54.061    39,286 kbps     01:02:50.183    38,244 kbps     01:02:51.851    166,899 bytes   637,643 bytes   00:53:49.643    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00222.M2TS      4113 (0x1011)   0x1B            AVC                                     3783.280                32,019                  15,142,185,206  82,347,249      
+00222.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3783.280                3,472                   1,642,147,400   9,515,848       
+00222.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           3783.280                320                     151,338,240     945,864         
+00222.M2TS      4354 (0x1102)   0x81            AC3             rus (Russian)           3783.280                384                     181,630,464     1,064,241       
+00222.M2TS      4355 (0x1103)   0x81            AC3             ukr (Ukrainian)         3783.280                384                     181,630,464     1,064,241       
+00222.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3783.280                765                     361,898,207     2,024,672       
+00222.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           3783.280                46                      21,651,530      124,199         
+00222.M2TS      4610 (0x1202)   0x90            PGS             ukr (Ukrainian)         3783.280                47                      22,124,314      126,778         
+00222.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           3783.280                0                       6,762           44              
+00222.M2TS      4612 (0x1204)   0x90            PGS             ukr (Ukrainian)         3783.280                0                       6,762           44              
+00222.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           3783.280                318                     150,533,155     844,199         
+00222.M2TS      4614 (0x1206)   0x90            PGS             rus (Russian)           3783.280                0                       6,762           44              
+00222.M2TS      4615 (0x1207)   0x90            PGS             ukr (Ukrainian)         3783.280                0                       6,762           44              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Winnie The Pooh - Blu-ray™
+Disc Label: Winnie.the.Pooh.2011.1080p.Bluray.AVC.DTS-HD.MA.5.1
+Disc Size: 31,454,645,745 bytes
+Protection: AACS
+Playlist: 00509.MPLS
+Size: 18,851,377,152 bytes
+Length: 1:03:03.446
+Total Bitrate: 39.86 Mbps
+Video: MPEG-4 AVC Video / 32018 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3472 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+Subtitle: English / 765.224 kbps
+Subtitle: Russian / 45.782 kbps
+Subtitle: Ukrainian / 46.781 kbps
+Subtitle: Russian / 0.014 kbps
+Subtitle: Ukrainian / 0.014 kbps
+Subtitle: English / 318.298 kbps
+Subtitle: Russian / 0.014 kbps
+Subtitle: Ukrainian / 0.014 kbps
+
+
+********************
+PLAYLIST: 00557.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00557.MPLS                                                      AVC     1:03:03 18,851,377,152  31,454,645,745  39.86   32.02   DTS-HD Master 5.1 3472Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Winnie The Pooh - Blu-ray™
+Disc Label:     Winnie.the.Pooh.2011.1080p.Bluray.AVC.DTS-HD.MA.5.1
+Disc Size:      31,454,645,745 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00557.MPLS
+Length:                 1:03:03.446 (h:m:s.ms)
+Size:                   18,851,377,152 bytes
+Total Bitrate:          39.86 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32018 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         3472 kbps       5.1 / 48 kHz /  3472 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Dolby Digital Audio           Russian         384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+* Dolby Digital Audio           Ukrainian       384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         765.224 kbps                    
+* Presentation Graphics         Russian         45.782 kbps                     
+* Presentation Graphics         Ukrainian       46.781 kbps                     
+* Presentation Graphics         Russian         0.014 kbps                      
+* Presentation Graphics         Ukrainian       0.014 kbps                      
+* Presentation Graphics         English         318.298 kbps                    
+* Presentation Graphics         Russian         0.014 kbps                      
+* Presentation Graphics         Ukrainian       0.014 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00222.M2TS      0:00:00.000     1:03:03.446     18,851,377,152  39,861          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:31.581     32,216 kbps     46,604 kbps     00:00:46.546    38,840 kbps     00:00:26.151    38,404 kbps     00:00:21.146    167,941 bytes   640,884 bytes   00:04:02.450    
+2               0:05:31.581     0:04:22.929     31,422 kbps     45,360 kbps     00:09:28.859    37,817 kbps     00:09:41.455    36,568 kbps     00:09:36.701    163,820 bytes   640,489 bytes   00:09:31.362    
+3               0:09:54.510     0:06:07.241     31,859 kbps     45,754 kbps     00:13:06.285    37,854 kbps     00:14:04.510    36,859 kbps     00:10:42.683    166,096 bytes   640,925 bytes   00:14:39.211    
+4               0:16:01.752     0:04:22.136     32,441 kbps     41,725 kbps     00:16:12.471    38,451 kbps     00:16:08.425    38,286 kbps     00:16:03.420    169,134 bytes   639,968 bytes   00:18:06.376    
+5               0:20:23.889     0:02:50.295     34,079 kbps     47,397 kbps     00:21:21.989    39,006 kbps     00:21:17.985    38,441 kbps     00:21:12.938    177,675 bytes   639,807 bytes   00:21:48.765    
+6               0:23:14.184     0:03:08.646     30,456 kbps     42,955 kbps     00:23:18.772    36,971 kbps     00:23:14.810    35,026 kbps     00:24:36.349    158,785 bytes   640,578 bytes   00:23:29.199    
+7               0:26:22.831     0:03:46.768     32,026 kbps     45,284 kbps     00:29:24.012    38,755 kbps     00:26:57.616    36,126 kbps     00:28:50.729    166,970 bytes   640,834 bytes   00:27:04.205    
+8               0:30:09.599     0:05:14.564     32,074 kbps     45,238 kbps     00:33:16.786    38,693 kbps     00:34:38.910    38,311 kbps     00:34:33.988    167,218 bytes   640,051 bytes   00:31:28.094    
+9               0:35:24.163     0:06:13.164     31,837 kbps     41,299 kbps     00:37:35.878    36,928 kbps     00:38:19.755    35,401 kbps     00:38:17.420    165,986 bytes   640,665 bytes   00:37:12.021    
+10              0:41:37.328     0:04:09.832     31,950 kbps     44,292 kbps     00:45:24.596    37,766 kbps     00:43:32.568    36,300 kbps     00:43:32.568    166,572 bytes   640,843 bytes   00:44:50.312    
+11              0:45:47.161     0:02:21.766     31,828 kbps     41,955 kbps     00:47:29.972    37,671 kbps     00:46:05.262    36,081 kbps     00:46:05.137    165,935 bytes   640,706 bytes   00:46:37.252    
+12              0:48:08.927     0:02:56.175     31,399 kbps     42,588 kbps     00:48:26.945    37,290 kbps     00:50:11.758    34,880 kbps     00:50:13.135    163,701 bytes   639,467 bytes   00:48:29.323    
+13              0:51:05.103     0:02:30.900     33,255 kbps     46,034 kbps     00:53:34.085    39,004 kbps     00:53:30.165    38,639 kbps     00:53:25.160    173,375 bytes   640,921 bytes   00:52:32.482    
+14              0:53:36.004     0:09:27.441     32,010 kbps     46,132 kbps     01:02:54.061    39,286 kbps     01:02:50.183    38,244 kbps     01:02:51.851    166,899 bytes   637,643 bytes   00:53:49.643    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00222.M2TS      4113 (0x1011)   0x1B            AVC                                     3783.280                32,019                  15,142,185,206  82,347,249      
+00222.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3783.280                3,472                   1,642,147,400   9,515,848       
+00222.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           3783.280                320                     151,338,240     945,864         
+00222.M2TS      4354 (0x1102)   0x81            AC3             rus (Russian)           3783.280                384                     181,630,464     1,064,241       
+00222.M2TS      4355 (0x1103)   0x81            AC3             ukr (Ukrainian)         3783.280                384                     181,630,464     1,064,241       
+00222.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3783.280                765                     361,898,207     2,024,672       
+00222.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           3783.280                46                      21,651,530      124,199         
+00222.M2TS      4610 (0x1202)   0x90            PGS             ukr (Ukrainian)         3783.280                47                      22,124,314      126,778         
+00222.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           3783.280                0                       6,762           44              
+00222.M2TS      4612 (0x1204)   0x90            PGS             ukr (Ukrainian)         3783.280                0                       6,762           44              
+00222.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           3783.280                318                     150,533,155     844,199         
+00222.M2TS      4614 (0x1206)   0x90            PGS             rus (Russian)           3783.280                0                       6,762           44              
+00222.M2TS      4615 (0x1207)   0x90            PGS             ukr (Ukrainian)         3783.280                0                       6,762           44              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Winnie The Pooh - Blu-ray™
+Disc Label: Winnie.the.Pooh.2011.1080p.Bluray.AVC.DTS-HD.MA.5.1
+Disc Size: 31,454,645,745 bytes
+Protection: AACS
+Playlist: 00557.MPLS
+Size: 18,851,377,152 bytes
+Length: 1:03:03.446
+Total Bitrate: 39.86 Mbps
+Video: MPEG-4 AVC Video / 32018 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3472 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+* Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+* Subtitle: English / 765.224 kbps
+* Subtitle: Russian / 45.782 kbps
+* Subtitle: Ukrainian / 46.781 kbps
+* Subtitle: Russian / 0.014 kbps
+* Subtitle: Ukrainian / 0.014 kbps
+* Subtitle: English / 318.298 kbps
+* Subtitle: Russian / 0.014 kbps
+* Subtitle: Ukrainian / 0.014 kbps
+
+
+********************
+PLAYLIST: 00573.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00573.MPLS                                                      AVC     1:03:03 18,851,377,152  31,454,645,745  39.86   32.02   DTS-HD Master 5.1 3472Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Winnie The Pooh - Blu-ray™
+Disc Label:     Winnie.the.Pooh.2011.1080p.Bluray.AVC.DTS-HD.MA.5.1
+Disc Size:      31,454,645,745 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00573.MPLS
+Length:                 1:03:03.446 (h:m:s.ms)
+Size:                   18,851,377,152 bytes
+Total Bitrate:          39.86 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32018 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3472 kbps       5.1 / 48 kHz /  3472 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             Russian         384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+Dolby Digital Audio             Ukrainian       384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         765.224 kbps                    
+Presentation Graphics           Russian         45.782 kbps                     
+Presentation Graphics           Ukrainian       46.781 kbps                     
+Presentation Graphics           Russian         0.014 kbps                      
+Presentation Graphics           Ukrainian       0.014 kbps                      
+Presentation Graphics           English         318.298 kbps                    
+Presentation Graphics           Russian         0.014 kbps                      
+Presentation Graphics           Ukrainian       0.014 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00222.M2TS      0:00:00.000     1:03:03.446     18,851,377,152  39,861          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:31.581     32,216 kbps     46,604 kbps     00:00:46.546    38,840 kbps     00:00:26.151    38,404 kbps     00:00:21.146    167,941 bytes   640,884 bytes   00:04:02.450    
+2               0:05:31.581     0:04:22.929     31,422 kbps     45,360 kbps     00:09:28.859    37,817 kbps     00:09:41.455    36,568 kbps     00:09:36.701    163,820 bytes   640,489 bytes   00:09:31.362    
+3               0:09:54.510     0:06:07.241     31,859 kbps     45,754 kbps     00:13:06.285    37,854 kbps     00:14:04.510    36,859 kbps     00:10:42.683    166,096 bytes   640,925 bytes   00:14:39.211    
+4               0:16:01.752     0:04:22.136     32,441 kbps     41,725 kbps     00:16:12.471    38,451 kbps     00:16:08.425    38,286 kbps     00:16:03.420    169,134 bytes   639,968 bytes   00:18:06.376    
+5               0:20:23.889     0:02:50.295     34,079 kbps     47,397 kbps     00:21:21.989    39,006 kbps     00:21:17.985    38,441 kbps     00:21:12.938    177,675 bytes   639,807 bytes   00:21:48.765    
+6               0:23:14.184     0:03:08.646     30,456 kbps     42,955 kbps     00:23:18.772    36,971 kbps     00:23:14.810    35,026 kbps     00:24:36.349    158,785 bytes   640,578 bytes   00:23:29.199    
+7               0:26:22.831     0:03:46.768     32,026 kbps     45,284 kbps     00:29:24.012    38,755 kbps     00:26:57.616    36,126 kbps     00:28:50.729    166,970 bytes   640,834 bytes   00:27:04.205    
+8               0:30:09.599     0:05:14.564     32,074 kbps     45,238 kbps     00:33:16.786    38,693 kbps     00:34:38.910    38,311 kbps     00:34:33.988    167,218 bytes   640,051 bytes   00:31:28.094    
+9               0:35:24.163     0:06:13.164     31,837 kbps     41,299 kbps     00:37:35.878    36,928 kbps     00:38:19.755    35,401 kbps     00:38:17.420    165,986 bytes   640,665 bytes   00:37:12.021    
+10              0:41:37.328     0:04:09.832     31,950 kbps     44,292 kbps     00:45:24.596    37,766 kbps     00:43:32.568    36,300 kbps     00:43:32.568    166,572 bytes   640,843 bytes   00:44:50.312    
+11              0:45:47.161     0:02:21.766     31,828 kbps     41,955 kbps     00:47:29.972    37,671 kbps     00:46:05.262    36,081 kbps     00:46:05.137    165,935 bytes   640,706 bytes   00:46:37.252    
+12              0:48:08.927     0:02:56.175     31,399 kbps     42,588 kbps     00:48:26.945    37,290 kbps     00:50:11.758    34,880 kbps     00:50:13.135    163,701 bytes   639,467 bytes   00:48:29.323    
+13              0:51:05.103     0:02:30.900     33,255 kbps     46,034 kbps     00:53:34.085    39,004 kbps     00:53:30.165    38,639 kbps     00:53:25.160    173,375 bytes   640,921 bytes   00:52:32.482    
+14              0:53:36.004     0:09:27.441     32,010 kbps     46,132 kbps     01:02:54.061    39,286 kbps     01:02:50.183    38,244 kbps     01:02:51.851    166,899 bytes   637,643 bytes   00:53:49.643    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00222.M2TS      4113 (0x1011)   0x1B            AVC                                     3783.280                32,019                  15,142,185,206  82,347,249      
+00222.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3783.280                3,472                   1,642,147,400   9,515,848       
+00222.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           3783.280                320                     151,338,240     945,864         
+00222.M2TS      4354 (0x1102)   0x81            AC3             rus (Russian)           3783.280                384                     181,630,464     1,064,241       
+00222.M2TS      4355 (0x1103)   0x81            AC3             ukr (Ukrainian)         3783.280                384                     181,630,464     1,064,241       
+00222.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3783.280                765                     361,898,207     2,024,672       
+00222.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           3783.280                46                      21,651,530      124,199         
+00222.M2TS      4610 (0x1202)   0x90            PGS             ukr (Ukrainian)         3783.280                47                      22,124,314      126,778         
+00222.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           3783.280                0                       6,762           44              
+00222.M2TS      4612 (0x1204)   0x90            PGS             ukr (Ukrainian)         3783.280                0                       6,762           44              
+00222.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           3783.280                318                     150,533,155     844,199         
+00222.M2TS      4614 (0x1206)   0x90            PGS             rus (Russian)           3783.280                0                       6,762           44              
+00222.M2TS      4615 (0x1207)   0x90            PGS             ukr (Ukrainian)         3783.280                0                       6,762           44              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Winnie The Pooh - Blu-ray™
+Disc Label: Winnie.the.Pooh.2011.1080p.Bluray.AVC.DTS-HD.MA.5.1
+Disc Size: 31,454,645,745 bytes
+Protection: AACS
+Playlist: 00573.MPLS
+Size: 18,851,377,152 bytes
+Length: 1:03:03.446
+Total Bitrate: 39.86 Mbps
+Video: MPEG-4 AVC Video / 32018 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3472 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+Subtitle: English / 765.224 kbps
+Subtitle: Russian / 45.782 kbps
+Subtitle: Ukrainian / 46.781 kbps
+Subtitle: Russian / 0.014 kbps
+Subtitle: Ukrainian / 0.014 kbps
+Subtitle: English / 318.298 kbps
+Subtitle: Russian / 0.014 kbps
+Subtitle: Ukrainian / 0.014 kbps
+

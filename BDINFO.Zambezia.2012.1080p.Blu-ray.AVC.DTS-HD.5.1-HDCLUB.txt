@@ -1,0 +1,123 @@
+Disc Title:     Замбезия - Blu-ray™
+Disc Label:     Zambezia.2012.1080p.Blu-ray.AVC.DTS-HD.5.1-HDCLUB
+Disc Size:      18,569,903,860 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:22:26 18,361,700,352  18,569,903,860  29.70   23.88   DTS-HD Master 5.1 2015Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Замбезия - Blu-ray™
+Disc Label:     Zambezia.2012.1080p.Blu-ray.AVC.DTS-HD.5.1-HDCLUB
+Disc Size:      18,569,903,860 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:22:26.316 (h:m:s.ms)
+Size:                   18,361,700,352 bytes
+Total Bitrate:          29.70 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23876 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         2015 kbps       5.1 / 48 kHz /  2015 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2007 kbps       5.1 / 48 kHz /  2007 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Russian         32.466 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:22:26.316     18,361,700,352  29,698          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:46.494     24,051 kbps     50,327 kbps     00:00:19.728    42,770 kbps     00:01:09.694    39,374 kbps     00:00:12.721    125,374 bytes   598,768 bytes   00:04:10.500    
+2               0:04:46.494     0:03:40.762     19,599 kbps     48,704 kbps     00:08:02.398    40,255 kbps     00:06:28.054    34,864 kbps     00:07:09.637    102,181 bytes   544,394 bytes   00:04:51.582    
+3               0:08:27.256     0:04:31.229     21,529 kbps     47,796 kbps     00:10:11.193    36,622 kbps     00:08:27.256    30,456 kbps     00:10:04.312    112,242 bytes   516,015 bytes   00:09:13.386    
+4               0:12:58.486     0:05:26.075     20,067 kbps     49,099 kbps     00:13:03.824    43,615 kbps     00:13:00.571    40,125 kbps     00:13:00.321    104,618 bytes   471,871 bytes   00:17:04.064    
+5               0:18:24.561     0:07:12.974     26,501 kbps     51,395 kbps     00:18:59.346    43,270 kbps     00:18:58.595    40,325 kbps     00:22:28.764    138,167 bytes   671,333 bytes   00:22:31.058    
+6               0:25:37.536     0:05:09.225     25,930 kbps     53,551 kbps     00:27:05.123    40,176 kbps     00:27:05.040    39,359 kbps     00:27:05.040    135,186 bytes   669,989 bytes   00:27:40.784    
+7               0:30:46.761     0:07:24.485     24,995 kbps     50,436 kbps     00:36:57.423    39,646 kbps     00:36:57.423    37,355 kbps     00:34:59.388    130,312 bytes   654,548 bytes   00:38:04.782    
+8               0:38:11.247     0:05:44.135     28,032 kbps     51,674 kbps     00:43:05.207    43,221 kbps     00:39:29.992    39,460 kbps     00:41:44.043    146,145 bytes   672,488 bytes   00:42:47.481    
+9               0:43:55.382     0:02:57.010     21,150 kbps     45,161 kbps     00:46:44.593    39,024 kbps     00:46:40.672    35,921 kbps     00:46:35.793    110,268 bytes   655,683 bytes   00:46:50.098    
+10              0:46:52.392     0:03:59.364     23,773 kbps     48,996 kbps     00:49:09.196    41,018 kbps     00:50:04.251    39,444 kbps     00:48:04.464    123,944 bytes   604,233 bytes   00:47:22.798    
+11              0:50:51.757     0:04:13.628     24,772 kbps     53,478 kbps     00:54:43.196    43,486 kbps     00:52:37.529    38,741 kbps     00:54:43.196    129,149 bytes   680,771 bytes   00:54:43.238    
+12              0:55:05.385     0:04:56.045     25,699 kbps     53,651 kbps     00:59:09.045    42,378 kbps     00:59:06.709    37,082 kbps     00:55:22.235    133,985 bytes   608,518 bytes   00:55:22.277    
+13              1:00:01.431     0:06:03.404     24,521 kbps     50,740 kbps     01:03:37.355    41,356 kbps     01:03:22.632    38,334 kbps     01:03:22.632    127,843 bytes   659,075 bytes   01:00:05.685    
+14              1:06:04.835     0:06:06.574     30,719 kbps     47,475 kbps     01:07:55.446    42,132 kbps     01:06:28.359    38,274 kbps     01:06:28.359    160,157 bytes   609,955 bytes   01:06:28.401    
+15              1:12:11.410     0:04:25.807     28,322 kbps     50,353 kbps     01:13:47.381    41,768 kbps     01:16:13.944    38,078 kbps     01:16:13.944    147,656 bytes   668,004 bytes   01:16:15.487    
+16              1:16:37.217     0:05:49.098     9,236 kbps      49,609 kbps     01:17:09.708    36,835 kbps     01:17:08.290    33,964 kbps     01:17:03.035    48,156 bytes    581,817 bytes   01:18:18.276    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     4946.233                23,877                  14,762,354,460  80,299,673      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           4946.233                2,015                   1,245,878,644   7,540,303       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4946.233                2,007                   1,240,713,228   7,512,550       
+00000.M2TS      4608 (0x1200)   0x90            PGS             rus (Russian)           4946.233                32                      20,073,554      115,582         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Замбезия - Blu-ray™
+Disc Label: Zambezia.2012.1080p.Blu-ray.AVC.DTS-HD.5.1-HDCLUB
+Disc Size: 18,569,903,860 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 18,361,700,352 bytes
+Length: 1:22:26.316
+Total Bitrate: 29.70 Mbps
+Video: MPEG-4 AVC Video / 23876 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  2015 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2007 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Russian / 32.466 kbps
+
