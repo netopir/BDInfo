@@ -1,0 +1,138 @@
+Disc Label:     Cars.2.2011.Bluray.msut.german.DL.AVC-HDA
+Disc Size:      25,231,092,380 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:47:01 25,230,999,552  25,231,092,380  31.43   21.64   DTS-HD Master 7.1 5932Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Cars.2.2011.Bluray.msut.german.DL.AVC-HDA
+Disc Size:      25,231,092,380 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:47:01.525 (h:m:s.ms)
+Size:                   25,230,999,552 bytes
+Total Bitrate:          31.43 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21643 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         5932 kbps       7.1 / 48 kHz /  5932 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD High-Res Audio           German          2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          54.987 kbps                     
+Presentation Graphics           German          0.055 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:47:01.525     25,230,999,552  31,433          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:29.172     19,511 kbps     30,912 kbps     00:00:14.305    29,680 kbps     00:00:14.055    28,046 kbps     00:00:14.014    101,672 bytes   416,130 bytes   00:01:14.616    
+2               0:01:29.172     0:03:18.405     24,241 kbps     30,781 kbps     00:01:30.548    28,983 kbps     00:01:30.256    28,658 kbps     00:01:30.298    126,383 bytes   335,634 bytes   00:04:10.250    
+3               0:04:47.577     0:02:56.093     22,429 kbps     32,153 kbps     00:07:09.929    29,823 kbps     00:07:10.054    28,603 kbps     00:07:07.343    116,933 bytes   319,256 bytes   00:05:51.726    
+4               0:07:43.671     0:04:24.222     21,662 kbps     31,226 kbps     00:11:16.342    28,843 kbps     00:07:46.883    27,335 kbps     00:07:43.671    112,935 bytes   575,665 bytes   00:11:09.043    
+5               0:12:07.893     0:05:41.049     20,733 kbps     31,234 kbps     00:13:37.441    26,719 kbps     00:13:43.656    25,328 kbps     00:13:40.277    108,092 bytes   581,504 bytes   00:13:19.548    
+6               0:17:48.942     0:02:12.382     22,048 kbps     31,238 kbps     00:18:46.208    30,163 kbps     00:18:43.288    29,599 kbps     00:18:40.035    114,946 bytes   459,365 bytes   00:18:40.285    
+7               0:20:01.324     0:02:50.212     21,634 kbps     29,124 kbps     00:20:21.637    26,009 kbps     00:21:04.805    24,046 kbps     00:20:05.495    112,787 bytes   625,146 bytes   00:20:23.639    
+8               0:22:51.536     0:03:43.097     22,252 kbps     31,043 kbps     00:25:46.461    28,898 kbps     00:25:38.161    28,486 kbps     00:25:38.078    116,013 bytes   438,502 bytes   00:24:55.911    
+9               0:26:34.634     0:03:55.527     21,754 kbps     29,693 kbps     00:27:56.091    27,986 kbps     00:30:07.639    27,658 kbps     00:30:06.804    113,414 bytes   348,264 bytes   00:30:02.342    
+10              0:30:30.161     0:02:11.797     20,931 kbps     26,384 kbps     00:32:32.700    23,889 kbps     00:32:36.412    23,377 kbps     00:32:31.949    109,127 bytes   314,961 bytes   00:31:30.930    
+11              0:32:41.959     0:01:31.550     21,872 kbps     29,310 kbps     00:33:29.549    26,330 kbps     00:34:03.750    25,053 kbps     00:32:42.669    114,029 bytes   422,752 bytes   00:34:00.621    
+12              0:34:13.509     0:03:02.056     22,627 kbps     30,880 kbps     00:35:53.693    28,988 kbps     00:36:07.623    28,384 kbps     00:36:08.040    117,966 bytes   347,747 bytes   00:37:08.851    
+13              0:37:15.565     0:03:28.583     21,824 kbps     32,554 kbps     00:39:47.593    28,927 kbps     00:38:59.128    28,406 kbps     00:38:57.835    113,781 bytes   381,094 bytes   00:38:00.736    
+14              0:40:44.149     0:02:09.003     21,147 kbps     30,043 kbps     00:42:49.692    25,584 kbps     00:42:05.439    24,143 kbps     00:42:14.907    110,250 bytes   401,063 bytes   00:42:50.693    
+15              0:42:53.152     0:03:25.414     21,309 kbps     30,170 kbps     00:45:06.995    25,323 kbps     00:46:07.055    24,409 kbps     00:46:02.092    111,095 bytes   353,581 bytes   00:43:14.049    
+16              0:46:18.567     0:00:39.371     21,232 kbps     23,356 kbps     00:46:46.845    22,780 kbps     00:46:25.282    22,591 kbps     00:46:23.113    110,690 bytes   345,446 bytes   00:46:51.141    
+17              0:46:57.939     0:02:50.587     20,253 kbps     26,426 kbps     00:47:15.207    24,133 kbps     00:47:14.498    22,878 kbps     00:47:14.623    105,588 bytes   486,345 bytes   00:49:48.527    
+18              0:49:48.526     0:04:07.873     21,366 kbps     31,263 kbps     00:49:52.572    26,155 kbps     00:51:40.138    25,573 kbps     00:50:35.657    111,394 bytes   640,329 bytes   00:49:50.737    
+19              0:53:56.399     0:01:00.852     20,598 kbps     28,835 kbps     00:53:59.653    24,247 kbps     00:53:57.150    22,989 kbps     00:53:57.150    107,390 bytes   512,376 bytes   00:54:57.252    
+20              0:54:57.251     0:02:38.951     21,840 kbps     29,152 kbps     00:55:16.354    27,664 kbps     00:57:30.321    25,795 kbps     00:57:26.192    113,865 bytes   512,860 bytes   00:55:23.486    
+21              0:57:36.202     0:01:51.527     20,420 kbps     31,134 kbps     00:59:24.978    26,496 kbps     00:58:12.822    24,522 kbps     00:58:09.527    106,459 bytes   530,206 bytes   00:59:27.188    
+22              0:59:27.729     0:02:49.211     22,217 kbps     32,165 kbps     01:00:36.090    30,150 kbps     01:00:35.089    29,221 kbps     01:00:34.130    115,828 bytes   538,066 bytes   01:00:31.419    
+23              1:02:16.941     0:03:39.344     21,337 kbps     31,628 kbps     01:04:33.786    26,627 kbps     01:04:05.424    25,893 kbps     01:02:17.483    111,240 bytes   417,541 bytes   01:04:14.517    
+24              1:05:56.285     0:06:35.478     21,273 kbps     31,220 kbps     01:12:28.719    27,426 kbps     01:09:36.213    26,202 kbps     01:09:31.208    110,908 bytes   441,637 bytes   01:10:08.495    
+25              1:12:31.763     0:01:34.136     23,075 kbps     30,815 kbps     01:13:02.336    28,354 kbps     01:13:59.101    25,665 kbps     01:13:14.389    120,303 bytes   396,523 bytes   01:13:44.419    
+26              1:14:05.899     0:01:18.286     23,129 kbps     30,213 kbps     01:15:09.546    27,266 kbps     01:14:43.604    25,008 kbps     01:14:43.562    120,582 bytes   349,244 bytes   01:14:56.158    
+27              1:15:24.185     0:05:48.806     22,903 kbps     31,705 kbps     01:16:49.021    28,753 kbps     01:17:39.029    27,969 kbps     01:17:39.571    119,405 bytes   408,413 bytes   01:16:49.062    
+28              1:21:12.992     0:02:09.253     21,523 kbps     28,357 kbps     01:21:35.682    25,185 kbps     01:22:11.009    23,990 kbps     01:22:10.967    112,212 bytes   413,593 bytes   01:21:28.717    
+29              1:23:22.246     0:05:44.677     21,391 kbps     31,993 kbps     01:29:04.964    28,044 kbps     01:29:01.919    25,475 kbps     01:28:36.686    111,525 bytes   428,550 bytes   01:29:05.006    
+30              1:29:06.924     0:02:41.202     21,156 kbps     29,912 kbps     01:29:11.512    25,706 kbps     01:29:30.823    23,754 kbps     01:29:30.823    110,297 bytes   404,368 bytes   01:31:48.127    
+31              1:31:48.126     0:00:53.094     22,149 kbps     31,023 kbps     01:32:04.018    25,735 kbps     01:32:00.556    24,984 kbps     01:32:02.475    115,477 bytes   466,284 bytes   01:32:02.516    
+32              1:32:41.220     0:05:37.379     21,288 kbps     31,040 kbps     01:36:19.690    29,734 kbps     01:34:59.568    28,999 kbps     01:34:59.485    110,988 bytes   502,006 bytes   01:34:02.928    
+33              1:38:18.600     0:08:42.925     21,274 kbps     32,761 kbps     01:40:03.122    30,026 kbps     01:46:36.306    27,819 kbps     01:39:21.580    110,929 bytes   536,122 bytes   01:38:22.604    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     6421.415                21,644                  17,372,764,714  94,509,534      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6421.415                5,932                   4,761,793,212   26,883,418      
+00000.M2TS      4353 (0x1101)   0x85            DTS-HD HR       deu (German)            6421.415                2,046                   1,642,307,832   9,632,303       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            6421.415                55                      44,137,333      250,303         
+00000.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6421.415                0                       43,862          781             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Cars.2.2011.Bluray.msut.german.DL.AVC-HDA
+Disc Size: 25,231,092,380 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 25,230,999,552 bytes
+Length: 1:47:01.525
+Total Bitrate: 31.43 Mbps
+Video: MPEG-4 AVC Video / 21643 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5932 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 54.987 kbps
+Subtitle: German / 0.055 kbps
+

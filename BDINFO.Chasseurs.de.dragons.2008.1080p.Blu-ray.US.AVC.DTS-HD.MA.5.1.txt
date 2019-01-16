@@ -1,0 +1,120 @@
+Disc Title:     Dragon Hunters
+Disc Label:     Chasseurs.de.dragons.2008.1080p.Blu-ray.US.AVC.DTS-HD.MA.5.1
+Disc Size:      17,200,051,632 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:21:59 14,316,232,704  17,200,051,632  23.28   19.11   DTS-HD Master 5.1 2386Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Dragon Hunters
+Disc Label:     Chasseurs.de.dragons.2008.1080p.Blu-ray.US.AVC.DTS-HD.MA.5.1
+Disc Size:      17,200,051,632 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:21:59.414 (h:m:s.ms)
+Size:                   14,316,232,704 bytes
+Total Bitrate:          23.28 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19106 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2386 kbps       5.1 / 48 kHz /  2386 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Russian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         29.378 kbps                     
+Presentation Graphics           Spanish         25.213 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:21:59.414     14,316,232,704  23,281          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:54.025     20,430 kbps     52,653 kbps     00:00:50.008    40,272 kbps     00:01:48.983    36,414 kbps     00:01:49.109    106,492 bytes   595,967 bytes   00:01:52.362    
+2               0:03:54.025     0:04:21.928     19,590 kbps     44,423 kbps     00:07:15.017    35,553 kbps     00:08:08.487    32,707 kbps     00:05:30.246    102,135 bytes   582,801 bytes   00:05:37.962    
+3               0:08:15.953     0:07:15.768     19,638 kbps     42,268 kbps     00:08:16.078    31,336 kbps     00:08:21.459    30,254 kbps     00:08:15.953    102,384 bytes   636,681 bytes   00:10:46.562    
+4               0:15:31.722     0:02:45.248     20,750 kbps     47,926 kbps     00:15:52.701    36,691 kbps     00:15:48.697    33,698 kbps     00:15:45.778    108,183 bytes   559,404 bytes   00:15:53.285    
+5               0:18:16.970     0:06:44.529     20,039 kbps     47,867 kbps     00:24:39.769    38,383 kbps     00:24:38.310    30,741 kbps     00:21:07.391    104,474 bytes   619,568 bytes   00:22:16.418    
+6               0:25:01.500     0:07:36.372     19,306 kbps     45,505 kbps     00:25:52.592    36,199 kbps     00:29:46.117    32,970 kbps     00:29:45.784    100,654 bytes   621,078 bytes   00:25:48.255    
+7               0:32:37.872     0:06:40.483     20,900 kbps     38,363 kbps     00:32:57.976    36,248 kbps     00:32:40.083    34,596 kbps     00:32:38.122    108,963 bytes   490,676 bytes   00:32:39.374    
+8               0:39:18.356     0:08:20.625     20,012 kbps     35,205 kbps     00:44:17.196    28,708 kbps     00:42:19.161    28,072 kbps     00:43:21.223    104,332 bytes   559,219 bytes   00:47:09.493    
+9               0:47:38.981     0:13:13.918     19,977 kbps     45,447 kbps     00:52:32.315    35,837 kbps     00:50:42.497    31,831 kbps     00:50:40.328    104,149 bytes   550,196 bytes   00:50:43.331    
+10              1:00:52.899     0:09:08.005     19,762 kbps     42,456 kbps     01:05:52.198    31,046 kbps     01:09:43.220    26,791 kbps     01:09:39.383    103,028 bytes   464,813 bytes   01:01:50.456    
+11              1:10:00.905     0:06:00.276     20,425 kbps     44,109 kbps     01:12:07.573    39,349 kbps     01:10:09.079    37,598 kbps     01:10:05.951    106,488 bytes   624,893 bytes   01:14:44.438    
+12              1:16:01.181     0:05:58.232     7,642 kbps      22,956 kbps     01:16:27.958    20,588 kbps     01:16:49.479    20,342 kbps     01:16:46.727    39,846 bytes    441,834 bytes   01:16:08.689    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     4919.289                19,106                  11,748,791,248  63,921,102      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4919.289                2,386                   1,467,350,152   8,743,661       
+00001.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           4919.289                448                     275,663,360     1,538,300       
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4919.289                29                      18,065,191      106,527         
+00001.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           4919.289                25                      15,504,237      89,189          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Dragon Hunters
+Disc Label: Chasseurs.de.dragons.2008.1080p.Blu-ray.US.AVC.DTS-HD.MA.5.1
+Disc Size: 17,200,051,632 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 14,316,232,704 bytes
+Length: 1:21:59.414
+Total Bitrate: 23.28 Mbps
+Video: MPEG-4 AVC Video / 19106 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2386 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 29.378 kbps
+Subtitle: Spanish / 25.213 kbps
+

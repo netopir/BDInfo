@@ -1,0 +1,413 @@
+Disc Title:     Coraline 3D
+Disc Label:     Coraline.2009.3D.Blu-ray.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      48,136,650,731 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00031.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00031.MPLS                                                      AVC     1:40:29 25,666,596,864  48,136,650,731  34.06   25.54   DTS-HD Master 5.1 3450Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Coraline 3D
+Disc Label:     Coraline.2009.3D.Blu-ray.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      48,136,650,731 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00031.MPLS
+Length:                 1:40:29.231 (h:m:s.ms)
+Size:                   25,666,596,864 bytes
+Total Bitrate:          34.06 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25539 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3450 kbps       5.1 / 48 kHz /  3450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Italian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Spanish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         30.616 kbps                     
+Presentation Graphics           French          24.834 kbps                     
+Presentation Graphics           Italian         24.728 kbps                     
+Presentation Graphics           German          28.753 kbps                     
+Presentation Graphics           Spanish         25.095 kbps                     
+Presentation Graphics           Dutch           24.737 kbps                     
+Presentation Graphics           English         83.218 kbps                     
+Presentation Graphics           French          70.840 kbps                     
+Presentation Graphics           Italian         73.796 kbps                     
+Presentation Graphics           German          84.392 kbps                     
+Presentation Graphics           Spanish         76.386 kbps                     
+Presentation Graphics           French          0.542 kbps                      
+Presentation Graphics           Italian         0.550 kbps                      
+Presentation Graphics           German          0.438 kbps                      
+Presentation Graphics           Spanish         0.545 kbps                      
+Presentation Graphics           Dutch           0.533 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00028.M2TS      0:00:00.000     1:05:54.867     16,793,690,112  33,971          
+00035.M2TS      1:05:54.867     0:34:34.363     8,872,906,752   34,219          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:12.283     23,529 kbps     41,800 kbps     00:00:12.887    33,795 kbps     00:02:24.602    30,649 kbps     00:06:08.034    122,659 bytes   783,397 bytes   00:04:13.461    
+2               0:08:12.283     0:05:43.926     25,787 kbps     44,401 kbps     00:10:59.158    33,961 kbps     00:10:25.416    31,122 kbps     00:10:25.583    134,440 bytes   770,238 bytes   00:11:20.137    
+3               0:13:56.210     0:04:30.520     25,747 kbps     44,351 kbps     00:17:32.301    32,488 kbps     00:18:04.583    29,534 kbps     00:17:51.612    134,234 bytes   724,586 bytes   00:16:06.465    
+4               0:18:26.730     0:04:42.740     25,845 kbps     48,620 kbps     00:21:55.647    30,186 kbps     00:20:02.868    28,224 kbps     00:19:57.946    134,744 bytes   766,543 bytes   00:19:37.259    
+5               0:23:09.471     0:03:36.299     25,502 kbps     42,675 kbps     00:25:20.101    31,966 kbps     00:25:20.101    31,281 kbps     00:25:16.306    132,955 bytes   767,402 bytes   00:25:53.009    
+6               0:26:45.770     0:05:48.806     25,930 kbps     46,703 kbps     00:27:53.463    32,114 kbps     00:27:26.645    30,183 kbps     00:27:26.645    135,185 bytes   768,313 bytes   00:27:00.577    
+7               0:32:34.577     0:04:22.595     24,843 kbps     39,368 kbps     00:32:56.766    32,714 kbps     00:32:52.178    30,078 kbps     00:32:50.802    129,519 bytes   715,834 bytes   00:36:13.588    
+8               0:36:57.173     0:03:42.013     25,710 kbps     48,051 kbps     00:38:12.707    31,541 kbps     00:38:26.470    29,416 kbps     00:38:26.470    134,038 bytes   697,876 bytes   00:39:30.159    
+9               0:40:39.186     0:03:40.720     25,834 kbps     45,760 kbps     00:41:41.207    33,534 kbps     00:41:40.414    31,659 kbps     00:41:41.040    134,684 bytes   777,427 bytes   00:41:18.642    
+10              0:44:19.907     0:06:30.098     25,891 kbps     49,464 kbps     00:50:21.101    33,871 kbps     00:50:10.215    32,349 kbps     00:48:41.168    134,982 bytes   751,411 bytes   00:45:57.421    
+11              0:50:50.005     0:04:14.545     25,551 kbps     40,409 kbps     00:53:13.982    30,211 kbps     00:54:21.841    28,545 kbps     00:54:35.605    133,214 bytes   753,717 bytes   00:51:16.031    
+12              0:55:04.551     0:05:15.273     25,692 kbps     43,334 kbps     00:58:24.667    33,572 kbps     00:55:05.218    30,373 kbps     00:55:05.051    133,945 bytes   773,361 bytes   00:59:01.829    
+13              1:00:19.824     0:05:35.043     25,919 kbps     44,436 kbps     01:03:42.735    32,519 kbps     01:03:54.789    30,442 kbps     01:03:54.622    135,128 bytes   769,593 bytes   01:02:21.779    
+14              1:05:54.867     0:05:06.723     25,684 kbps     51,048 kbps     01:10:25.137    32,868 kbps     01:10:36.023    30,954 kbps     01:10:31.101    133,905 bytes   654,238 bytes   01:07:24.331    
+15              1:11:01.590     0:04:22.095     25,610 kbps     48,159 kbps     01:13:47.131    34,461 kbps     01:14:37.639    32,084 kbps     01:14:34.887    133,517 bytes   767,835 bytes   01:13:07.091    
+16              1:15:23.685     0:02:04.207     25,868 kbps     50,305 kbps     01:17:11.918    33,442 kbps     01:17:10.917    30,193 kbps     01:17:05.871    134,863 bytes   608,826 bytes   01:15:35.530    
+17              1:17:27.893     0:03:52.815     24,696 kbps     43,002 kbps     01:20:33.954    31,428 kbps     01:17:59.091    29,744 kbps     01:17:54.169    128,755 bytes   775,251 bytes   01:20:03.215    
+18              1:21:20.709     0:05:44.635     25,664 kbps     42,928 kbps     01:26:20.133    30,421 kbps     01:26:19.424    28,582 kbps     01:26:19.591    133,800 bytes   625,890 bytes   01:24:27.562    
+19              1:27:05.345     0:07:37.290     25,443 kbps     47,243 kbps     01:31:15.761    32,624 kbps     01:29:18.352    29,981 kbps     01:29:11.763    132,646 bytes   774,224 bytes   01:33:49.248    
+20              1:34:42.635     0:05:46.596     26,952 kbps     42,930 kbps     01:37:11.200    34,196 kbps     01:39:32.925    32,908 kbps     01:37:10.324    140,533 bytes   528,916 bytes   01:38:27.901    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00028.M2TS      4113 (0x1011)   0x1B            AVC                                     3954.784                25,438                  12,575,175,181  68,399,031      
+00028.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3954.784                3,420                   1,690,687,104   9,804,232       
+00028.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4354 (0x1102)   0x81            AC3             ita (Italian)           3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           3954.784                192                     94,917,120      617,950         
+00028.M2TS      4359 (0x1107)   0x81            AC3             eng (English)           3954.784                192                     94,917,120      617,950         
+00028.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3954.784                35                      17,316,943      100,104         
+00028.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            3954.784                29                      14,347,045      82,486          
+00028.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           3954.784                29                      14,531,504      83,476          
+00028.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            3954.784                34                      16,756,649      95,577          
+00028.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           3954.784                29                      14,535,973      83,528          
+00028.M2TS      4613 (0x1205)   0x90            PGS             nld (Dutch)             3954.784                29                      14,413,952      82,829          
+00028.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           3954.784                88                      43,346,345      243,382         
+00028.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            3954.784                75                      37,037,101      209,192         
+00028.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           3954.784                77                      38,034,220      214,595         
+00028.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            3954.784                89                      43,763,802      245,684         
+00028.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           3954.784                81                      39,814,105      224,281         
+00028.M2TS      4619 (0x120B)   0x90            PGS             fra (French)            3954.784                1                       257,879         1,499           
+00028.M2TS      4620 (0x120C)   0x90            PGS             ita (Italian)           3954.784                1                       341,079         1,986           
+00028.M2TS      4621 (0x120D)   0x90            PGS             deu (German)            3954.784                1                       260,269         1,504           
+00028.M2TS      4622 (0x120E)   0x90            PGS             spa (Spanish)           3954.784                1                       341,002         1,967           
+00028.M2TS      4623 (0x120F)   0x90            PGS             nld (Dutch)             3954.784                1                       312,014         1,804           
+00035.M2TS      4113 (0x1011)   0x1B            AVC                                     2074.281                25,733                  6,672,252,775   36,291,482      
+00035.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           2074.281                3,507                   909,288,424     5,264,164       
+00035.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            2074.281                448                     116,164,608     648,240         
+00035.M2TS      4354 (0x1102)   0x81            AC3             ita (Italian)           2074.281                448                     116,164,608     648,240         
+00035.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            2074.281                448                     116,164,608     648,240         
+00035.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           2074.281                448                     116,164,608     648,240         
+00035.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             2074.281                448                     116,164,608     648,240         
+00035.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           2074.281                192                     49,784,832      324,120         
+00035.M2TS      4359 (0x1107)   0x81            AC3             eng (English)           2074.281                192                     49,784,832      324,120         
+00035.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           2074.281                22                      5,756,934       33,686          
+00035.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            2074.281                17                      4,369,313       25,322          
+00035.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           2074.281                16                      4,105,071       23,889          
+00035.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            2074.281                19                      4,913,386       28,281          
+00035.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           2074.281                17                      4,377,067       25,355          
+00035.M2TS      4613 (0x1205)   0x90            PGS             nld (Dutch)             2074.281                16                      4,228,865       24,559          
+00035.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           2074.281                75                      19,371,285      108,983         
+00035.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            2074.281                63                      16,352,027      92,614          
+00035.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           2074.281                68                      17,582,119      99,297          
+00035.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            2074.281                77                      19,838,521      111,546         
+00035.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           2074.281                68                      17,754,304      100,238         
+00035.M2TS      4619 (0x120B)   0x90            PGS             fra (French)            2074.281                1                       150,567         863             
+00035.M2TS      4620 (0x120C)   0x90            PGS             ita (Italian)           2074.281                0                       73,075          431             
+00035.M2TS      4621 (0x120D)   0x90            PGS             deu (German)            2074.281                0                       69,911          415             
+00035.M2TS      4622 (0x120E)   0x90            PGS             spa (Spanish)           2074.281                0                       69,742          406             
+00035.M2TS      4623 (0x120F)   0x90            PGS             nld (Dutch)             2074.281                0                       89,344          517             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Coraline 3D
+Disc Label: Coraline.2009.3D.Blu-ray.1080p.AVC.DTS-HD.MA.5.1
+Disc Size: 48,136,650,731 bytes
+Protection: AACS
+Playlist: 00031.MPLS
+Size: 25,666,596,864 bytes
+Length: 1:40:29.231
+Total Bitrate: 34.06 Mbps
+Video: MPEG-4 AVC Video / 25539 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 30.616 kbps
+Subtitle: French / 24.834 kbps
+Subtitle: Italian / 24.728 kbps
+Subtitle: German / 28.753 kbps
+Subtitle: Spanish / 25.095 kbps
+Subtitle: Dutch / 24.737 kbps
+Subtitle: English / 83.218 kbps
+Subtitle: French / 70.840 kbps
+Subtitle: Italian / 73.796 kbps
+Subtitle: German / 84.392 kbps
+Subtitle: Spanish / 76.386 kbps
+Subtitle: French / 0.542 kbps
+Subtitle: Italian / 0.550 kbps
+Subtitle: German / 0.438 kbps
+Subtitle: Spanish / 0.545 kbps
+Subtitle: Dutch / 0.533 kbps
+
+
+********************
+PLAYLIST: 00043.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00043.MPLS                                                      AVC     1:40:29 25,666,596,864  48,136,650,731  34.06   25.54   DTS-HD Master 5.1 3450Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Coraline 3D
+Disc Label:     Coraline.2009.3D.Blu-ray.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      48,136,650,731 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00043.MPLS
+Length:                 1:40:29.231 (h:m:s.ms)
+Size:                   25,666,596,864 bytes
+Total Bitrate:          34.06 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25539 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3450 kbps       5.1 / 48 kHz /  3450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Italian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Spanish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         30.616 kbps                     
+Presentation Graphics           French          24.834 kbps                     
+Presentation Graphics           Italian         24.728 kbps                     
+Presentation Graphics           German          28.753 kbps                     
+Presentation Graphics           Spanish         25.095 kbps                     
+Presentation Graphics           Dutch           24.737 kbps                     
+Presentation Graphics           English         83.218 kbps                     
+Presentation Graphics           French          70.840 kbps                     
+Presentation Graphics           Italian         73.796 kbps                     
+Presentation Graphics           German          84.392 kbps                     
+Presentation Graphics           Spanish         76.386 kbps                     
+Presentation Graphics           French          0.542 kbps                      
+Presentation Graphics           Italian         0.550 kbps                      
+Presentation Graphics           German          0.438 kbps                      
+Presentation Graphics           Spanish         0.545 kbps                      
+Presentation Graphics           Dutch           0.533 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00028.M2TS      0:00:00.000     1:05:54.867     16,793,690,112  33,971          
+00035.M2TS      1:05:54.867     0:34:34.363     8,872,906,752   34,219          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:12.283     23,529 kbps     41,800 kbps     00:00:12.887    33,795 kbps     00:02:24.602    30,649 kbps     00:06:08.034    122,659 bytes   783,397 bytes   00:04:13.461    
+2               0:08:12.283     0:05:43.926     25,787 kbps     44,401 kbps     00:10:59.158    33,961 kbps     00:10:25.416    31,122 kbps     00:10:25.583    134,440 bytes   770,238 bytes   00:11:20.137    
+3               0:13:56.210     0:04:30.520     25,747 kbps     44,351 kbps     00:17:32.301    32,488 kbps     00:18:04.583    29,534 kbps     00:17:51.612    134,234 bytes   724,586 bytes   00:16:06.465    
+4               0:18:26.730     0:04:42.740     25,845 kbps     48,620 kbps     00:21:55.647    30,186 kbps     00:20:02.868    28,224 kbps     00:19:57.946    134,744 bytes   766,543 bytes   00:19:37.259    
+5               0:23:09.471     0:03:36.299     25,502 kbps     42,675 kbps     00:25:20.101    31,966 kbps     00:25:20.101    31,281 kbps     00:25:16.306    132,955 bytes   767,402 bytes   00:25:53.009    
+6               0:26:45.770     0:05:48.806     25,930 kbps     46,703 kbps     00:27:53.463    32,114 kbps     00:27:26.645    30,183 kbps     00:27:26.645    135,185 bytes   768,313 bytes   00:27:00.577    
+7               0:32:34.577     0:04:22.595     24,843 kbps     39,368 kbps     00:32:56.766    32,714 kbps     00:32:52.178    30,078 kbps     00:32:50.802    129,519 bytes   715,834 bytes   00:36:13.588    
+8               0:36:57.173     0:03:42.013     25,710 kbps     48,051 kbps     00:38:12.707    31,541 kbps     00:38:26.470    29,416 kbps     00:38:26.470    134,038 bytes   697,876 bytes   00:39:30.159    
+9               0:40:39.186     0:03:40.720     25,834 kbps     45,760 kbps     00:41:41.207    33,534 kbps     00:41:40.414    31,659 kbps     00:41:41.040    134,684 bytes   777,427 bytes   00:41:18.642    
+10              0:44:19.907     0:06:30.098     25,891 kbps     49,464 kbps     00:50:21.101    33,871 kbps     00:50:10.215    32,349 kbps     00:48:41.168    134,982 bytes   751,411 bytes   00:45:57.421    
+11              0:50:50.005     0:04:14.545     25,551 kbps     40,409 kbps     00:53:13.982    30,211 kbps     00:54:21.841    28,545 kbps     00:54:35.605    133,214 bytes   753,717 bytes   00:51:16.031    
+12              0:55:04.551     0:05:15.273     25,692 kbps     43,334 kbps     00:58:24.667    33,572 kbps     00:55:05.218    30,373 kbps     00:55:05.051    133,945 bytes   773,361 bytes   00:59:01.829    
+13              1:00:19.824     0:05:35.043     25,919 kbps     44,436 kbps     01:03:42.735    32,519 kbps     01:03:54.789    30,442 kbps     01:03:54.622    135,128 bytes   769,593 bytes   01:02:21.779    
+14              1:05:54.867     0:05:06.723     25,684 kbps     51,048 kbps     01:10:25.137    32,868 kbps     01:10:36.023    30,954 kbps     01:10:31.101    133,905 bytes   654,238 bytes   01:07:24.331    
+15              1:11:01.590     0:04:22.095     25,610 kbps     48,159 kbps     01:13:47.131    34,461 kbps     01:14:37.639    32,084 kbps     01:14:34.887    133,517 bytes   767,835 bytes   01:13:07.091    
+16              1:15:23.685     0:02:04.207     25,868 kbps     50,305 kbps     01:17:11.918    33,442 kbps     01:17:10.917    30,193 kbps     01:17:05.871    134,863 bytes   608,826 bytes   01:15:35.530    
+17              1:17:27.893     0:03:52.815     24,696 kbps     43,002 kbps     01:20:33.954    31,428 kbps     01:17:59.091    29,744 kbps     01:17:54.169    128,755 bytes   775,251 bytes   01:20:03.215    
+18              1:21:20.709     0:05:44.635     25,664 kbps     42,928 kbps     01:26:20.133    30,421 kbps     01:26:19.424    28,582 kbps     01:26:19.591    133,800 bytes   625,890 bytes   01:24:27.562    
+19              1:27:05.345     0:07:37.290     25,443 kbps     47,243 kbps     01:31:15.761    32,624 kbps     01:29:18.352    29,981 kbps     01:29:11.763    132,646 bytes   774,224 bytes   01:33:49.248    
+20              1:34:42.635     0:05:46.596     26,952 kbps     42,930 kbps     01:37:11.200    34,196 kbps     01:39:32.925    32,908 kbps     01:37:10.324    140,533 bytes   528,916 bytes   01:38:27.901    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00028.M2TS      4113 (0x1011)   0x1B            AVC                                     3954.784                25,438                  12,575,175,181  68,399,031      
+00028.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3954.784                3,420                   1,690,687,104   9,804,232       
+00028.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4354 (0x1102)   0x81            AC3             ita (Italian)           3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             3954.784                448                     221,473,280     1,235,900       
+00028.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           3954.784                192                     94,917,120      617,950         
+00028.M2TS      4359 (0x1107)   0x81            AC3             eng (English)           3954.784                192                     94,917,120      617,950         
+00028.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3954.784                35                      17,316,943      100,104         
+00028.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            3954.784                29                      14,347,045      82,486          
+00028.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           3954.784                29                      14,531,504      83,476          
+00028.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            3954.784                34                      16,756,649      95,577          
+00028.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           3954.784                29                      14,535,973      83,528          
+00028.M2TS      4613 (0x1205)   0x90            PGS             nld (Dutch)             3954.784                29                      14,413,952      82,829          
+00028.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           3954.784                88                      43,346,345      243,382         
+00028.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            3954.784                75                      37,037,101      209,192         
+00028.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           3954.784                77                      38,034,220      214,595         
+00028.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            3954.784                89                      43,763,802      245,684         
+00028.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           3954.784                81                      39,814,105      224,281         
+00028.M2TS      4619 (0x120B)   0x90            PGS             fra (French)            3954.784                1                       257,879         1,499           
+00028.M2TS      4620 (0x120C)   0x90            PGS             ita (Italian)           3954.784                1                       341,079         1,986           
+00028.M2TS      4621 (0x120D)   0x90            PGS             deu (German)            3954.784                1                       260,269         1,504           
+00028.M2TS      4622 (0x120E)   0x90            PGS             spa (Spanish)           3954.784                1                       341,002         1,967           
+00028.M2TS      4623 (0x120F)   0x90            PGS             nld (Dutch)             3954.784                1                       312,014         1,804           
+00035.M2TS      4113 (0x1011)   0x1B            AVC                                     2074.281                25,733                  6,672,252,775   36,291,482      
+00035.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           2074.281                3,507                   909,288,424     5,264,164       
+00035.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            2074.281                448                     116,164,608     648,240         
+00035.M2TS      4354 (0x1102)   0x81            AC3             ita (Italian)           2074.281                448                     116,164,608     648,240         
+00035.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            2074.281                448                     116,164,608     648,240         
+00035.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           2074.281                448                     116,164,608     648,240         
+00035.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             2074.281                448                     116,164,608     648,240         
+00035.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           2074.281                192                     49,784,832      324,120         
+00035.M2TS      4359 (0x1107)   0x81            AC3             eng (English)           2074.281                192                     49,784,832      324,120         
+00035.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           2074.281                22                      5,756,934       33,686          
+00035.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            2074.281                17                      4,369,313       25,322          
+00035.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           2074.281                16                      4,105,071       23,889          
+00035.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            2074.281                19                      4,913,386       28,281          
+00035.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           2074.281                17                      4,377,067       25,355          
+00035.M2TS      4613 (0x1205)   0x90            PGS             nld (Dutch)             2074.281                16                      4,228,865       24,559          
+00035.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           2074.281                75                      19,371,285      108,983         
+00035.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            2074.281                63                      16,352,027      92,614          
+00035.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           2074.281                68                      17,582,119      99,297          
+00035.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            2074.281                77                      19,838,521      111,546         
+00035.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           2074.281                68                      17,754,304      100,238         
+00035.M2TS      4619 (0x120B)   0x90            PGS             fra (French)            2074.281                1                       150,567         863             
+00035.M2TS      4620 (0x120C)   0x90            PGS             ita (Italian)           2074.281                0                       73,075          431             
+00035.M2TS      4621 (0x120D)   0x90            PGS             deu (German)            2074.281                0                       69,911          415             
+00035.M2TS      4622 (0x120E)   0x90            PGS             spa (Spanish)           2074.281                0                       69,742          406             
+00035.M2TS      4623 (0x120F)   0x90            PGS             nld (Dutch)             2074.281                0                       89,344          517             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Coraline 3D
+Disc Label: Coraline.2009.3D.Blu-ray.1080p.AVC.DTS-HD.MA.5.1
+Disc Size: 48,136,650,731 bytes
+Protection: AACS
+Playlist: 00043.MPLS
+Size: 25,666,596,864 bytes
+Length: 1:40:29.231
+Total Bitrate: 34.06 Mbps
+Video: MPEG-4 AVC Video / 25539 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 30.616 kbps
+Subtitle: French / 24.834 kbps
+Subtitle: Italian / 24.728 kbps
+Subtitle: German / 28.753 kbps
+Subtitle: Spanish / 25.095 kbps
+Subtitle: Dutch / 24.737 kbps
+Subtitle: English / 83.218 kbps
+Subtitle: French / 70.840 kbps
+Subtitle: Italian / 73.796 kbps
+Subtitle: German / 84.392 kbps
+Subtitle: Spanish / 76.386 kbps
+Subtitle: French / 0.542 kbps
+Subtitle: Italian / 0.550 kbps
+Subtitle: German / 0.438 kbps
+Subtitle: Spanish / 0.545 kbps
+Subtitle: Dutch / 0.533 kbps
+

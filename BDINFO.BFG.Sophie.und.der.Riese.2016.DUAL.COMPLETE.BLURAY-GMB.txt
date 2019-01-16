@@ -1,0 +1,131 @@
+Disc Title:     BFG - Sophie und der Riese
+Disc Label:     BFG.Sophie.und.der.Riese.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      40,392,637,146 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:57:48 30,231,490,560  40,392,637,146  34.22   28.05   DTS-HD Hi-Res 5.1 2046Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     BFG - Sophie und der Riese
+Disc Label:     BFG.Sophie.und.der.Riese.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      40,392,637,146 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:57:48.436 (h:m:s.ms)
+Size:                   30,231,490,560 bytes
+Total Bitrate:          34.22 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28048 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+DTS-HD High-Res Audio           English         2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          26.877 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:57:47.435     30,231,465,984  34,221          
+00005.M2TS      1:57:47.435     0:00:01.000     24,576          196             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:37.707     26,614 kbps     47,936 kbps     00:02:14.717    40,641 kbps     00:02:14.467    37,765 kbps     00:02:14.134    138,740 bytes   643,442 bytes   00:01:55.198    
+2               0:07:37.707     0:04:29.769     26,877 kbps     52,581 kbps     00:07:55.016    37,014 kbps     00:12:02.471    36,068 kbps     00:11:57.466    140,123 bytes   527,079 bytes   00:09:48.170    
+3               0:12:07.476     0:07:00.378     31,336 kbps     56,190 kbps     00:15:29.428    40,670 kbps     00:17:36.930    37,787 kbps     00:17:36.930    163,369 bytes   664,897 bytes   00:18:58.345    
+4               0:19:07.855     0:04:20.301     29,213 kbps     56,213 kbps     00:22:57.125    40,580 kbps     00:21:02.552    37,813 kbps     00:21:02.552    152,302 bytes   937,656 bytes   00:22:57.667    
+5               0:23:28.156     0:01:48.108     32,497 kbps     49,862 kbps     00:24:54.075    40,309 kbps     00:23:29.199    37,776 kbps     00:25:04.503    169,426 bytes   612,766 bytes   00:24:02.482    
+6               0:25:16.264     0:03:08.396     34,670 kbps     43,484 kbps     00:25:40.747    38,816 kbps     00:25:53.051    37,728 kbps     00:25:36.409    180,756 bytes   676,413 bytes   00:27:56.341    
+7               0:28:24.661     0:08:35.473     31,969 kbps     61,230 kbps     00:34:52.173    40,653 kbps     00:34:52.173    37,767 kbps     00:34:52.090    166,673 bytes   762,838 bytes   00:34:52.381    
+8               0:37:00.134     0:04:36.901     35,008 kbps     39,317 kbps     00:38:51.328    35,962 kbps     00:40:57.037    35,495 kbps     00:41:07.506    182,513 bytes   710,704 bytes   00:39:32.495    
+9               0:41:37.036     0:04:24.764     29,780 kbps     49,640 kbps     00:45:07.246    40,614 kbps     00:44:19.573    37,624 kbps     00:44:18.656    155,257 bytes   728,570 bytes   00:41:57.598    
+10              0:46:01.800     0:06:12.914     28,949 kbps     61,627 kbps     00:47:28.887    40,519 kbps     00:50:30.819    37,757 kbps     00:46:56.271    150,928 bytes   774,625 bytes   00:47:29.346    
+11              0:52:14.714     0:05:44.135     23,347 kbps     45,014 kbps     00:54:52.706    39,235 kbps     00:54:48.702    36,715 kbps     00:52:14.840    121,719 bytes   597,612 bytes   00:52:32.732    
+12              0:57:58.850     0:05:15.690     19,423 kbps     31,595 kbps     01:03:03.112    30,294 kbps     01:00:57.320    29,629 kbps     01:01:23.262    101,265 bytes   584,063 bytes   00:58:15.575    
+13              1:03:14.540     0:08:31.135     31,280 kbps     53,965 kbps     01:05:42.605    40,612 kbps     01:04:32.994    37,773 kbps     01:09:57.985    163,080 bytes   664,670 bytes   01:05:51.822    
+14              1:11:45.676     0:04:19.425     31,389 kbps     50,350 kbps     01:13:04.046    40,216 kbps     01:13:02.878    37,674 kbps     01:13:02.878    163,650 bytes   704,250 bytes   01:15:47.918    
+15              1:16:05.102     0:10:05.062     28,028 kbps     61,217 kbps     01:24:14.966    40,636 kbps     01:24:14.966    37,817 kbps     01:23:35.343    146,123 bytes   713,936 bytes   01:23:34.384    
+16              1:26:10.165     0:10:21.454     28,492 kbps     56,619 kbps     01:27:54.602    40,618 kbps     01:27:54.310    37,734 kbps     01:29:45.380    148,544 bytes   696,166 bytes   01:29:04.756    
+17              1:36:31.619     0:05:10.768     27,892 kbps     60,324 kbps     01:36:32.495    40,690 kbps     01:38:13.679    37,810 kbps     01:41:25.120    145,414 bytes   732,909 bytes   01:36:32.536    
+18              1:41:42.387     0:04:35.483     34,998 kbps     50,244 kbps     01:45:37.497    37,885 kbps     01:45:37.914    36,458 kbps     01:45:37.414    182,464 bytes   744,311 bytes   01:45:38.457    
+19              1:46:17.871     0:02:51.629     33,840 kbps     39,051 kbps     01:47:59.514    35,914 kbps     01:46:32.344    35,474 kbps     01:46:28.507    176,425 bytes   729,464 bytes   01:48:48.730    
+20              1:49:09.501     0:08:37.934     11,714 kbps     28,619 kbps     01:54:03.795    27,952 kbps     01:54:01.918    27,860 kbps     01:54:01.167    61,070 bytes    396,782 bytes   01:54:09.801    
+21              1:57:47.435     0:00:01.001     75 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    409 bytes       2,422 bytes     01:57:48.186    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     7067.269                28,052                  24,781,710,070  134,781,911     
+00004.M2TS      4352 (0x1100)   0x85            DTS-HD HR       deu (German)            7067.269                2,045                   1,806,986,280   10,598,160      
+00004.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            7067.269                224                     197,832,320     1,103,975       
+00004.M2TS      4354 (0x1102)   0x85            DTS-HD HR       eng (English)           7067.269                2,045                   1,806,986,280   10,598,160      
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            7067.269                27                      23,747,186      136,576         
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     0.876                   108                     11,842          72              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: BFG - Sophie und der Riese
+Disc Label: BFG.Sophie.und.der.Riese.2016.DUAL.COMPLETE.BLURAY-GMB
+Disc Size: 40,392,637,146 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 30,231,490,560 bytes
+Length: 1:57:48.436
+Total Bitrate: 34.22 Mbps
+Video: MPEG-4 AVC Video / 28048 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Audio: English / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 26.877 kbps
+

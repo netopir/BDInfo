@@ -1,0 +1,128 @@
+Disc Title:     Ballerina
+Disc Label:     Ballerina.2016.1080p.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      36,552,871,579 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:29:34 22,465,554,432  36,552,871,579  33.44   27.25   DTS-HD Master 5.1 1965Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ballerina
+Disc Label:     Ballerina.2016.1080p.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      36,552,871,579 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:29:34.750 (h:m:s.ms)
+Size:                   22,465,554,432 bytes
+Total Bitrate:          33.44 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27246 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         1965 kbps       5.1 / 48 kHz /  1965 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           26.194 kbps                     
+Presentation Graphics           French          26.061 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:29:33.916     22,465,536,000  33,444          
+00034.M2TS      1:29:33.916     0:00:00.833     18,432          177             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:00.833     31,069 kbps     45,218 kbps     00:03:54.291    37,966 kbps     00:04:21.625    36,617 kbps     00:04:21.624    161,798 bytes   896,458 bytes   00:02:46.666    
+2               0:06:00.833     0:07:52.166     32,175 kbps     45,906 kbps     00:13:42.875    37,870 kbps     00:11:10.375    36,349 kbps     00:11:10.375    167,576 bytes   807,334 bytes   00:08:18.500    
+3               0:13:53.000     0:07:29.041     26,005 kbps     45,873 kbps     00:14:43.708    40,408 kbps     00:20:14.833    37,679 kbps     00:20:14.833    135,445 bytes   902,475 bytes   00:14:48.958    
+4               0:21:22.041     0:07:09.791     24,972 kbps     44,109 kbps     00:25:18.249    37,340 kbps     00:24:28.166    36,063 kbps     00:23:44.958    130,060 bytes   754,854 bytes   00:23:18.333    
+5               0:28:31.833     0:09:07.000     25,087 kbps     45,281 kbps     00:29:51.916    38,641 kbps     00:29:50.500    36,982 kbps     00:33:28.041    130,663 bytes   818,990 bytes   00:31:32.916    
+6               0:37:38.833     0:05:22.708     26,991 kbps     46,737 kbps     00:38:07.833    37,167 kbps     00:38:07.666    35,484 kbps     00:40:37.875    140,580 bytes   879,820 bytes   00:37:57.000    
+7               0:43:01.541     0:10:05.833     25,485 kbps     46,486 kbps     00:45:52.375    40,426 kbps     00:50:39.916    37,736 kbps     00:49:29.708    132,733 bytes   915,123 bytes   00:45:24.000    
+8               0:53:07.375     0:06:54.333     24,621 kbps     45,369 kbps     00:54:01.541    36,710 kbps     00:54:39.708    35,868 kbps     00:54:39.833    128,233 bytes   798,066 bytes   00:54:41.333    
+9               1:00:01.708     0:09:15.333     24,807 kbps     47,012 kbps     01:05:56.708    39,810 kbps     01:07:46.208    37,033 kbps     01:07:45.041    129,202 bytes   795,633 bytes   01:06:38.208    
+10              1:09:17.041     0:08:52.750     24,969 kbps     45,418 kbps     01:11:56.875    40,339 kbps     01:14:43.583    37,772 kbps     01:10:04.000    130,048 bytes   902,216 bytes   01:11:48.500    
+11              1:18:09.791     0:06:12.208     32,078 kbps     43,943 kbps     01:19:03.916    37,625 kbps     01:19:03.750    36,016 kbps     01:24:09.125    167,075 bytes   809,174 bytes   01:21:28.125    
+12              1:24:22.000     0:05:12.750     33,686 kbps     44,088 kbps     01:25:48.125    37,629 kbps     01:25:45.083    36,490 kbps     01:25:44.125    175,471 bytes   982,828 bytes   01:26:07.166    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5373.792                27,251                  18,304,969,697  99,558,896      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5373.792                1,965                   1,320,060,924   8,000,794       
+00000.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5373.792                768                     515,897,344     3,022,836       
+00000.M2TS      4354 (0x1102)   0x82            DTS             nld (Dutch)             5373.792                768                     515,897,344     3,022,836       
+00000.M2TS      4355 (0x1103)   0x82            DTS             nld (Dutch)             5373.792                768                     515,897,344     3,022,836       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5373.792                26                      17,598,355      100,110         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5373.792                26                      17,508,968      99,634          
+00034.M2TS      4113 (0x1011)   0x1B            AVC                                     0.750                   112                     10,528          64              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ballerina
+Disc Label: Ballerina.2016.1080p.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 36,552,871,579 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 22,465,554,432 bytes
+Length: 1:29:34.750
+Total Bitrate: 33.44 Mbps
+Video: MPEG-4 AVC Video / 27246 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1965 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Subtitle: Dutch / 26.194 kbps
+Subtitle: French / 26.061 kbps
+

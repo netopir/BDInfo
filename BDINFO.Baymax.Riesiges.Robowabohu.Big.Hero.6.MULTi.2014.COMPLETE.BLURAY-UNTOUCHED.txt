@@ -1,0 +1,144 @@
+Disc Title:     Big Hero 6 - Blu-ray™
+Disc Label:     Baymax.Riesiges.Robowabohu.Big.Hero.6.MULTi.2014.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      38,769,081,195 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:41:52 29,932,677,120  38,769,081,195  39.17   27.03   DTS-HD Master 7.1 4553Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Big Hero 6 - Blu-ray™
+Disc Label:     Baymax.Riesiges.Robowabohu.Big.Hero.6.MULTi.2014.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      38,769,081,195 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:41:52.731 (h:m:s.ms)
+Size:                   29,932,677,120 bytes
+Total Bitrate:          39.17 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27033 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4553 kbps       7.1 / 48 kHz /  4553 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD High-Res Audio           German          2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Turkish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         39.160 kbps                     
+Presentation Graphics           German          25.959 kbps                     
+Presentation Graphics           Italian         29.837 kbps                     
+Presentation Graphics           Turkish         30.319 kbps                     
+Presentation Graphics           German          0.033 kbps                      
+Presentation Graphics           Turkish         0.405 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00300.M2TS      0:00:00.000     1:41:52.731     29,932,677,120  39,174          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:15.685     26,988 kbps     36,170 kbps     00:00:31.990    31,882 kbps     00:00:27.986    31,366 kbps     00:00:22.981    140,688 bytes   476,626 bytes   00:01:15.033    
+2               0:07:15.685     0:07:22.150     27,268 kbps     32,437 kbps     00:09:31.112    30,900 kbps     00:07:44.630    30,551 kbps     00:09:22.270    142,161 bytes   442,584 bytes   00:08:44.565    
+3               0:14:37.835     0:07:11.347     26,926 kbps     38,188 kbps     00:15:51.825    32,275 kbps     00:15:47.821    31,281 kbps     00:15:42.775    140,378 bytes   438,530 bytes   00:15:40.105    
+4               0:21:49.182     0:02:43.705     27,450 kbps     44,249 kbps     00:24:31.136    32,120 kbps     00:24:27.132    30,647 kbps     00:22:34.436    143,111 bytes   633,358 bytes   00:24:32.053    
+5               0:24:32.888     0:05:01.843     26,971 kbps     33,258 kbps     00:24:33.388    31,408 kbps     00:24:32.888    29,645 kbps     00:24:32.888    140,613 bytes   486,720 bytes   00:24:35.891    
+6               0:29:34.731     0:07:23.359     26,962 kbps     33,377 kbps     00:35:08.898    31,342 kbps     00:35:04.894    31,139 kbps     00:30:30.078    140,567 bytes   476,780 bytes   00:30:27.116    
+7               0:36:58.090     0:07:20.231     27,445 kbps     32,616 kbps     00:43:21.473    30,582 kbps     00:42:23.040    29,882 kbps     00:44:07.895    143,084 bytes   428,537 bytes   00:37:51.686    
+8               0:44:18.322     0:06:30.765     26,372 kbps     36,834 kbps     00:50:31.111    31,962 kbps     00:50:27.107    30,738 kbps     00:50:03.125    137,492 bytes   415,239 bytes   00:46:06.346    
+9               0:50:49.087     0:03:43.932     26,437 kbps     33,207 kbps     00:51:43.350    31,107 kbps     00:51:32.881    30,765 kbps     00:51:28.085    137,831 bytes   477,273 bytes   00:51:27.459    
+10              0:54:33.019     0:06:11.120     28,368 kbps     34,014 kbps     00:57:59.017    31,206 kbps     00:59:11.798    30,928 kbps     00:59:38.032    147,898 bytes   504,300 bytes   00:57:16.933    
+11              1:00:44.140     0:06:28.471     27,041 kbps     36,816 kbps     01:06:41.038    32,036 kbps     01:06:37.493    31,171 kbps     01:05:27.632    140,981 bytes   625,312 bytes   01:06:00.706    
+12              1:07:12.611     0:04:42.031     26,008 kbps     34,093 kbps     01:11:50.973    29,851 kbps     01:11:46.927    28,713 kbps     01:11:44.216    135,594 bytes   385,664 bytes   01:11:53.642    
+13              1:11:54.643     0:04:32.021     26,102 kbps     39,148 kbps     01:16:13.860    31,177 kbps     01:11:54.685    30,293 kbps     01:13:25.818    136,083 bytes   470,668 bytes   01:15:52.464    
+14              1:16:26.665     0:08:17.497     27,534 kbps     35,834 kbps     01:17:42.407    31,734 kbps     01:23:30.380    31,044 kbps     01:16:27.583    143,552 bytes   453,360 bytes   01:17:43.200    
+15              1:24:44.162     0:07:08.594     26,976 kbps     34,488 kbps     01:25:39.342    31,265 kbps     01:25:17.112    30,863 kbps     01:25:12.065    140,642 bytes   436,028 bytes   01:30:34.303    
+16              1:31:52.757     0:09:59.974     26,987 kbps     34,844 kbps     01:34:06.682    31,630 kbps     01:41:45.724    31,039 kbps     01:32:01.474    140,706 bytes   621,733 bytes   01:33:14.463    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00300.M2TS      4113 (0x1011)   0x1B            AVC                                     6112.648                27,033                  20,655,541,165  112,346,420     
+00300.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6112.648                4,553                   3,478,658,080   19,865,279      
+00300.M2TS      4353 (0x1101)   0x85            DTS-HD HR       deu (German)            6112.648                2,046                   1,563,332,232   9,169,104       
+00300.M2TS      4354 (0x1102)   0x82            DTS             ita (Italian)           6112.648                1,509                   1,153,014,828   6,876,828       
+00300.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           6112.648                1,509                   1,153,014,828   6,876,828       
+00300.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6112.648                39                      29,921,936      174,775         
+00300.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6112.648                26                      19,834,902      115,830         
+00300.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           6112.648                30                      22,798,418      132,781         
+00300.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           6112.648                30                      23,166,749      134,780         
+00300.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            6112.648                0                       25,501          146             
+00300.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           6112.648                0                       309,590         1,782           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Big Hero 6 - Blu-ray™
+Disc Label: Baymax.Riesiges.Robowabohu.Big.Hero.6.MULTi.2014.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 38,769,081,195 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 29,932,677,120 bytes
+Length: 1:41:52.731
+Total Bitrate: 39.17 Mbps
+Video: MPEG-4 AVC Video / 27033 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4553 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Subtitle: English / 39.160 kbps
+Subtitle: German / 25.959 kbps
+Subtitle: Italian / 29.837 kbps
+Subtitle: Turkish / 30.319 kbps
+Subtitle: German / 0.033 kbps
+Subtitle: Turkish / 0.405 kbps
+

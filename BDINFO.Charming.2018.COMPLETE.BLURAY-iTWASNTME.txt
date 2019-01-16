@@ -1,0 +1,335 @@
+Disc Title:     Charming - Blu-ray™
+Disc Label:     Charming.2018.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      29,972,162,747 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:25:22 20,501,133,312  29,972,162,747  32.02   23.48   DTS-HD Master 5.1 2108Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Charming - Blu-ray™
+Disc Label:     Charming.2018.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      29,972,162,747 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:25:22.617 (h:m:s.ms)
+Size:                   20,501,133,312 bytes
+Total Bitrate:          32.02 Mbps
+
+Angle 1 Length:         0:14:29.326 (h:m:s.ms) / 1:25:22.617 (h:m:s.ms)
+Angle 1 Size:           3,280,029,696 bytes / 20,520,929,280 bytes
+Angle 1 Total Bitrate:  30.18 Mbps / 32.05 Mbps
+
+All Angles Length:      1:39:51.944 (h:m:s.ms)
+All Angles Size:        23,781,163,008 bytes
+All Angles Bitrate:     31.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23476 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video (1)    3620 (21335) kbps   1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2108 kbps       5.1 / 48 kHz /  2108 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2111 kbps       5.1 / 48 kHz /  2111 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Dutch           2100 kbps       5.1 / 48 kHz /  2100 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          59.763 kbps                     
+Presentation Graphics           Dutch           53.484 kbps                     
+Presentation Graphics           German          12.870 kbps                     
+Presentation Graphics           Dutch           1.001 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     0:03:49.520     902,412,288     31,454          
+00002.M2TS (1)  0:00:00.000     0:03:49.520     908,347,392     31,661          
+00003.M2TS      0:03:49.520     1:10:53.290     17,240,899,584  32,428          
+00004.M2TS      1:14:42.811     0:10:39.805     2,357,821,440   29,482          
+00005.M2TS (1)  1:14:42.811     0:10:39.805     2,371,682,304   29,655          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:53.770     23,784 kbps     48,913 kbps     00:01:47.941    34,194 kbps     00:01:52.320    32,099 kbps     00:01:27.670    123,986 bytes   892,084 bytes   00:01:51.027    
+2               0:05:53.770     0:05:32.332     23,876 kbps     44,173 kbps     00:08:45.858    34,659 kbps     00:08:42.480    32,146 kbps     00:07:41.169    124,476 bytes   861,763 bytes   00:11:15.257    
+3               0:11:26.102     0:08:24.921     25,599 kbps     45,305 kbps     00:15:19.126    34,407 kbps     00:11:33.109    31,772 kbps     00:13:28.182    133,462 bytes   852,541 bytes   00:12:41.093    
+4               0:19:51.023     0:04:45.785     24,111 kbps     47,856 kbps     00:24:04.818    34,658 kbps     00:20:48.246    31,651 kbps     00:21:28.495    125,704 bytes   917,892 bytes   00:23:13.225    
+5               0:24:36.808     0:09:19.684     22,810 kbps     46,294 kbps     00:30:31.663    34,297 kbps     00:30:48.638    31,731 kbps     00:30:47.720    118,922 bytes   781,939 bytes   00:33:12.407    
+6               0:33:56.492     0:05:43.718     25,404 kbps     42,817 kbps     00:36:47.204    33,796 kbps     00:36:02.451    31,873 kbps     00:36:04.495    132,444 bytes   746,669 bytes   00:35:04.685    
+7               0:39:40.211     0:07:35.163     23,917 kbps     43,855 kbps     00:47:10.327    33,851 kbps     00:41:17.516    32,202 kbps     00:39:42.838    124,692 bytes   655,159 bytes   00:47:12.871    
+8               0:47:15.374     0:06:12.288     24,838 kbps     46,000 kbps     00:49:11.073    34,121 kbps     00:53:05.849    32,034 kbps     00:50:10.799    129,492 bytes   851,384 bytes   00:50:52.424    
+9               0:53:27.662     0:06:58.501     23,607 kbps     42,737 kbps     00:59:35.822    34,520 kbps     00:58:07.567    31,894 kbps     00:58:26.628    123,078 bytes   827,912 bytes   00:53:39.341    
+10              1:00:26.164     0:08:30.343     21,685 kbps     46,871 kbps     01:06:41.455    34,089 kbps     01:08:18.344    30,005 kbps     01:06:41.455    113,058 bytes   838,173 bytes   01:06:30.945    
+11              1:08:56.507     0:05:52.643     24,270 kbps     46,505 kbps     01:13:09.343    33,317 kbps     01:10:42.237    31,105 kbps     01:13:24.233    126,548 bytes   789,627 bytes   01:11:03.884    
+12              1:14:49.151     0:10:33.466     20,454 kbps     45,789 kbps     01:14:51.111    33,607 kbps     01:14:51.278    31,764 kbps     01:14:51.278    106,650 bytes   872,700 bytes   01:17:56.880    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     229.438                 23,308                  668,469,694     3,636,209       
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            229.438                 2,002                   57,414,904      347,758         
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           229.438                 1,978                   56,728,116      344,014         
+00001.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             229.438                 1,984                   56,888,052      344,742         
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            229.438                 55                      1,576,615       8,875           
+00001.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             229.438                 51                      1,460,435       8,277           
+00001.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            229.438                 7                       191,043         1,073           
+00001.M2TS      4611 (0x1203)   0x90            PGS             nld (Dutch)             229.438                 9                       247,398         1,387           
+00002.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     229.438                 23,506                  674,156,128     3,667,121       
+00002.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       deu (German)            229.438                 2,002                   57,414,904      347,758         
+00002.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       eng (English)           229.438                 1,978                   56,728,116      344,014         
+00002.M2TS (1)  4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             229.438                 1,984                   56,888,052      344,742         
+00002.M2TS (1)  4608 (0x1200)   0x90            PGS             deu (German)            229.438                 55                      1,576,615       8,875           
+00002.M2TS (1)  4609 (0x1201)   0x90            PGS             nld (Dutch)             229.438                 51                      1,460,435       8,277           
+00002.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            229.438                 7                       191,043         1,073           
+00002.M2TS (1)  4611 (0x1203)   0x90            PGS             nld (Dutch)             229.438                 9                       247,398         1,387           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4253.124                23,950                  12,733,020,467  69,260,891      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4253.124                2,079                   1,105,526,476   6,668,983       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4253.124                2,081                   1,106,362,524   6,675,711       
+00003.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             4253.124                2,070                   1,100,634,896   6,641,127       
+00003.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4253.124                65                      34,305,001      193,700         
+00003.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             4253.124                60                      31,656,622      179,395         
+00003.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            4253.124                11                      5,664,107       31,787          
+00003.M2TS      4611 (0x1203)   0x90            PGS             nld (Dutch)             4253.124                1                       392,071         2,258           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     639.639                 20,396                  1,630,794,735   8,872,016       
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            639.639                 2,340                   187,055,948     1,115,494       
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           639.639                 2,356                   188,390,096     1,122,659       
+00004.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             639.639                 2,340                   187,062,096     1,115,511       
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00004.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             639.639                 14                      1,130,376       6,388           
+00004.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00004.M2TS      4611 (0x1203)   0x90            PGS             nld (Dutch)             639.639                 0                       1,507           15              
+00005.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     639.639                 20,563                  1,644,095,591   8,944,193       
+00005.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       deu (German)            639.639                 2,340                   187,055,948     1,115,494       
+00005.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       eng (English)           639.639                 2,356                   188,390,096     1,122,659       
+00005.M2TS (1)  4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             639.639                 2,340                   187,062,096     1,115,511       
+00005.M2TS (1)  4608 (0x1200)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00005.M2TS (1)  4609 (0x1201)   0x90            PGS             nld (Dutch)             639.639                 14                      1,130,376       6,388           
+00005.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00005.M2TS (1)  4611 (0x1203)   0x90            PGS             nld (Dutch)             639.639                 0                       1,507           15              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Charming - Blu-ray™
+Disc Label: Charming.2018.COMPLETE.BLURAY-iTWASNTME
+Disc Size: 29,972,162,747 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 20,501,133,312 bytes
+Length: 1:25:22.617
+Total Bitrate: 32.02 Mbps
+Video: MPEG-4 AVC Video / 23476 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video (1) / 3620 (21335) kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2108 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2111 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Dutch / DTS-HD Master Audio / 5.1 / 48 kHz /  2100 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 59.763 kbps
+Subtitle: Dutch / 53.484 kbps
+Subtitle: German / 12.870 kbps
+Subtitle: Dutch / 1.001 kbps
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:25:22 20,501,133,312  29,972,162,747  32.02   23.48   DTS-HD Master 5.1 2108Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Charming - Blu-ray™
+Disc Label:     Charming.2018.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      29,972,162,747 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:25:22.617 (h:m:s.ms)
+Size:                   20,501,133,312 bytes
+Total Bitrate:          32.02 Mbps
+
+Angle 1 Length:         0:14:29.326 (h:m:s.ms) / 1:25:22.617 (h:m:s.ms)
+Angle 1 Size:           3,280,029,696 bytes / 20,520,929,280 bytes
+Angle 1 Total Bitrate:  30.18 Mbps / 32.05 Mbps
+
+All Angles Length:      1:39:51.944 (h:m:s.ms)
+All Angles Size:        23,781,163,008 bytes
+All Angles Bitrate:     31.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23476 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video (1)    3620 (21335) kbps   1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2108 kbps       5.1 / 48 kHz /  2108 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2111 kbps       5.1 / 48 kHz /  2111 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Dutch           2100 kbps       5.1 / 48 kHz /  2100 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          59.763 kbps                     
+Presentation Graphics           Dutch           53.484 kbps                     
+Presentation Graphics           German          12.870 kbps                     
+Presentation Graphics           Dutch           1.001 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     0:03:49.520     902,412,288     31,454          
+00002.M2TS (1)  0:00:00.000     0:03:49.520     908,347,392     31,661          
+00003.M2TS      0:03:49.520     1:10:53.290     17,240,899,584  32,428          
+00004.M2TS      1:14:42.811     0:10:39.805     2,357,821,440   29,482          
+00005.M2TS (1)  1:14:42.811     0:10:39.805     2,371,682,304   29,655          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:53.770     23,784 kbps     48,913 kbps     00:01:47.941    34,194 kbps     00:01:52.320    32,099 kbps     00:01:27.670    123,986 bytes   892,084 bytes   00:01:51.027    
+2               0:05:53.770     0:05:32.332     23,876 kbps     44,173 kbps     00:08:45.858    34,659 kbps     00:08:42.480    32,146 kbps     00:07:41.169    124,476 bytes   861,763 bytes   00:11:15.257    
+3               0:11:26.102     0:08:24.921     25,599 kbps     45,305 kbps     00:15:19.126    34,407 kbps     00:11:33.109    31,772 kbps     00:13:28.182    133,462 bytes   852,541 bytes   00:12:41.093    
+4               0:19:51.023     0:04:45.785     24,111 kbps     47,856 kbps     00:24:04.818    34,658 kbps     00:20:48.246    31,651 kbps     00:21:28.495    125,704 bytes   917,892 bytes   00:23:13.225    
+5               0:24:36.808     0:09:19.684     22,810 kbps     46,294 kbps     00:30:31.663    34,297 kbps     00:30:48.638    31,731 kbps     00:30:47.720    118,922 bytes   781,939 bytes   00:33:12.407    
+6               0:33:56.492     0:05:43.718     25,404 kbps     42,817 kbps     00:36:47.204    33,796 kbps     00:36:02.451    31,873 kbps     00:36:04.495    132,444 bytes   746,669 bytes   00:35:04.685    
+7               0:39:40.211     0:07:35.163     23,917 kbps     43,855 kbps     00:47:10.327    33,851 kbps     00:41:17.516    32,202 kbps     00:39:42.838    124,692 bytes   655,159 bytes   00:47:12.871    
+8               0:47:15.374     0:06:12.288     24,838 kbps     46,000 kbps     00:49:11.073    34,121 kbps     00:53:05.849    32,034 kbps     00:50:10.799    129,492 bytes   851,384 bytes   00:50:52.424    
+9               0:53:27.662     0:06:58.501     23,607 kbps     42,737 kbps     00:59:35.822    34,520 kbps     00:58:07.567    31,894 kbps     00:58:26.628    123,078 bytes   827,912 bytes   00:53:39.341    
+10              1:00:26.164     0:08:30.343     21,685 kbps     46,871 kbps     01:06:41.455    34,089 kbps     01:08:18.344    30,005 kbps     01:06:41.455    113,058 bytes   838,173 bytes   01:06:30.945    
+11              1:08:56.507     0:05:52.643     24,270 kbps     46,505 kbps     01:13:09.343    33,317 kbps     01:10:42.237    31,105 kbps     01:13:24.233    126,548 bytes   789,627 bytes   01:11:03.884    
+12              1:14:49.151     0:10:33.466     20,454 kbps     45,789 kbps     01:14:51.111    33,607 kbps     01:14:51.278    31,764 kbps     01:14:51.278    106,650 bytes   872,700 bytes   01:17:56.880    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     229.438                 23,308                  668,469,694     3,636,209       
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            229.438                 2,002                   57,414,904      347,758         
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           229.438                 1,978                   56,728,116      344,014         
+00001.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             229.438                 1,984                   56,888,052      344,742         
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            229.438                 55                      1,576,615       8,875           
+00001.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             229.438                 51                      1,460,435       8,277           
+00001.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            229.438                 7                       191,043         1,073           
+00001.M2TS      4611 (0x1203)   0x90            PGS             nld (Dutch)             229.438                 9                       247,398         1,387           
+00002.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     229.438                 23,506                  674,156,128     3,667,121       
+00002.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       deu (German)            229.438                 2,002                   57,414,904      347,758         
+00002.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       eng (English)           229.438                 1,978                   56,728,116      344,014         
+00002.M2TS (1)  4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             229.438                 1,984                   56,888,052      344,742         
+00002.M2TS (1)  4608 (0x1200)   0x90            PGS             deu (German)            229.438                 55                      1,576,615       8,875           
+00002.M2TS (1)  4609 (0x1201)   0x90            PGS             nld (Dutch)             229.438                 51                      1,460,435       8,277           
+00002.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            229.438                 7                       191,043         1,073           
+00002.M2TS (1)  4611 (0x1203)   0x90            PGS             nld (Dutch)             229.438                 9                       247,398         1,387           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4253.124                23,950                  12,733,020,467  69,260,891      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4253.124                2,079                   1,105,526,476   6,668,983       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4253.124                2,081                   1,106,362,524   6,675,711       
+00003.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             4253.124                2,070                   1,100,634,896   6,641,127       
+00003.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4253.124                65                      34,305,001      193,700         
+00003.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             4253.124                60                      31,656,622      179,395         
+00003.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            4253.124                11                      5,664,107       31,787          
+00003.M2TS      4611 (0x1203)   0x90            PGS             nld (Dutch)             4253.124                1                       392,071         2,258           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     639.639                 20,396                  1,630,794,735   8,872,016       
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            639.639                 2,340                   187,055,948     1,115,494       
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           639.639                 2,356                   188,390,096     1,122,659       
+00004.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             639.639                 2,340                   187,062,096     1,115,511       
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00004.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             639.639                 14                      1,130,376       6,388           
+00004.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00004.M2TS      4611 (0x1203)   0x90            PGS             nld (Dutch)             639.639                 0                       1,507           15              
+00005.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     639.639                 20,563                  1,644,095,591   8,944,193       
+00005.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       deu (German)            639.639                 2,340                   187,055,948     1,115,494       
+00005.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       eng (English)           639.639                 2,356                   188,390,096     1,122,659       
+00005.M2TS (1)  4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             639.639                 2,340                   187,062,096     1,115,511       
+00005.M2TS (1)  4608 (0x1200)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00005.M2TS (1)  4609 (0x1201)   0x90            PGS             nld (Dutch)             639.639                 14                      1,130,376       6,388           
+00005.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            639.639                 30                      2,386,012       13,404          
+00005.M2TS (1)  4611 (0x1203)   0x90            PGS             nld (Dutch)             639.639                 0                       1,507           15              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Charming - Blu-ray™
+Disc Label: Charming.2018.COMPLETE.BLURAY-iTWASNTME
+Disc Size: 29,972,162,747 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 20,501,133,312 bytes
+Length: 1:25:22.617
+Total Bitrate: 32.02 Mbps
+Video: MPEG-4 AVC Video / 23476 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video (1) / 3620 (21335) kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2108 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2111 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Dutch / DTS-HD Master Audio / 5.1 / 48 kHz /  2100 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 59.763 kbps
+Subtitle: Dutch / 53.484 kbps
+Subtitle: German / 12.870 kbps
+Subtitle: Dutch / 1.001 kbps
+

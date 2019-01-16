@@ -1,0 +1,269 @@
+Disc Title:     Chicken Run
+Disc Label:     Chicken.Run.2000.MULTi.COMPLETE.BLURAY-XANOR
+Disc Size:      24,191,844,683 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:24:36 16,788,996,096  24,191,844,683  26.46   18.99   DTS-HD Master 6.1 2211Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Chicken Run
+Disc Label:     Chicken.Run.2000.MULTi.COMPLETE.BLURAY-XANOR
+Disc Size:      24,191,844,683 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:24:36.208 (h:m:s.ms)
+Size:                   16,788,996,096 bytes
+Total Bitrate:          26.46 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        18988 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2211 kbps       6.1 / 48 kHz /  2211 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2235 kbps       6.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       English         320 kbps        2.0 / 48 kHz /   320 kbps / 16-bit
+DTS Audio                       Undetermined    768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          31.416 kbps                     
+Presentation Graphics           German          35.147 kbps                     
+Presentation Graphics           English         24.664 kbps                     
+Presentation Graphics           German          53.774 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     0:00:07.041     21,049,344      23,914          
+00001.M2TS      0:00:07.041     1:24:29.166     16,767,946,752  26,463          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:30.875     17,699 kbps     38,794 kbps     00:05:00.875    34,646 kbps     00:04:59.083    32,485 kbps     00:04:57.416    92,173 bytes    392,891 bytes   00:05:52.250    
+2               0:07:30.875     0:05:32.625     22,856 kbps     38,437 kbps     00:09:38.875    33,489 kbps     00:08:02.666    32,000 kbps     00:08:02.666    119,044 bytes   366,994 bytes   00:10:27.458    
+3               0:13:03.500     0:05:23.583     19,035 kbps     33,513 kbps     00:13:46.708    27,088 kbps     00:13:46.708    25,495 kbps     00:13:42.333    99,142 bytes    287,203 bytes   00:13:47.416    
+4               0:18:27.083     0:07:58.833     16,574 kbps     31,142 kbps     00:24:18.166    25,200 kbps     00:19:29.875    23,464 kbps     00:19:29.875    86,324 bytes    346,355 bytes   00:19:32.583    
+5               0:26:25.916     0:07:09.833     22,560 kbps     39,881 kbps     00:28:26.000    37,786 kbps     00:29:54.666    36,851 kbps     00:28:23.333    117,500 bytes   375,026 bytes   00:31:00.625    
+6               0:33:35.750     0:06:54.458     19,524 kbps     34,899 kbps     00:39:44.916    30,560 kbps     00:39:41.458    29,322 kbps     00:39:36.625    101,688 bytes   351,891 bytes   00:39:20.916    
+7               0:40:30.208     0:07:22.208     21,284 kbps     36,376 kbps     00:42:27.375    31,936 kbps     00:41:22.083    29,410 kbps     00:42:08.583    110,853 bytes   341,510 bytes   00:43:34.791    
+8               0:47:52.416     0:08:23.166     19,571 kbps     37,002 kbps     00:53:02.041    32,035 kbps     00:53:00.041    26,794 kbps     00:52:58.875    101,933 bytes   493,106 bytes   00:53:02.083    
+9               0:56:15.583     0:10:24.375     20,160 kbps     39,058 kbps     01:00:29.000    34,186 kbps     01:00:27.583    31,942 kbps     01:00:22.541    105,001 bytes   438,983 bytes   01:00:23.874    
+10              1:06:39.958     0:10:11.458     18,846 kbps     35,135 kbps     01:15:08.875    32,170 kbps     01:06:50.124    30,947 kbps     01:06:46.041    98,156 bytes    380,362 bytes   01:12:49.666    
+11              1:16:51.416     0:02:40.333     23,377 kbps     39,888 kbps     01:18:52.041    36,139 kbps     01:18:49.583    33,322 kbps     01:18:45.291    121,753 bytes   469,203 bytes   01:18:53.083    
+12              1:19:31.750     0:05:04.458     5,921 kbps      27,853 kbps     01:23:41.208    25,898 kbps     01:23:38.208    23,372 kbps     01:23:34.375    30,841 bytes    307,690 bytes   01:23:43.208    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     6.875                   18,440                  15,846,983      86,201          
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            6.875                   1,628                   1,398,676       8,593           
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6.875                   1,628                   1,398,676       8,593           
+00021.M2TS      4354 (0x1102)   0x82            DTS             eng (English)           6.875                   326                     280,264         1,983           
+00021.M2TS      4355 (0x1103)   0x82            DTS             und (Undetermined)      6.875                   788                     676,864         3,966           
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            6.875                   0                       70              7               
+00021.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6.875                   0                       70              7               
+00021.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           6.875                   0                       70              7               
+00021.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            6.875                   0                       70              7               
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5069.000                18,990                  12,032,717,837  65,466,075      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5069.000                2,212                   1,401,690,120   8,406,822       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5069.000                2,236                   1,416,729,836   8,490,895       
+00001.M2TS      4354 (0x1102)   0x82            DTS             eng (English)           5069.000                318                     201,499,640     1,425,705       
+00001.M2TS      4355 (0x1103)   0x82            DTS             und (Undetermined)      5069.000                768                     486,640,640     2,851,410       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5069.000                31                      19,934,230      113,725         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5069.000                35                      22,301,317      126,101         
+00001.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5069.000                25                      15,650,102      90,386          
+00001.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5069.000                54                      34,121,151      192,099         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Chicken Run
+Disc Label: Chicken.Run.2000.MULTi.COMPLETE.BLURAY-XANOR
+Disc Size: 24,191,844,683 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 16,788,996,096 bytes
+Length: 1:24:36.208
+Total Bitrate: 26.46 Mbps
+Video: MPEG-4 AVC Video / 18988 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 6.1 / 48 kHz /  2211 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 6.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS Audio / 2.0 / 48 kHz /   320 kbps / 16-bit
+Audio: Undetermined / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Subtitle: German / 31.416 kbps
+Subtitle: German / 35.147 kbps
+Subtitle: English / 24.664 kbps
+Subtitle: German / 53.774 kbps
+
+
+********************
+PLAYLIST: 00602.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00602.MPLS                                                      AVC     1:24:36 16,788,996,096  24,191,844,683  26.46   18.99   DTS-HD Master 6.1 2211Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Chicken Run
+Disc Label:     Chicken.Run.2000.MULTi.COMPLETE.BLURAY-XANOR
+Disc Size:      24,191,844,683 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00602.MPLS
+Length:                 1:24:36.208 (h:m:s.ms)
+Size:                   16,788,996,096 bytes
+Total Bitrate:          26.46 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        18988 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2211 kbps       6.1 / 48 kHz /  2211 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2235 kbps       6.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       English         320 kbps        2.0 / 48 kHz /   320 kbps / 16-bit
+DTS Audio                       Undetermined    768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          31.416 kbps                     
+Presentation Graphics           German          35.147 kbps                     
+Presentation Graphics           English         24.664 kbps                     
+Presentation Graphics           German          53.774 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     0:00:07.041     21,049,344      23,914          
+00001.M2TS      0:00:07.041     1:24:29.166     16,767,946,752  26,463          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:30.875     17,699 kbps     38,794 kbps     00:05:00.875    34,646 kbps     00:04:59.083    32,485 kbps     00:04:57.416    92,173 bytes    392,891 bytes   00:05:52.250    
+2               0:07:30.875     0:05:32.625     22,856 kbps     38,437 kbps     00:09:38.875    33,489 kbps     00:08:02.666    32,000 kbps     00:08:02.666    119,044 bytes   366,994 bytes   00:10:27.458    
+3               0:13:03.500     0:05:23.583     19,035 kbps     33,513 kbps     00:13:46.708    27,088 kbps     00:13:46.708    25,495 kbps     00:13:42.333    99,142 bytes    287,203 bytes   00:13:47.416    
+4               0:18:27.083     0:07:58.833     16,574 kbps     31,142 kbps     00:24:18.166    25,200 kbps     00:19:29.875    23,464 kbps     00:19:29.875    86,324 bytes    346,355 bytes   00:19:32.583    
+5               0:26:25.916     0:07:09.833     22,560 kbps     39,881 kbps     00:28:26.000    37,786 kbps     00:29:54.666    36,851 kbps     00:28:23.333    117,500 bytes   375,026 bytes   00:31:00.625    
+6               0:33:35.750     0:06:54.458     19,524 kbps     34,899 kbps     00:39:44.916    30,560 kbps     00:39:41.458    29,322 kbps     00:39:36.625    101,688 bytes   351,891 bytes   00:39:20.916    
+7               0:40:30.208     0:07:22.208     21,284 kbps     36,376 kbps     00:42:27.375    31,936 kbps     00:41:22.083    29,410 kbps     00:42:08.583    110,853 bytes   341,510 bytes   00:43:34.791    
+8               0:47:52.416     0:08:23.166     19,571 kbps     37,002 kbps     00:53:02.041    32,035 kbps     00:53:00.041    26,794 kbps     00:52:58.875    101,933 bytes   493,106 bytes   00:53:02.083    
+9               0:56:15.583     0:10:24.375     20,160 kbps     39,058 kbps     01:00:29.000    34,186 kbps     01:00:27.583    31,942 kbps     01:00:22.541    105,001 bytes   438,983 bytes   01:00:23.874    
+10              1:06:39.958     0:10:11.458     18,846 kbps     35,135 kbps     01:15:08.875    32,170 kbps     01:06:50.124    30,947 kbps     01:06:46.041    98,156 bytes    380,362 bytes   01:12:49.666    
+11              1:16:51.416     0:02:40.333     23,377 kbps     39,888 kbps     01:18:52.041    36,139 kbps     01:18:49.583    33,322 kbps     01:18:45.291    121,753 bytes   469,203 bytes   01:18:53.083    
+12              1:19:31.750     0:05:04.458     5,921 kbps      27,853 kbps     01:23:41.208    25,898 kbps     01:23:38.208    23,372 kbps     01:23:34.375    30,841 bytes    307,690 bytes   01:23:43.208    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     6.875                   18,440                  15,846,983      86,201          
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            6.875                   1,628                   1,398,676       8,593           
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6.875                   1,628                   1,398,676       8,593           
+00021.M2TS      4354 (0x1102)   0x82            DTS             eng (English)           6.875                   326                     280,264         1,983           
+00021.M2TS      4355 (0x1103)   0x82            DTS             und (Undetermined)      6.875                   788                     676,864         3,966           
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            6.875                   0                       70              7               
+00021.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6.875                   0                       70              7               
+00021.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           6.875                   0                       70              7               
+00021.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            6.875                   0                       70              7               
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5069.000                18,990                  12,032,717,837  65,466,075      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5069.000                2,212                   1,401,690,120   8,406,822       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5069.000                2,236                   1,416,729,836   8,490,895       
+00001.M2TS      4354 (0x1102)   0x82            DTS             eng (English)           5069.000                318                     201,499,640     1,425,705       
+00001.M2TS      4355 (0x1103)   0x82            DTS             und (Undetermined)      5069.000                768                     486,640,640     2,851,410       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5069.000                31                      19,934,230      113,725         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5069.000                35                      22,301,317      126,101         
+00001.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5069.000                25                      15,650,102      90,386          
+00001.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5069.000                54                      34,121,151      192,099         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Chicken Run
+Disc Label: Chicken.Run.2000.MULTi.COMPLETE.BLURAY-XANOR
+Disc Size: 24,191,844,683 bytes
+Protection: AACS
+Playlist: 00602.MPLS
+Size: 16,788,996,096 bytes
+Length: 1:24:36.208
+Total Bitrate: 26.46 Mbps
+Video: MPEG-4 AVC Video / 18988 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 6.1 / 48 kHz /  2211 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 6.1 / 48 kHz /  2235 kbps / 16-bit (DTS Core: 6.1-ES / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS Audio / 2.0 / 48 kHz /   320 kbps / 16-bit
+Audio: Undetermined / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Subtitle: German / 31.416 kbps
+Subtitle: German / 35.147 kbps
+Subtitle: English / 24.664 kbps
+Subtitle: German / 53.774 kbps
+
