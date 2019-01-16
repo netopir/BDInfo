@@ -1,0 +1,187 @@
+Disc Label:     Tierisch.Wild.2006.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      24,975,563,372 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:21:35 23,379,400,704  24,975,563,372  38.20   19.19   LPCM 5.1 4608Kbps (48kHz/16-bit)          DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Tierisch.Wild.2006.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      24,975,563,372 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:21:35.932 (h:m:s.ms)
+Size:                   23,379,400,704 bytes
+Total Bitrate:          38.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19190 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      English         4608 kbps       5.1 / 48 kHz /  4608 kbps / 16-bit
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       French          1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       German          1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       Spanish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       Dutch           1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         33.106 kbps                     
+Presentation Graphics           French          22.886 kbps                     
+Presentation Graphics           Spanish         24.020 kbps                     
+Presentation Graphics           French          0.050 kbps                      
+Presentation Graphics           German          0.267 kbps                      
+Presentation Graphics           English         27.683 kbps                     
+Presentation Graphics           German          28.487 kbps                     
+Presentation Graphics           Italian         26.496 kbps                     
+Presentation Graphics           Dutch           23.174 kbps                     
+Presentation Graphics           Spanish         0.082 kbps                      
+Presentation Graphics           Italian         0.241 kbps                      
+Presentation Graphics           Dutch           0.017 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:21:35.932     23,379,400,704  38,202          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:31.914     19,792 kbps     51,086 kbps     00:00:41.499    28,387 kbps     00:00:40.623    26,468 kbps     00:00:41.416    103,174 bytes   670,780 bytes   00:00:42.125    
+2               0:05:31.914     0:03:38.927     18,301 kbps     30,490 kbps     00:07:53.139    25,559 kbps     00:05:38.421    23,745 kbps     00:06:15.875    95,411 bytes    466,583 bytes   00:06:03.654    
+3               0:09:10.841     0:01:55.156     19,638 kbps     29,179 kbps     00:10:48.981    24,584 kbps     00:10:45.061    22,902 kbps     00:10:43.392    102,385 bytes   371,783 bytes   00:11:05.873    
+4               0:11:05.998     0:04:31.562     19,289 kbps     28,807 kbps     00:13:28.682    24,598 kbps     00:14:57.897    23,108 kbps     00:15:11.327    100,563 bytes   393,689 bytes   00:14:40.796    
+5               0:15:37.561     0:03:31.794     18,207 kbps     31,813 kbps     00:18:47.543    23,463 kbps     00:18:46.959    22,811 kbps     00:18:46.959    94,921 bytes    479,012 bytes   00:17:28.464    
+6               0:19:09.356     0:02:47.792     18,338 kbps     34,392 kbps     00:20:19.426    24,813 kbps     00:19:39.011    23,927 kbps     00:19:38.135    95,605 bytes    427,577 bytes   00:19:25.038    
+7               0:21:57.149     0:06:00.318     18,123 kbps     33,903 kbps     00:24:40.770    26,800 kbps     00:24:37.976    24,200 kbps     00:22:55.916    94,487 bytes    406,754 bytes   00:24:12.075    
+8               0:27:57.467     0:03:14.402     17,277 kbps     26,999 kbps     00:29:18.715    23,731 kbps     00:28:15.777    23,022 kbps     00:30:52.934    90,075 bytes    336,193 bytes   00:29:02.532    
+9               0:31:11.870     0:03:25.288     18,618 kbps     31,189 kbps     00:32:20.730    24,157 kbps     00:34:10.548    23,823 kbps     00:34:05.543    97,066 bytes    368,964 bytes   00:32:29.405    
+10              0:34:37.158     0:03:03.099     18,825 kbps     31,418 kbps     00:36:51.834    26,908 kbps     00:36:50.708    24,645 kbps     00:36:50.625    98,144 bytes    494,656 bytes   00:36:57.673    
+11              0:37:40.258     0:05:01.634     19,492 kbps     32,965 kbps     00:38:34.478    29,418 kbps     00:38:31.517    29,026 kbps     00:38:25.636    101,624 bytes   717,017 bytes   00:38:23.301    
+12              0:42:41.892     0:04:39.153     20,604 kbps     37,668 kbps     00:44:54.983    32,275 kbps     00:44:53.982    31,052 kbps     00:44:54.817    107,418 bytes   626,862 bytes   00:45:04.827    
+13              0:47:21.046     0:03:31.711     20,993 kbps     35,995 kbps     00:50:46.460    30,045 kbps     00:50:43.498    26,760 kbps     00:50:42.414    109,449 bytes   667,732 bytes   00:50:08.213    
+14              0:50:52.758     0:03:06.936     18,209 kbps     39,512 kbps     00:51:39.763    26,483 kbps     00:51:38.887    21,725 kbps     00:51:38.970    94,933 bytes    445,235 bytes   00:51:55.320    
+15              0:53:59.694     0:06:49.617     20,242 kbps     33,352 kbps     00:59:30.024    28,457 kbps     00:54:00.111    25,191 kbps     00:55:28.450    105,531 bytes   484,788 bytes   00:54:03.406    
+16              1:00:49.312     0:03:24.579     20,866 kbps     34,158 kbps     01:03:33.809    26,441 kbps     01:03:50.201    24,975 kbps     01:03:32.350    108,784 bytes   658,688 bytes   01:03:17.335    
+17              1:04:13.891     0:03:51.564     20,407 kbps     30,475 kbps     01:06:32.446    25,266 kbps     01:05:33.095    23,682 kbps     01:05:02.440    106,392 bytes   416,430 bytes   01:07:35.468    
+18              1:08:05.456     0:04:36.401     20,362 kbps     32,215 kbps     01:10:33.896    25,191 kbps     01:11:48.887    24,502 kbps     01:11:43.882    106,158 bytes   455,691 bytes   01:10:08.996    
+19              1:12:41.857     0:03:10.857     20,134 kbps     30,724 kbps     01:13:36.995    26,301 kbps     01:15:19.598    25,094 kbps     01:15:19.056    104,969 bytes   421,888 bytes   01:13:38.664    
+20              1:15:52.714     0:05:43.217     16,179 kbps     26,106 kbps     01:20:46.091    22,112 kbps     01:18:28.161    20,575 kbps     01:20:46.049    84,361 bytes    329,646 bytes   01:18:30.163    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4895.849                19,191                  11,744,388,434  63,896,950      
+00002.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           4895.849                4,614                   2,823,975,308   15,666,992      
+00002.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           4895.849                640                     391,674,880     2,294,970       
+00002.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            4895.849                1,509                   923,495,928     5,507,928       
+00002.M2TS      4355 (0x1103)   0x81            AC3             fra (French)            4895.849                640                     391,674,880     2,294,970       
+00002.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            4895.849                1,509                   923,495,928     5,507,928       
+00002.M2TS      4357 (0x1105)   0x81            AC3             deu (German)            4895.849                640                     391,674,880     2,294,970       
+00002.M2TS      4358 (0x1106)   0x82            DTS             spa (Spanish)           4895.849                1,509                   923,495,928     5,507,928       
+00002.M2TS      4359 (0x1107)   0x81            AC3             spa (Spanish)           4895.849                640                     391,674,880     2,294,970       
+00002.M2TS      4360 (0x1108)   0x82            DTS             ita (Italian)           4895.849                1,509                   923,495,928     5,507,928       
+00002.M2TS      4361 (0x1109)   0x81            AC3             ita (Italian)           4895.849                640                     391,674,880     2,294,970       
+00002.M2TS      4362 (0x110A)   0x82            DTS             nld (Dutch)             4895.849                1,509                   923,495,928     5,507,928       
+00002.M2TS      4363 (0x110B)   0x81            AC3             nld (Dutch)             4895.849                640                     391,674,880     2,294,970       
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4895.849                33                      20,260,791      120,855         
+00002.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            4895.849                23                      14,006,273      83,784          
+00002.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           4895.849                24                      14,699,830      88,095          
+00002.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            4895.849                0                       30,715          194             
+00002.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            4895.849                0                       163,109         973             
+00002.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           4895.849                28                      16,941,797      100,464         
+00002.M2TS      4614 (0x1206)   0x90            PGS             deu (German)            4895.849                28                      17,433,998      103,109         
+00002.M2TS      4615 (0x1207)   0x90            PGS             ita (Italian)           4895.849                26                      16,215,153      96,391          
+00002.M2TS      4616 (0x1208)   0x90            PGS             nld (Dutch)             4895.849                23                      14,182,056      83,051          
+00002.M2TS      4617 (0x1209)   0x90            PGS             spa (Spanish)           4895.849                0                       50,186          305             
+00002.M2TS      4618 (0x120A)   0x90            PGS             ita (Italian)           4895.849                0                       147,501         876             
+00002.M2TS      4619 (0x120B)   0x90            PGS             nld (Dutch)             4895.849                0                       10,402          63              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Tierisch.Wild.2006.MULTi.COMPLETE.BLURAY-iND
+Disc Size: 24,975,563,372 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 23,379,400,704 bytes
+Length: 1:21:35.932
+Total Bitrate: 38.20 Mbps
+Video: MPEG-4 AVC Video / 19190 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / LPCM Audio / 5.1 / 48 kHz /  4608 kbps / 16-bit
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 33.106 kbps
+Subtitle: French / 22.886 kbps
+Subtitle: Spanish / 24.020 kbps
+Subtitle: French / 0.050 kbps
+Subtitle: German / 0.267 kbps
+Subtitle: English / 27.683 kbps
+Subtitle: German / 28.487 kbps
+Subtitle: Italian / 26.496 kbps
+Subtitle: Dutch / 23.174 kbps
+Subtitle: Spanish / 0.082 kbps
+Subtitle: Italian / 0.241 kbps
+Subtitle: Dutch / 0.017 kbps
+

@@ -1,0 +1,125 @@
+Disc Label:     Tom.Daeumling.und.der.Zauberspiegel.2014.DUAL.COMPLETE.BLURAY-CWAHD
+Disc Size:      17,448,993,752 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:18:24 15,275,194,368  17,448,993,752  25.98   19.98   DTS-HD Master 5.1 2184Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Tom.Daeumling.und.der.Zauberspiegel.2014.DUAL.COMPLETE.BLURAY-CWAHD
+Disc Size:      17,448,993,752 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:18:24.125 (h:m:s.ms)
+Size:                   15,275,194,368 bytes
+Total Bitrate:          25.98 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19981 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2184 kbps       5.1 / 48 kHz /  2184 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Spanish         2173 kbps       5.1 / 48 kHz /  2173 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.462 kbps                      
+Presentation Graphics           German          26.656 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:18:19.125     15,272,503,296  26,001          
+00006.M2TS      1:18:19.125     0:00:05.000     2,691,072       4,306           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:26.708     19,789 kbps     61,561 kbps     00:00:40.416    40,681 kbps     00:02:44.583    37,807 kbps     00:03:25.374    103,056 bytes   969,063 bytes   00:02:44.625    
+2               0:06:26.708     0:07:15.999     21,547 kbps     62,019 kbps     00:10:02.041    40,592 kbps     00:06:36.708    37,740 kbps     00:07:13.666    112,225 bytes   948,797 bytes   00:12:05.291    
+3               0:13:42.708     0:04:57.625     23,834 kbps     61,239 kbps     00:14:20.625    40,667 kbps     00:16:36.041    37,767 kbps     00:16:35.958    124,136 bytes   807,040 bytes   00:18:07.000    
+4               0:18:40.333     0:06:31.125     18,494 kbps     53,999 kbps     00:21:26.166    33,700 kbps     00:24:36.166    32,410 kbps     00:24:50.708    96,321 bytes    960,104 bytes   00:21:35.916    
+5               0:25:11.458     0:07:10.875     21,915 kbps     61,780 kbps     00:27:44.624    40,641 kbps     00:28:35.583    37,819 kbps     00:28:35.583    114,141 bytes   975,217 bytes   00:27:58.583    
+6               0:32:22.333     0:06:34.833     29,221 kbps     62,251 kbps     00:34:10.083    40,680 kbps     00:34:10.083    37,801 kbps     00:38:04.333    152,195 bytes   978,591 bytes   00:33:36.625    
+7               0:38:57.166     0:05:56.208     14,855 kbps     54,368 kbps     00:40:33.375    39,890 kbps     00:43:17.166    31,621 kbps     00:43:13.125    77,369 bytes    943,596 bytes   00:39:23.208    
+8               0:44:53.375     0:07:36.250     19,016 kbps     62,330 kbps     00:50:04.125    40,313 kbps     00:49:46.166    37,812 kbps     00:49:46.125    99,044 bytes    977,305 bytes   00:50:50.791    
+9               0:52:29.625     0:05:31.041     14,230 kbps     59,052 kbps     00:57:31.708    35,827 kbps     00:57:31.666    31,905 kbps     00:57:31.666    74,114 bytes    946,928 bytes   00:58:00.666    
+10              0:58:00.666     0:07:17.625     17,578 kbps     60,654 kbps     00:58:07.000    40,190 kbps     00:58:59.250    31,942 kbps     00:59:01.416    91,553 bytes    978,963 bytes   00:58:34.541    
+11              1:05:18.291     0:05:52.958     21,775 kbps     59,784 kbps     01:07:24.666    39,700 kbps     01:09:12.166    32,697 kbps     01:09:05.083    113,414 bytes   923,595 bytes   01:07:23.416    
+12              1:11:11.250     0:07:12.875     17,518 kbps     61,654 kbps     01:13:12.000    40,662 kbps     01:13:11.958    37,791 kbps     01:13:12.000    91,247 bytes    788,059 bytes   01:13:25.833    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     4699.042                20,001                  11,747,962,046  63,913,342      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4699.042                2,185                   1,283,495,812   7,708,654       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       spa (Spanish)           4699.042                2,174                   1,277,055,172   7,673,105       
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4699.042                0                       265,150         1,541           
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4699.042                27                      15,667,593      90,177          
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     4.917                   2,128                   1,307,663       7,169           
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4.917                   849                     521,528         3,283           
+00006.M2TS      4353 (0x1101)   0x86            DTS-HD MA       spa (Spanish)           4.917                   849                     521,528         3,283           
+00006.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4.917                   11                      6,762           44              
+00006.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4.917                   11                      6,762           44              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Tom.Daeumling.und.der.Zauberspiegel.2014.DUAL.COMPLETE.BLURAY-CWAHD
+Disc Size: 17,448,993,752 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 15,275,194,368 bytes
+Length: 1:18:24.125
+Total Bitrate: 25.98 Mbps
+Video: MPEG-4 AVC Video / 19981 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2184 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  2173 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.462 kbps
+Subtitle: German / 26.656 kbps
+
