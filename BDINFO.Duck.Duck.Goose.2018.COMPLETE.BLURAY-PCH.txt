@@ -1,0 +1,210 @@
+Disc Title:     DUCK DUCK GOOSE
+Disc Label:     Duck.Duck.Goose.2018.COMPLETE.BLURAY-PCH
+Disc Size:      24,168,043,937 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:31:22 23,739,334,656  24,168,043,937  34.64   29.98   DTS-HD Master 7.1 2863Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     DUCK DUCK GOOSE
+Disc Label:     Duck.Duck.Goose.2018.COMPLETE.BLURAY-PCH
+Disc Size:      24,168,043,937 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:31:22.477 (h:m:s.ms)
+Size:                   23,739,334,656 bytes
+Total Bitrate:          34.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29981 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2863 kbps       7.1 / 48 kHz /  2863 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         50.071 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:31:22.477     23,739,334,656  34,640          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:28.393     28,394 kbps     38,465 kbps     00:00:53.303    33,873 kbps     00:00:49.299    33,349 kbps     00:00:44.335    148,012 bytes   616,840 bytes   00:04:28.351    
+2               0:04:28.393     0:05:23.906     31,441 kbps     37,946 kbps     00:04:46.494    33,862 kbps     00:06:34.519    33,332 kbps     00:06:47.865    163,918 bytes   639,688 bytes   00:07:21.190    
+3               0:09:52.300     0:04:44.993     32,080 kbps     37,920 kbps     00:14:36.166    33,748 kbps     00:14:32.162    33,222 kbps     00:14:27.157    167,249 bytes   639,261 bytes   00:10:26.751    
+4               0:14:37.293     0:07:47.633     31,544 kbps     37,780 kbps     00:17:08.986    33,776 kbps     00:17:14.116    33,190 kbps     00:19:05.978    164,454 bytes   640,803 bytes   00:14:52.057    
+5               0:22:24.926     0:06:05.490     31,216 kbps     38,450 kbps     00:25:52.342    34,028 kbps     00:25:48.255    33,234 kbps     00:25:43.083    162,748 bytes   640,930 bytes   00:24:19.749    
+6               0:28:30.417     0:05:58.733     28,498 kbps     40,585 kbps     00:33:58.578    34,325 kbps     00:33:58.661    33,180 kbps     00:34:09.088    148,575 bytes   595,721 bytes   00:30:50.682    
+7               0:34:29.150     0:07:54.390     30,398 kbps     41,029 kbps     00:35:27.500    33,831 kbps     00:41:41.081    33,449 kbps     00:35:18.491    158,484 bytes   640,860 bytes   00:40:03.484    
+8               0:42:23.541     0:06:14.665     32,473 kbps     40,853 kbps     00:46:26.366    34,079 kbps     00:47:10.077    33,398 kbps     00:47:05.072    169,300 bytes   640,868 bytes   00:42:31.006    
+9               0:48:38.206     0:10:26.834     28,037 kbps     40,007 kbps     00:50:47.836    34,373 kbps     00:48:55.182    33,151 kbps     00:50:38.827    146,170 bytes   639,087 bytes   00:49:32.386    
+10              0:59:05.041     0:06:27.804     30,286 kbps     43,139 kbps     01:03:24.050    34,485 kbps     01:03:20.046    33,548 kbps     01:03:15.041    157,897 bytes   606,816 bytes   01:04:50.595    
+11              1:05:32.845     0:09:14.637     29,238 kbps     45,216 kbps     01:12:34.850    34,212 kbps     01:11:06.971    33,073 kbps     01:13:35.327    152,436 bytes   628,920 bytes   01:07:18.242    
+12              1:14:47.483     0:16:34.993     29,064 kbps     44,214 kbps     01:31:19.599    34,625 kbps     01:31:11.799    33,705 kbps     01:31:06.794    151,531 bytes   640,686 bytes   01:24:32.525    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5482.310                29,982                  20,546,531,897  111,742,648     
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5482.310                2,863                   1,961,955,652   11,519,886      
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5482.310                50                      34,314,306      196,121         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: DUCK DUCK GOOSE
+Disc Label: Duck.Duck.Goose.2018.COMPLETE.BLURAY-PCH
+Disc Size: 24,168,043,937 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 23,739,334,656 bytes
+Length: 1:31:22.477
+Total Bitrate: 34.64 Mbps
+Video: MPEG-4 AVC Video / 29981 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  2863 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: English / 50.071 kbps
+
+
+********************
+PLAYLIST: 00037.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00037.MPLS                                                      AVC     1:31:22 23,739,334,656  24,168,043,937  34.64   29.98   DTS-HD Master 7.1 2863Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     DUCK DUCK GOOSE
+Disc Label:     Duck.Duck.Goose.2018.COMPLETE.BLURAY-PCH
+Disc Size:      24,168,043,937 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00037.MPLS
+Length:                 1:31:22.477 (h:m:s.ms)
+Size:                   23,739,334,656 bytes
+Total Bitrate:          34.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29981 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2863 kbps       7.1 / 48 kHz /  2863 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         50.071 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:31:22.477     23,739,334,656  34,640          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:28.393     28,394 kbps     38,465 kbps     00:00:53.303    33,873 kbps     00:00:49.299    33,349 kbps     00:00:44.335    148,012 bytes   616,840 bytes   00:04:28.351    
+2               0:04:28.393     0:05:23.906     31,441 kbps     37,946 kbps     00:04:46.494    33,862 kbps     00:06:34.519    33,332 kbps     00:06:47.865    163,918 bytes   639,688 bytes   00:07:21.190    
+3               0:09:52.300     0:04:44.993     32,080 kbps     37,920 kbps     00:14:36.166    33,748 kbps     00:14:32.162    33,222 kbps     00:14:27.157    167,249 bytes   639,261 bytes   00:10:26.751    
+4               0:14:37.293     0:07:47.633     31,544 kbps     37,780 kbps     00:17:08.986    33,776 kbps     00:17:14.116    33,190 kbps     00:19:05.978    164,454 bytes   640,803 bytes   00:14:52.057    
+5               0:22:24.926     0:06:05.490     31,216 kbps     38,450 kbps     00:25:52.342    34,028 kbps     00:25:48.255    33,234 kbps     00:25:43.083    162,748 bytes   640,930 bytes   00:24:19.749    
+6               0:28:30.417     0:05:58.733     28,498 kbps     40,585 kbps     00:33:58.578    34,325 kbps     00:33:58.661    33,180 kbps     00:34:09.088    148,575 bytes   595,721 bytes   00:30:50.682    
+7               0:34:29.150     0:07:54.390     30,398 kbps     41,029 kbps     00:35:27.500    33,831 kbps     00:41:41.081    33,449 kbps     00:35:18.491    158,484 bytes   640,860 bytes   00:40:03.484    
+8               0:42:23.541     0:06:14.665     32,473 kbps     40,853 kbps     00:46:26.366    34,079 kbps     00:47:10.077    33,398 kbps     00:47:05.072    169,300 bytes   640,868 bytes   00:42:31.006    
+9               0:48:38.206     0:10:26.834     28,037 kbps     40,007 kbps     00:50:47.836    34,373 kbps     00:48:55.182    33,151 kbps     00:50:38.827    146,170 bytes   639,087 bytes   00:49:32.386    
+10              0:59:05.041     0:06:27.804     30,286 kbps     43,139 kbps     01:03:24.050    34,485 kbps     01:03:20.046    33,548 kbps     01:03:15.041    157,897 bytes   606,816 bytes   01:04:50.595    
+11              1:05:32.845     0:09:14.637     29,238 kbps     45,216 kbps     01:12:34.850    34,212 kbps     01:11:06.971    33,073 kbps     01:13:35.327    152,436 bytes   628,920 bytes   01:07:18.242    
+12              1:14:47.483     0:16:34.993     29,064 kbps     44,214 kbps     01:31:19.599    34,625 kbps     01:31:11.799    33,705 kbps     01:31:06.794    151,531 bytes   640,686 bytes   01:24:32.525    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5482.310                29,982                  20,546,531,897  111,742,648     
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5482.310                2,863                   1,961,955,652   11,519,886      
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5482.310                50                      34,314,306      196,121         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: DUCK DUCK GOOSE
+Disc Label: Duck.Duck.Goose.2018.COMPLETE.BLURAY-PCH
+Disc Size: 24,168,043,937 bytes
+Protection: AACS
+Playlist: 00037.MPLS
+Size: 23,739,334,656 bytes
+Length: 1:31:22.477
+Total Bitrate: 34.64 Mbps
+Video: MPEG-4 AVC Video / 29981 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  2863 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: English / 50.071 kbps
+

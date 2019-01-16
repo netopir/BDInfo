@@ -1,0 +1,119 @@
+Disc Label:     Die.Schneekoenigin.2.Eiskalt.Entfuehrt.2014.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      33,269,265,721 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00008.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00008.MPLS                                                      AVC     1:18:49 21,762,736,128  33,269,265,721  36.81   29.86   DTS-HD Master 5.1 2436Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Die.Schneekoenigin.2.Eiskalt.Entfuehrt.2014.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      33,269,265,721 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00008.MPLS
+Length:                 1:18:49.725 (h:m:s.ms)
+Size:                   21,762,736,128 bytes
+Total Bitrate:          36.81 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29861 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2436 kbps       5.1 / 48 kHz /  2436 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2419 kbps       5.1 / 48 kHz /  2419 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.034 kbps                      
+Presentation Graphics           German          33.252 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:18:49.725     21,762,736,128  36,810          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:45.506     29,785 kbps     62,992 kbps     00:06:57.583    40,613 kbps     00:07:33.202    37,814 kbps     00:06:57.542    155,272 bytes   892,334 bytes   00:01:48.566    
+2               0:07:45.506     0:05:37.545     26,070 kbps     62,631 kbps     00:09:33.614    40,606 kbps     00:09:33.614    37,804 kbps     00:09:33.614    135,917 bytes   952,372 bytes   00:09:49.338    
+3               0:13:23.052     0:08:01.314     26,935 kbps     62,466 kbps     00:15:08.449    40,636 kbps     00:15:04.612    37,813 kbps     00:15:38.562    140,429 bytes   951,969 bytes   00:19:54.484    
+4               0:21:24.366     0:04:30.603     23,470 kbps     57,417 kbps     00:25:32.113    40,645 kbps     00:25:32.072    37,816 kbps     00:25:32.072    122,361 bytes   736,529 bytes   00:25:33.114    
+5               0:25:54.970     0:07:10.638     28,073 kbps     56,238 kbps     00:26:51.109    40,640 kbps     00:29:40.737    37,619 kbps     00:30:43.007    146,358 bytes   920,545 bytes   00:30:03.885    
+6               0:33:05.608     0:06:01.694     27,379 kbps     62,158 kbps     00:36:26.601    40,657 kbps     00:36:23.890    37,797 kbps     00:36:23.890    142,740 bytes   970,582 bytes   00:38:37.898    
+7               0:39:07.303     0:06:28.179     32,821 kbps     61,060 kbps     00:41:13.929    40,694 kbps     00:39:18.814    37,645 kbps     00:39:18.981    171,113 bytes   983,769 bytes   00:41:54.303    
+8               0:45:35.482     0:06:26.469     27,199 kbps     62,657 kbps     00:51:53.944    40,674 kbps     00:51:05.395    37,832 kbps     00:46:38.212    141,804 bytes   938,820 bytes   00:46:56.980    
+9               0:52:01.952     0:07:03.089     34,880 kbps     53,785 kbps     00:53:06.183    40,166 kbps     00:53:06.141    37,744 kbps     00:53:05.974    181,846 bytes   916,680 bytes   00:52:10.794    
+10              0:59:05.041     0:06:16.626     34,531 kbps     63,256 kbps     01:00:21.075    40,650 kbps     01:00:21.075    37,801 kbps     01:00:21.075    180,028 bytes   826,307 bytes   01:02:29.620    
+11              1:05:21.667     0:06:12.163     34,251 kbps     63,415 kbps     01:05:22.335    40,662 kbps     01:05:22.335    37,813 kbps     01:05:22.335    178,567 bytes   942,760 bytes   01:10:21.634    
+12              1:11:33.831     0:07:15.893     30,976 kbps     56,719 kbps     01:13:23.273    37,998 kbps     01:15:02.289    37,147 kbps     01:14:57.367    161,509 bytes   982,822 bytes   01:13:28.278    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     4729.600                29,862                  17,654,460,189  96,014,335      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4729.600                2,437                   1,440,496,896   8,561,527       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4729.600                2,419                   1,430,316,388   8,499,812       
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4729.600                0                       20,256          117             
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4729.600                33                      19,659,380      113,305         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Die.Schneekoenigin.2.Eiskalt.Entfuehrt.2014.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 33,269,265,721 bytes
+Protection: AACS
+Playlist: 00008.MPLS
+Size: 21,762,736,128 bytes
+Length: 1:18:49.725
+Total Bitrate: 36.81 Mbps
+Video: MPEG-4 AVC Video / 29861 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2436 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2419 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.034 kbps
+Subtitle: German / 33.252 kbps
+

@@ -1,0 +1,219 @@
+Disc Title:     Der kleine Drache Kokosnuss
+Disc Label:     Der.kleine.Drache.Kokosnuss.2014.COMPLETE.BLURAY-SQsR
+Disc Size:      48,266,232,198 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00022.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      AVC     1:22:41 18,413,727,744  48,266,232,198  29.69   21.75   DTS-HD Master 5.1 2436Kbps (48kHz/16-bit) DTS-HD Master 2.0 1132Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der kleine Drache Kokosnuss
+Disc Label:     Der.kleine.Drache.Kokosnuss.2014.COMPLETE.BLURAY-SQsR
+Disc Size:      48,266,232,198 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS
+Length:                 1:22:41.873 (h:m:s.ms)
+Size:                   18,413,727,744 bytes
+Total Bitrate:          29.69 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21746 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2436 kbps       5.1 / 48 kHz /  2436 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2438 kbps       5.1 / 48 kHz /  2438 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          1132 kbps       2.0 / 48 kHz /  1132 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          34.012 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     1:22:41.873     18,413,727,744  29,688          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:23.521     21,434 kbps     39,164 kbps     00:01:23.875    26,323 kbps     00:00:51.634    25,457 kbps     00:02:20.473    111,738 bytes   778,241 bytes   00:04:19.384    
+2               0:09:23.521     0:12:09.019     21,488 kbps     34,761 kbps     00:17:48.692    25,966 kbps     00:17:47.399    25,456 kbps     00:10:18.034    112,029 bytes   722,734 bytes   00:10:28.044    
+3               0:21:32.541     0:09:19.141     21,616 kbps     33,848 kbps     00:25:59.558    26,248 kbps     00:27:37.030    25,368 kbps     00:23:56.184    112,695 bytes   780,029 bytes   00:26:53.945    
+4               0:30:51.683     0:12:35.796     21,679 kbps     35,577 kbps     00:40:37.101    26,614 kbps     00:42:31.757    24,816 kbps     00:34:27.148    113,026 bytes   768,295 bytes   00:37:06.432    
+5               0:43:27.479     0:09:16.597     21,753 kbps     34,189 kbps     00:50:03.709    26,380 kbps     00:43:27.730    25,386 kbps     00:43:27.896    113,412 bytes   754,752 bytes   00:47:38.814    
+6               0:52:44.077     0:09:00.456     22,299 kbps     37,253 kbps     00:55:17.897    27,571 kbps     00:57:28.862    26,302 kbps     00:54:11.665    116,255 bytes   746,631 bytes   00:58:19.579    
+7               1:01:44.534     0:09:13.928     22,653 kbps     40,518 kbps     01:09:18.571    27,302 kbps     01:09:11.313    26,014 kbps     01:09:06.308    118,102 bytes   717,594 bytes   01:07:32.506    
+8               1:10:58.462     0:06:18.586     22,528 kbps     36,695 kbps     01:14:04.481    26,738 kbps     01:11:15.104    25,139 kbps     01:12:35.934    117,452 bytes   719,408 bytes   01:14:32.634    
+9               1:17:17.049     0:05:24.824     19,860 kbps     31,456 kbps     01:17:19.009    25,446 kbps     01:17:25.515    24,541 kbps     01:17:19.009    103,557 bytes   558,707 bytes   01:21:46.985    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x1B            AVC                                     4961.748                21,747                  13,487,815,172  73,373,202      
+00022.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4961.748                2,437                   1,511,188,212   8,972,332       
+00022.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4961.748                2,438                   1,512,071,560   8,980,077       
+00022.M2TS      4354 (0x1102)   0x86            DTS-HD MA       deu (German)            4961.748                1,133                   702,402,876     4,289,852       
+00022.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4961.748                34                      21,095,348      123,111         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der kleine Drache Kokosnuss
+Disc Label: Der.kleine.Drache.Kokosnuss.2014.COMPLETE.BLURAY-SQsR
+Disc Size: 48,266,232,198 bytes
+Protection: AACS
+Playlist: 00022.MPLS
+Size: 18,413,727,744 bytes
+Length: 1:22:41.873
+Total Bitrate: 29.69 Mbps
+Video: MPEG-4 AVC Video / 21746 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2436 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2438 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 2.0 / 48 kHz /  1132 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 34.012 kbps
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:22:36 20,148,283,392  48,266,232,198  32.52   22.99   DTS-HD Master 5.1 2977Kbps (48kHz/24-bit) DTS 2.0 320Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der kleine Drache Kokosnuss
+Disc Label:     Der.kleine.Drache.Kokosnuss.2014.COMPLETE.BLURAY-SQsR
+Disc Size:      48,266,232,198 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:22:36.916 (h:m:s.ms)
+Size:                   20,148,283,392 bytes
+Total Bitrate:          32.52 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22989 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2977 kbps       5.1 / 48 kHz /  2977 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4218 kbps       5.1 / 48 kHz /  4218 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          34.049 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:22:36.916     20,148,283,392  32,517          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:22.958     21,542 kbps     36,581 kbps     00:08:45.708    33,417 kbps     00:08:16.500    30,542 kbps     00:08:16.499    112,190 bytes   640,819 bytes   00:02:59.333    
+2               0:09:22.958     0:12:08.291     18,593 kbps     34,209 kbps     00:14:02.666    27,030 kbps     00:11:59.666    25,090 kbps     00:11:54.291    96,840 bytes    630,174 bytes   00:14:03.250    
+3               0:21:31.250     0:09:18.583     23,408 kbps     37,743 kbps     00:25:39.041    34,319 kbps     00:27:08.791    33,788 kbps     00:27:03.958    121,918 bytes   640,365 bytes   00:26:31.041    
+4               0:30:49.833     0:12:35.041     25,479 kbps     37,945 kbps     00:37:17.500    34,479 kbps     00:33:21.625    33,949 kbps     00:33:04.708    132,701 bytes   640,073 bytes   00:32:05.208    
+5               0:43:24.875     0:09:16.041     24,297 kbps     38,647 kbps     00:48:17.291    34,216 kbps     00:45:22.208    34,040 kbps     00:43:26.833    126,547 bytes   639,912 bytes   00:47:35.166    
+6               0:52:40.916     0:08:59.916     25,103 kbps     37,519 kbps     00:52:54.458    34,446 kbps     00:53:10.875    33,826 kbps     00:54:11.416    130,745 bytes   639,925 bytes   00:58:12.666    
+7               1:01:40.833     0:09:13.375     25,755 kbps     40,512 kbps     01:08:58.833    35,236 kbps     01:08:54.833    33,948 kbps     01:09:07.291    134,143 bytes   640,564 bytes   01:07:22.916    
+8               1:10:54.208     0:06:18.208     25,250 kbps     37,219 kbps     01:15:12.541    33,475 kbps     01:16:54.833    32,418 kbps     01:16:48.458    131,512 bytes   637,712 bytes   01:16:27.416    
+9               1:17:12.416     0:05:24.500     15,735 kbps     37,254 kbps     01:17:25.375    34,170 kbps     01:17:21.541    34,161 kbps     01:17:16.375    81,963 bytes    624,115 bytes   01:17:26.416    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     4956.750                22,990                  14,244,176,047  77,483,422      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4956.750                2,978                   1,844,873,196   10,801,120      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4956.750                4,218                   2,613,448,368   14,971,097      
+00021.M2TS      4354 (0x1102)   0x82            DTS             deu (German)            4956.750                318                     197,037,464     1,394,133       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4956.750                34                      21,097,202      123,117         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der kleine Drache Kokosnuss
+Disc Label: Der.kleine.Drache.Kokosnuss.2014.COMPLETE.BLURAY-SQsR
+Disc Size: 48,266,232,198 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 20,148,283,392 bytes
+Length: 1:22:36.916
+Total Bitrate: 32.52 Mbps
+Video: MPEG-4 AVC Video / 22989 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2977 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4218 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit
+Subtitle: German / 34.049 kbps
+

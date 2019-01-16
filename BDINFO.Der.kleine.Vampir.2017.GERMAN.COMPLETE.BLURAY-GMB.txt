@@ -1,0 +1,115 @@
+Disc Title:     Der kleine Vampir
+Disc Label:     Der.kleine.Vampir.2017.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      22,052,089,197 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:20:30 19,291,729,920  22,052,089,197  31.95   24.00   DTS-HD Master 5.1 4300Kbps (48kHz/24-bit) DTS-HD Master 2.0 1837Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der kleine Vampir
+Disc Label:     Der.kleine.Vampir.2017.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      22,052,089,197 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:20:30.958 (h:m:s.ms)
+Size:                   19,291,729,920 bytes
+Total Bitrate:          31.95 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23996 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4300 kbps       5.1 / 48 kHz /  4300 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -8dB)
+DTS-HD Master Audio             German          1837 kbps       2.0 / 48 kHz /  1837 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit / DN -8dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          33.654 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:20:30.958     19,291,729,920  31,947          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:44.500     25,228 kbps     40,283 kbps     00:00:16.166    37,777 kbps     00:00:07.249    36,947 kbps     00:00:07.166    131,388 bytes   412,461 bytes   00:06:43.000    
+2               0:08:44.500     0:11:03.291     24,559 kbps     38,824 kbps     00:17:58.666    33,069 kbps     00:17:58.666    31,949 kbps     00:17:57.875    127,912 bytes   427,153 bytes   00:09:36.458    
+3               0:19:47.791     0:10:27.708     23,394 kbps     40,096 kbps     00:28:12.000    38,017 kbps     00:28:10.000    34,443 kbps     00:28:10.000    121,844 bytes   498,924 bytes   00:28:10.041    
+4               0:30:15.500     0:10:01.916     25,292 kbps     43,041 kbps     00:30:19.458    37,873 kbps     00:30:18.333    35,009 kbps     00:30:53.541    131,730 bytes   590,117 bytes   00:30:46.750    
+5               0:40:17.416     0:09:52.583     24,339 kbps     37,498 kbps     00:49:16.041    32,492 kbps     00:47:57.708    31,857 kbps     00:47:54.000    126,768 bytes   500,768 bytes   00:47:57.041    
+6               0:50:10.000     0:09:09.166     23,723 kbps     35,032 kbps     00:55:22.500    31,114 kbps     00:52:39.458    30,733 kbps     00:52:34.416    123,555 bytes   504,480 bytes   00:54:51.916    
+7               0:59:19.166     0:09:58.458     25,798 kbps     39,756 kbps     01:00:23.125    37,397 kbps     01:01:38.625    35,241 kbps     01:01:35.625    134,366 bytes   572,480 bytes   01:00:21.416    
+8               1:09:17.625     0:11:13.333     20,205 kbps     35,629 kbps     01:09:41.708    30,886 kbps     01:16:22.250    30,326 kbps     01:16:20.500    105,239 bytes   518,341 bytes   01:12:44.958    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     4830.792                23,997                  14,490,617,959  78,820,991      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4830.792                4,300                   2,596,656,792   14,870,708      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            4830.792                1,837                   1,109,282,240   6,505,772       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4830.792                34                      20,322,790      118,426         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der kleine Vampir
+Disc Label: Der.kleine.Vampir.2017.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size: 22,052,089,197 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 19,291,729,920 bytes
+Length: 1:20:30.958
+Total Bitrate: 31.95 Mbps
+Video: MPEG-4 AVC Video / 23996 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4300 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -8dB)
+Audio: German / DTS-HD Master Audio / 2.0 / 48 kHz /  1837 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit / DN -8dB)
+Subtitle: German / 33.654 kbps
+

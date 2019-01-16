@@ -1,0 +1,213 @@
+Disc Title:     Die Biene Maja - Die Honigspiele 3D
+Disc Label:     Die.Biene.Maja.2.Die.Honigspiele.2D3D.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      47,855,466,732 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:25:08 19,001,266,176  47,855,466,732  29.76   23.99   DTS-HD Master 5.1 3765Kbps (48kHz/24-bit) DTS 2.0 320Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Biene Maja - Die Honigspiele 3D
+Disc Label:     Die.Biene.Maja.2.Die.Honigspiele.2D3D.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      47,855,466,732 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:25:08.561 (h:m:s.ms)
+Size:                   19,001,266,176 bytes
+Total Bitrate:          29.76 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23995 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3765 kbps       5.1 / 48 kHz /  3765 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit / DN -7dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          38.715 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:25:08.561     19,001,266,176  29,756          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:43.017     25,233 kbps     42,737 kbps     00:04:40.363    38,508 kbps     00:04:36.359    37,812 kbps     00:00:07.090    131,543 bytes   592,139 bytes   00:04:38.903    
+2               0:10:43.017     0:08:58.120     23,543 kbps     40,562 kbps     00:12:08.936    37,756 kbps     00:12:01.721    37,500 kbps     00:11:57.216    122,741 bytes   526,643 bytes   00:12:17.903    
+3               0:19:41.138     0:08:51.447     22,979 kbps     39,368 kbps     00:19:45.684    34,143 kbps     00:19:43.223    29,724 kbps     00:19:41.555    119,803 bytes   541,698 bytes   00:28:32.585    
+4               0:28:32.585     0:11:06.457     23,196 kbps     38,085 kbps     00:32:45.171    31,196 kbps     00:32:38.289    30,358 kbps     00:32:36.746    120,935 bytes   522,337 bytes   00:28:33.586    
+5               0:39:39.043     0:09:51.299     24,912 kbps     40,742 kbps     00:47:58.750    37,665 kbps     00:44:39.551    36,326 kbps     00:44:38.092    129,882 bytes   625,473 bytes   00:44:51.355    
+6               0:49:30.342     0:09:54.927     23,089 kbps     39,658 kbps     00:51:09.191    35,842 kbps     00:51:05.353    33,612 kbps     00:51:03.852    120,377 bytes   564,041 bytes   00:51:26.500    
+7               0:59:25.270     0:10:01.559     24,225 kbps     39,361 kbps     01:00:00.179    36,005 kbps     00:59:56.926    34,114 kbps     01:05:59.205    126,297 bytes   477,938 bytes   00:59:53.047    
+8               1:09:26.829     0:08:55.535     23,578 kbps     38,597 kbps     01:16:39.803    37,615 kbps     01:18:07.933    36,551 kbps     01:18:06.848    122,922 bytes   591,345 bytes   01:13:40.374    
+9               1:18:22.364     0:06:46.197     25,473 kbps     32,651 kbps     01:23:17.283    31,894 kbps     01:23:24.249    31,801 kbps     01:23:26.292    132,819 bytes   576,669 bytes   01:23:28.003    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5108.395                23,996                  15,322,362,510  83,345,224      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5108.395                3,765                   2,403,900,304   13,867,443      
+00021.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5108.395                318                     203,065,472     1,436,784       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5108.395                39                      24,721,987      144,315         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Biene Maja - Die Honigspiele 3D
+Disc Label: Die.Biene.Maja.2.Die.Honigspiele.2D3D.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size: 47,855,466,732 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 19,001,266,176 bytes
+Length: 1:25:08.561
+Total Bitrate: 29.76 Mbps
+Video: MPEG-4 AVC Video / 23995 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3765 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit / DN -7dB
+Subtitle: German / 38.715 kbps
+
+
+********************
+PLAYLIST: 00022.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      AVC     1:25:08 17,934,256,128  47,855,466,732  28.09   22.39   DTS-HD Master 5.1 3765Kbps (48kHz/24-bit) DTS 2.0 320Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Biene Maja - Die Honigspiele 3D
+Disc Label:     Die.Biene.Maja.2.Die.Honigspiele.2D3D.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      47,855,466,732 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS
+Length:                 1:25:08.561 (h:m:s.ms)
+Size:                   17,934,256,128 bytes
+Total Bitrate:          28.09 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22393 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3765 kbps       5.1 / 48 kHz /  3765 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit / DN -7dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          38.715 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     1:25:08.561     17,934,256,128  28,085          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:43.017     22,676 kbps     35,272 kbps     00:00:23.440    28,640 kbps     00:02:58.553    28,412 kbps     00:02:58.678    118,216 bytes   524,365 bytes   00:06:31.724    
+2               0:10:43.017     0:08:58.120     22,070 kbps     36,178 kbps     00:11:51.544    27,852 kbps     00:12:05.141    27,062 kbps     00:12:00.386    115,061 bytes   542,378 bytes   00:11:45.287    
+3               0:19:41.138     0:08:51.447     22,187 kbps     38,308 kbps     00:23:24.152    27,978 kbps     00:23:57.310    25,624 kbps     00:21:26.159    115,671 bytes   562,560 bytes   00:22:33.518    
+4               0:28:32.585     0:11:06.457     22,551 kbps     40,473 kbps     00:32:45.171    29,724 kbps     00:32:41.584    29,089 kbps     00:32:36.746    117,573 bytes   558,915 bytes   00:39:39.043    
+5               0:39:39.043     0:09:51.299     22,482 kbps     35,896 kbps     00:44:39.551    28,366 kbps     00:44:54.274    26,124 kbps     00:44:37.383    117,211 bytes   591,569 bytes   00:44:33.170    
+6               0:49:30.342     0:09:54.927     22,322 kbps     32,735 kbps     00:50:58.054    25,986 kbps     00:50:29.401    24,848 kbps     00:50:30.318    116,376 bytes   517,250 bytes   00:49:57.160    
+7               0:59:25.270     0:10:01.559     22,550 kbps     37,730 kbps     00:59:35.446    30,166 kbps     01:04:49.427    28,116 kbps     01:05:20.333    117,568 bytes   628,209 bytes   00:59:35.655    
+8               1:09:26.829     0:08:55.535     21,805 kbps     35,820 kbps     01:16:32.004    29,401 kbps     01:13:54.847    26,120 kbps     01:18:04.346    113,680 bytes   607,618 bytes   01:13:38.705    
+9               1:18:22.364     0:06:46.197     22,904 kbps     33,564 kbps     01:19:47.699    27,273 kbps     01:22:51.591    25,386 kbps     01:22:50.882    119,425 bytes   562,710 bytes   01:23:21.162    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x1B            AVC                                     5108.478                22,394                  14,299,723,354  77,787,885      
+00022.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5108.478                3,765                   2,403,900,304   13,867,443      
+00022.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5108.478                318                     203,065,472     1,436,784       
+00022.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5108.478                39                      24,721,987      144,315         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Biene Maja - Die Honigspiele 3D
+Disc Label: Die.Biene.Maja.2.Die.Honigspiele.2D3D.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size: 47,855,466,732 bytes
+Protection: AACS
+Playlist: 00022.MPLS
+Size: 17,934,256,128 bytes
+Length: 1:25:08.561
+Total Bitrate: 28.09 Mbps
+Video: MPEG-4 AVC Video / 22393 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3765 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit / DN -7dB
+Subtitle: German / 38.715 kbps
+

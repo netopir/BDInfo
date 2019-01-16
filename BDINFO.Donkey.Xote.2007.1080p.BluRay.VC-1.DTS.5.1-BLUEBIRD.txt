@@ -1,0 +1,134 @@
+Disc Label:     Donkey.Xote.2007.1080p.BluRay.VC-1.DTS.5.1-BLUEBIRD
+Disc Size:      20,843,020,037 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      VC-1    1:23:47 17,115,322,368  20,843,020,037  27.24   22.81   DD AC3 5.1 448Kbps                        DTS 5.1 768Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Donkey.Xote.2007.1080p.BluRay.VC-1.DTS.5.1-BLUEBIRD
+Disc Size:      20,843,020,037 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:23:47.040 (h:m:s.ms)
+Size:                   17,115,322,368 bytes
+Total Bitrate:          27.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              22813 kbps          1080i / 25 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Russian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+DTS Audio                       Russian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Catalan         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Gallegan        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Ukrainian       192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Dolby Digital Audio             Spanish         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Russian         42.437 kbps                     
+Presentation Graphics           Spanish         42.828 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:23:47.040     17,115,322,368  27,237          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:47.360     17,287 kbps     41,130 kbps     00:04:36.799    30,465 kbps     00:01:50.159    28,958 kbps     00:05:08.880    86,425 bytes    518,358 bytes   00:05:11.080    
+2               0:05:47.360     0:07:35.959     22,733 kbps     40,014 kbps     00:10:15.200    30,643 kbps     00:06:22.919    29,130 kbps     00:08:38.280    113,663 bytes   541,556 bytes   00:08:39.280    
+3               0:13:23.319     0:05:37.320     23,177 kbps     41,076 kbps     00:18:51.280    30,650 kbps     00:17:23.040    29,211 kbps     00:17:23.040    115,884 bytes   562,100 bytes   00:16:32.680    
+4               0:19:00.640     0:05:48.760     24,520 kbps     40,832 kbps     00:19:25.760    30,568 kbps     00:24:14.199    29,273 kbps     00:24:09.880    122,600 bytes   618,505 bytes   00:24:14.480    
+5               0:24:49.400     0:05:58.559     22,906 kbps     40,656 kbps     00:25:32.880    30,529 kbps     00:27:15.760    29,030 kbps     00:27:14.520    114,532 bytes   556,636 bytes   00:27:42.880    
+6               0:30:47.960     0:07:33.480     23,866 kbps     40,996 kbps     00:35:13.520    30,503 kbps     00:36:44.920    29,200 kbps     00:35:20.960    119,329 bytes   580,346 bytes   00:32:28.680    
+7               0:38:21.440     0:06:29.400     21,864 kbps     41,070 kbps     00:44:32.560    30,622 kbps     00:43:45.200    29,301 kbps     00:39:36.800    109,318 bytes   606,858 bytes   00:43:48.360    
+8               0:44:50.840     0:05:20.279     24,094 kbps     39,580 kbps     00:48:36.719    30,407 kbps     00:49:05.080    29,321 kbps     00:49:21.640    120,470 bytes   617,949 bytes   00:45:17.600    
+9               0:50:11.120     0:05:59.599     23,680 kbps     40,143 kbps     00:52:04.400    30,505 kbps     00:52:43.560    29,183 kbps     00:50:53.240    118,398 bytes   522,116 bytes   00:55:34.520    
+10              0:56:10.719     0:08:09.920     24,975 kbps     40,381 kbps     00:59:36.560    30,614 kbps     00:58:26.320    29,302 kbps     00:59:36.320    124,873 bytes   625,847 bytes   00:57:13.000    
+11              1:04:20.640     0:08:54.759     25,134 kbps     41,385 kbps     01:07:14.760    30,677 kbps     01:13:08.479    29,330 kbps     01:05:37.040    125,672 bytes   766,309 bytes   01:07:41.439    
+12              1:13:15.400     0:10:31.640     19,761 kbps     40,597 kbps     01:14:27.560    30,205 kbps     01:16:05.320    29,313 kbps     01:16:05.320    98,818 bytes    588,813 bytes   01:14:53.080    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0xEA            VC-1                                    5026.920                22,813                  14,334,949,694  77,983,311      
+00000.M2TS      4352 (0x1100)   0x81            AC3             rus (Russian)           5026.920                448                     281,580,544     1,571,320       
+00000.M2TS      4353 (0x1101)   0x82            DTS             rus (Russian)           5026.920                755                     474,211,298     2,828,298       
+00000.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5026.920                448                     281,512,448     1,570,940       
+00000.M2TS      4355 (0x1103)   0x81            AC3             cat (Catalan)           5026.920                448                     281,512,448     1,570,940       
+00000.M2TS      4356 (0x1104)   0x81            AC3             glg (Gallegan)          5026.920                448                     281,512,448     1,570,940       
+00000.M2TS      4357 (0x1105)   0x81            AC3             ukr (Ukrainian)         5026.920                192                     120,645,120     785,450         
+00000.M2TS      4358 (0x1106)   0x81            AC3             spa (Spanish)           5026.920                192                     120,854,784     786,815         
+00000.M2TS      4608 (0x1200)   0x90            PGS             rus (Russian)           5026.920                42                      26,666,683      150,955         
+00000.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5026.920                43                      26,912,408      154,622         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Donkey.Xote.2007.1080p.BluRay.VC-1.DTS.5.1-BLUEBIRD
+Disc Size: 20,843,020,037 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 17,115,322,368 bytes
+Length: 1:23:47.040
+Total Bitrate: 27.24 Mbps
+Video: VC-1 Video / 22813 kbps / 1080i / 25 fps / 16:9 / Advanced Profile 3
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Catalan / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Gallegan / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Ukrainian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: Spanish / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+Subtitle: Russian / 42.437 kbps
+Subtitle: Spanish / 42.828 kbps
+

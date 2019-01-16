@@ -1,0 +1,122 @@
+Disc Title:     Deep 3D
+Disc Label:     Deep.3D.2017.MULTI.COMPLETE.BLURAY-BDA
+Disc Size:      25,449,458,409 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:32:25 13,812,910,080  25,449,458,409  19.93   15.00   DTS-HD Master 5.1 1854Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Deep 3D
+Disc Label:     Deep.3D.2017.MULTI.COMPLETE.BLURAY-BDA
+Disc Size:      25,449,458,409 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:32:25.790 (h:m:s.ms)
+Size:                   13,812,910,080 bytes
+Total Bitrate:          19.93 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        15000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          1854 kbps       5.1 / 48 kHz /  1854 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+DTS-HD Master Audio             English         1850 kbps       5.1 / 48 kHz /  1850 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.088 kbps                      
+Presentation Graphics           German          37.138 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00008.M2TS      0:00:00.000     1:32:25.790     13,812,910,080  19,926          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:53.181     18,325 kbps     51,393 kbps     00:00:01.000    32,942 kbps     00:07:35.705    30,442 kbps     00:01:44.187    95,531 bytes    857,475 bytes   00:02:39.033    
+2               0:07:53.181     0:08:46.567     15,065 kbps     41,236 kbps     00:13:55.960    32,841 kbps     00:11:20.638    27,649 kbps     00:11:20.638    78,544 bytes    837,428 bytes   00:08:24.295    
+3               0:16:39.748     0:06:39.941     11,615 kbps     28,932 kbps     00:21:51.768    22,904 kbps     00:21:50.517    20,400 kbps     00:21:46.513    60,556 bytes    405,989 bytes   00:20:02.993    
+4               0:23:19.689     0:05:44.135     14,050 kbps     26,641 kbps     00:28:04.683    23,598 kbps     00:28:53.606    22,276 kbps     00:28:03.640    73,250 bytes    593,906 bytes   00:28:46.391    
+5               0:29:03.825     0:06:54.330     12,494 kbps     41,198 kbps     00:32:15.099    29,652 kbps     00:32:12.180    21,310 kbps     00:32:07.175    65,140 bytes    623,862 bytes   00:32:16.100    
+6               0:35:58.156     0:09:13.970     16,693 kbps     41,673 kbps     00:40:12.410    33,226 kbps     00:37:53.270    27,957 kbps     00:43:06.458    87,028 bytes    922,921 bytes   00:37:56.232    
+7               0:45:12.126     0:08:00.396     16,497 kbps     38,541 kbps     00:47:32.933    30,903 kbps     00:47:16.667    27,714 kbps     00:50:08.547    86,009 bytes    904,608 bytes   00:47:35.936    
+8               0:53:12.522     0:10:13.362     15,430 kbps     42,464 kbps     00:59:43.871    28,822 kbps     01:00:27.123    27,878 kbps     01:01:24.597    80,443 bytes    847,151 bytes   00:59:46.749    
+9               1:03:25.885     0:06:25.426     16,448 kbps     36,628 kbps     01:03:58.876    29,158 kbps     01:03:41.943    25,068 kbps     01:04:38.291    85,752 bytes    751,371 bytes   01:03:39.565    
+10              1:09:51.312     0:08:59.288     16,278 kbps     43,541 kbps     01:18:43.593    30,420 kbps     01:12:57.164    28,055 kbps     01:12:57.206    84,865 bytes    567,151 bytes   01:17:19.843    
+11              1:18:50.600     0:07:47.717     15,359 kbps     47,238 kbps     01:21:39.394    32,647 kbps     01:20:54.391    26,900 kbps     01:21:31.887    80,075 bytes    642,186 bytes   01:22:39.996    
+12              1:26:38.318     0:05:47.472     8,596 kbps      38,418 kbps     01:26:41.738    30,198 kbps     01:26:39.903    25,813 kbps     01:26:40.695    44,821 bytes    773,773 bytes   01:26:42.739    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00008.M2TS      4113 (0x1011)   0x1B            AVC                                     5545.707                15,000                  10,398,273,454  56,590,134      
+00008.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5545.707                1,854                   1,285,064,388   7,516,145       
+00008.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5545.707                1,850                   1,282,167,460   7,499,547       
+00008.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5545.707                0                       61,177          376             
+00008.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5545.707                37                      25,745,009      150,237         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Deep 3D
+Disc Label: Deep.3D.2017.MULTI.COMPLETE.BLURAY-BDA
+Disc Size: 25,449,458,409 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 13,812,910,080 bytes
+Length: 1:32:25.790
+Total Bitrate: 19.93 Mbps
+Video: MPEG-4 AVC Video / 15000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1854 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1850 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 0.088 kbps
+Subtitle: German / 37.138 kbps
+

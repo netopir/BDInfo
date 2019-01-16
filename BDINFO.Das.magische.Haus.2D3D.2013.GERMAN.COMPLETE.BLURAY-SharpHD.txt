@@ -1,0 +1,191 @@
+Disc Title:     Das magische Haus
+Disc Label:     Das.magische.Haus.2D3D.2013.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size:      49,189,369,719 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:25:07 16,152,520,704  49,189,369,719  25.30   19.99   DTS-HD Master 5.1 3952Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Das magische Haus
+Disc Label:     Das.magische.Haus.2D3D.2013.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size:      49,189,369,719 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:25:07.894 (h:m:s.ms)
+Size:                   16,152,520,704 bytes
+Total Bitrate:          25.30 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19993 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3952 kbps       5.1 / 48 kHz /  3952 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:25:07.894     16,152,520,704  25,298          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:31.255     23,285 kbps     41,608 kbps     00:05:01.217    38,285 kbps     00:00:50.592    38,052 kbps     00:00:50.508    121,389 bytes   627,318 bytes   00:04:23.429    
+2               0:10:31.255     0:11:39.240     20,492 kbps     39,559 kbps     00:10:38.387    38,051 kbps     00:10:38.929    34,083 kbps     00:10:35.718    106,836 bytes   588,422 bytes   00:22:10.495    
+3               0:22:10.495     0:10:31.672     20,760 kbps     40,244 kbps     00:29:34.063    36,975 kbps     00:27:59.803    36,608 kbps     00:27:54.923    108,232 bytes   638,856 bytes   00:29:34.939    
+4               0:32:42.168     0:09:36.909     20,143 kbps     43,178 kbps     00:37:54.063    36,056 kbps     00:37:44.845    33,811 kbps     00:37:45.596    105,015 bytes   640,722 bytes   00:40:56.996    
+5               0:42:19.078     0:08:58.204     17,997 kbps     41,522 kbps     00:45:27.266    30,050 kbps     00:45:26.849    27,476 kbps     00:46:02.301    93,827 bytes    639,153 bytes   00:45:28.267    
+6               0:51:17.282     0:10:11.902     20,588 kbps     39,925 kbps     01:01:27.600    36,772 kbps     01:01:24.180    33,452 kbps     01:00:30.418    107,335 bytes   638,252 bytes   01:01:28.601    
+7               1:01:29.185     0:09:28.609     20,053 kbps     39,789 kbps     01:09:50.227    37,853 kbps     01:09:46.098    31,460 kbps     01:07:10.985    104,549 bytes   621,679 bytes   01:07:12.361    
+8               1:10:57.795     0:09:46.711     21,346 kbps     40,159 kbps     01:15:32.069    36,924 kbps     01:19:43.320    33,186 kbps     01:13:21.688    111,289 bytes   626,911 bytes   01:13:28.695    
+9               1:20:44.506     0:04:23.388     8,164 kbps      21,889 kbps     01:21:51.489    15,665 kbps     01:21:43.315    14,501 kbps     01:21:26.006    42,570 bytes    292,257 bytes   01:22:07.213    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5107.728                19,994                  12,765,256,566  69,447,589      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5107.728                3,953                   2,523,539,984   14,508,977      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Das magische Haus
+Disc Label: Das.magische.Haus.2D3D.2013.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size: 49,189,369,719 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 16,152,520,704 bytes
+Length: 1:25:07.894
+Total Bitrate: 25.30 Mbps
+Video: MPEG-4 AVC Video / 19993 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3952 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00022.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      AVC     1:25:07 19,178,729,472  49,189,369,719  30.04   24.53   DTS-HD Master 5.1 3952Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Das magische Haus
+Disc Label:     Das.magische.Haus.2D3D.2013.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size:      49,189,369,719 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS
+Length:                 1:25:07.894 (h:m:s.ms)
+Size:                   19,178,729,472 bytes
+Total Bitrate:          30.04 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24535 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3952 kbps       5.1 / 48 kHz /  3952 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     1:25:07.894     19,178,729,472  30,038          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:31.255     25,254 kbps     45,137 kbps     00:00:02.961    31,167 kbps     00:00:07.215    29,683 kbps     00:01:30.882    131,654 bytes   644,018 bytes   00:01:54.072    
+2               0:10:31.255     0:11:39.240     24,669 kbps     45,456 kbps     00:10:38.220    29,381 kbps     00:19:33.547    28,057 kbps     00:20:04.912    128,615 bytes   573,305 bytes   00:22:10.245    
+3               0:22:10.495     0:10:31.672     24,952 kbps     38,658 kbps     00:28:41.136    29,949 kbps     00:23:32.577    28,893 kbps     00:28:18.988    130,091 bytes   641,161 bytes   00:24:15.912    
+4               0:32:42.168     0:09:36.909     24,999 kbps     40,832 kbps     00:36:30.855    29,865 kbps     00:35:40.847    28,217 kbps     00:35:35.883    130,331 bytes   736,911 bytes   00:36:56.839    
+5               0:42:19.078     0:08:58.204     24,636 kbps     39,415 kbps     00:46:15.814    28,419 kbps     00:46:11.977    27,593 kbps     00:46:50.432    128,439 bytes   693,803 bytes   00:48:47.841    
+6               0:51:17.282     0:10:11.902     25,069 kbps     39,930 kbps     00:52:21.304    30,855 kbps     00:53:02.762    28,571 kbps     01:01:00.156    130,698 bytes   580,036 bytes   00:53:54.230    
+7               1:01:29.185     0:09:28.609     24,862 kbps     40,465 kbps     01:06:55.803    29,757 kbps     01:01:33.898    28,675 kbps     01:01:33.856    129,617 bytes   601,631 bytes   01:02:17.483    
+8               1:10:57.795     0:09:46.711     25,213 kbps     46,066 kbps     01:13:29.905    29,919 kbps     01:14:16.118    28,921 kbps     01:18:57.774    131,448 bytes   700,259 bytes   01:12:31.722    
+9               1:20:44.506     0:04:23.388     16,776 kbps     39,584 kbps     01:21:38.977    30,332 kbps     01:21:30.969    29,557 kbps     01:21:29.968    87,476 bytes    586,772 bytes   01:21:39.686    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x1B            AVC                                     5107.811                24,535                  15,665,246,424  85,209,079      
+00022.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5107.811                3,952                   2,523,539,984   14,508,977      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Das magische Haus
+Disc Label: Das.magische.Haus.2D3D.2013.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size: 49,189,369,719 bytes
+Protection: AACS
+Playlist: 00022.MPLS
+Size: 19,178,729,472 bytes
+Length: 1:25:07.894
+Total Bitrate: 30.04 Mbps
+Video: MPEG-4 AVC Video / 24535 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3952 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
