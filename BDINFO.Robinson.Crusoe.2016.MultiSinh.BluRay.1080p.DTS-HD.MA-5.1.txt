@@ -1,0 +1,115 @@
+Disc Label:     Robinson.Crusoe.2016.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1
+Disc Size:      27,724,254,424 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:30:27 20,677,730,304  27,724,254,424  30.48   20.70   DD AC3 5.1 448Kbps                        DTS-HD Master 5.1 2180Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Robinson.Crusoe.2016.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1
+Disc Size:      27,724,254,424 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:30:27.630 (h:m:s.ms)
+Size:                   20,677,730,304 bytes
+Total Bitrate:          30.48 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20703 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS-HD Master Audio             Slovenian       2180 kbps       5.1 / 48 kHz /  2180 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit / DN -3dB)
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS-HD Master Audio             Croatian        2243 kbps       5.1 / 48 kHz /  2243 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit / DN -3dB)
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS-HD Master Audio             Serbian         2194 kbps       5.1 / 48 kHz /  2194 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit / DN -3dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:30:27.630     20,677,730,304  30,478          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:40.321     20,846 kbps     33,734 kbps     00:08:09.864    25,981 kbps     00:05:50.516    24,895 kbps     00:05:46.179    108,676 bytes   625,035 bytes   00:07:03.548    
+2               0:11:40.321     0:13:06.745     21,272 kbps     37,136 kbps     00:24:05.318    29,836 kbps     00:24:01.481    28,337 kbps     00:23:56.476    110,903 bytes   591,999 bytes   00:21:03.220    
+3               0:24:47.067     0:10:15.199     20,739 kbps     33,830 kbps     00:27:31.858    25,135 kbps     00:34:20.725    23,889 kbps     00:28:52.313    108,126 bytes   616,178 bytes   00:31:09.450    
+4               0:35:02.266     0:09:27.942     21,135 kbps     32,683 kbps     00:43:34.820    25,405 kbps     00:42:03.395    23,448 kbps     00:42:03.395    110,187 bytes   580,895 bytes   00:41:26.859    
+5               0:44:30.208     0:10:04.063     20,980 kbps     36,933 kbps     00:49:40.769    25,905 kbps     00:49:36.682    24,215 kbps     00:49:33.679    109,374 bytes   758,887 bytes   00:48:07.134    
+6               0:54:34.271     0:09:53.008     20,768 kbps     34,514 kbps     00:58:08.443    25,549 kbps     00:59:07.502    24,708 kbps     00:59:06.668    108,284 bytes   603,576 bytes   01:00:18.364    
+7               1:04:27.280     0:10:45.351     21,633 kbps     36,229 kbps     01:06:12.802    27,388 kbps     01:09:32.877    25,410 kbps     01:09:31.500    112,783 bytes   674,425 bytes   01:14:20.205    
+8               1:15:12.631     0:10:02.018     21,702 kbps     40,797 kbps     01:18:39.965    29,350 kbps     01:19:17.836    26,652 kbps     01:21:29.801    113,145 bytes   502,382 bytes   01:15:31.902    
+9               1:25:14.649     0:05:12.981     13,607 kbps     30,105 kbps     01:27:52.141    24,527 kbps     01:25:14.734    23,307 kbps     01:25:14.692    70,951 bytes    504,802 bytes   01:26:02.991    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5427.547                20,704                  14,046,336,012  76,414,812      
+00000.M2TS      4352 (0x1100)   0x81            AC3             slv (Slovenian)         5427.547                448                     303,939,328     1,696,090       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       slv (Slovenian)         5427.547                2,180                   1,478,897,020   8,563,213       
+00000.M2TS      4354 (0x1102)   0x81            AC3             hrv (Croatian)          5427.547                448                     303,939,328     1,696,090       
+00000.M2TS      4355 (0x1103)   0x86            DTS-HD MA       hrv (Croatian)          5427.547                2,243                   1,521,589,916   8,795,262       
+00000.M2TS      4356 (0x1104)   0x81            AC3             srp (Serbian)           5427.547                448                     303,939,328     1,696,090       
+00000.M2TS      4357 (0x1105)   0x86            DTS-HD MA       srp (Serbian)           5427.547                2,194                   1,488,435,200   8,614,508       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Robinson.Crusoe.2016.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1
+Disc Size: 27,724,254,424 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 20,677,730,304 bytes
+Length: 1:30:27.630
+Total Bitrate: 30.48 Mbps
+Video: MPEG-4 AVC Video / 20703 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / DTS-HD Master Audio / 5.1 / 48 kHz /  2180 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit / DN -3dB)
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / DTS-HD Master Audio / 5.1 / 48 kHz /  2243 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit / DN -3dB)
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / DTS-HD Master Audio / 5.1 / 48 kHz /  2194 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit / DN -3dB)
+

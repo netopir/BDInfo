@@ -1,0 +1,142 @@
+Disc Title:     Ratchet and Clank
+Disc Label:     Ratchet.and.Clank.2016.BluRay.1080p.AVC.DTS-HD.MA5.1-MTeam
+Disc Size:      34,469,926,649 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:34:07 29,333,803,008  34,469,926,649  41.55   33.50   DTS-HD Master 5.1 3990Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ratchet and Clank
+Disc Label:     Ratchet.and.Clank.2016.BluRay.1080p.AVC.DTS-HD.MA5.1-MTeam
+Disc Size:      34,469,926,649 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:34:07.350 (h:m:s.ms)
+Size:                   29,333,803,008 bytes
+Total Bitrate:          41.55 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        33504 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3990 kbps       5.1 / 48 kHz /  3990 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         50.051 kbps                     
+Presentation Graphics           Spanish         40.564 kbps                     
+Presentation Graphics           French          40.775 kbps                     
+Presentation Graphics           French          0.524 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00185.M2TS      0:00:00.000     1:34:07.350     29,333,803,008  41,554          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:12.525     32,729 kbps     46,426 kbps     00:00:14.514    38,482 kbps     00:00:10.468    36,838 kbps     00:00:05.422    170,595 bytes   620,161 bytes   00:00:29.029    
+2               0:03:12.525     0:05:38.296     34,914 kbps     43,413 kbps     00:04:38.152    37,493 kbps     00:08:25.296    36,650 kbps     00:06:51.411    182,025 bytes   636,232 bytes   00:08:36.807    
+3               0:08:50.821     0:05:32.290     34,780 kbps     44,872 kbps     00:14:20.276    37,279 kbps     00:09:28.234    36,889 kbps     00:09:23.145    181,329 bytes   628,519 bytes   00:11:23.391    
+4               0:14:23.112     0:03:16.946     33,473 kbps     40,290 kbps     00:16:06.674    36,993 kbps     00:14:52.182    36,285 kbps     00:17:03.689    174,510 bytes   561,721 bytes   00:15:19.043    
+5               0:17:40.059     0:04:09.832     34,467 kbps     39,647 kbps     00:21:28.161    36,781 kbps     00:19:25.831    36,180 kbps     00:17:55.115    179,695 bytes   565,177 bytes   00:21:14.106    
+6               0:21:49.891     0:04:25.890     35,491 kbps     41,480 kbps     00:23:01.838    37,389 kbps     00:22:58.168    36,916 kbps     00:22:59.127    185,033 bytes   592,070 bytes   00:22:19.880    
+7               0:26:15.782     0:05:07.557     34,969 kbps     40,718 kbps     00:29:50.246    37,199 kbps     00:29:00.363    36,645 kbps     00:31:11.744    182,314 bytes   632,970 bytes   00:26:40.223    
+8               0:31:23.339     0:04:59.507     34,521 kbps     42,079 kbps     00:33:05.316    36,971 kbps     00:35:02.433    36,564 kbps     00:31:51.993    179,979 bytes   612,686 bytes   00:33:34.595    
+9               0:36:22.847     0:05:01.092     35,183 kbps     42,969 kbps     00:37:56.315    37,689 kbps     00:37:52.436    36,748 kbps     00:37:47.473    183,427 bytes   612,449 bytes   00:38:02.279    
+10              0:41:23.939     0:04:47.245     35,182 kbps     40,905 kbps     00:44:46.767    37,040 kbps     00:42:00.851    36,586 kbps     00:45:49.705    183,422 bytes   603,709 bytes   00:44:52.523    
+11              0:46:11.185     0:03:19.157     34,518 kbps     40,181 kbps     00:47:11.370    36,679 kbps     00:46:14.521    36,241 kbps     00:47:48.407    179,962 bytes   562,837 bytes   00:46:31.830    
+12              0:49:30.342     0:03:57.904     34,839 kbps     41,523 kbps     00:52:49.082    37,069 kbps     00:52:45.078    36,197 kbps     00:51:13.070    181,636 bytes   546,027 bytes   00:52:28.061    
+13              0:53:28.246     0:03:32.212     34,522 kbps     42,501 kbps     00:56:36.476    37,015 kbps     00:55:27.365    36,466 kbps     00:55:22.360    179,981 bytes   607,452 bytes   00:56:46.528    
+14              0:57:00.458     0:04:44.283     34,542 kbps     42,787 kbps     00:58:16.784    36,923 kbps     00:59:23.476    36,474 kbps     00:59:49.711    180,089 bytes   631,783 bytes   01:00:08.563    
+15              1:01:44.742     0:05:58.024     34,755 kbps     41,180 kbps     01:05:08.112    37,466 kbps     01:03:41.776    36,524 kbps     01:05:05.902    181,199 bytes   551,970 bytes   01:03:46.739    
+16              1:07:42.767     0:03:33.963     35,102 kbps     40,070 kbps     01:11:12.768    36,943 kbps     01:09:53.814    36,467 kbps     01:09:55.941    183,004 bytes   588,477 bytes   01:08:03.954    
+17              1:11:16.730     0:07:30.741     34,878 kbps     42,637 kbps     01:13:04.380    37,374 kbps     01:18:31.248    36,506 kbps     01:13:07.216    181,838 bytes   630,264 bytes   01:18:46.304    
+18              1:18:47.472     0:04:32.647     34,874 kbps     40,382 kbps     01:23:14.614    36,834 kbps     01:20:10.764    36,615 kbps     01:21:13.451    181,816 bytes   544,514 bytes   01:23:14.155    
+19              1:23:20.120     0:04:33.690     34,389 kbps     42,990 kbps     01:26:30.268    37,095 kbps     01:23:43.518    36,649 kbps     01:25:18.071    179,287 bytes   637,016 bytes   01:26:30.852    
+20              1:27:53.810     0:06:13.539     16,603 kbps     36,512 kbps     01:33:35.109    31,293 kbps     01:33:34.108    29,299 kbps     01:33:30.104    86,572 bytes    512,947 bytes   01:29:10.511    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00185.M2TS      4113 (0x1011)   0x1B            AVC                                     5647.267                33,504                  23,651,097,814  128,617,535     
+00185.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5647.267                3,990                   2,816,817,272   16,201,382      
+00185.M2TS      4353 (0x1101)   0x82            DTS             spa (Spanish)           5647.267                768                     542,146,560     3,176,640       
+00185.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            5647.267                768                     542,146,560     3,176,640       
+00185.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           5647.267                192                     135,536,640     882,400         
+00185.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5647.267                50                      35,331,616      203,942         
+00185.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5647.267                41                      28,634,833      164,774         
+00185.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5647.267                41                      28,784,097      165,603         
+00185.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5647.267                1                       369,556         2,090           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ratchet and Clank
+Disc Label: Ratchet.and.Clank.2016.BluRay.1080p.AVC.DTS-HD.MA5.1-MTeam
+Disc Size: 34,469,926,649 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 29,333,803,008 bytes
+Length: 1:34:07.350
+Total Bitrate: 41.55 Mbps
+Video: MPEG-4 AVC Video / 33504 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3990 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 50.051 kbps
+Subtitle: Spanish / 40.564 kbps
+Subtitle: French / 40.775 kbps
+Subtitle: French / 0.524 kbps
+
