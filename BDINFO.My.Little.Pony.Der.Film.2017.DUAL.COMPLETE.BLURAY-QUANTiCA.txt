@@ -1,0 +1,122 @@
+Disc Title:     My Little Pony - Blu-ray™
+Disc Label:     My.Little.Pony.Der.Film.2017.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size:      40,212,547,138 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:39:59 31,676,436,480  40,212,547,138  42.24   31.90   DTS-HD Master 5.1 4012Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     My Little Pony - Blu-ray™
+Disc Label:     My.Little.Pony.Der.Film.2017.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size:      40,212,547,138 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:39:59.785 (h:m:s.ms)
+Size:                   31,676,436,480 bytes
+Total Bitrate:          42.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        31903 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4012 kbps       5.1 / 48 kHz /  4012 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3945 kbps       5.1 / 48 kHz /  3945 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          35.417 kbps                     
+Presentation Graphics           English         47.730 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:39:59.785     31,676,436,480  42,237          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:50.793     32,063 kbps     48,963 kbps     00:10:56.822    37,935 kbps     00:11:12.630    35,784 kbps     00:01:27.879    167,152 bytes   614,832 bytes   00:02:54.132    
+2               0:11:50.793     0:06:53.454     32,180 kbps     47,529 kbps     00:13:31.393    37,035 kbps     00:18:14.718    36,134 kbps     00:15:38.646    167,773 bytes   571,799 bytes   00:14:49.847    
+3               0:18:44.248     0:08:33.512     32,215 kbps     50,763 kbps     00:22:34.978    37,748 kbps     00:21:47.514    35,765 kbps     00:24:51.114    167,953 bytes   591,556 bytes   00:23:04.257    
+4               0:27:17.761     0:08:38.392     32,535 kbps     48,728 kbps     00:27:24.142    38,291 kbps     00:28:59.904    35,682 kbps     00:28:30.333    169,623 bytes   576,830 bytes   00:31:46.195    
+5               0:35:56.154     0:07:10.221     30,741 kbps     47,995 kbps     00:39:32.203    38,013 kbps     00:41:52.051    35,769 kbps     00:41:47.213    160,269 bytes   571,363 bytes   00:39:42.463    
+6               0:43:06.375     0:05:35.251     31,275 kbps     45,459 kbps     00:44:21.033    37,011 kbps     00:47:08.617    35,524 kbps     00:45:14.920    163,055 bytes   561,309 bytes   00:44:59.238    
+7               0:48:41.627     0:06:32.016     29,204 kbps     48,561 kbps     00:51:08.106    37,717 kbps     00:50:57.012    36,001 kbps     00:53:57.525    152,254 bytes   589,599 bytes   00:51:52.734    
+8               0:55:13.643     0:07:29.991     33,047 kbps     47,231 kbps     00:58:53.112    37,183 kbps     00:58:24.250    35,899 kbps     01:01:00.865    172,293 bytes   616,841 bytes   00:55:21.234    
+9               1:02:43.634     0:08:53.950     31,529 kbps     51,031 kbps     01:04:48.175    37,721 kbps     01:06:51.757    35,945 kbps     01:06:18.724    164,380 bytes   651,316 bytes   01:06:30.236    
+10              1:11:37.584     0:10:14.572     32,979 kbps     49,457 kbps     01:15:08.378    38,566 kbps     01:19:09.828    35,988 kbps     01:19:09.828    171,938 bytes   568,521 bytes   01:16:03.058    
+11              1:21:52.157     0:06:23.758     32,897 kbps     47,930 kbps     01:27:29.369    37,526 kbps     01:26:04.450    36,142 kbps     01:25:13.024    171,511 bytes   696,579 bytes   01:27:45.176    
+12              1:28:15.915     0:11:43.869     31,467 kbps     46,450 kbps     01:32:06.437    37,606 kbps     01:30:16.411    35,862 kbps     01:29:12.138    164,065 bytes   646,704 bytes   01:32:04.477    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5999.660                31,903                  23,926,249,335  130,118,170     
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5999.660                4,012                   3,009,123,972   17,289,180      
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5999.660                3,945                   2,958,302,168   17,013,008      
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5999.660                35                      26,561,769      152,873         
+00001.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5999.660                48                      35,795,924      207,186         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: My Little Pony - Blu-ray™
+Disc Label: My.Little.Pony.Der.Film.2017.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size: 40,212,547,138 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 31,676,436,480 bytes
+Length: 1:39:59.785
+Total Bitrate: 42.24 Mbps
+Video: MPEG-4 AVC Video / 31903 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4012 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3945 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 35.417 kbps
+Subtitle: English / 47.730 kbps
+

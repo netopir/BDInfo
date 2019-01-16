@@ -1,0 +1,192 @@
+Disc Label:     Monster.Island.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      17,955,385,556 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      MPEG-2  1:20:22 16,751,904,768  17,955,385,556  27.79   17.99   DTS-HD Master 5.1 4057Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Monster.Island.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      17,955,385,556 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:20:22.166 (h:m:s.ms)
+Size:                   16,751,904,768 bytes
+Total Bitrate:          27.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            17988 kbps          1080p / 24 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4057 kbps       5.1 / 48 kHz /  4057 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+DTS-HD Master Audio             English         4016 kbps       5.1 / 48 kHz /  4016 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:20:22.166     16,751,904,768  27,791          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:44.458     17,279 kbps     26,828 kbps     00:02:39.625    22,172 kbps     00:02:19.041    21,986 kbps     00:02:14.000    89,986 bytes    572,496 bytes   00:05:33.666    
+2               0:08:44.458     0:10:11.375     17,940 kbps     24,874 kbps     00:18:30.250    22,076 kbps     00:15:33.291    21,668 kbps     00:14:54.458    93,439 bytes    612,247 bytes   00:18:08.208    
+3               0:18:55.833     0:05:20.666     17,692 kbps     25,093 kbps     00:22:57.333    21,695 kbps     00:21:47.458    21,508 kbps     00:22:16.958    92,147 bytes    608,984 bytes   00:23:19.583    
+4               0:24:16.500     0:09:11.458     18,186 kbps     26,003 kbps     00:29:18.791    21,811 kbps     00:24:17.208    21,070 kbps     00:24:39.458    94,720 bytes    616,483 bytes   00:31:55.541    
+5               0:33:27.958     0:09:46.416     17,593 kbps     24,537 kbps     00:34:12.041    21,534 kbps     00:33:58.375    21,277 kbps     00:33:49.708    91,632 bytes    652,145 bytes   00:41:57.250    
+6               0:43:14.375     0:07:40.583     17,918 kbps     24,517 kbps     00:45:55.833    21,381 kbps     00:44:50.875    21,027 kbps     00:44:46.291    93,324 bytes    602,302 bytes   00:47:58.041    
+7               0:50:54.958     0:12:24.208     18,147 kbps     26,935 kbps     00:59:27.625    21,333 kbps     00:56:20.583    21,113 kbps     00:59:55.750    94,514 bytes    597,336 bytes   00:57:37.000    
+8               1:03:19.166     0:12:18.250     18,677 kbps     26,459 kbps     01:11:27.291    21,577 kbps     01:14:32.583    20,751 kbps     01:06:51.625    97,276 bytes    654,647 bytes   01:11:28.291    
+9               1:15:37.416     0:04:44.750     18,062 kbps     25,762 kbps     01:16:45.333    20,513 kbps     01:16:45.333    19,519 kbps     01:16:40.291    94,088 bytes    516,648 bytes   01:16:46.875    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x02            MPEG-2                                  4822.000                17,988                  10,842,344,807  58,993,402      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4822.000                4,057                   2,445,343,032   14,041,096      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4822.000                4,016                   2,420,884,712   13,980,741      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Monster.Island.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 17,955,385,556 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 16,751,904,768 bytes
+Length: 1:20:22.166
+Total Bitrate: 27.79 Mbps
+Video: MPEG-2 Video / 17988 kbps / 1080p / 24 fps / 16:9
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4057 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4016 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      MPEG-2  1:20:22 16,751,904,768  17,955,385,556  27.79   17.99   DTS-HD Master 5.1 4057Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Monster.Island.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      17,955,385,556 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:20:22.166 (h:m:s.ms)
+Size:                   16,751,904,768 bytes
+Total Bitrate:          27.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            17988 kbps          1080p / 24 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4057 kbps       5.1 / 48 kHz /  4057 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+DTS-HD Master Audio             English         4016 kbps       5.1 / 48 kHz /  4016 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:20:22.166     16,751,904,768  27,791          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:44.458     17,279 kbps     26,828 kbps     00:02:39.625    22,172 kbps     00:02:19.041    21,986 kbps     00:02:14.000    89,986 bytes    572,496 bytes   00:05:33.666    
+2               0:08:44.458     0:10:11.375     17,940 kbps     24,874 kbps     00:18:30.250    22,076 kbps     00:15:33.291    21,668 kbps     00:14:54.458    93,439 bytes    612,247 bytes   00:18:08.208    
+3               0:18:55.833     0:05:20.666     17,692 kbps     25,093 kbps     00:22:57.333    21,695 kbps     00:21:47.458    21,508 kbps     00:22:16.958    92,147 bytes    608,984 bytes   00:23:19.583    
+4               0:24:16.500     0:09:11.458     18,186 kbps     26,003 kbps     00:29:18.791    21,811 kbps     00:24:17.208    21,070 kbps     00:24:39.458    94,720 bytes    616,483 bytes   00:31:55.541    
+5               0:33:27.958     0:09:46.416     17,593 kbps     24,537 kbps     00:34:12.041    21,534 kbps     00:33:58.375    21,277 kbps     00:33:49.708    91,632 bytes    652,145 bytes   00:41:57.250    
+6               0:43:14.375     0:07:40.583     17,918 kbps     24,517 kbps     00:45:55.833    21,381 kbps     00:44:50.875    21,027 kbps     00:44:46.291    93,324 bytes    602,302 bytes   00:47:58.041    
+7               0:50:54.958     0:12:24.208     18,147 kbps     26,935 kbps     00:59:27.625    21,333 kbps     00:56:20.583    21,113 kbps     00:59:55.750    94,514 bytes    597,336 bytes   00:57:37.000    
+8               1:03:19.166     0:12:18.250     18,677 kbps     26,459 kbps     01:11:27.291    21,577 kbps     01:14:32.583    20,751 kbps     01:06:51.625    97,276 bytes    654,647 bytes   01:11:28.291    
+9               1:15:37.416     0:04:44.750     18,062 kbps     25,762 kbps     01:16:45.333    20,513 kbps     01:16:45.333    19,519 kbps     01:16:40.291    94,088 bytes    516,648 bytes   01:16:46.875    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x02            MPEG-2                                  4822.000                17,988                  10,842,344,807  58,993,402      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4822.000                4,057                   2,445,343,032   14,041,096      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4822.000                4,016                   2,420,884,712   13,980,741      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Monster.Island.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 17,955,385,556 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 16,751,904,768 bytes
+Length: 1:20:22.166
+Total Bitrate: 27.79 Mbps
+Video: MPEG-2 Video / 17988 kbps / 1080p / 24 fps / 16:9
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4057 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4016 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+

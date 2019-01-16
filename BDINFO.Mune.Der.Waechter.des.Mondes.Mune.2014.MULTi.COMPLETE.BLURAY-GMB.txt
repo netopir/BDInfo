@@ -1,0 +1,112 @@
+Disc Title:     Mune - Der Wächter des Mondes
+Disc Label:     Mune.Der.Waechter.des.Mondes.Mune.2014.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      22,506,130,816 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:25:31 21,132,398,592  22,506,130,816  32.94   22.95   DTS-HD Master 5.1 4051Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Mune - Der Wächter des Mondes
+Disc Label:     Mune.Der.Waechter.des.Mondes.Mune.2014.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      22,506,130,816 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:25:31.668 (h:m:s.ms)
+Size:                   21,132,398,592 bytes
+Total Bitrate:          32.94 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22948 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4051 kbps       5.1 / 48 kHz /  4051 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+DTS-HD Master Audio             English         4043 kbps       5.1 / 48 kHz /  4043 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:25:21.658     21,120,528,384  32,990          
+00025.M2TS      1:25:21.658     0:00:10.010     11,870,208      9,487           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:46.729     23,808 kbps     36,748 kbps     00:02:17.428    33,599 kbps     00:01:55.698    32,936 kbps     00:01:52.695    124,117 bytes   579,377 bytes   00:04:40.196    
+2               0:10:46.729     0:09:29.068     23,555 kbps     35,027 kbps     00:18:53.966    31,906 kbps     00:18:53.257    30,032 kbps     00:19:39.511    122,807 bytes   467,891 bytes   00:20:14.922    
+3               0:20:15.797     0:10:01.976     24,007 kbps     38,021 kbps     00:24:11.950    34,557 kbps     00:29:13.585    33,690 kbps     00:29:12.584    125,161 bytes   545,948 bytes   00:29:10.623    
+4               0:30:17.774     0:09:29.110     21,657 kbps     34,129 kbps     00:33:25.169    29,845 kbps     00:33:23.334    27,831 kbps     00:33:21.582    112,908 bytes   442,438 bytes   00:38:40.526    
+5               0:39:46.884     0:10:25.374     23,061 kbps     36,251 kbps     00:49:08.070    32,236 kbps     00:49:06.943    30,177 kbps     00:49:54.491    120,228 bytes   428,679 bytes   00:49:15.911    
+6               0:50:12.259     0:10:25.791     23,735 kbps     36,089 kbps     00:56:26.341    33,470 kbps     00:54:10.830    32,896 kbps     00:54:05.867    123,745 bytes   417,589 bytes   00:59:28.773    
+7               1:00:38.051     0:09:29.485     24,375 kbps     38,526 kbps     01:08:29.313    32,759 kbps     01:06:31.153    31,212 kbps     01:06:39.370    127,078 bytes   418,171 bytes   01:01:35.066    
+8               1:10:07.536     0:09:20.851     23,787 kbps     35,285 kbps     01:16:14.236    32,314 kbps     01:15:03.540    29,981 kbps     01:16:05.227    124,013 bytes   598,479 bytes   01:18:02.260    
+9               1:19:28.388     0:06:03.279     15,655 kbps     37,517 kbps     01:20:39.459    33,598 kbps     01:20:39.960    33,296 kbps     01:19:53.622    81,626 bytes    572,303 bytes   01:20:41.878    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5121.491                22,983                  14,713,524,959  80,036,524      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5121.491                4,056                   2,596,598,044   14,912,978      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5121.491                4,048                   2,591,343,988   14,881,654      
+00025.M2TS      4113 (0x1011)   0x1B            AVC                                     9.843                   5,522                   6,793,635       37,053          
+00025.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            9.843                   1,603                   1,971,900       12,207          
+00025.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           9.843                   1,603                   1,971,900       12,207          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Mune - Der Wächter des Mondes
+Disc Label: Mune.Der.Waechter.des.Mondes.Mune.2014.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 22,506,130,816 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 21,132,398,592 bytes
+Length: 1:25:31.668
+Total Bitrate: 32.94 Mbps
+Video: MPEG-4 AVC Video / 22948 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4051 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4043 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+

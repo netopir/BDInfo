@@ -1,0 +1,554 @@
+Disc Title:     Minions
+Disc Label:     Minions.2015.1080p.EUR.Blu-ray.AVC.TrueHD.7.1
+Disc Size:      42,891,118,841 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:30:57 30,586,030,080  42,891,118,841  44.83   28.92   Dolby Atmos 7.1 5902Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Minions
+Disc Label:     Minions.2015.1080p.EUR.Blu-ray.AVC.TrueHD.7.1
+Disc Size:      42,891,118,841 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:30:57.994 (h:m:s.ms)
+Size:                   30,586,030,080 bytes
+Total Bitrate:          44.83 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28919 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         5902 kbps       7.1 / 48 kHz /  5262 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Plus/Atmos Audio  French          1152 kbps       7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Dolby Digital Plus/Atmos Audio  German          1152 kbps       7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Dolby Digital Audio             Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           French          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.192 kbps                     
+Presentation Graphics           Croatian        18.895 kbps                     
+Presentation Graphics           Dutch           18.782 kbps                     
+Presentation Graphics           French          18.342 kbps                     
+Presentation Graphics           German          23.102 kbps                     
+Presentation Graphics           Hebrew          13.997 kbps                     
+Presentation Graphics           Icelandic       20.890 kbps                     
+Presentation Graphics           Turkish         20.571 kbps                     
+Presentation Graphics           Croatian        0.924 kbps                      
+Presentation Graphics           Dutch           0.644 kbps                      
+Presentation Graphics           Dutch           0.505 kbps                      
+Presentation Graphics           French          0.785 kbps                      
+Presentation Graphics           German          0.995 kbps                      
+Presentation Graphics           Hebrew          0.518 kbps                      
+Presentation Graphics           Icelandic       0.718 kbps                      
+Presentation Graphics           Turkish         0.665 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:30:57.994     30,586,030,080  44,831          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:39.839     29,229 kbps     33,834 kbps     00:03:16.112    31,507 kbps     00:04:57.130    31,120 kbps     00:04:52.208    152,366 bytes   476,454 bytes   00:02:34.404    
+2               0:05:39.839     0:05:49.098     29,546 kbps     32,856 kbps     00:07:39.250    31,180 kbps     00:10:44.435    31,058 kbps     00:10:39.388    154,037 bytes   448,606 bytes   00:10:41.557    
+3               0:11:28.938     0:05:26.200     28,261 kbps     34,773 kbps     00:16:25.359    31,495 kbps     00:16:21.271    31,114 kbps     00:16:16.266    147,340 bytes   436,755 bytes   00:13:46.075    
+4               0:16:55.139     0:05:33.291     27,812 kbps     33,560 kbps     00:18:08.837    31,207 kbps     00:17:43.187    30,965 kbps     00:17:01.020    144,997 bytes   439,297 bytes   00:20:33.899    
+5               0:22:28.430     0:04:30.603     29,403 kbps     32,973 kbps     00:25:09.466    31,234 kbps     00:25:39.996    31,011 kbps     00:25:35.033    153,293 bytes   459,172 bytes   00:25:45.001    
+6               0:26:59.034     0:05:55.605     29,618 kbps     33,071 kbps     00:27:17.469    31,174 kbps     00:27:53.171    30,989 kbps     00:27:48.291    154,414 bytes   314,055 bytes   00:27:00.035    
+7               0:32:54.639     0:04:34.232     29,774 kbps     32,791 kbps     00:34:02.623    31,202 kbps     00:33:11.614    31,009 kbps     00:35:43.641    155,226 bytes   423,349 bytes   00:34:04.417    
+8               0:37:28.871     0:03:29.959     28,611 kbps     33,700 kbps     00:40:18.541    31,297 kbps     00:40:14.370    30,974 kbps     00:40:09.532    149,167 bytes   440,719 bytes   00:40:58.831    
+9               0:40:58.831     0:04:30.478     27,585 kbps     32,948 kbps     00:43:32.359    31,410 kbps     00:43:31.275    30,985 kbps     00:41:02.418    143,814 bytes   541,146 bytes   00:43:34.111    
+10              0:45:29.309     0:03:54.776     30,736 kbps     33,092 kbps     00:47:09.993    31,233 kbps     00:46:13.020    31,018 kbps     00:46:08.182    160,241 bytes   438,336 bytes   00:45:30.310    
+11              0:49:24.086     0:04:18.967     29,854 kbps     33,535 kbps     00:51:35.509    31,398 kbps     00:51:31.630    31,088 kbps     00:51:26.625    155,647 bytes   463,780 bytes   00:53:43.053    
+12              0:53:43.053     0:03:21.868     27,182 kbps     33,535 kbps     00:54:04.991    31,096 kbps     00:54:24.010    30,957 kbps     00:54:19.089    141,717 bytes   439,723 bytes   00:53:44.054    
+13              0:57:04.921     0:04:32.021     28,540 kbps     33,224 kbps     00:59:34.362    31,274 kbps     00:59:52.005    31,027 kbps     00:59:47.917    148,795 bytes   434,048 bytes   00:59:56.926    
+14              1:01:36.943     0:04:17.757     28,151 kbps     33,467 kbps     01:04:14.600    31,249 kbps     01:01:58.756    31,011 kbps     01:02:09.392    146,766 bytes   403,244 bytes   01:01:56.713    
+15              1:05:54.700     0:02:00.537     24,279 kbps     35,667 kbps     01:07:30.880    30,791 kbps     01:06:12.760    29,384 kbps     01:07:21.871    126,578 bytes   301,253 bytes   01:06:10.800    
+16              1:07:55.237     0:03:23.912     28,915 kbps     32,845 kbps     01:09:31.959    31,204 kbps     01:09:27.955    31,013 kbps     01:09:22.950    150,750 bytes   438,727 bytes   01:09:32.084    
+17              1:11:19.149     0:04:13.503     30,378 kbps     33,415 kbps     01:13:14.807    31,286 kbps     01:13:10.886    30,999 kbps     01:15:17.262    158,377 bytes   432,147 bytes   01:13:22.147    
+18              1:15:32.653     0:05:40.173     30,635 kbps     32,772 kbps     01:19:06.408    31,192 kbps     01:20:46.341    30,984 kbps     01:15:44.540    159,717 bytes   422,328 bytes   01:16:02.266    
+19              1:21:12.826     0:07:11.931     27,662 kbps     33,060 kbps     01:23:13.530    31,260 kbps     01:23:09.526    30,966 kbps     01:23:09.901    144,218 bytes   585,021 bytes   01:22:40.789    
+20              1:28:24.757     0:02:33.236     30,246 kbps     35,524 kbps     01:29:07.216    31,595 kbps     01:29:03.296    31,189 kbps     01:28:58.249    157,731 bytes   297,289 bytes   01:30:47.900    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5457.827                28,920                  19,729,916,399  107,304,280     
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5457.827                5,903                   4,026,885,968   25,948,307      
+00800.M2TS      4353 (0x1101)   0x81            AC3             hrv (Croatian)          5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4355 (0x1103)   0x81            AC3             nld (Dutch)             5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4356 (0x1104)   0x84            AC3+            fra (French)            5457.827                1,152                   785,954,304     4,434,638       
+00800.M2TS      4357 (0x1105)   0x84            AC3+            deu (German)            5457.827                1,152                   785,954,304     4,434,638       
+00800.M2TS      4358 (0x1106)   0x81            AC3             heb (Hebrew)            5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4359 (0x1107)   0x81            AC3             isl (Icelandic)         5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4360 (0x1108)   0x81            AC3             tur (Turkish)           5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4361 (0x1109)   0x81            AC3             fra (French)            5457.827                192                     130,992,384     852,815         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5457.827                46                      31,514,194      183,057         
+00800.M2TS      4609 (0x1201)   0x90            PGS             hrv (Croatian)          5457.827                19                      12,890,806      74,393          
+00800.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5457.827                19                      12,813,822      73,713          
+00800.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5457.827                18                      12,513,690      73,171          
+00800.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            5457.827                23                      15,761,409      89,977          
+00800.M2TS      4613 (0x1205)   0x90            PGS             heb (Hebrew)            5457.827                14                      9,549,474       56,273          
+00800.M2TS      4614 (0x1206)   0x90            PGS             isl (Icelandic)         5457.827                21                      14,252,415      81,765          
+00800.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5457.827                21                      14,034,538      80,611          
+00800.M2TS      4616 (0x1208)   0x90            PGS             hrv (Croatian)          5457.827                1                       630,576         3,680           
+00800.M2TS      4617 (0x1209)   0x90            PGS             nld (Dutch)             5457.827                1                       439,428         2,569           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5457.827                1                       344,281         2,004           
+00800.M2TS      4619 (0x120B)   0x90            PGS             fra (French)            5457.827                1                       535,547         3,129           
+00800.M2TS      4620 (0x120C)   0x90            PGS             deu (German)            5457.827                1                       678,626         3,940           
+00800.M2TS      4621 (0x120D)   0x90            PGS             heb (Hebrew)            5457.827                1                       353,072         2,180           
+00800.M2TS      4622 (0x120E)   0x90            PGS             isl (Icelandic)         5457.827                1                       489,578         2,846           
+00800.M2TS      4623 (0x120F)   0x90            PGS             tur (Turkish)           5457.827                1                       453,611         2,646           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Minions
+Disc Label: Minions.2015.1080p.EUR.Blu-ray.AVC.TrueHD.7.1
+Disc Size: 42,891,118,841 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 30,586,030,080 bytes
+Length: 1:30:57.994
+Total Bitrate: 44.83 Mbps
+Video: MPEG-4 AVC Video / 28919 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  5262 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Plus/Atmos Audio / 7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Audio: German / Dolby Digital Plus/Atmos Audio / 7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: French / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 46.192 kbps
+Subtitle: Croatian / 18.895 kbps
+Subtitle: Dutch / 18.782 kbps
+Subtitle: French / 18.342 kbps
+Subtitle: German / 23.102 kbps
+Subtitle: Hebrew / 13.997 kbps
+Subtitle: Icelandic / 20.890 kbps
+Subtitle: Turkish / 20.571 kbps
+Subtitle: Croatian / 0.924 kbps
+Subtitle: Dutch / 0.644 kbps
+Subtitle: Dutch / 0.505 kbps
+Subtitle: French / 0.785 kbps
+Subtitle: German / 0.995 kbps
+Subtitle: Hebrew / 0.518 kbps
+Subtitle: Icelandic / 0.718 kbps
+Subtitle: Turkish / 0.665 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:30:57 30,586,030,080  42,891,118,841  44.83   28.92   Dolby Atmos 7.1 5902Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Minions
+Disc Label:     Minions.2015.1080p.EUR.Blu-ray.AVC.TrueHD.7.1
+Disc Size:      42,891,118,841 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:30:57.994 (h:m:s.ms)
+Size:                   30,586,030,080 bytes
+Total Bitrate:          44.83 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28919 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Dolby TrueHD/Atmos Audio      English         5902 kbps       7.1 / 48 kHz /  5262 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+* Dolby Digital Audio           Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Plus/Atmos AudioFrench          1152 kbps       7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+* Dolby Digital Plus/Atmos AudioGerman          1152 kbps       7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+* Dolby Digital Audio           Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Icelandic       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         46.192 kbps                     
+* Presentation Graphics         Croatian        18.895 kbps                     
+* Presentation Graphics         Dutch           18.782 kbps                     
+* Presentation Graphics         French          18.342 kbps                     
+* Presentation Graphics         German          23.102 kbps                     
+* Presentation Graphics         Hebrew          13.997 kbps                     
+* Presentation Graphics         Icelandic       20.890 kbps                     
+* Presentation Graphics         Turkish         20.571 kbps                     
+* Presentation Graphics         Croatian        0.924 kbps                      
+* Presentation Graphics         Dutch           0.644 kbps                      
+* Presentation Graphics         Dutch           0.505 kbps                      
+Presentation Graphics           French          0.785 kbps                      
+* Presentation Graphics         German          0.995 kbps                      
+* Presentation Graphics         Hebrew          0.518 kbps                      
+* Presentation Graphics         Icelandic       0.718 kbps                      
+* Presentation Graphics         Turkish         0.665 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:30:57.994     30,586,030,080  44,831          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:39.839     29,229 kbps     33,834 kbps     00:03:16.112    31,507 kbps     00:04:57.130    31,120 kbps     00:04:52.208    152,366 bytes   476,454 bytes   00:02:34.404    
+2               0:05:39.839     0:05:49.098     29,546 kbps     32,856 kbps     00:07:39.250    31,180 kbps     00:10:44.435    31,058 kbps     00:10:39.388    154,037 bytes   448,606 bytes   00:10:41.557    
+3               0:11:28.938     0:05:26.200     28,261 kbps     34,773 kbps     00:16:25.359    31,495 kbps     00:16:21.271    31,114 kbps     00:16:16.266    147,340 bytes   436,755 bytes   00:13:46.075    
+4               0:16:55.139     0:05:33.291     27,812 kbps     33,560 kbps     00:18:08.837    31,207 kbps     00:17:43.187    30,965 kbps     00:17:01.020    144,997 bytes   439,297 bytes   00:20:33.899    
+5               0:22:28.430     0:04:30.603     29,403 kbps     32,973 kbps     00:25:09.466    31,234 kbps     00:25:39.996    31,011 kbps     00:25:35.033    153,293 bytes   459,172 bytes   00:25:45.001    
+6               0:26:59.034     0:05:55.605     29,618 kbps     33,071 kbps     00:27:17.469    31,174 kbps     00:27:53.171    30,989 kbps     00:27:48.291    154,414 bytes   314,055 bytes   00:27:00.035    
+7               0:32:54.639     0:04:34.232     29,774 kbps     32,791 kbps     00:34:02.623    31,202 kbps     00:33:11.614    31,009 kbps     00:35:43.641    155,226 bytes   423,349 bytes   00:34:04.417    
+8               0:37:28.871     0:03:29.959     28,611 kbps     33,700 kbps     00:40:18.541    31,297 kbps     00:40:14.370    30,974 kbps     00:40:09.532    149,167 bytes   440,719 bytes   00:40:58.831    
+9               0:40:58.831     0:04:30.478     27,585 kbps     32,948 kbps     00:43:32.359    31,410 kbps     00:43:31.275    30,985 kbps     00:41:02.418    143,814 bytes   541,146 bytes   00:43:34.111    
+10              0:45:29.309     0:03:54.776     30,736 kbps     33,092 kbps     00:47:09.993    31,233 kbps     00:46:13.020    31,018 kbps     00:46:08.182    160,241 bytes   438,336 bytes   00:45:30.310    
+11              0:49:24.086     0:04:18.967     29,854 kbps     33,535 kbps     00:51:35.509    31,398 kbps     00:51:31.630    31,088 kbps     00:51:26.625    155,647 bytes   463,780 bytes   00:53:43.053    
+12              0:53:43.053     0:03:21.868     27,182 kbps     33,535 kbps     00:54:04.991    31,096 kbps     00:54:24.010    30,957 kbps     00:54:19.089    141,717 bytes   439,723 bytes   00:53:44.054    
+13              0:57:04.921     0:04:32.021     28,540 kbps     33,224 kbps     00:59:34.362    31,274 kbps     00:59:52.005    31,027 kbps     00:59:47.917    148,795 bytes   434,048 bytes   00:59:56.926    
+14              1:01:36.943     0:04:17.757     28,151 kbps     33,467 kbps     01:04:14.600    31,249 kbps     01:01:58.756    31,011 kbps     01:02:09.392    146,766 bytes   403,244 bytes   01:01:56.713    
+15              1:05:54.700     0:02:00.537     24,279 kbps     35,667 kbps     01:07:30.880    30,791 kbps     01:06:12.760    29,384 kbps     01:07:21.871    126,578 bytes   301,253 bytes   01:06:10.800    
+16              1:07:55.237     0:03:23.912     28,915 kbps     32,845 kbps     01:09:31.959    31,204 kbps     01:09:27.955    31,013 kbps     01:09:22.950    150,750 bytes   438,727 bytes   01:09:32.084    
+17              1:11:19.149     0:04:13.503     30,378 kbps     33,415 kbps     01:13:14.807    31,286 kbps     01:13:10.886    30,999 kbps     01:15:17.262    158,377 bytes   432,147 bytes   01:13:22.147    
+18              1:15:32.653     0:05:40.173     30,635 kbps     32,772 kbps     01:19:06.408    31,192 kbps     01:20:46.341    30,984 kbps     01:15:44.540    159,717 bytes   422,328 bytes   01:16:02.266    
+19              1:21:12.826     0:07:11.931     27,662 kbps     33,060 kbps     01:23:13.530    31,260 kbps     01:23:09.526    30,966 kbps     01:23:09.901    144,218 bytes   585,021 bytes   01:22:40.789    
+20              1:28:24.757     0:02:33.236     30,246 kbps     35,524 kbps     01:29:07.216    31,595 kbps     01:29:03.296    31,189 kbps     01:28:58.249    157,731 bytes   297,289 bytes   01:30:47.900    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5457.827                28,920                  19,729,916,399  107,304,280     
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5457.827                5,903                   4,026,885,968   25,948,307      
+00800.M2TS      4353 (0x1101)   0x81            AC3             hrv (Croatian)          5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4355 (0x1103)   0x81            AC3             nld (Dutch)             5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4356 (0x1104)   0x84            AC3+            fra (French)            5457.827                1,152                   785,954,304     4,434,638       
+00800.M2TS      4357 (0x1105)   0x84            AC3+            deu (German)            5457.827                1,152                   785,954,304     4,434,638       
+00800.M2TS      4358 (0x1106)   0x81            AC3             heb (Hebrew)            5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4359 (0x1107)   0x81            AC3             isl (Icelandic)         5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4360 (0x1108)   0x81            AC3             tur (Turkish)           5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4361 (0x1109)   0x81            AC3             fra (French)            5457.827                192                     130,992,384     852,815         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5457.827                46                      31,514,194      183,057         
+00800.M2TS      4609 (0x1201)   0x90            PGS             hrv (Croatian)          5457.827                19                      12,890,806      74,393          
+00800.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5457.827                19                      12,813,822      73,713          
+00800.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5457.827                18                      12,513,690      73,171          
+00800.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            5457.827                23                      15,761,409      89,977          
+00800.M2TS      4613 (0x1205)   0x90            PGS             heb (Hebrew)            5457.827                14                      9,549,474       56,273          
+00800.M2TS      4614 (0x1206)   0x90            PGS             isl (Icelandic)         5457.827                21                      14,252,415      81,765          
+00800.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5457.827                21                      14,034,538      80,611          
+00800.M2TS      4616 (0x1208)   0x90            PGS             hrv (Croatian)          5457.827                1                       630,576         3,680           
+00800.M2TS      4617 (0x1209)   0x90            PGS             nld (Dutch)             5457.827                1                       439,428         2,569           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5457.827                1                       344,281         2,004           
+00800.M2TS      4619 (0x120B)   0x90            PGS             fra (French)            5457.827                1                       535,547         3,129           
+00800.M2TS      4620 (0x120C)   0x90            PGS             deu (German)            5457.827                1                       678,626         3,940           
+00800.M2TS      4621 (0x120D)   0x90            PGS             heb (Hebrew)            5457.827                1                       353,072         2,180           
+00800.M2TS      4622 (0x120E)   0x90            PGS             isl (Icelandic)         5457.827                1                       489,578         2,846           
+00800.M2TS      4623 (0x120F)   0x90            PGS             tur (Turkish)           5457.827                1                       453,611         2,646           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Minions
+Disc Label: Minions.2015.1080p.EUR.Blu-ray.AVC.TrueHD.7.1
+Disc Size: 42,891,118,841 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 30,586,030,080 bytes
+Length: 1:30:57.994
+Total Bitrate: 44.83 Mbps
+Video: MPEG-4 AVC Video / 28919 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  5262 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+* Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: French / Dolby Digital Plus/Atmos Audio / 7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+* Audio: German / Dolby Digital Plus/Atmos Audio / 7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+* Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Subtitle: English / 46.192 kbps
+* Subtitle: Croatian / 18.895 kbps
+* Subtitle: Dutch / 18.782 kbps
+* Subtitle: French / 18.342 kbps
+* Subtitle: German / 23.102 kbps
+* Subtitle: Hebrew / 13.997 kbps
+* Subtitle: Icelandic / 20.890 kbps
+* Subtitle: Turkish / 20.571 kbps
+* Subtitle: Croatian / 0.924 kbps
+* Subtitle: Dutch / 0.644 kbps
+* Subtitle: Dutch / 0.505 kbps
+Subtitle: French / 0.785 kbps
+* Subtitle: German / 0.995 kbps
+* Subtitle: Hebrew / 0.518 kbps
+* Subtitle: Icelandic / 0.718 kbps
+* Subtitle: Turkish / 0.665 kbps
+
+
+********************
+PLAYLIST: 00802.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      AVC     1:30:57 30,586,030,080  42,891,118,841  44.83   28.92   Dolby Atmos 7.1 5902Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Minions
+Disc Label:     Minions.2015.1080p.EUR.Blu-ray.AVC.TrueHD.7.1
+Disc Size:      42,891,118,841 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS
+Length:                 1:30:57.994 (h:m:s.ms)
+Size:                   30,586,030,080 bytes
+Total Bitrate:          44.83 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28919 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         5902 kbps       7.1 / 48 kHz /  5262 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Plus/Atmos Audio  French          1152 kbps       7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Dolby Digital Plus/Atmos Audio  German          1152 kbps       7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Dolby Digital Audio             Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.192 kbps                     
+Presentation Graphics           Croatian        18.895 kbps                     
+Presentation Graphics           Dutch           18.782 kbps                     
+Presentation Graphics           French          18.342 kbps                     
+Presentation Graphics           German          23.102 kbps                     
+Presentation Graphics           Hebrew          13.997 kbps                     
+Presentation Graphics           Icelandic       20.890 kbps                     
+Presentation Graphics           Turkish         20.571 kbps                     
+Presentation Graphics           Croatian        0.924 kbps                      
+Presentation Graphics           Dutch           0.644 kbps                      
+Presentation Graphics           Dutch           0.505 kbps                      
+Presentation Graphics           French          0.785 kbps                      
+Presentation Graphics           German          0.995 kbps                      
+Presentation Graphics           Hebrew          0.518 kbps                      
+Presentation Graphics           Icelandic       0.718 kbps                      
+Presentation Graphics           Turkish         0.665 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:30:57.994     30,586,030,080  44,831          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:39.839     29,229 kbps     33,834 kbps     00:03:16.112    31,507 kbps     00:04:57.130    31,120 kbps     00:04:52.208    152,366 bytes   476,454 bytes   00:02:34.404    
+2               0:05:39.839     0:05:49.098     29,546 kbps     32,856 kbps     00:07:39.250    31,180 kbps     00:10:44.435    31,058 kbps     00:10:39.388    154,037 bytes   448,606 bytes   00:10:41.557    
+3               0:11:28.938     0:05:26.200     28,261 kbps     34,773 kbps     00:16:25.359    31,495 kbps     00:16:21.271    31,114 kbps     00:16:16.266    147,340 bytes   436,755 bytes   00:13:46.075    
+4               0:16:55.139     0:05:33.291     27,812 kbps     33,560 kbps     00:18:08.837    31,207 kbps     00:17:43.187    30,965 kbps     00:17:01.020    144,997 bytes   439,297 bytes   00:20:33.899    
+5               0:22:28.430     0:04:30.603     29,403 kbps     32,973 kbps     00:25:09.466    31,234 kbps     00:25:39.996    31,011 kbps     00:25:35.033    153,293 bytes   459,172 bytes   00:25:45.001    
+6               0:26:59.034     0:05:55.605     29,618 kbps     33,071 kbps     00:27:17.469    31,174 kbps     00:27:53.171    30,989 kbps     00:27:48.291    154,414 bytes   314,055 bytes   00:27:00.035    
+7               0:32:54.639     0:04:34.232     29,774 kbps     32,791 kbps     00:34:02.623    31,202 kbps     00:33:11.614    31,009 kbps     00:35:43.641    155,226 bytes   423,349 bytes   00:34:04.417    
+8               0:37:28.871     0:03:29.959     28,611 kbps     33,700 kbps     00:40:18.541    31,297 kbps     00:40:14.370    30,974 kbps     00:40:09.532    149,167 bytes   440,719 bytes   00:40:58.831    
+9               0:40:58.831     0:04:30.478     27,585 kbps     32,948 kbps     00:43:32.359    31,410 kbps     00:43:31.275    30,985 kbps     00:41:02.418    143,814 bytes   541,146 bytes   00:43:34.111    
+10              0:45:29.309     0:03:54.776     30,736 kbps     33,092 kbps     00:47:09.993    31,233 kbps     00:46:13.020    31,018 kbps     00:46:08.182    160,241 bytes   438,336 bytes   00:45:30.310    
+11              0:49:24.086     0:04:18.967     29,854 kbps     33,535 kbps     00:51:35.509    31,398 kbps     00:51:31.630    31,088 kbps     00:51:26.625    155,647 bytes   463,780 bytes   00:53:43.053    
+12              0:53:43.053     0:03:21.868     27,182 kbps     33,535 kbps     00:54:04.991    31,096 kbps     00:54:24.010    30,957 kbps     00:54:19.089    141,717 bytes   439,723 bytes   00:53:44.054    
+13              0:57:04.921     0:04:32.021     28,540 kbps     33,224 kbps     00:59:34.362    31,274 kbps     00:59:52.005    31,027 kbps     00:59:47.917    148,795 bytes   434,048 bytes   00:59:56.926    
+14              1:01:36.943     0:04:17.757     28,151 kbps     33,467 kbps     01:04:14.600    31,249 kbps     01:01:58.756    31,011 kbps     01:02:09.392    146,766 bytes   403,244 bytes   01:01:56.713    
+15              1:05:54.700     0:02:00.537     24,279 kbps     35,667 kbps     01:07:30.880    30,791 kbps     01:06:12.760    29,384 kbps     01:07:21.871    126,578 bytes   301,253 bytes   01:06:10.800    
+16              1:07:55.237     0:03:23.912     28,915 kbps     32,845 kbps     01:09:31.959    31,204 kbps     01:09:27.955    31,013 kbps     01:09:22.950    150,750 bytes   438,727 bytes   01:09:32.084    
+17              1:11:19.149     0:04:13.503     30,378 kbps     33,415 kbps     01:13:14.807    31,286 kbps     01:13:10.886    30,999 kbps     01:15:17.262    158,377 bytes   432,147 bytes   01:13:22.147    
+18              1:15:32.653     0:05:40.173     30,635 kbps     32,772 kbps     01:19:06.408    31,192 kbps     01:20:46.341    30,984 kbps     01:15:44.540    159,717 bytes   422,328 bytes   01:16:02.266    
+19              1:21:12.826     0:07:11.931     27,662 kbps     33,060 kbps     01:23:13.530    31,260 kbps     01:23:09.526    30,966 kbps     01:23:09.901    144,218 bytes   585,021 bytes   01:22:40.789    
+20              1:28:24.757     0:02:33.236     30,246 kbps     35,524 kbps     01:29:07.216    31,595 kbps     01:29:03.296    31,189 kbps     01:28:58.249    157,731 bytes   297,289 bytes   01:30:47.900    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5457.827                28,920                  19,729,916,399  107,304,280     
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5457.827                5,903                   4,026,885,968   25,948,307      
+00800.M2TS      4353 (0x1101)   0x81            AC3             hrv (Croatian)          5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4355 (0x1103)   0x81            AC3             nld (Dutch)             5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4356 (0x1104)   0x84            AC3+            fra (French)            5457.827                1,152                   785,954,304     4,434,638       
+00800.M2TS      4357 (0x1105)   0x84            AC3+            deu (German)            5457.827                1,152                   785,954,304     4,434,638       
+00800.M2TS      4358 (0x1106)   0x81            AC3             heb (Hebrew)            5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4359 (0x1107)   0x81            AC3             isl (Icelandic)         5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4360 (0x1108)   0x81            AC3             tur (Turkish)           5457.827                640                     436,641,280     2,558,445       
+00800.M2TS      4361 (0x1109)   0x81            AC3             fra (French)            5457.827                192                     130,992,384     852,815         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5457.827                46                      31,514,194      183,057         
+00800.M2TS      4609 (0x1201)   0x90            PGS             hrv (Croatian)          5457.827                19                      12,890,806      74,393          
+00800.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5457.827                19                      12,813,822      73,713          
+00800.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5457.827                18                      12,513,690      73,171          
+00800.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            5457.827                23                      15,761,409      89,977          
+00800.M2TS      4613 (0x1205)   0x90            PGS             heb (Hebrew)            5457.827                14                      9,549,474       56,273          
+00800.M2TS      4614 (0x1206)   0x90            PGS             isl (Icelandic)         5457.827                21                      14,252,415      81,765          
+00800.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5457.827                21                      14,034,538      80,611          
+00800.M2TS      4616 (0x1208)   0x90            PGS             hrv (Croatian)          5457.827                1                       630,576         3,680           
+00800.M2TS      4617 (0x1209)   0x90            PGS             nld (Dutch)             5457.827                1                       439,428         2,569           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5457.827                1                       344,281         2,004           
+00800.M2TS      4619 (0x120B)   0x90            PGS             fra (French)            5457.827                1                       535,547         3,129           
+00800.M2TS      4620 (0x120C)   0x90            PGS             deu (German)            5457.827                1                       678,626         3,940           
+00800.M2TS      4621 (0x120D)   0x90            PGS             heb (Hebrew)            5457.827                1                       353,072         2,180           
+00800.M2TS      4622 (0x120E)   0x90            PGS             isl (Icelandic)         5457.827                1                       489,578         2,846           
+00800.M2TS      4623 (0x120F)   0x90            PGS             tur (Turkish)           5457.827                1                       453,611         2,646           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Minions
+Disc Label: Minions.2015.1080p.EUR.Blu-ray.AVC.TrueHD.7.1
+Disc Size: 42,891,118,841 bytes
+Protection: AACS
+Playlist: 00802.MPLS
+Size: 30,586,030,080 bytes
+Length: 1:30:57.994
+Total Bitrate: 44.83 Mbps
+Video: MPEG-4 AVC Video / 28919 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  5262 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Plus/Atmos Audio / 7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Audio: German / Dolby Digital Plus/Atmos Audio / 7.1 / 48 kHz /  1152 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   576 kbps / DN -31dB)
+Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 46.192 kbps
+Subtitle: Croatian / 18.895 kbps
+Subtitle: Dutch / 18.782 kbps
+Subtitle: French / 18.342 kbps
+Subtitle: German / 23.102 kbps
+Subtitle: Hebrew / 13.997 kbps
+Subtitle: Icelandic / 20.890 kbps
+Subtitle: Turkish / 20.571 kbps
+Subtitle: Croatian / 0.924 kbps
+Subtitle: Dutch / 0.644 kbps
+Subtitle: Dutch / 0.505 kbps
+Subtitle: French / 0.785 kbps
+Subtitle: German / 0.995 kbps
+Subtitle: Hebrew / 0.518 kbps
+Subtitle: Icelandic / 0.718 kbps
+Subtitle: Turkish / 0.665 kbps
+

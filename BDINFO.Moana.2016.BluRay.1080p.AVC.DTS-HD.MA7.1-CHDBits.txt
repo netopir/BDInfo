@@ -1,0 +1,309 @@
+Disc Title:     Moana - Blu-ray™
+Disc Label:     Moana.2016.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size:      44,023,187,796 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00099.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00099.MPLS                                                      AVC     1:47:12 26,682,402,816  44,023,187,796  33.18   24.30   DTS-HD Master 7.1 4730Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Moana - Blu-ray™
+Disc Label:     Moana.2016.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size:      44,023,187,796 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00099.MPLS
+Length:                 1:47:12.801 (h:m:s.ms)
+Size:                   26,682,402,816 bytes
+Total Bitrate:          33.18 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24300 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         4730 kbps       7.1 / 48 kHz /  4730 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB
+* Dolby Digital Audio           French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital Audio           Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital Audio           English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         29.256 kbps                     
+* Presentation Graphics         English         27.035 kbps                     
+* Presentation Graphics         French          28.859 kbps                     
+* Presentation Graphics         Spanish         25.519 kbps                     
+* Presentation Graphics         English         98.520 kbps                     
+* Presentation Graphics         English         93.789 kbps                     
+* Presentation Graphics         French          82.715 kbps                     
+* Presentation Graphics         Spanish         83.071 kbps                     
+* Presentation Graphics         French          1.363 kbps                      
+* Presentation Graphics         Spanish         0.029 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:47:12.801     26,682,402,816  33,183          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:15.685     25,927 kbps     37,195 kbps     00:03:07.896    32,665 kbps     00:02:05.792    32,192 kbps     00:00:56.014    135,157 bytes   638,745 bytes   00:01:22.916    
+2               0:07:15.685     0:04:44.117     24,982 kbps     35,585 kbps     00:08:47.652    32,375 kbps     00:08:04.567    32,144 kbps     00:07:59.562    130,242 bytes   638,824 bytes   00:07:37.498    
+3               0:11:59.802     0:04:13.962     21,359 kbps     40,554 kbps     00:15:41.482    31,060 kbps     00:15:37.478    29,817 kbps     00:15:37.311    111,355 bytes   640,904 bytes   00:12:41.343    
+4               0:16:13.764     0:05:15.815     25,919 kbps     35,471 kbps     00:20:55.420    32,058 kbps     00:17:59.578    31,697 kbps     00:19:05.060    135,130 bytes   637,886 bytes   00:17:38.098    
+5               0:21:29.579     0:06:33.226     23,174 kbps     36,698 kbps     00:26:30.046    32,402 kbps     00:26:26.042    31,891 kbps     00:24:38.268    120,820 bytes   627,981 bytes   00:25:39.704    
+6               0:28:02.806     0:04:08.539     23,412 kbps     35,333 kbps     00:32:00.251    32,048 kbps     00:31:16.749    30,485 kbps     00:31:53.661    122,057 bytes   598,126 bytes   00:28:05.183    
+7               0:32:11.346     0:03:04.934     25,752 kbps     35,430 kbps     00:32:52.345    32,607 kbps     00:32:50.218    32,049 kbps     00:32:24.817    134,261 bytes   639,398 bytes   00:32:55.223    
+8               0:35:16.280     0:06:20.588     25,205 kbps     36,134 kbps     00:40:46.652    32,554 kbps     00:40:42.648    32,174 kbps     00:40:37.601    131,407 bytes   638,013 bytes   00:40:15.955    
+9               0:41:36.869     0:03:27.999     23,013 kbps     36,569 kbps     00:43:54.340    31,801 kbps     00:42:54.905    29,677 kbps     00:42:50.734    119,980 bytes   636,014 bytes   00:42:25.251    
+10              0:45:04.868     0:04:05.453     25,879 kbps     35,581 kbps     00:49:03.732    32,288 kbps     00:48:59.895    30,603 kbps     00:47:29.680    134,921 bytes   515,369 bytes   00:48:01.503    
+11              0:49:10.322     0:04:10.708     21,925 kbps     35,517 kbps     00:51:37.052    32,122 kbps     00:52:11.962    30,869 kbps     00:52:07.916    114,308 bytes   411,077 bytes   00:52:12.087    
+12              0:53:21.031     0:04:12.293     23,974 kbps     35,570 kbps     00:56:55.036    31,934 kbps     00:53:55.398    30,718 kbps     00:53:55.106    124,987 bytes   634,452 bytes   00:57:07.048    
+13              0:57:33.324     0:08:11.699     25,071 kbps     37,427 kbps     01:05:03.649    32,293 kbps     01:05:14.076    31,854 kbps     01:05:14.702    130,708 bytes   638,217 bytes   00:59:53.590    
+14              1:05:45.024     0:05:01.050     22,479 kbps     34,531 kbps     01:06:51.257    30,375 kbps     01:06:45.751    29,353 kbps     01:06:45.835    117,194 bytes   577,145 bytes   01:05:49.445    
+15              1:10:46.075     0:02:06.042     29,113 kbps     36,230 kbps     01:12:43.025    32,920 kbps     01:12:38.896    32,039 kbps     01:12:13.329    151,783 bytes   539,906 bytes   01:12:43.734    
+16              1:12:52.117     0:02:49.836     24,136 kbps     35,940 kbps     01:15:33.278    32,019 kbps     01:15:32.027    31,199 kbps     01:15:31.193    125,835 bytes   498,045 bytes   01:13:41.458    
+17              1:15:41.954     0:07:35.121     23,923 kbps     37,657 kbps     01:22:07.547    32,229 kbps     01:18:51.601    31,918 kbps     01:21:52.282    124,721 bytes   538,605 bytes   01:22:35.116    
+18              1:23:17.075     0:06:33.851     24,248 kbps     41,155 kbps     01:26:48.786    33,178 kbps     01:28:34.851    30,702 kbps     01:28:47.071    126,419 bytes   523,438 bytes   01:28:55.079    
+19              1:29:50.927     0:06:22.799     24,316 kbps     35,609 kbps     01:30:48.401    32,108 kbps     01:30:39.308    31,932 kbps     01:30:35.972    126,771 bytes   634,999 bytes   01:30:32.343    
+20              1:36:13.726     0:10:59.075     23,871 kbps     36,905 kbps     01:38:28.193    33,049 kbps     01:38:24.148    32,028 kbps     01:46:08.278    124,459 bytes   640,896 bytes   01:40:54.131    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6432.635                24,300                  19,539,505,104  106,282,627     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6432.635                4,731                   3,803,756,576   21,670,006      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           6432.635                320                     257,313,280     1,608,208       
+00800.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            6432.635                640                     514,626,560     3,015,390       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           6432.635                640                     514,626,560     3,015,390       
+00800.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           6432.635                192                     154,387,968     1,005,130       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6432.635                29                      23,525,119      137,241         
+00800.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           6432.635                27                      21,738,751      126,754         
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            6432.635                29                      23,205,183      135,039         
+00800.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           6432.635                26                      20,520,002      120,001         
+00800.M2TS      4612 (0x1204)   0x90            PGS             eng (English)           6432.635                99                      79,220,168      447,916         
+00800.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           6432.635                94                      75,415,553      426,782         
+00800.M2TS      4614 (0x1206)   0x90            PGS             fra (French)            6432.635                83                      66,511,430      378,417         
+00800.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           6432.635                83                      66,797,559      379,984         
+00800.M2TS      4616 (0x1208)   0x90            PGS             fra (French)            6432.635                1                       1,096,272       6,289           
+00800.M2TS      4617 (0x1209)   0x90            PGS             spa (Spanish)           6432.635                0                       23,569          135             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Moana - Blu-ray™
+Disc Label: Moana.2016.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size: 44,023,187,796 bytes
+Protection: AACS
+Playlist: 00099.MPLS
+Size: 26,682,402,816 bytes
+Length: 1:47:12.801
+Total Bitrate: 33.18 Mbps
+Video: MPEG-4 AVC Video / 24300 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4730 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB
+* Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+* Subtitle: English / 29.256 kbps
+* Subtitle: English / 27.035 kbps
+* Subtitle: French / 28.859 kbps
+* Subtitle: Spanish / 25.519 kbps
+* Subtitle: English / 98.520 kbps
+* Subtitle: English / 93.789 kbps
+* Subtitle: French / 82.715 kbps
+* Subtitle: Spanish / 83.071 kbps
+* Subtitle: French / 1.363 kbps
+* Subtitle: Spanish / 0.029 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:47:12 26,682,402,816  44,023,187,796  33.18   24.30   DTS-HD Master 7.1 4730Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Moana - Blu-ray™
+Disc Label:     Moana.2016.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size:      44,023,187,796 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:47:12.801 (h:m:s.ms)
+Size:                   26,682,402,816 bytes
+Total Bitrate:          33.18 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24300 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4730 kbps       7.1 / 48 kHz /  4730 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         29.256 kbps                     
+Presentation Graphics           English         27.035 kbps                     
+Presentation Graphics           French          28.859 kbps                     
+Presentation Graphics           Spanish         25.519 kbps                     
+Presentation Graphics           English         98.520 kbps                     
+Presentation Graphics           English         93.789 kbps                     
+Presentation Graphics           French          82.715 kbps                     
+Presentation Graphics           Spanish         83.071 kbps                     
+Presentation Graphics           French          1.363 kbps                      
+Presentation Graphics           Spanish         0.029 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:47:12.801     26,682,402,816  33,183          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:15.685     25,927 kbps     37,195 kbps     00:03:07.896    32,665 kbps     00:02:05.792    32,192 kbps     00:00:56.014    135,157 bytes   638,745 bytes   00:01:22.916    
+2               0:07:15.685     0:04:44.117     24,982 kbps     35,585 kbps     00:08:47.652    32,375 kbps     00:08:04.567    32,144 kbps     00:07:59.562    130,242 bytes   638,824 bytes   00:07:37.498    
+3               0:11:59.802     0:04:13.962     21,359 kbps     40,554 kbps     00:15:41.482    31,060 kbps     00:15:37.478    29,817 kbps     00:15:37.311    111,355 bytes   640,904 bytes   00:12:41.343    
+4               0:16:13.764     0:05:15.815     25,919 kbps     35,471 kbps     00:20:55.420    32,058 kbps     00:17:59.578    31,697 kbps     00:19:05.060    135,130 bytes   637,886 bytes   00:17:38.098    
+5               0:21:29.579     0:06:33.226     23,174 kbps     36,698 kbps     00:26:30.046    32,402 kbps     00:26:26.042    31,891 kbps     00:24:38.268    120,820 bytes   627,981 bytes   00:25:39.704    
+6               0:28:02.806     0:04:08.539     23,412 kbps     35,333 kbps     00:32:00.251    32,048 kbps     00:31:16.749    30,485 kbps     00:31:53.661    122,057 bytes   598,126 bytes   00:28:05.183    
+7               0:32:11.346     0:03:04.934     25,752 kbps     35,430 kbps     00:32:52.345    32,607 kbps     00:32:50.218    32,049 kbps     00:32:24.817    134,261 bytes   639,398 bytes   00:32:55.223    
+8               0:35:16.280     0:06:20.588     25,205 kbps     36,134 kbps     00:40:46.652    32,554 kbps     00:40:42.648    32,174 kbps     00:40:37.601    131,407 bytes   638,013 bytes   00:40:15.955    
+9               0:41:36.869     0:03:27.999     23,013 kbps     36,569 kbps     00:43:54.340    31,801 kbps     00:42:54.905    29,677 kbps     00:42:50.734    119,980 bytes   636,014 bytes   00:42:25.251    
+10              0:45:04.868     0:04:05.453     25,879 kbps     35,581 kbps     00:49:03.732    32,288 kbps     00:48:59.895    30,603 kbps     00:47:29.680    134,921 bytes   515,369 bytes   00:48:01.503    
+11              0:49:10.322     0:04:10.708     21,925 kbps     35,517 kbps     00:51:37.052    32,122 kbps     00:52:11.962    30,869 kbps     00:52:07.916    114,308 bytes   411,077 bytes   00:52:12.087    
+12              0:53:21.031     0:04:12.293     23,974 kbps     35,570 kbps     00:56:55.036    31,934 kbps     00:53:55.398    30,718 kbps     00:53:55.106    124,987 bytes   634,452 bytes   00:57:07.048    
+13              0:57:33.324     0:08:11.699     25,071 kbps     37,427 kbps     01:05:03.649    32,293 kbps     01:05:14.076    31,854 kbps     01:05:14.702    130,708 bytes   638,217 bytes   00:59:53.590    
+14              1:05:45.024     0:05:01.050     22,479 kbps     34,531 kbps     01:06:51.257    30,375 kbps     01:06:45.751    29,353 kbps     01:06:45.835    117,194 bytes   577,145 bytes   01:05:49.445    
+15              1:10:46.075     0:02:06.042     29,113 kbps     36,230 kbps     01:12:43.025    32,920 kbps     01:12:38.896    32,039 kbps     01:12:13.329    151,783 bytes   539,906 bytes   01:12:43.734    
+16              1:12:52.117     0:02:49.836     24,136 kbps     35,940 kbps     01:15:33.278    32,019 kbps     01:15:32.027    31,199 kbps     01:15:31.193    125,835 bytes   498,045 bytes   01:13:41.458    
+17              1:15:41.954     0:07:35.121     23,923 kbps     37,657 kbps     01:22:07.547    32,229 kbps     01:18:51.601    31,918 kbps     01:21:52.282    124,721 bytes   538,605 bytes   01:22:35.116    
+18              1:23:17.075     0:06:33.851     24,248 kbps     41,155 kbps     01:26:48.786    33,178 kbps     01:28:34.851    30,702 kbps     01:28:47.071    126,419 bytes   523,438 bytes   01:28:55.079    
+19              1:29:50.927     0:06:22.799     24,316 kbps     35,609 kbps     01:30:48.401    32,108 kbps     01:30:39.308    31,932 kbps     01:30:35.972    126,771 bytes   634,999 bytes   01:30:32.343    
+20              1:36:13.726     0:10:59.075     23,871 kbps     36,905 kbps     01:38:28.193    33,049 kbps     01:38:24.148    32,028 kbps     01:46:08.278    124,459 bytes   640,896 bytes   01:40:54.131    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6432.635                24,300                  19,539,505,104  106,282,627     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6432.635                4,731                   3,803,756,576   21,670,006      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           6432.635                320                     257,313,280     1,608,208       
+00800.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            6432.635                640                     514,626,560     3,015,390       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           6432.635                640                     514,626,560     3,015,390       
+00800.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           6432.635                192                     154,387,968     1,005,130       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6432.635                29                      23,525,119      137,241         
+00800.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           6432.635                27                      21,738,751      126,754         
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            6432.635                29                      23,205,183      135,039         
+00800.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           6432.635                26                      20,520,002      120,001         
+00800.M2TS      4612 (0x1204)   0x90            PGS             eng (English)           6432.635                99                      79,220,168      447,916         
+00800.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           6432.635                94                      75,415,553      426,782         
+00800.M2TS      4614 (0x1206)   0x90            PGS             fra (French)            6432.635                83                      66,511,430      378,417         
+00800.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           6432.635                83                      66,797,559      379,984         
+00800.M2TS      4616 (0x1208)   0x90            PGS             fra (French)            6432.635                1                       1,096,272       6,289           
+00800.M2TS      4617 (0x1209)   0x90            PGS             spa (Spanish)           6432.635                0                       23,569          135             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Moana - Blu-ray™
+Disc Label: Moana.2016.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size: 44,023,187,796 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 26,682,402,816 bytes
+Length: 1:47:12.801
+Total Bitrate: 33.18 Mbps
+Video: MPEG-4 AVC Video / 24300 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4730 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+Subtitle: English / 29.256 kbps
+Subtitle: English / 27.035 kbps
+Subtitle: French / 28.859 kbps
+Subtitle: Spanish / 25.519 kbps
+Subtitle: English / 98.520 kbps
+Subtitle: English / 93.789 kbps
+Subtitle: French / 82.715 kbps
+Subtitle: Spanish / 83.071 kbps
+Subtitle: French / 1.363 kbps
+Subtitle: Spanish / 0.029 kbps
+

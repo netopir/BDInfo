@@ -1,0 +1,223 @@
+Disc Title:     Madagascar
+Disc Label:     Madagascar.2005.1080p.Blu-ray.AVC.TrueHD.5.1-PHDTteam
+Disc Size:      44,297,400,561 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:25:58 29,481,074,688  44,297,400,561  45.72   32.64   Dolby TrueHD 5.1 3964Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Madagascar
+Disc Label:     Madagascar.2005.1080p.Blu-ray.AVC.TrueHD.5.1-PHDTteam
+Disc Size:      44,297,400,561 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:25:58.111 (h:m:s.ms)
+Size:                   29,481,074,688 bytes
+Total Bitrate:          45.72 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32641 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3964 kbps       5.1 / 48 kHz /  3324 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Portuguese      640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          44.070 kbps                     
+Presentation Graphics           Estonian        34.998 kbps                     
+Presentation Graphics           English         39.922 kbps                     
+Presentation Graphics           Spanish         38.557 kbps                     
+Presentation Graphics           Hebrew          25.313 kbps                     
+Presentation Graphics           Italian         38.761 kbps                     
+Presentation Graphics           Latvian         30.026 kbps                     
+Presentation Graphics           Lithuanian      31.828 kbps                     
+Presentation Graphics           Portuguese      41.803 kbps                     
+Presentation Graphics           Russian         39.966 kbps                     
+Presentation Graphics           Romanian        35.918 kbps                     
+Presentation Graphics           Turkish         43.593 kbps                     
+Presentation Graphics           Ukrainian       40.451 kbps                     
+Presentation Graphics           German          0.038 kbps                      
+Presentation Graphics           Hebrew          0.031 kbps                      
+Presentation Graphics           Italian         0.038 kbps                      
+Presentation Graphics           Russian         0.037 kbps                      
+Presentation Graphics           Turkish         0.037 kbps                      
+Presentation Graphics           Spanish         0.036 kbps                      
+Presentation Graphics           English         74.660 kbps                     
+Presentation Graphics           German          58.398 kbps                     
+Presentation Graphics           English         57.540 kbps                     
+Presentation Graphics           Spanish         51.543 kbps                     
+Presentation Graphics           Portuguese      60.332 kbps                     
+Presentation Graphics           Italian         51.768 kbps                     
+Presentation Graphics           Russian         57.580 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:25:58.111     29,481,074,688  45,724          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:34.167     32,988 kbps     40,211 kbps     00:00:45.920    35,579 kbps     00:03:55.526    34,743 kbps     00:00:36.911    171,964 bytes   867,045 bytes   00:02:38.741    
+2               0:05:34.167     0:03:01.306     33,930 kbps     38,918 kbps     00:07:44.172    35,421 kbps     00:07:40.168    34,882 kbps     00:07:35.163    176,895 bytes   882,415 bytes   00:07:45.131    
+3               0:08:35.473     0:04:04.619     33,723 kbps     38,433 kbps     00:08:40.061    35,121 kbps     00:08:36.057    34,576 kbps     00:10:21.454    175,816 bytes   568,057 bytes   00:09:29.819    
+4               0:12:40.092     0:05:16.774     33,386 kbps     38,340 kbps     00:16:48.924    34,867 kbps     00:13:47.117    34,496 kbps     00:14:01.924    174,058 bytes   585,728 bytes   00:16:54.513    
+5               0:17:56.867     0:04:35.817     33,586 kbps     39,308 kbps     00:18:50.087    35,226 kbps     00:18:46.250    34,698 kbps     00:20:19.843    175,101 bytes   744,463 bytes   00:20:30.771    
+6               0:22:32.684     0:04:23.930     31,853 kbps     42,482 kbps     00:24:08.196    34,943 kbps     00:25:08.173    34,593 kbps     00:25:03.168    166,069 bytes   537,132 bytes   00:26:56.615    
+7               0:26:56.615     0:04:01.241     33,706 kbps     41,918 kbps     00:29:36.065    35,532 kbps     00:29:32.061    34,607 kbps     00:29:27.056    175,729 bytes   591,304 bytes   00:28:47.600    
+8               0:30:57.856     0:04:33.022     33,408 kbps     38,579 kbps     00:34:38.493    34,874 kbps     00:34:27.982    34,543 kbps     00:34:01.205    174,172 bytes   562,325 bytes   00:35:06.145    
+9               0:35:30.878     0:04:35.692     33,673 kbps     37,172 kbps     00:38:30.516    34,858 kbps     00:38:26.554    34,487 kbps     00:36:20.094    175,555 bytes   478,206 bytes   00:35:59.073    
+10              0:40:06.570     0:04:28.226     33,970 kbps     39,017 kbps     00:44:09.855    34,892 kbps     00:42:50.901    34,586 kbps     00:40:36.434    177,104 bytes   581,838 bytes   00:40:10.866    
+11              0:44:34.797     0:04:17.548     32,714 kbps     39,899 kbps     00:48:39.583    35,148 kbps     00:48:35.621    34,723 kbps     00:48:30.616    170,556 bytes   771,042 bytes   00:44:53.357    
+12              0:48:52.346     0:03:26.497     34,017 kbps     36,323 kbps     00:49:58.912    34,672 kbps     00:49:14.910    34,491 kbps     00:50:39.327    177,350 bytes   440,125 bytes   00:52:13.171    
+13              0:52:18.844     0:04:56.713     33,674 kbps     36,839 kbps     00:56:24.214    34,661 kbps     00:52:31.022    34,365 kbps     00:54:30.225    175,561 bytes   486,524 bytes   00:53:07.392    
+14              0:57:15.557     0:05:01.175     33,023 kbps     43,936 kbps     01:01:53.418    35,320 kbps     00:59:18.846    34,649 kbps     00:59:13.758    172,166 bytes   591,068 bytes   01:01:31.020    
+15              1:02:16.733     0:04:39.821     33,601 kbps     37,511 kbps     01:04:06.843    35,061 kbps     01:02:26.367    34,498 kbps     01:02:21.279    175,178 bytes   614,596 bytes   01:05:28.799    
+16              1:06:56.554     0:05:40.548     33,645 kbps     41,061 kbps     01:10:15.336    35,396 kbps     01:07:59.617    34,879 kbps     01:09:41.385    175,408 bytes   587,698 bytes   01:08:42.409    
+17              1:12:37.102     0:03:43.014     33,726 kbps     37,111 kbps     01:12:59.124    34,800 kbps     01:14:30.716    34,576 kbps     01:14:25.377    175,831 bytes   491,019 bytes   01:13:00.084    
+18              1:16:20.117     0:01:58.535     33,629 kbps     37,634 kbps     01:17:22.679    34,739 kbps     01:17:22.763    34,497 kbps     01:16:59.823    175,326 bytes   479,518 bytes   01:17:16.173    
+19              1:18:18.652     0:00:51.384     33,161 kbps     36,362 kbps     01:19:02.237    34,688 kbps     01:18:21.029    34,463 kbps     01:18:20.779    172,888 bytes   504,981 bytes   01:19:03.029    
+20              1:19:10.036     0:06:48.074     23,495 kbps     47,077 kbps     01:25:48.810    34,557 kbps     01:21:46.693    34,046 kbps     01:24:25.435    122,505 bytes   557,774 bytes   01:25:54.315    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     5157.944                32,642                  21,045,572,431  114,449,755     
+00004.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5157.944                3,964                   2,555,998,694   17,821,375      
+00004.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5157.944                640                     412,648,960     2,417,865       
+00004.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           5157.944                640                     412,648,960     2,417,865       
+00004.M2TS      4355 (0x1103)   0x81            AC3             heb (Hebrew)            5157.944                640                     412,648,960     2,417,865       
+00004.M2TS      4356 (0x1104)   0x81            AC3             ita (Italian)           5157.944                640                     412,648,960     2,417,865       
+00004.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        5157.944                640                     412,648,960     2,417,865       
+00004.M2TS      4358 (0x1106)   0x81            AC3             rus (Russian)           5157.944                640                     412,648,960     2,417,865       
+00004.M2TS      4359 (0x1107)   0x81            AC3             tur (Turkish)           5157.944                640                     412,648,960     2,417,865       
+00004.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5157.944                224                     144,427,136     805,955         
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5157.944                44                      28,415,008      162,926         
+00004.M2TS      4609 (0x1201)   0x90            PGS             est (Estonian)          5157.944                35                      22,565,177      130,662         
+00004.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5157.944                40                      25,740,512      148,050         
+00004.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5157.944                39                      24,860,152      143,535         
+00004.M2TS      4612 (0x1204)   0x90            PGS             heb (Hebrew)            5157.944                25                      16,320,919      97,227          
+00004.M2TS      4613 (0x1205)   0x90            PGS             ita (Italian)           5157.944                39                      24,991,663      144,312         
+00004.M2TS      4614 (0x1206)   0x90            PGS             lav (Latvian)           5157.944                30                      19,360,003      112,415         
+00004.M2TS      4615 (0x1207)   0x90            PGS             lit (Lithuanian)        5157.944                32                      20,521,276      119,104         
+00004.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5157.944                42                      26,952,813      155,113         
+00004.M2TS      4617 (0x1209)   0x90            PGS             rus (Russian)           5157.944                40                      25,768,838      148,646         
+00004.M2TS      4618 (0x120A)   0x90            PGS             ron (Romanian)          5157.944                36                      23,158,741      134,092         
+00004.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5157.944                44                      28,106,999      161,348         
+00004.M2TS      4620 (0x120C)   0x90            PGS             ukr (Ukrainian)         5157.944                40                      26,081,265      150,063         
+00004.M2TS      4621 (0x120D)   0x90            PGS             deu (German)            5157.944                0                       24,644          148             
+00004.M2TS      4622 (0x120E)   0x90            PGS             heb (Hebrew)            5157.944                0                       19,707          122             
+00004.M2TS      4623 (0x120F)   0x90            PGS             ita (Italian)           5157.944                0                       24,822          149             
+00004.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           5157.944                0                       24,046          144             
+00004.M2TS      4625 (0x1211)   0x90            PGS             tur (Turkish)           5157.944                0                       23,682          143             
+00004.M2TS      4626 (0x1212)   0x90            PGS             spa (Spanish)           5157.944                0                       23,352          140             
+00004.M2TS      4627 (0x1213)   0x90            PGS             eng (English)           5157.944                75                      48,138,246      274,147         
+00004.M2TS      4628 (0x1214)   0x90            PGS             deu (German)            5157.944                58                      37,652,790      213,561         
+00004.M2TS      4629 (0x1215)   0x90            PGS             eng (English)           5157.944                58                      37,099,800      210,118         
+00004.M2TS      4630 (0x1216)   0x90            PGS             spa (Spanish)           5157.944                52                      33,232,934      189,524         
+00004.M2TS      4631 (0x1217)   0x90            PGS             por (Portuguese)        5157.944                60                      38,899,708      220,548         
+00004.M2TS      4632 (0x1218)   0x90            PGS             ita (Italian)           5157.944                52                      33,378,379      190,330         
+00004.M2TS      4633 (0x1219)   0x90            PGS             rus (Russian)           5157.944                58                      37,125,449      210,858         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Madagascar
+Disc Label: Madagascar.2005.1080p.Blu-ray.AVC.TrueHD.5.1-PHDTteam
+Disc Size: 44,297,400,561 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 29,481,074,688 bytes
+Length: 1:25:58.111
+Total Bitrate: 45.72 Mbps
+Video: MPEG-4 AVC Video / 32641 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  3324 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB / Dolby Surround
+Subtitle: German / 44.070 kbps
+Subtitle: Estonian / 34.998 kbps
+Subtitle: English / 39.922 kbps
+Subtitle: Spanish / 38.557 kbps
+Subtitle: Hebrew / 25.313 kbps
+Subtitle: Italian / 38.761 kbps
+Subtitle: Latvian / 30.026 kbps
+Subtitle: Lithuanian / 31.828 kbps
+Subtitle: Portuguese / 41.803 kbps
+Subtitle: Russian / 39.966 kbps
+Subtitle: Romanian / 35.918 kbps
+Subtitle: Turkish / 43.593 kbps
+Subtitle: Ukrainian / 40.451 kbps
+Subtitle: German / 0.038 kbps
+Subtitle: Hebrew / 0.031 kbps
+Subtitle: Italian / 0.038 kbps
+Subtitle: Russian / 0.037 kbps
+Subtitle: Turkish / 0.037 kbps
+Subtitle: Spanish / 0.036 kbps
+Subtitle: English / 74.660 kbps
+Subtitle: German / 58.398 kbps
+Subtitle: English / 57.540 kbps
+Subtitle: Spanish / 51.543 kbps
+Subtitle: Portuguese / 60.332 kbps
+Subtitle: Italian / 51.768 kbps
+Subtitle: Russian / 57.580 kbps
+

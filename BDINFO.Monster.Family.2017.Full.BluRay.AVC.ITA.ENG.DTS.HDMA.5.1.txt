@@ -1,0 +1,217 @@
+Disc Title:     MONSTER FAMILY
+Disc Label:     Monster.Family.2017.Full.BluRay.AVC.ITA.ENG.DTS.HDMA.5.1
+Disc Size:      22,281,813,827 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:33:15 21,131,003,904  22,281,813,827  30.21   23.96   DTS-HD Master 5.1 2231Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     MONSTER FAMILY
+Disc Label:     Monster.Family.2017.Full.BluRay.AVC.ITA.ENG.DTS.HDMA.5.1
+Disc Size:      22,281,813,827 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:33:15.375 (h:m:s.ms)
+Size:                   21,131,003,904 bytes
+Total Bitrate:          30.21 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23959 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2231 kbps       5.1 / 48 kHz /  2231 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2188 kbps       5.1 / 48 kHz /  2188 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         23.951 kbps                     
+Presentation Graphics           Undetermined    0.002 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:33:14.333     21,130,985,472  30,218          
+00004.M2TS      1:33:14.333     0:00:01.041     18,432          142             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:33.166     24,508 kbps     40,422 kbps     00:03:34.000    38,173 kbps     00:03:30.041    38,012 kbps     00:03:30.000    127,633 bytes   627,854 bytes   00:06:26.958    
+2               0:07:33.166     0:07:59.875     27,011 kbps     43,050 kbps     00:07:44.999    38,529 kbps     00:07:41.125    38,032 kbps     00:07:35.833    140,683 bytes   635,188 bytes   00:08:36.083    
+3               0:15:33.041     0:08:09.833     26,365 kbps     44,006 kbps     00:17:56.708    38,160 kbps     00:23:16.958    37,248 kbps     00:18:49.374    137,316 bytes   569,144 bytes   00:16:33.375    
+4               0:23:42.875     0:07:11.250     26,853 kbps     43,616 kbps     00:24:38.666    38,137 kbps     00:23:46.458    37,375 kbps     00:23:42.916    139,862 bytes   619,980 bytes   00:26:48.916    
+5               0:30:54.125     0:08:07.458     24,104 kbps     40,500 kbps     00:36:12.916    38,154 kbps     00:31:46.541    37,979 kbps     00:31:41.499    125,539 bytes   590,511 bytes   00:39:01.541    
+6               0:39:01.583     0:07:29.625     21,292 kbps     48,090 kbps     00:39:07.083    37,807 kbps     00:42:33.333    33,142 kbps     00:43:22.500    110,895 bytes   595,573 bytes   00:39:02.541    
+7               0:46:31.208     0:07:19.541     23,874 kbps     43,226 kbps     00:51:05.416    38,329 kbps     00:51:01.458    35,702 kbps     00:51:10.291    124,343 bytes   576,562 bytes   00:49:44.458    
+8               0:53:50.750     0:07:59.125     17,767 kbps     39,433 kbps     00:58:25.291    38,084 kbps     00:58:21.375    31,720 kbps     00:58:18.041    92,535 bytes    542,505 bytes   01:00:03.708    
+9               1:01:49.875     0:07:43.125     24,741 kbps     47,324 kbps     01:02:37.666    39,504 kbps     01:02:33.708    38,068 kbps     01:02:28.666    128,858 bytes   583,911 bytes   01:04:39.375    
+10              1:09:33.000     0:06:58.333     25,196 kbps     41,007 kbps     01:12:12.666    38,447 kbps     01:10:20.666    37,864 kbps     01:12:31.291    131,231 bytes   615,052 bytes   01:10:14.916    
+11              1:16:31.333     0:10:59.291     27,232 kbps     43,502 kbps     01:27:29.583    38,105 kbps     01:22:04.333    37,915 kbps     01:21:59.333    141,832 bytes   505,881 bytes   01:16:40.875    
+12              1:27:30.625     0:05:43.708     15,170 kbps     39,246 kbps     01:27:45.416    38,069 kbps     01:27:40.708    37,855 kbps     01:28:26.499    79,010 bytes    542,109 bytes   01:28:20.041    
+13              1:33:14.333     0:00:01.041     58 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    314 bytes       319 bytes       01:33:15.333    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5594.167                23,964                  16,757,258,267  91,150,285      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5594.167                2,231                   1,560,397,723   9,360,038       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5594.167                2,189                   1,530,389,820   9,200,285       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5594.167                24                      16,751,722      97,973          
+00003.M2TS      4609 (0x1201)   0x90            PGS             und (Undetermined)      5594.167                0                       1,691           16              
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     0.875                   91                      9,981           62              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: MONSTER FAMILY
+Disc Label: Monster.Family.2017.Full.BluRay.AVC.ITA.ENG.DTS.HDMA.5.1
+Disc Size: 22,281,813,827 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 21,131,003,904 bytes
+Length: 1:33:15.375
+Total Bitrate: 30.21 Mbps
+Video: MPEG-4 AVC Video / 23959 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2231 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2188 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Italian / 23.951 kbps
+Subtitle: Undetermined / 0.002 kbps
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:33:14 21,130,985,472  22,281,813,827  30.22   23.96   DTS-HD Master 5.1 2231Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     MONSTER FAMILY
+Disc Label:     Monster.Family.2017.Full.BluRay.AVC.ITA.ENG.DTS.HDMA.5.1
+Disc Size:      22,281,813,827 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:33:14.333 (h:m:s.ms)
+Size:                   21,130,985,472 bytes
+Total Bitrate:          30.22 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23963 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2231 kbps       5.1 / 48 kHz /  2231 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2188 kbps       5.1 / 48 kHz /  2188 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         23.955 kbps                     
+Presentation Graphics           Undetermined    0.002 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:33:14.333     21,130,985,472  30,218          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:33:14.333     23,963 kbps     48,090 kbps     00:39:07.083    39,504 kbps     01:02:33.708    38,068 kbps     01:02:28.666    124,808 bytes   635,188 bytes   00:08:36.083    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5594.167                23,964                  16,757,258,267  91,150,285      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5594.167                2,231                   1,560,397,723   9,360,038       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5594.167                2,189                   1,530,389,820   9,200,285       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5594.167                24                      16,751,722      97,973          
+00003.M2TS      4609 (0x1201)   0x90            PGS             und (Undetermined)      5594.167                0                       1,691           16              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: MONSTER FAMILY
+Disc Label: Monster.Family.2017.Full.BluRay.AVC.ITA.ENG.DTS.HDMA.5.1
+Disc Size: 22,281,813,827 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 21,130,985,472 bytes
+Length: 1:33:14.333
+Total Bitrate: 30.22 Mbps
+Video: MPEG-4 AVC Video / 23963 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2231 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2188 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Italian / 23.955 kbps
+Subtitle: Undetermined / 0.002 kbps
+

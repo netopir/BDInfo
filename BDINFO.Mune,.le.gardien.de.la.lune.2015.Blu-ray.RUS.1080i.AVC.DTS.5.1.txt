@@ -1,0 +1,108 @@
+Disc Label:     Mune,.le.gardien.de.la.lune.2015.Blu-ray.RUS.1080i.AVC.DTS.5.1
+Disc Size:      17,370,435,484 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:21:27 16,863,571,968  17,370,435,484  27.61   24.02   DD AC3 5.1 640Kbps                        DTS 5.1 1509Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Mune,.le.gardien.de.la.lune.2015.Blu-ray.RUS.1080i.AVC.DTS.5.1
+Disc Size:      17,370,435,484 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:21:27.000 (h:m:s.ms)
+Size:                   16,863,571,968 bytes
+Total Bitrate:          27.61 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24020 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       Russian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:21:27.000     16,863,571,968  27,606          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:54.159     22,155 kbps     61,641 kbps     00:00:00.600    40,609 kbps     00:01:47.120    37,909 kbps     00:01:47.120    110,765 bytes   757,315 bytes   00:04:02.919    
+2               0:05:54.159     0:07:08.480     25,112 kbps     64,002 kbps     00:07:19.319    40,724 kbps     00:06:43.799    37,894 kbps     00:09:11.800    125,560 bytes   688,533 bytes   00:07:19.359    
+3               0:13:02.640     0:04:51.919     24,844 kbps     51,352 kbps     00:17:43.880    40,668 kbps     00:17:43.119    35,957 kbps     00:16:47.800    124,219 bytes   570,269 bytes   00:16:41.920    
+4               0:17:54.560     0:06:47.440     28,354 kbps     64,044 kbps     00:22:11.840    40,846 kbps     00:22:34.600    37,831 kbps     00:20:11.040    141,770 bytes   672,235 bytes   00:18:59.480    
+5               0:24:42.000     0:05:20.960     24,416 kbps     49,138 kbps     00:26:39.000    40,349 kbps     00:27:36.400    37,898 kbps     00:27:31.040    122,081 bytes   915,589 bytes   00:27:35.040    
+6               0:30:02.960     0:04:30.599     20,853 kbps     42,256 kbps     00:31:41.080    37,947 kbps     00:31:37.360    35,034 kbps     00:31:35.360    104,264 bytes   497,246 bytes   00:30:54.040    
+7               0:34:33.560     0:07:52.400     19,412 kbps     44,858 kbps     00:41:11.120    35,414 kbps     00:40:41.800    32,079 kbps     00:42:05.880    97,058 bytes    547,061 bytes   00:36:43.680    
+8               0:42:25.960     0:05:19.039     26,995 kbps     63,422 kbps     00:47:26.120    40,855 kbps     00:46:42.360    37,909 kbps     00:47:26.120    134,974 bytes   894,837 bytes   00:46:51.120    
+9               0:47:45.000     0:05:57.760     26,015 kbps     50,419 kbps     00:50:31.840    40,808 kbps     00:51:28.760    37,898 kbps     00:51:28.760    130,075 bytes   505,832 bytes   00:52:12.000    
+10              0:53:42.760     0:06:33.880     22,383 kbps     54,919 kbps     00:53:44.120    40,836 kbps     00:58:46.160    37,837 kbps     00:56:13.120    111,917 bytes   569,775 bytes   00:56:25.120    
+11              1:00:16.640     0:09:31.359     26,326 kbps     57,336 kbps     01:05:17.120    40,850 kbps     01:00:20.240    37,831 kbps     01:03:31.680    131,631 bytes   647,776 bytes   01:09:48.000    
+12              1:09:48.000     0:11:39.000     22,244 kbps     63,508 kbps     01:10:15.600    40,824 kbps     01:16:52.920    37,877 kbps     01:16:13.560    111,224 bytes   855,618 bytes   01:14:26.600    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     4886.880                24,021                  14,673,354,574  79,878,765      
+00001.M2TS      4352 (0x1100)   0x81            AC3             rus (Russian)           4886.880                640                     390,958,080     2,290,770       
+00001.M2TS      4353 (0x1101)   0x82            DTS             rus (Russian)           4886.880                1,510                   922,261,989     5,497,836       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Mune,.le.gardien.de.la.lune.2015.Blu-ray.RUS.1080i.AVC.DTS.5.1
+Disc Size: 17,370,435,484 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 16,863,571,968 bytes
+Length: 1:21:27.000
+Total Bitrate: 27.61 Mbps
+Video: MPEG-4 AVC Video / 24020 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+

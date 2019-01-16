@@ -1,0 +1,170 @@
+Disc Title:     Megamind SE
+Disc Label:     Megamind.2010.MULTi.COMPLETE.BLURAY.PROPER-TRexHD
+Disc Size:      41,033,836,386 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:35:34 28,613,130,240  41,033,836,386  39.92   27.01   Dolby TrueHD 7.1 3516Kbps (48kHz/16-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Megamind SE
+Disc Label:     Megamind.2010.MULTi.COMPLETE.BLURAY.PROPER-TRexHD
+Disc Size:      41,033,836,386 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:35:34.687 (h:m:s.ms)
+Size:                   28,613,130,240 bytes
+Total Bitrate:          39.92 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27013 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        3477 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3516 kbps       7.1 / 48 kHz /  2876 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -23dB
+Dolby Digital Plus Audio        English         224 kbps        2.0 / 48 kHz /   224 kbps
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          56.512 kbps                     
+Presentation Graphics           English         53.302 kbps                     
+Presentation Graphics           Spanish         54.846 kbps                     
+Presentation Graphics           Italian         50.167 kbps                     
+Presentation Graphics           English         23.915 kbps                     
+Presentation Graphics           German          81.518 kbps                     
+Presentation Graphics           English         75.235 kbps                     
+Presentation Graphics           Spanish         71.657 kbps                     
+Presentation Graphics           Italian         70.015 kbps                     
+Presentation Graphics           German          0.646 kbps                      
+Presentation Graphics           Spanish         0.680 kbps                      
+Presentation Graphics           Italian         0.721 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00372.M2TS      0:00:00.000     1:35:34.687     28,613,130,240  39,916          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:21.672     25,652 kbps     33,551 kbps     00:02:26.729    30,190 kbps     00:04:24.472    29,825 kbps     00:04:24.389    133,723 bytes   638,713 bytes   00:05:49.807    
+2               0:06:21.672     0:03:42.764     28,116 kbps     32,407 kbps     00:08:41.604    30,191 kbps     00:08:37.683    30,030 kbps     00:07:34.495    146,583 bytes   483,749 bytes   00:08:39.977    
+3               0:10:04.437     0:05:54.854     28,184 kbps     33,868 kbps     00:11:38.406    30,343 kbps     00:10:55.154    30,080 kbps     00:14:24.405    146,936 bytes   569,724 bytes   00:11:00.159    
+4               0:15:59.291     0:06:52.245     26,896 kbps     32,591 kbps     00:16:02.753    30,150 kbps     00:19:37.176    29,962 kbps     00:19:33.297    140,225 bytes   467,195 bytes   00:20:13.045    
+5               0:22:51.536     0:05:11.019     26,774 kbps     33,013 kbps     00:24:22.335    30,142 kbps     00:24:53.200    29,558 kbps     00:24:47.652    139,587 bytes   482,825 bytes   00:24:19.666    
+6               0:28:02.555     0:04:09.582     24,987 kbps     32,137 kbps     00:32:10.553    30,305 kbps     00:32:06.549    29,717 kbps     00:28:31.543    130,273 bytes   379,074 bytes   00:31:59.959    
+7               0:32:12.138     0:06:51.619     26,850 kbps     32,923 kbps     00:33:00.395    30,148 kbps     00:32:19.228    29,747 kbps     00:32:14.223    139,984 bytes   492,787 bytes   00:34:37.075    
+8               0:39:03.758     0:06:09.994     27,747 kbps     33,555 kbps     00:42:12.363    30,428 kbps     00:42:42.893    30,128 kbps     00:42:37.930    144,661 bytes   562,969 bytes   00:42:14.114    
+9               0:45:13.752     0:07:11.305     27,983 kbps     32,130 kbps     00:45:36.733    30,298 kbps     00:45:32.729    30,060 kbps     00:45:27.725    145,893 bytes   497,921 bytes   00:46:01.008    
+10              0:52:25.058     0:04:12.961     26,765 kbps     36,713 kbps     00:53:14.190    31,186 kbps     00:53:10.187    30,461 kbps     00:53:05.223    139,542 bytes   572,827 bytes   00:53:15.150    
+11              0:56:38.019     0:07:53.556     27,142 kbps     33,504 kbps     01:02:35.960    30,182 kbps     00:59:10.213    29,884 kbps     01:01:48.079    141,506 bytes   607,559 bytes   00:58:46.272    
+12              1:04:31.576     0:05:44.218     26,401 kbps     32,296 kbps     01:05:23.544    29,951 kbps     01:08:13.255    29,495 kbps     01:07:20.244    137,642 bytes   491,384 bytes   01:05:59.580    
+13              1:10:15.794     0:07:29.490     26,697 kbps     36,121 kbps     01:16:19.825    30,225 kbps     01:15:12.049    29,887 kbps     01:14:40.893    139,188 bytes   496,151 bytes   01:17:44.701    
+14              1:17:45.285     0:08:11.449     27,490 kbps     34,093 kbps     01:21:33.346    30,550 kbps     01:24:29.355    29,987 kbps     01:23:50.734    143,320 bytes   557,437 bytes   01:23:49.774    
+15              1:25:56.734     0:09:37.952     26,983 kbps     41,959 kbps     01:35:23.384    32,180 kbps     01:35:19.296    30,951 kbps     01:35:14.291    140,686 bytes   535,254 bytes   01:34:39.924    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00372.M2TS      4113 (0x1011)   0x1B            AVC                                     5734.520                27,014                  19,363,829,789  105,318,362     
+00372.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5734.520                3,516                   2,520,432,408   17,780,341      
+00372.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5734.520                640                     458,775,040     2,688,135       
+00372.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           5734.520                640                     458,775,040     2,688,135       
+00372.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5734.520                640                     458,775,040     2,688,135       
+00372.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           5734.520                224                     160,571,264     896,045         
+00372.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5734.520                57                      40,509,582      229,048         
+00372.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5734.520                53                      38,208,683      216,298         
+00372.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5734.520                55                      39,315,496      222,414         
+00372.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5734.520                50                      35,961,361      203,390         
+00372.M2TS      4612 (0x1204)   0x90            PGS             eng (English)           5734.520                24                      17,142,786      106,242         
+00372.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            5734.520                82                      58,435,329      327,122         
+00372.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5734.520                75                      53,931,370      302,564         
+00372.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           5734.520                72                      51,366,186      288,597         
+00372.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           5734.520                70                      50,189,512      282,083         
+00372.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            5734.520                1                       463,221         2,644           
+00372.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           5734.520                1                       487,462         2,783           
+00372.M2TS      4619 (0x120B)   0x90            PGS             ita (Italian)           5734.520                1                       516,944         2,940           
+00372.M2TS      6656 (0x1A00)   0xA1            AC3+            eng (English)           5734.520                224                     160,571,264     896,045         
+00372.M2TS      6912 (0x1B00)   0x1B            AVC                                     5734.520                3,478                   2,492,734,446   13,632,249      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Megamind SE
+Disc Label: Megamind.2010.MULTi.COMPLETE.BLURAY.PROPER-TRexHD
+Disc Size: 41,033,836,386 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 28,613,130,240 bytes
+Length: 1:35:34.687
+Total Bitrate: 39.92 Mbps
+Video: MPEG-4 AVC Video / 27013 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video / 3477 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  2876 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -23dB
+Audio: English / Dolby Digital Plus Audio / 2.0 / 48 kHz /   224 kbps
+Subtitle: German / 56.512 kbps
+Subtitle: English / 53.302 kbps
+Subtitle: Spanish / 54.846 kbps
+Subtitle: Italian / 50.167 kbps
+Subtitle: English / 23.915 kbps
+Subtitle: German / 81.518 kbps
+Subtitle: English / 75.235 kbps
+Subtitle: Spanish / 71.657 kbps
+Subtitle: Italian / 70.015 kbps
+Subtitle: German / 0.646 kbps
+Subtitle: Spanish / 0.680 kbps
+Subtitle: Italian / 0.721 kbps
+

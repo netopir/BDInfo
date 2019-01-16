@@ -1,0 +1,106 @@
+Disc Title:     BLU-RAY 3D
+Disc Label:     Minuscule-La.vallée.des.fourmis.perdues.2013.1080p.3D.FRA.Blu-ray.AVC.DTS-HD.MA.5.1-HDCLUB
+Disc Size:      27,314,385,850 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:28:27 19,455,713,280  27,314,385,850  29.33   21.52   DTS-HD Master 5.1 3926Kbps (48kHz/24-bit) DTS-HD Master 2.0 2125Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     BLU-RAY 3D
+Disc Label:     Minuscule-La.vallée.des.fourmis.perdues.2013.1080p.3D.FRA.Blu-ray.AVC.DTS-HD.MA.5.1-HDCLUB
+Disc Size:      27,314,385,850 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:28:27.302 (h:m:s.ms)
+Size:                   19,455,713,280 bytes
+Total Bitrate:          29.33 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21518 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             French          3926 kbps       5.1 / 48 kHz /  3926 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             French          2125 kbps       2.0 / 48 kHz /  2125 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:28:27.302     19,455,713,280  29,327          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:44.080     20,798 kbps     39,181 kbps     00:01:13.031    33,686 kbps     00:01:11.029    31,159 kbps     00:01:10.028    108,406 bytes   569,462 bytes   00:02:04.082    
+2               0:02:44.080     0:16:59.935     22,575 kbps     44,176 kbps     00:07:27.905    33,845 kbps     00:12:37.381    32,255 kbps     00:04:39.487    117,693 bytes   953,212 bytes   00:17:37.765    
+3               0:19:44.016     0:15:01.025     23,910 kbps     43,896 kbps     00:32:22.815    33,687 kbps     00:22:58.502    31,501 kbps     00:22:58.460    124,656 bytes   703,122 bytes   00:24:53.408    
+4               0:34:45.041     0:07:23.526     21,147 kbps     44,394 kbps     00:36:43.075    33,702 kbps     00:41:33.491    30,823 kbps     00:36:43.075    110,252 bytes   811,283 bytes   00:37:34.710    
+5               0:42:08.567     0:16:36.662     21,969 kbps     43,727 kbps     00:44:25.954    33,621 kbps     00:43:18.220    31,122 kbps     00:57:01.292    114,534 bytes   805,912 bytes   00:44:19.990    
+6               0:58:45.230     0:14:39.461     21,568 kbps     43,254 kbps     01:10:35.731    33,647 kbps     01:12:46.028    31,777 kbps     01:07:02.518    112,446 bytes   714,471 bytes   01:12:51.033    
+7               1:13:24.691     0:05:48.806     23,761 kbps     39,279 kbps     01:14:28.380    33,254 kbps     01:13:46.839    31,074 kbps     01:13:45.212    123,877 bytes   448,732 bytes   01:13:30.697    
+8               1:19:13.498     0:03:36.883     21,315 kbps     41,574 kbps     01:20:59.729    32,997 kbps     01:19:14.958    31,425 kbps     01:19:15.584    111,128 bytes   605,566 bytes   01:19:47.949    
+9               1:22:50.382     0:05:36.919     9,104 kbps      26,965 kbps     01:27:57.063    26,005 kbps     01:27:55.395    24,773 kbps     01:27:54.394    47,468 bytes    340,579 bytes   01:27:59.357    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5307.135                21,518                  14,275,189,188  77,656,503      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       fra (French)            5307.135                3,926                   2,604,778,176   14,985,254      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       fra (French)            5307.135                2,125                   1,409,657,032   8,512,279       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: BLU-RAY 3D
+Disc Label: Minuscule-La.vallée.des.fourmis.perdues.2013.1080p.3D.FRA.Blu-ray.AVC.DTS-HD.MA.5.1-HDCLUB
+Disc Size: 27,314,385,850 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 19,455,713,280 bytes
+Length: 1:28:27.302
+Total Bitrate: 29.33 Mbps
+Video: MPEG-4 AVC Video / 21518 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  3926 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS-HD Master Audio / 2.0 / 48 kHz /  2125 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+
