@@ -1,0 +1,357 @@
+Disc Title:     Home
+Disc Label:     Home.2015.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      45,530,117,872 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:33:48 27,959,119,872  45,530,117,872  39.74   28.08   DTS-HD Master 7.1 4451Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Home
+Disc Label:     Home.2015.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      45,530,117,872 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:33:48.164 (h:m:s.ms)
+Size:                   27,959,119,872 bytes
+Total Bitrate:          39.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28081 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4451 kbps       7.1 / 48 kHz /  4451 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Russian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Chinese         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Estonian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Latvian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Lithuanian      448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Chinese         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Thai            448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Ukrainian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         29.079 kbps                     
+Presentation Graphics           German          31.271 kbps                     
+Presentation Graphics           Russian         29.634 kbps                     
+Presentation Graphics           Chinese         21.993 kbps                     
+Presentation Graphics           Estonian        28.544 kbps                     
+Presentation Graphics           Indonesian      29.761 kbps                     
+Presentation Graphics           Latvian         28.932 kbps                     
+Presentation Graphics           Lithuanian      28.146 kbps                     
+Presentation Graphics           Malay           34.253 kbps                     
+Presentation Graphics           Chinese         22.248 kbps                     
+Presentation Graphics           Thai            22.877 kbps                     
+Presentation Graphics           Ukrainian       29.972 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:33:48.164     27,959,119,872  39,742          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:43.723     27,582 kbps     35,634 kbps     00:03:07.395    31,341 kbps     00:01:29.714    30,986 kbps     00:00:13.013    143,771 bytes   590,867 bytes   00:01:34.385    
+2               0:03:43.723     0:03:44.682     29,578 kbps     35,449 kbps     00:03:48.686    31,499 kbps     00:03:57.737    30,953 kbps     00:05:47.889    154,205 bytes   565,014 bytes   00:06:57.166    
+3               0:07:28.406     0:03:51.064     26,842 kbps     33,170 kbps     00:08:04.192    30,979 kbps     00:08:19.040    30,727 kbps     00:09:42.206    139,940 bytes   575,550 bytes   00:10:44.352    
+4               0:11:19.470     0:03:07.478     28,614 kbps     33,651 kbps     00:13:34.063    30,989 kbps     00:13:50.037    30,569 kbps     00:13:47.159    149,178 bytes   453,582 bytes   00:12:10.229    
+5               0:14:26.949     0:03:32.003     27,833 kbps     34,807 kbps     00:17:19.246    31,392 kbps     00:16:49.508    30,876 kbps     00:15:17.499    145,110 bytes   627,502 bytes   00:16:53.512    
+6               0:17:58.952     0:03:06.686     28,986 kbps     33,363 kbps     00:20:25.224    31,209 kbps     00:19:36.216    30,952 kbps     00:19:31.211    151,120 bytes   547,180 bytes   00:20:32.856    
+7               0:21:05.639     0:04:13.211     29,155 kbps     33,381 kbps     00:23:07.177    31,307 kbps     00:21:31.665    30,950 kbps     00:21:44.636    152,002 bytes   420,187 bytes   00:22:50.452    
+8               0:25:18.850     0:03:48.228     28,764 kbps     36,657 kbps     00:26:50.734    31,799 kbps     00:26:46.730    30,897 kbps     00:28:03.264    149,964 bytes   612,400 bytes   00:28:23.368    
+9               0:29:07.078     0:04:07.538     29,447 kbps     35,522 kbps     00:31:12.120    31,420 kbps     00:32:33.534    31,000 kbps     00:29:36.566    153,521 bytes   611,719 bytes   00:31:24.173    
+10              0:33:14.617     0:05:44.343     28,844 kbps     33,318 kbps     00:37:26.786    31,182 kbps     00:34:14.469    30,935 kbps     00:34:09.589    150,380 bytes   455,508 bytes   00:38:33.686    
+11              0:38:58.961     0:02:32.193     29,615 kbps     35,202 kbps     00:41:29.445    31,638 kbps     00:41:25.691    30,914 kbps     00:39:05.092    154,397 bytes   632,785 bytes   00:41:30.321    
+12              0:41:31.155     0:02:56.384     29,997 kbps     35,899 kbps     00:42:53.654    31,786 kbps     00:41:35.743    31,304 kbps     00:41:51.467    156,388 bytes   640,767 bytes   00:41:42.583    
+13              0:44:27.539     0:02:23.393     30,203 kbps     34,199 kbps     00:45:31.437    31,437 kbps     00:45:19.591    30,957 kbps     00:45:48.203    157,464 bytes   498,240 bytes   00:45:35.357    
+14              0:46:50.933     0:04:43.825     29,735 kbps     34,728 kbps     00:50:10.424    31,440 kbps     00:50:42.164    30,931 kbps     00:49:20.624    155,023 bytes   636,638 bytes   00:46:59.149    
+15              0:51:34.758     0:04:51.165     29,539 kbps     35,539 kbps     00:51:44.851    31,533 kbps     00:52:20.512    31,132 kbps     00:52:16.424    154,004 bytes   639,628 bytes   00:53:47.515    
+16              0:56:25.924     0:04:17.757     29,548 kbps     35,053 kbps     00:58:24.792    31,594 kbps     00:58:20.872    31,149 kbps     00:58:15.867    154,052 bytes   583,050 bytes   00:58:25.710    
+17              1:00:43.681     0:03:09.814     29,415 kbps     35,058 kbps     01:01:27.558    31,583 kbps     01:01:23.638    31,123 kbps     01:01:18.633    153,358 bytes   632,587 bytes   01:01:29.310    
+18              1:03:53.496     0:03:04.225     28,250 kbps     33,457 kbps     01:05:22.919    31,248 kbps     01:05:18.915    30,898 kbps     01:05:18.915    147,285 bytes   467,916 bytes   01:05:22.960    
+19              1:06:57.722     0:02:46.457     29,830 kbps     33,926 kbps     01:09:16.068    31,249 kbps     01:09:12.064    30,911 kbps     01:09:07.226    155,522 bytes   491,887 bytes   01:09:00.302    
+20              1:09:44.180     0:04:11.584     28,057 kbps     35,599 kbps     01:10:39.860    31,706 kbps     01:10:35.856    30,794 kbps     01:11:56.353    146,277 bytes   634,725 bytes   01:10:21.675    
+21              1:13:55.764     0:04:16.005     28,984 kbps     33,562 kbps     01:16:52.065    31,146 kbps     01:14:30.799    30,853 kbps     01:15:34.821    151,111 bytes   494,782 bytes   01:17:18.634    
+22              1:18:11.770     0:03:43.598     27,943 kbps     34,198 kbps     01:19:42.736    31,258 kbps     01:21:48.904    30,959 kbps     01:21:43.899    145,682 bytes   542,270 bytes   01:19:27.929    
+23              1:21:55.368     0:02:00.662     29,966 kbps     33,981 kbps     01:23:43.393    31,222 kbps     01:23:19.494    30,921 kbps     01:23:14.489    156,230 bytes   541,556 bytes   01:21:57.412    
+24              1:23:56.031     0:09:52.133     20,769 kbps     31,803 kbps     01:23:57.115    28,975 kbps     01:31:59.680    28,347 kbps     01:31:55.801    108,288 bytes   632,550 bytes   01:32:03.809    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5627.997                28,082                  19,755,424,729  107,445,200     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5627.997                4,452                   3,131,649,940   17,898,969      
+00800.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5627.997                768                     540,304,384     3,165,846       
+00800.M2TS      4354 (0x1102)   0x82            DTS             rus (Russian)           5627.997                768                     540,304,384     3,165,846       
+00800.M2TS      4355 (0x1103)   0x81            AC3             zho (Chinese)           5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4356 (0x1104)   0x81            AC3             est (Estonian)          5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4357 (0x1105)   0x81            AC3             lav (Latvian)           5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4358 (0x1106)   0x81            AC3             lit (Lithuanian)        5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4359 (0x1107)   0x81            AC3             zho (Chinese)           5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4360 (0x1108)   0x81            AC3             tha (Thai)              5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4361 (0x1109)   0x81            AC3             ukr (Ukrainian)         5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5627.997                29                      20,457,515      119,120         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5627.997                31                      21,999,467      127,469         
+00800.M2TS      4610 (0x1202)   0x90            PGS             rus (Russian)           5627.997                30                      20,848,155      121,513         
+00800.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5627.997                22                      15,472,798      92,179          
+00800.M2TS      4612 (0x1204)   0x90            PGS             est (Estonian)          5627.997                29                      20,081,305      117,186         
+00800.M2TS      4613 (0x1205)   0x90            PGS             ind (Indonesian)        5627.997                30                      20,937,766      121,853         
+00800.M2TS      4614 (0x1206)   0x90            PGS             lav (Latvian)           5627.997                29                      20,354,350      118,723         
+00800.M2TS      4615 (0x1207)   0x90            PGS             lit (Lithuanian)        5627.997                28                      19,801,236      115,771         
+00800.M2TS      4616 (0x1208)   0x90            PGS             msa (Malay)             5627.997                34                      24,097,479      139,126         
+00800.M2TS      4617 (0x1209)   0x90            PGS             zho (Chinese)           5627.997                22                      15,651,913      93,001          
+00800.M2TS      4618 (0x120A)   0x90            PGS             tha (Thai)              5627.997                23                      16,094,124      95,678          
+00800.M2TS      4619 (0x120B)   0x90            PGS             ukr (Ukrainian)         5627.997                30                      21,085,883      122,798         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Home
+Disc Label: Home.2015.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 45,530,117,872 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 27,959,119,872 bytes
+Length: 1:33:48.164
+Total Bitrate: 39.74 Mbps
+Video: MPEG-4 AVC Video / 28081 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4451 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Estonian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Latvian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Lithuanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 29.079 kbps
+Subtitle: German / 31.271 kbps
+Subtitle: Russian / 29.634 kbps
+Subtitle: Chinese / 21.993 kbps
+Subtitle: Estonian / 28.544 kbps
+Subtitle: Indonesian / 29.761 kbps
+Subtitle: Latvian / 28.932 kbps
+Subtitle: Lithuanian / 28.146 kbps
+Subtitle: Malay / 34.253 kbps
+Subtitle: Chinese / 22.248 kbps
+Subtitle: Thai / 22.877 kbps
+Subtitle: Ukrainian / 29.972 kbps
+
+
+********************
+PLAYLIST: 00850.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00850.MPLS                                                      AVC     1:33:48 27,959,119,872  45,530,117,872  39.74   28.08   DTS-HD Master 7.1 4451Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Home
+Disc Label:     Home.2015.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      45,530,117,872 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00850.MPLS
+Length:                 1:33:48.164 (h:m:s.ms)
+Size:                   27,959,119,872 bytes
+Total Bitrate:          39.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28081 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4451 kbps       7.1 / 48 kHz /  4451 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Russian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Chinese         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Estonian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Latvian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Lithuanian      448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Chinese         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Thai            448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Ukrainian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         29.079 kbps                     
+Presentation Graphics           German          31.271 kbps                     
+Presentation Graphics           Russian         29.634 kbps                     
+Presentation Graphics           Chinese         21.993 kbps                     
+Presentation Graphics           Estonian        28.544 kbps                     
+Presentation Graphics           Indonesian      29.761 kbps                     
+Presentation Graphics           Latvian         28.932 kbps                     
+Presentation Graphics           Lithuanian      28.146 kbps                     
+Presentation Graphics           Malay           34.253 kbps                     
+Presentation Graphics           Chinese         22.248 kbps                     
+Presentation Graphics           Thai            22.877 kbps                     
+Presentation Graphics           Ukrainian       29.972 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:33:48.164     27,959,119,872  39,742          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:43.723     27,582 kbps     35,634 kbps     00:03:07.395    31,341 kbps     00:01:29.714    30,986 kbps     00:00:13.013    143,771 bytes   590,867 bytes   00:01:34.385    
+2               0:03:43.723     0:03:44.682     29,578 kbps     35,449 kbps     00:03:48.686    31,499 kbps     00:03:57.737    30,953 kbps     00:05:47.889    154,205 bytes   565,014 bytes   00:06:57.166    
+3               0:07:28.406     0:03:51.064     26,842 kbps     33,170 kbps     00:08:04.192    30,979 kbps     00:08:19.040    30,727 kbps     00:09:42.206    139,940 bytes   575,550 bytes   00:10:44.352    
+4               0:11:19.470     0:03:07.478     28,614 kbps     33,651 kbps     00:13:34.063    30,989 kbps     00:13:50.037    30,569 kbps     00:13:47.159    149,178 bytes   453,582 bytes   00:12:10.229    
+5               0:14:26.949     0:03:32.003     27,833 kbps     34,807 kbps     00:17:19.246    31,392 kbps     00:16:49.508    30,876 kbps     00:15:17.499    145,110 bytes   627,502 bytes   00:16:53.512    
+6               0:17:58.952     0:03:06.686     28,986 kbps     33,363 kbps     00:20:25.224    31,209 kbps     00:19:36.216    30,952 kbps     00:19:31.211    151,120 bytes   547,180 bytes   00:20:32.856    
+7               0:21:05.639     0:04:13.211     29,155 kbps     33,381 kbps     00:23:07.177    31,307 kbps     00:21:31.665    30,950 kbps     00:21:44.636    152,002 bytes   420,187 bytes   00:22:50.452    
+8               0:25:18.850     0:03:48.228     28,764 kbps     36,657 kbps     00:26:50.734    31,799 kbps     00:26:46.730    30,897 kbps     00:28:03.264    149,964 bytes   612,400 bytes   00:28:23.368    
+9               0:29:07.078     0:04:07.538     29,447 kbps     35,522 kbps     00:31:12.120    31,420 kbps     00:32:33.534    31,000 kbps     00:29:36.566    153,521 bytes   611,719 bytes   00:31:24.173    
+10              0:33:14.617     0:05:44.343     28,844 kbps     33,318 kbps     00:37:26.786    31,182 kbps     00:34:14.469    30,935 kbps     00:34:09.589    150,380 bytes   455,508 bytes   00:38:33.686    
+11              0:38:58.961     0:02:32.193     29,615 kbps     35,202 kbps     00:41:29.445    31,638 kbps     00:41:25.691    30,914 kbps     00:39:05.092    154,397 bytes   632,785 bytes   00:41:30.321    
+12              0:41:31.155     0:02:56.384     29,997 kbps     35,899 kbps     00:42:53.654    31,786 kbps     00:41:35.743    31,304 kbps     00:41:51.467    156,388 bytes   640,767 bytes   00:41:42.583    
+13              0:44:27.539     0:02:23.393     30,203 kbps     34,199 kbps     00:45:31.437    31,437 kbps     00:45:19.591    30,957 kbps     00:45:48.203    157,464 bytes   498,240 bytes   00:45:35.357    
+14              0:46:50.933     0:04:43.825     29,735 kbps     34,728 kbps     00:50:10.424    31,440 kbps     00:50:42.164    30,931 kbps     00:49:20.624    155,023 bytes   636,638 bytes   00:46:59.149    
+15              0:51:34.758     0:04:51.165     29,539 kbps     35,539 kbps     00:51:44.851    31,533 kbps     00:52:20.512    31,132 kbps     00:52:16.424    154,004 bytes   639,628 bytes   00:53:47.515    
+16              0:56:25.924     0:04:17.757     29,548 kbps     35,053 kbps     00:58:24.792    31,594 kbps     00:58:20.872    31,149 kbps     00:58:15.867    154,052 bytes   583,050 bytes   00:58:25.710    
+17              1:00:43.681     0:03:09.814     29,415 kbps     35,058 kbps     01:01:27.558    31,583 kbps     01:01:23.638    31,123 kbps     01:01:18.633    153,358 bytes   632,587 bytes   01:01:29.310    
+18              1:03:53.496     0:03:04.225     28,250 kbps     33,457 kbps     01:05:22.919    31,248 kbps     01:05:18.915    30,898 kbps     01:05:18.915    147,285 bytes   467,916 bytes   01:05:22.960    
+19              1:06:57.722     0:02:46.457     29,830 kbps     33,926 kbps     01:09:16.068    31,249 kbps     01:09:12.064    30,911 kbps     01:09:07.226    155,522 bytes   491,887 bytes   01:09:00.302    
+20              1:09:44.180     0:04:11.584     28,057 kbps     35,599 kbps     01:10:39.860    31,706 kbps     01:10:35.856    30,794 kbps     01:11:56.353    146,277 bytes   634,725 bytes   01:10:21.675    
+21              1:13:55.764     0:04:16.005     28,984 kbps     33,562 kbps     01:16:52.065    31,146 kbps     01:14:30.799    30,853 kbps     01:15:34.821    151,111 bytes   494,782 bytes   01:17:18.634    
+22              1:18:11.770     0:03:43.598     27,943 kbps     34,198 kbps     01:19:42.736    31,258 kbps     01:21:48.904    30,959 kbps     01:21:43.899    145,682 bytes   542,270 bytes   01:19:27.929    
+23              1:21:55.368     0:02:00.662     29,966 kbps     33,981 kbps     01:23:43.393    31,222 kbps     01:23:19.494    30,921 kbps     01:23:14.489    156,230 bytes   541,556 bytes   01:21:57.412    
+24              1:23:56.031     0:09:52.133     20,769 kbps     31,803 kbps     01:23:57.115    28,975 kbps     01:31:59.680    28,347 kbps     01:31:55.801    108,288 bytes   632,550 bytes   01:32:03.809    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5627.997                28,082                  19,755,424,729  107,445,200     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5627.997                4,452                   3,131,649,940   17,898,969      
+00800.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5627.997                768                     540,304,384     3,165,846       
+00800.M2TS      4354 (0x1102)   0x82            DTS             rus (Russian)           5627.997                768                     540,304,384     3,165,846       
+00800.M2TS      4355 (0x1103)   0x81            AC3             zho (Chinese)           5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4356 (0x1104)   0x81            AC3             est (Estonian)          5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4357 (0x1105)   0x81            AC3             lav (Latvian)           5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4358 (0x1106)   0x81            AC3             lit (Lithuanian)        5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4359 (0x1107)   0x81            AC3             zho (Chinese)           5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4360 (0x1108)   0x81            AC3             tha (Thai)              5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4361 (0x1109)   0x81            AC3             ukr (Ukrainian)         5627.997                448                     315,178,752     1,758,810       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5627.997                29                      20,457,515      119,120         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5627.997                31                      21,999,467      127,469         
+00800.M2TS      4610 (0x1202)   0x90            PGS             rus (Russian)           5627.997                30                      20,848,155      121,513         
+00800.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5627.997                22                      15,472,798      92,179          
+00800.M2TS      4612 (0x1204)   0x90            PGS             est (Estonian)          5627.997                29                      20,081,305      117,186         
+00800.M2TS      4613 (0x1205)   0x90            PGS             ind (Indonesian)        5627.997                30                      20,937,766      121,853         
+00800.M2TS      4614 (0x1206)   0x90            PGS             lav (Latvian)           5627.997                29                      20,354,350      118,723         
+00800.M2TS      4615 (0x1207)   0x90            PGS             lit (Lithuanian)        5627.997                28                      19,801,236      115,771         
+00800.M2TS      4616 (0x1208)   0x90            PGS             msa (Malay)             5627.997                34                      24,097,479      139,126         
+00800.M2TS      4617 (0x1209)   0x90            PGS             zho (Chinese)           5627.997                22                      15,651,913      93,001          
+00800.M2TS      4618 (0x120A)   0x90            PGS             tha (Thai)              5627.997                23                      16,094,124      95,678          
+00800.M2TS      4619 (0x120B)   0x90            PGS             ukr (Ukrainian)         5627.997                30                      21,085,883      122,798         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Home
+Disc Label: Home.2015.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 45,530,117,872 bytes
+Protection: AACS
+Playlist: 00850.MPLS
+Size: 27,959,119,872 bytes
+Length: 1:33:48.164
+Total Bitrate: 39.74 Mbps
+Video: MPEG-4 AVC Video / 28081 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4451 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Estonian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Latvian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Lithuanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 29.079 kbps
+Subtitle: German / 31.271 kbps
+Subtitle: Russian / 29.634 kbps
+Subtitle: Chinese / 21.993 kbps
+Subtitle: Estonian / 28.544 kbps
+Subtitle: Indonesian / 29.761 kbps
+Subtitle: Latvian / 28.932 kbps
+Subtitle: Lithuanian / 28.146 kbps
+Subtitle: Malay / 34.253 kbps
+Subtitle: Chinese / 22.248 kbps
+Subtitle: Thai / 22.877 kbps
+Subtitle: Ukrainian / 29.972 kbps
+

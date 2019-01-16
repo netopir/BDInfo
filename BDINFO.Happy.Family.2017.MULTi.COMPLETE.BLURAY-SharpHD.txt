@@ -1,0 +1,128 @@
+Disc Title:     Happy Family - Blu-ray™
+Disc Label:     Happy.Family.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      31,402,100,007 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:33:02 28,372,445,184  31,402,100,007  40.66   29.87   Dolby Atmos 7.1 5295Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Happy Family - Blu-ray™
+Disc Label:     Happy.Family.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      31,402,100,007 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:33:02.785 (h:m:s.ms)
+Size:                   28,372,445,184 bytes
+Total Bitrate:          40.66 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29874 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        German          5295 kbps       7.1 / 48 kHz /  4655 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+DTS-HD Master Audio             English         2014 kbps       5.1 / 48 kHz /  2014 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          49.004 kbps                     
+Presentation Graphics           German          35.157 kbps                     
+Presentation Graphics           English         33.033 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:33:02.785     28,372,445,184  40,657          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:38.356     29,728 kbps     47,408 kbps     00:02:09.504    37,352 kbps     00:01:45.814    35,197 kbps     00:05:53.061    154,971 bytes   818,497 bytes   00:00:55.096    
+2               0:06:38.356     0:07:35.413     30,984 kbps     48,586 kbps     00:07:30.324    37,528 kbps     00:12:09.770    35,446 kbps     00:12:31.167    161,537 bytes   847,586 bytes   00:13:44.573    
+3               0:14:13.769     0:06:20.338     31,143 kbps     46,184 kbps     00:16:49.258    37,122 kbps     00:14:35.291    35,510 kbps     00:14:16.188    162,368 bytes   777,450 bytes   00:16:16.767    
+4               0:20:34.107     0:09:23.646     31,702 kbps     52,069 kbps     00:23:58.854    37,134 kbps     00:28:27.580    35,425 kbps     00:23:02.047    165,279 bytes   788,099 bytes   00:22:17.461    
+5               0:29:57.754     0:08:55.785     30,341 kbps     52,130 kbps     00:30:10.225    37,509 kbps     00:30:16.940    35,091 kbps     00:33:14.826    158,184 bytes   789,535 bytes   00:30:17.357    
+6               0:38:53.539     0:06:59.377     29,931 kbps     50,742 kbps     00:38:58.294    37,460 kbps     00:45:08.330    35,310 kbps     00:42:42.101    156,046 bytes   767,652 bytes   00:44:57.152    
+7               0:45:52.916     0:06:11.454     30,523 kbps     47,753 kbps     00:47:50.868    37,593 kbps     00:46:33.457    35,350 kbps     00:46:29.578    159,135 bytes   770,085 bytes   00:49:37.057    
+8               0:52:04.371     0:07:08.636     28,071 kbps     48,597 kbps     00:53:46.473    36,675 kbps     00:53:11.104    35,098 kbps     00:53:11.104    146,348 bytes   747,429 bytes   00:56:51.866    
+9               0:59:13.007     0:13:10.539     30,938 kbps     53,511 kbps     01:11:48.846    37,487 kbps     01:10:13.209    35,358 kbps     01:06:09.131    161,298 bytes   845,671 bytes   00:59:56.926    
+10              1:12:23.547     0:06:55.540     31,991 kbps     54,377 kbps     01:18:30.956    37,043 kbps     01:17:43.742    35,246 kbps     01:12:46.403    166,788 bytes   798,600 bytes   01:18:56.940    
+11              1:19:19.087     0:09:26.899     31,996 kbps     49,470 kbps     01:27:24.572    37,231 kbps     01:26:26.639    35,383 kbps     01:26:26.639    166,811 bytes   827,231 bytes   01:28:14.998    
+12              1:28:45.987     0:04:16.798     11,852 kbps     30,589 kbps     01:32:57.196    19,232 kbps     01:29:37.789    19,102 kbps     01:29:37.538    61,813 bytes    590,462 bytes   01:33:00.157    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5582.619                29,875                  20,847,373,598  113,379,331     
+00001.M2TS      4352 (0x1100)   0x83            Atmos           deu (German)            5582.619                5,296                   3,695,352,924   24,355,864      
+00001.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5582.619                192                     133,986,816     872,310         
+00001.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5582.619                2,014                   1,405,370,968   8,510,054       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5582.619                49                      34,197,009      195,925         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5582.619                35                      24,534,510      140,180         
+00001.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5582.619                33                      23,052,264      132,419         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Happy Family - Blu-ray™
+Disc Label: Happy.Family.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 31,402,100,007 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 28,372,445,184 bytes
+Length: 1:33:02.785
+Total Bitrate: 40.66 Mbps
+Video: MPEG-4 AVC Video / 29874 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4655 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2014 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 49.004 kbps
+Subtitle: German / 35.157 kbps
+Subtitle: English / 33.033 kbps
+

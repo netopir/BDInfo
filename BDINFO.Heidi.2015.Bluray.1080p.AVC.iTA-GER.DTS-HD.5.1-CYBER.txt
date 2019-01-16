@@ -1,0 +1,216 @@
+Disc Title:     HEIDI
+Disc Label:     Heidi.2015.Bluray.1080p.AVC.iTA-GER.DTS-HD.5.1-CYBER
+Disc Size:      22,730,753,034 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:51:21 22,323,463,296  22,730,753,034  26.73   21.02   DTS-HD Master 5.1 2021Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HEIDI
+Disc Label:     Heidi.2015.Bluray.1080p.AVC.iTA-GER.DTS-HD.5.1-CYBER
+Disc Size:      22,730,753,034 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:51:21.916 (h:m:s.ms)
+Size:                   22,323,463,296 bytes
+Total Bitrate:          26.73 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21020 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2021 kbps       5.1 / 48 kHz /  2021 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2002 kbps       5.1 / 48 kHz /  2002 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         20.563 kbps                     
+Presentation Graphics           Italian         0.002 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:51:21.000     22,323,038,208  26,730          
+00005.M2TS      1:51:21.000     0:00:00.916     425,088         3,710           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:24.625     22,458 kbps     48,012 kbps     00:00:44.541    39,626 kbps     00:03:09.958    36,721 kbps     00:03:23.708    116,962 bytes   806,354 bytes   00:01:37.083    
+2               0:09:24.625     0:09:09.000     22,650 kbps     54,988 kbps     00:16:38.458    39,663 kbps     00:13:26.041    36,801 kbps     00:16:37.083    117,971 bytes   757,326 bytes   00:12:51.583    
+3               0:18:33.625     0:09:05.583     19,331 kbps     58,686 kbps     00:21:34.374    39,151 kbps     00:21:34.375    36,754 kbps     00:21:27.666    100,683 bytes   688,698 bytes   00:22:32.083    
+4               0:27:39.208     0:09:38.625     21,083 kbps     51,770 kbps     00:30:13.999    34,735 kbps     00:30:56.833    30,542 kbps     00:30:56.041    109,810 bytes   722,891 bytes   00:30:49.000    
+5               0:37:17.833     0:09:09.791     23,341 kbps     47,332 kbps     00:42:02.708    38,460 kbps     00:42:40.416    35,187 kbps     00:46:11.291    121,567 bytes   554,332 bytes   00:44:24.708    
+6               0:46:27.625     0:09:19.208     21,246 kbps     47,618 kbps     00:49:34.250    39,629 kbps     00:48:56.083    36,838 kbps     00:48:55.833    110,654 bytes   643,189 bytes   00:49:20.375    
+7               0:55:46.833     0:08:32.000     21,071 kbps     36,176 kbps     01:03:19.125    32,696 kbps     01:00:01.375    32,107 kbps     00:59:57.458    109,747 bytes   528,437 bytes   00:59:51.625    
+8               1:04:18.833     0:09:53.374     20,797 kbps     36,716 kbps     01:08:10.208    31,886 kbps     01:04:27.125    30,205 kbps     01:04:49.208    108,320 bytes   522,875 bytes   01:04:27.166    
+9               1:14:12.208     0:08:52.000     20,826 kbps     46,650 kbps     01:21:54.999    36,379 kbps     01:17:49.500    32,769 kbps     01:21:46.458    108,468 bytes   554,265 bytes   01:21:05.208    
+10              1:23:04.208     0:09:49.416     21,996 kbps     55,812 kbps     01:24:26.208    39,670 kbps     01:24:26.208    36,630 kbps     01:24:26.208    114,561 bytes   709,636 bytes   01:25:15.083    
+11              1:32:53.625     0:09:08.791     21,496 kbps     44,925 kbps     01:39:53.874    34,200 kbps     01:39:49.916    30,194 kbps     01:36:30.291    111,957 bytes   852,256 bytes   01:34:35.625    
+12              1:42:02.416     0:09:19.500     15,919 kbps     45,428 kbps     01:43:33.624    39,232 kbps     01:43:33.541    33,667 kbps     01:42:48.374    82,917 bytes    748,361 bytes   01:43:33.666    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     6680.875                21,022                  17,556,073,435  95,507,085      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           6680.875                2,021                   1,687,749,156   10,227,329      
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            6680.875                2,003                   1,672,459,448   10,136,182      
+00004.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           6680.875                21                      17,175,238      98,316          
+00004.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           6680.875                0                       1,691           16              
+00005.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.875                   4,171                   456,246         2,493           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HEIDI
+Disc Label: Heidi.2015.Bluray.1080p.AVC.iTA-GER.DTS-HD.5.1-CYBER
+Disc Size: 22,730,753,034 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 22,323,463,296 bytes
+Length: 1:51:21.916
+Total Bitrate: 26.73 Mbps
+Video: MPEG-4 AVC Video / 21020 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2021 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2002 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Italian / 20.563 kbps
+Subtitle: Italian / 0.002 kbps
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:51:21 22,323,038,208  22,730,753,034  26.73   21.02   DTS-HD Master 5.1 2021Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HEIDI
+Disc Label:     Heidi.2015.Bluray.1080p.AVC.iTA-GER.DTS-HD.5.1-CYBER
+Disc Size:      22,730,753,034 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:51:21.000 (h:m:s.ms)
+Size:                   22,323,038,208 bytes
+Total Bitrate:          26.73 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21022 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2021 kbps       5.1 / 48 kHz /  2021 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2003 kbps       5.1 / 48 kHz /  2003 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         20.566 kbps                     
+Presentation Graphics           Italian         0.002 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:51:21.000     22,323,038,208  26,730          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:51:21.000     21,022 kbps     58,686 kbps     00:21:34.374    39,670 kbps     01:24:26.208    36,838 kbps     00:48:55.833    109,490 bytes   852,256 bytes   01:34:35.625    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     6680.875                21,022                  17,556,073,435  95,507,085      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           6680.875                2,021                   1,687,749,156   10,227,329      
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            6680.875                2,003                   1,672,459,448   10,136,182      
+00004.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           6680.875                21                      17,175,238      98,316          
+00004.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           6680.875                0                       1,691           16              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HEIDI
+Disc Label: Heidi.2015.Bluray.1080p.AVC.iTA-GER.DTS-HD.5.1-CYBER
+Disc Size: 22,730,753,034 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 22,323,038,208 bytes
+Length: 1:51:21.000
+Total Bitrate: 26.73 Mbps
+Video: MPEG-4 AVC Video / 21022 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2021 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2003 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Italian / 20.566 kbps
+Subtitle: Italian / 0.002 kbps
+
