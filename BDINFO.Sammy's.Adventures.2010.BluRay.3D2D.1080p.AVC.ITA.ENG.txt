@@ -1,0 +1,233 @@
+Disc Title:     Le avventure di Sammy
+Disc Label:     Sammy's.Adventures.2010.BluRay.3D2D.1080p.AVC.ITA.ENG
+Disc Size:      31,352,247,364 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00180.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00180.MPLS                                                      AVC     1:25:35 19,598,475,264  31,352,247,364  30.53   24.00   DTS-HD Master 5.1 2323Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Le avventure di Sammy
+Disc Label:     Sammy's.Adventures.2010.BluRay.3D2D.1080p.AVC.ITA.ENG
+Disc Size:      31,352,247,364 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00180.MPLS
+Length:                 1:25:35.380 (h:m:s.ms)
+Size:                   19,598,475,264 bytes
+Total Bitrate:          30.53 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23998 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2323 kbps       5.1 / 48 kHz /  2323 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2316 kbps       5.1 / 48 kHz /  2316 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         46.852 kbps                     
+* Presentation Graphics         Italian         47.772 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     0:47:54.663     10,968,895,488  30,526          
+00004.M2TS      0:47:54.663     0:37:40.716     8,629,579,776   30,538          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:44.185     24,084 kbps     36,460 kbps     00:03:37.967    31,017 kbps     00:03:33.880    30,231 kbps     00:03:12.192    125,555 bytes   640,694 bytes   00:03:24.913    
+2               0:10:44.185     0:09:17.473     24,790 kbps     33,111 kbps     00:18:30.943    30,520 kbps     00:18:26.939    30,060 kbps     00:14:10.474    129,242 bytes   541,110 bytes   00:15:26.884    
+3               0:20:01.658     0:11:27.645     23,141 kbps     33,129 kbps     00:21:08.308    30,403 kbps     00:30:34.207    30,122 kbps     00:30:29.202    120,646 bytes   612,627 bytes   00:31:10.910    
+4               0:31:29.304     0:07:55.057     22,466 kbps     33,070 kbps     00:35:36.425    30,370 kbps     00:33:36.931    30,096 kbps     00:35:27.416    117,126 bytes   640,440 bytes   00:32:58.142    
+5               0:39:24.362     0:12:26.454     26,246 kbps     32,876 kbps     00:48:24.651    30,240 kbps     00:46:31.079    30,028 kbps     00:43:52.379    136,835 bytes   635,232 bytes   00:48:11.597    
+6               0:51:50.816     0:10:00.016     25,944 kbps     32,818 kbps     00:54:04.699    30,359 kbps     00:53:10.186    30,053 kbps     00:52:18.510    135,259 bytes   495,331 bytes   00:53:52.270    
+7               1:01:50.832     0:11:06.374     26,468 kbps     33,624 kbps     01:12:17.166    30,443 kbps     01:10:26.055    30,053 kbps     01:11:11.892    137,989 bytes   615,935 bytes   01:10:29.433    
+8               1:12:57.206     0:12:38.174     19,157 kbps     33,298 kbps     01:15:24.937    30,312 kbps     01:15:35.614    30,056 kbps     01:13:07.800    99,880 bytes    608,094 bytes   01:18:50.100    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     2874.580                24,001                  8,624,273,123   46,912,453      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           2874.580                2,317                   832,499,996     4,965,118       
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           2874.580                2,309                   829,760,804     4,949,646       
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           2874.580                50                      18,037,341      102,010         
+00002.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           2874.580                51                      18,408,425      104,188         
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     2260.633                23,995                  6,780,595,697   36,883,641      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           2260.633                2,330                   658,383,348     3,927,816       
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           2260.633                2,326                   657,145,416     3,920,811       
+00004.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           2260.633                43                      12,038,053      68,247          
+00004.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           2260.633                43                      12,257,301      69,538          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Le avventure di Sammy
+Disc Label: Sammy's.Adventures.2010.BluRay.3D2D.1080p.AVC.ITA.ENG
+Disc Size: 31,352,247,364 bytes
+Protection: AACS
+Playlist: 00180.MPLS
+Size: 19,598,475,264 bytes
+Length: 1:25:35.380
+Total Bitrate: 30.53 Mbps
+Video: MPEG-4 AVC Video / 23998 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2323 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2316 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Italian / 46.852 kbps
+* Subtitle: Italian / 47.772 kbps
+
+
+********************
+PLAYLIST: 00196.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00196.MPLS                                                      AVC     1:25:35 19,598,475,264  31,352,247,364  30.53   24.00   DTS-HD Master 5.1 2323Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Le avventure di Sammy
+Disc Label:     Sammy's.Adventures.2010.BluRay.3D2D.1080p.AVC.ITA.ENG
+Disc Size:      31,352,247,364 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00196.MPLS
+Length:                 1:25:35.380 (h:m:s.ms)
+Size:                   19,598,475,264 bytes
+Total Bitrate:          30.53 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23998 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2323 kbps       5.1 / 48 kHz /  2323 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2316 kbps       5.1 / 48 kHz /  2316 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         Italian         46.852 kbps                     
+Presentation Graphics           Italian         47.772 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     0:47:54.663     10,968,895,488  30,526          
+00004.M2TS      0:47:54.663     0:37:40.716     8,629,579,776   30,538          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:44.185     24,084 kbps     36,460 kbps     00:03:37.967    31,017 kbps     00:03:33.880    30,231 kbps     00:03:12.192    125,555 bytes   640,694 bytes   00:03:24.913    
+2               0:10:44.185     0:09:17.473     24,790 kbps     33,111 kbps     00:18:30.943    30,520 kbps     00:18:26.939    30,060 kbps     00:14:10.474    129,242 bytes   541,110 bytes   00:15:26.884    
+3               0:20:01.658     0:11:27.645     23,141 kbps     33,129 kbps     00:21:08.308    30,403 kbps     00:30:34.207    30,122 kbps     00:30:29.202    120,646 bytes   612,627 bytes   00:31:10.910    
+4               0:31:29.304     0:07:55.057     22,466 kbps     33,070 kbps     00:35:36.425    30,370 kbps     00:33:36.931    30,096 kbps     00:35:27.416    117,126 bytes   640,440 bytes   00:32:58.142    
+5               0:39:24.362     0:12:26.454     26,246 kbps     32,876 kbps     00:48:24.651    30,240 kbps     00:46:31.079    30,028 kbps     00:43:52.379    136,835 bytes   635,232 bytes   00:48:11.597    
+6               0:51:50.816     0:10:00.016     25,944 kbps     32,818 kbps     00:54:04.699    30,359 kbps     00:53:10.186    30,053 kbps     00:52:18.510    135,259 bytes   495,331 bytes   00:53:52.270    
+7               1:01:50.832     0:11:06.374     26,468 kbps     33,624 kbps     01:12:17.166    30,443 kbps     01:10:26.055    30,053 kbps     01:11:11.892    137,989 bytes   615,935 bytes   01:10:29.433    
+8               1:12:57.206     0:12:38.174     19,157 kbps     33,298 kbps     01:15:24.937    30,312 kbps     01:15:35.614    30,056 kbps     01:13:07.800    99,880 bytes    608,094 bytes   01:18:50.100    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     2874.580                24,001                  8,624,273,123   46,912,453      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           2874.580                2,317                   832,499,996     4,965,118       
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           2874.580                2,309                   829,760,804     4,949,646       
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           2874.580                50                      18,037,341      102,010         
+00002.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           2874.580                51                      18,408,425      104,188         
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     2260.633                23,995                  6,780,595,697   36,883,641      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           2260.633                2,330                   658,383,348     3,927,816       
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           2260.633                2,326                   657,145,416     3,920,811       
+00004.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           2260.633                43                      12,038,053      68,247          
+00004.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           2260.633                43                      12,257,301      69,538          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Le avventure di Sammy
+Disc Label: Sammy's.Adventures.2010.BluRay.3D2D.1080p.AVC.ITA.ENG
+Disc Size: 31,352,247,364 bytes
+Protection: AACS
+Playlist: 00196.MPLS
+Size: 19,598,475,264 bytes
+Length: 1:25:35.380
+Total Bitrate: 30.53 Mbps
+Video: MPEG-4 AVC Video / 23998 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2323 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2316 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+* Subtitle: Italian / 46.852 kbps
+Subtitle: Italian / 47.772 kbps
+

@@ -1,0 +1,122 @@
+Disc Label:     Sammy's.Adventures.2.2012.1080p.3D+2D.Blu-ray.AVC.ITA.DTS-HDMA.5.1
+Disc Size:      35,849,460,783 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:32:48 24,074,446,848  35,849,460,783  34.59   28.00   DTS-HD Master 5.1 2379Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Sammy's.Adventures.2.2012.1080p.3D+2D.Blu-ray.AVC.ITA.DTS-HDMA.5.1
+Disc Size:      35,849,460,783 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:32:48.437 (h:m:s.ms)
+Size:                   24,074,446,848 bytes
+Total Bitrate:          34.59 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2379 kbps       5.1 / 48 kHz /  2379 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -8dB)
+DTS-HD Master Audio             English         2161 kbps       5.1 / 48 kHz /  2161 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -8dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         0.073 kbps                      
+Presentation Graphics           Italian         38.319 kbps                     
+Presentation Graphics           Italian         38.319 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:32:48.437     24,074,446,848  34,587          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:53.830     28,038 kbps     46,784 kbps     00:04:41.990    32,325 kbps     00:00:02.919    29,789 kbps     00:00:00.875    146,165 bytes   977,792 bytes   00:02:15.635    
+2               0:06:53.830     0:07:53.055     27,987 kbps     47,501 kbps     00:07:12.682    31,544 kbps     00:09:27.191    29,932 kbps     00:14:24.196    145,910 bytes   969,758 bytes   00:07:50.052    
+3               0:14:46.886     0:07:05.424     28,014 kbps     48,764 kbps     00:16:11.345    32,070 kbps     00:17:31.800    30,123 kbps     00:16:02.378    146,054 bytes   953,939 bytes   00:17:35.804    
+4               0:21:52.311     0:09:37.994     27,993 kbps     42,672 kbps     00:30:45.718    31,413 kbps     00:30:45.093    29,643 kbps     00:25:41.790    145,944 bytes   748,510 bytes   00:30:06.304    
+5               0:31:30.305     0:05:28.536     28,011 kbps     47,536 kbps     00:34:19.891    31,689 kbps     00:35:29.544    29,815 kbps     00:35:29.293    146,037 bytes   965,007 bytes   00:35:21.994    
+6               0:36:58.841     0:08:07.737     27,985 kbps     47,749 kbps     00:44:12.191    32,669 kbps     00:39:42.588    30,303 kbps     00:38:45.323    145,902 bytes   968,916 bytes   00:44:12.274    
+7               0:45:06.578     0:07:14.016     28,011 kbps     43,327 kbps     00:49:50.654    31,517 kbps     00:49:47.192    29,616 kbps     00:45:49.872    146,035 bytes   732,171 bytes   00:45:25.431    
+8               0:52:20.595     0:07:26.988     28,005 kbps     44,627 kbps     00:53:54.689    31,617 kbps     00:53:51.770    29,980 kbps     00:55:48.178    146,005 bytes   776,603 bytes   00:55:57.187    
+9               0:59:47.584     0:06:21.047     27,971 kbps     44,143 kbps     01:05:43.606    31,714 kbps     01:02:16.733    29,698 kbps     01:04:07.844    145,828 bytes   949,392 bytes   01:05:43.939    
+10              1:06:08.631     0:08:25.171     28,016 kbps     47,378 kbps     01:10:23.093    31,591 kbps     01:12:43.776    29,831 kbps     01:10:22.301    146,063 bytes   971,136 bytes   01:10:23.344    
+11              1:14:33.802     0:08:35.306     28,000 kbps     47,123 kbps     01:19:36.813    32,021 kbps     01:19:32.893    29,700 kbps     01:17:28.310    145,981 bytes   965,506 bytes   01:19:36.897    
+12              1:23:09.109     0:09:39.328     27,973 kbps     40,472 kbps     01:25:01.429    31,144 kbps     01:27:44.634    29,552 kbps     01:24:43.411    145,848 bytes   969,528 bytes   01:26:43.156    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5568.354                28,000                  19,489,104,413  105,997,488     
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5568.354                2,379                   1,655,622,572   9,859,572       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5568.354                2,161                   1,504,365,512   9,043,862       
+00000.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5568.354                0                       51,046          292             
+00000.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5568.354                38                      26,672,192      149,983         
+00000.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           5568.354                38                      26,672,426      149,983         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Sammy's.Adventures.2.2012.1080p.3D+2D.Blu-ray.AVC.ITA.DTS-HDMA.5.1
+Disc Size: 35,849,460,783 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 24,074,446,848 bytes
+Length: 1:32:48.437
+Total Bitrate: 34.59 Mbps
+Video: MPEG-4 AVC Video / 27999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2379 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -8dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2161 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -8dB)
+Subtitle: Italian / 0.073 kbps
+Subtitle: Italian / 38.319 kbps
+Subtitle: Italian / 38.319 kbps
+

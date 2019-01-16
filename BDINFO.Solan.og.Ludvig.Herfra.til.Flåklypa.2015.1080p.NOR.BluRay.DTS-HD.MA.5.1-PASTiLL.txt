@@ -1,0 +1,111 @@
+Disc Label:     Solan.og.Ludvig.Herfra.til.Flåklypa.2015.1080p.NOR.BluRay.DTS-HD.MA.5.1-PASTiLL
+Disc Size:      24,735,382,200 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:18:22 17,719,590,912  24,735,382,200  30.14   25.00   DTS-HD Master 5.1 3553Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Solan.og.Ludvig.Herfra.til.Flåklypa.2015.1080p.NOR.BluRay.DTS-HD.MA.5.1-PASTiLL
+Disc Size:      24,735,382,200 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:18:22.833 (h:m:s.ms)
+Size:                   17,719,590,912 bytes
+Total Bitrate:          30.14 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25004 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Norwegian       3553 kbps       5.1 / 48 kHz /  3553 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Norwegian       28.818 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:18:21.833     17,714,356,224  30,140          
+00008.M2TS      1:18:21.833     0:00:01.000     5,234,688       41,878          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:59.625     26,015 kbps     62,250 kbps     00:00:42.333    34,365 kbps     00:00:59.125    32,940 kbps     00:06:14.791    135,484 bytes   954,921 bytes   00:00:42.875    
+2               0:09:59.625     0:10:00.125     26,980 kbps     57,060 kbps     00:15:49.416    37,098 kbps     00:16:31.958    34,235 kbps     00:15:46.000    140,521 bytes   962,197 bytes   00:10:09.250    
+3               0:19:59.750     0:10:00.166     28,278 kbps     59,511 kbps     00:28:03.916    36,318 kbps     00:27:08.541    34,102 kbps     00:23:31.291    147,279 bytes   980,267 bytes   00:20:26.375    
+4               0:29:59.916     0:09:59.666     25,663 kbps     61,983 kbps     00:34:10.666    37,873 kbps     00:34:06.708    34,935 kbps     00:30:24.708    133,664 bytes   935,648 bytes   00:34:11.208    
+5               0:39:59.583     0:10:00.083     26,462 kbps     44,917 kbps     00:44:24.875    35,240 kbps     00:44:14.875    33,245 kbps     00:44:10.958    137,824 bytes   879,928 bytes   00:47:38.833    
+6               0:49:59.666     0:10:00.250     20,946 kbps     62,068 kbps     00:57:28.166    35,443 kbps     00:58:35.125    32,276 kbps     00:56:37.625    109,096 bytes   980,463 bytes   00:57:28.708    
+7               0:59:59.916     0:10:00.083     25,846 kbps     52,459 kbps     01:07:57.875    37,278 kbps     01:07:57.750    34,074 kbps     01:07:56.708    134,613 bytes   974,289 bytes   01:09:01.291    
+8               1:10:00.000     0:08:22.833     18,843 kbps     49,216 kbps     01:10:25.083    38,097 kbps     01:12:44.041    34,280 kbps     01:12:41.125    98,149 bytes    978,587 bytes   01:12:22.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     4701.708                25,001                  14,693,551,649  79,922,116      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       nor (Norwegian)         4701.708                3,554                   2,088,561,340   12,085,006      
+00000.M2TS      4608 (0x1200)   0x90            PGS             nor (Norwegian)         4701.708                29                      16,940,878      97,617          
+00008.M2TS      4113 (0x1011)   0x1B            AVC                                     0.875                   45,714                  4,999,962       27,192          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Solan.og.Ludvig.Herfra.til.Flåklypa.2015.1080p.NOR.BluRay.DTS-HD.MA.5.1-PASTiLL
+Disc Size: 24,735,382,200 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 17,719,590,912 bytes
+Length: 1:18:22.833
+Total Bitrate: 30.14 Mbps
+Video: MPEG-4 AVC Video / 25004 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Norwegian / DTS-HD Master Audio / 5.1 / 48 kHz /  3553 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Norwegian / 28.818 kbps
+

@@ -1,0 +1,122 @@
+Disc Label:     Sheep.and.Wolves.3D.2016.MULTi.COMPLETE.BLURAY-FRiENDLESS
+Disc Size:      31,659,850,106 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:24:49 18,953,324,544  31,659,850,106  29.79   20.00   DTS-HD Master 5.1 4008Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Sheep.and.Wolves.3D.2016.MULTi.COMPLETE.BLURAY-FRiENDLESS
+Disc Size:      31,659,850,106 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:24:49.125 (h:m:s.ms)
+Size:                   18,953,324,544 bytes
+Total Bitrate:          29.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20001 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4008 kbps       5.1 / 48 kHz /  4008 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3980 kbps       5.1 / 48 kHz /  3980 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.020 kbps                      
+Presentation Graphics           German          32.362 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:24:47.123     18,948,397,056  29,798          
+00019.M2TS      1:24:47.123     0:00:02.001     4,927,488       19,690          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:16.894     20,029 kbps     43,134 kbps     00:00:11.636    24,627 kbps     00:00:07.632    22,313 kbps     00:00:02.627    104,415 bytes   979,565 bytes   00:07:08.678    
+2               0:07:16.894     0:06:08.451     19,972 kbps     33,430 kbps     00:08:57.286    23,174 kbps     00:08:53.491    21,531 kbps     00:08:56.827    104,125 bytes   957,838 bytes   00:08:57.495    
+3               0:13:25.346     0:10:17.783     19,998 kbps     35,174 kbps     00:16:21.480    23,803 kbps     00:15:41.565    21,605 kbps     00:15:36.477    104,263 bytes   978,140 bytes   00:16:55.764    
+4               0:23:43.130     0:06:34.602     20,033 kbps     35,741 kbps     00:26:26.793    23,266 kbps     00:29:18.798    21,821 kbps     00:29:13.793    104,441 bytes   974,620 bytes   00:28:45.140    
+5               0:30:17.732     0:06:07.658     19,990 kbps     33,781 kbps     00:30:28.827    23,583 kbps     00:33:05.650    21,406 kbps     00:36:10.626    104,219 bytes   946,799 bytes   00:33:24.127    
+6               0:36:25.391     0:07:23.234     19,999 kbps     34,785 kbps     00:40:54.577    23,369 kbps     00:40:20.209    21,803 kbps     00:38:51.787    104,263 bytes   980,883 bytes   00:43:29.231    
+7               0:43:48.626     0:07:14.851     19,993 kbps     34,489 kbps     00:45:12.960    23,668 kbps     00:45:19.216    21,373 kbps     00:47:30.514    104,236 bytes   962,985 bytes   00:51:02.934    
+8               0:51:03.477     0:08:41.938     20,006 kbps     36,225 kbps     00:52:54.337    23,618 kbps     00:52:25.016    21,689 kbps     00:52:25.016    104,302 bytes   929,934 bytes   00:52:54.379    
+9               0:59:45.415     0:05:50.850     19,997 kbps     33,971 kbps     01:03:11.454    23,479 kbps     01:05:09.196    21,484 kbps     01:02:28.619    104,256 bytes   969,498 bytes   01:05:12.325    
+10              1:05:36.265     0:05:20.403     19,983 kbps     33,646 kbps     01:09:08.018    22,658 kbps     01:08:38.239    21,263 kbps     01:06:12.218    104,180 bytes   801,596 bytes   01:10:23.636    
+11              1:10:56.669     0:08:04.150     19,994 kbps     35,765 kbps     01:11:32.079    23,162 kbps     01:18:12.646    21,684 kbps     01:18:12.646    104,240 bytes   941,566 bytes   01:17:38.487    
+12              1:19:00.819     0:05:46.304     20,025 kbps     26,932 kbps     01:20:19.272    22,052 kbps     01:20:11.681    21,163 kbps     01:20:28.573    104,403 bytes   577,579 bytes   01:19:52.162    
+13              1:24:47.123     0:00:02.002     18,792 kbps     20,000 kbps     01:24:48.082    0 kbps          00:00:00.000    0 kbps          00:00:00.000    100,056 bytes   104,277 bytes   01:24:49.083    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5087.040                20,002                  12,719,026,173  69,195,925      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5087.040                4,009                   2,549,411,664   14,648,452      
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5087.040                3,982                   2,532,150,072   14,555,048      
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5087.040                0                       12,524          75              
+00000.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5087.040                32                      20,587,017      119,615         
+00019.M2TS      4113 (0x1011)   0x1B            AVC                                     1.877                   20,055                  4,705,096       25,586          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Sheep.and.Wolves.3D.2016.MULTi.COMPLETE.BLURAY-FRiENDLESS
+Disc Size: 31,659,850,106 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 18,953,324,544 bytes
+Length: 1:24:49.125
+Total Bitrate: 29.79 Mbps
+Video: MPEG-4 AVC Video / 20001 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4008 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3980 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 0.020 kbps
+Subtitle: German / 32.362 kbps
+

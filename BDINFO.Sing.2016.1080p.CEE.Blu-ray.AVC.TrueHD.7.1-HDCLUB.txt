@@ -1,0 +1,184 @@
+Disc Title:     Sing
+Disc Label:     Sing.2016.1080p.CEE.Blu-ray.AVC.TrueHD.7.1-HDCLUB
+Disc Size:      47,007,210,960 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:47:53 34,850,297,856  47,007,210,960  43.07   29.03   Dolby Atmos 7.1 5579Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Sing
+Disc Label:     Sing.2016.1080p.CEE.Blu-ray.AVC.TrueHD.7.1-HDCLUB
+Disc Size:      47,007,210,960 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:47:53.508 (h:m:s.ms)
+Size:                   34,850,297,856 bytes
+Total Bitrate:          43.07 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29031 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         5579 kbps       7.1 / 48 kHz /  4939 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Plus Audio        Croatian        768 kbps        7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Audio             Estonian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Plus Audio        Latvian         768 kbps        7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Audio             Lithuanian      640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Plus Audio        Slovak          768 kbps        7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         44.113 kbps                     
+Presentation Graphics           Russian         30.893 kbps                     
+Presentation Graphics           Croatian        26.266 kbps                     
+Presentation Graphics           Estonian        33.628 kbps                     
+Presentation Graphics           Latvian         30.564 kbps                     
+Presentation Graphics           Lithuanian      29.670 kbps                     
+Presentation Graphics           Slovenian       27.362 kbps                     
+Presentation Graphics           Russian         0.647 kbps                      
+Presentation Graphics           Croatian        0.669 kbps                      
+Presentation Graphics           Estonian        0.649 kbps                      
+Presentation Graphics           Latvian         0.681 kbps                      
+Presentation Graphics           Lithuanian      0.713 kbps                      
+Presentation Graphics           Slovenian       0.583 kbps                      
+Presentation Graphics           Slovak          0.725 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:47:53.508     34,850,297,856  43,068          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:29.352     29,941 kbps     35,462 kbps     00:00:46.463    32,492 kbps     00:00:42.459    32,155 kbps     00:00:37.370    156,076 bytes   484,408 bytes   00:04:13.920    
+2               0:04:29.352     0:06:07.116     29,505 kbps     34,062 kbps     00:08:48.236    32,256 kbps     00:08:44.273    31,997 kbps     00:08:56.786    153,823 bytes   470,390 bytes   00:10:36.469    
+3               0:10:36.469     0:03:28.208     28,426 kbps     36,392 kbps     00:12:14.984    32,095 kbps     00:12:07.143    31,680 kbps     00:12:06.058    148,199 bytes   508,892 bytes   00:13:52.331    
+4               0:14:04.677     0:04:27.976     28,281 kbps     33,921 kbps     00:18:11.590    32,204 kbps     00:15:21.128    31,990 kbps     00:15:16.123    147,444 bytes   492,252 bytes   00:18:32.653    
+5               0:18:32.653     0:06:42.068     30,142 kbps     33,709 kbps     00:19:43.056    32,174 kbps     00:19:39.052    31,974 kbps     00:19:37.176    157,148 bytes   497,425 bytes   00:18:35.656    
+6               0:25:14.721     0:04:49.330     28,503 kbps     33,812 kbps     00:29:12.542    32,023 kbps     00:29:48.620    31,587 kbps     00:29:47.619    148,601 bytes   429,889 bytes   00:30:04.052    
+7               0:30:04.052     0:05:07.724     29,287 kbps     34,130 kbps     00:33:26.379    32,208 kbps     00:34:18.389    31,974 kbps     00:34:14.343    152,691 bytes   466,460 bytes   00:33:21.833    
+8               0:35:11.776     0:04:55.628     28,003 kbps     33,760 kbps     00:39:38.876    32,196 kbps     00:39:35.122    31,921 kbps     00:39:33.245    145,997 bytes   401,241 bytes   00:35:58.114    
+9               0:40:07.404     0:04:28.726     28,757 kbps     33,363 kbps     00:43:34.278    32,069 kbps     00:44:30.167    31,764 kbps     00:40:23.712    149,925 bytes   448,748 bytes   00:44:07.436    
+10              0:44:36.131     0:05:50.516     30,478 kbps     34,818 kbps     00:48:03.046    32,335 kbps     00:48:02.129    32,063 kbps     00:47:54.121    158,899 bytes   494,354 bytes   00:48:04.006    
+11              0:50:26.648     0:05:09.559     27,910 kbps     34,090 kbps     00:52:08.542    32,080 kbps     00:55:28.825    30,973 kbps     00:50:41.997    145,510 bytes   379,622 bytes   00:55:03.842    
+12              0:55:36.207     0:09:04.502     28,818 kbps     34,823 kbps     00:59:22.850    32,263 kbps     01:03:44.362    32,005 kbps     00:58:56.533    150,246 bytes   524,683 bytes   00:59:16.219    
+13              1:04:40.710     0:09:23.271     28,456 kbps     34,355 kbps     01:07:05.021    32,256 kbps     01:13:55.264    31,944 kbps     01:08:10.294    148,359 bytes   543,381 bytes   01:14:00.894    
+14              1:14:03.981     0:05:13.980     29,702 kbps     35,384 kbps     01:15:35.197    32,431 kbps     01:16:33.255    32,065 kbps     01:16:32.713    154,852 bytes   563,688 bytes   01:15:37.032    
+15              1:19:17.961     0:04:41.197     29,509 kbps     33,717 kbps     01:19:27.262    32,160 kbps     01:19:50.744    31,978 kbps     01:19:45.739    153,846 bytes   450,311 bytes   01:19:27.471    
+16              1:23:59.159     0:02:57.302     29,106 kbps     33,772 kbps     01:26:26.514    32,099 kbps     01:26:22.635    31,356 kbps     01:26:31.352    151,745 bytes   386,110 bytes   01:24:58.927    
+17              1:26:56.461     0:03:41.804     30,443 kbps     34,756 kbps     01:29:03.296    32,361 kbps     01:28:20.670    32,090 kbps     01:28:15.748    158,716 bytes   389,718 bytes   01:30:24.127    
+18              1:30:38.266     0:04:08.915     27,029 kbps     32,922 kbps     01:32:31.963    30,668 kbps     01:32:13.486    29,892 kbps     01:32:13.027    140,917 bytes   373,323 bytes   01:31:13.593    
+19              1:34:47.181     0:05:28.828     29,131 kbps     33,580 kbps     01:35:46.323    32,225 kbps     01:39:34.385    31,988 kbps     01:35:41.610    151,874 bytes   405,795 bytes   01:40:06.333    
+20              1:40:16.010     0:07:37.498     29,000 kbps     41,916 kbps     01:47:50.505    32,110 kbps     01:42:15.129    31,898 kbps     01:46:54.366    151,207 bytes   573,317 bytes   01:47:51.298    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6473.342                29,032                  23,491,572,744  127,761,944     
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           6473.342                5,579                   4,514,493,388   29,332,546      
+00800.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           6473.342                640                     517,882,880     3,034,470       
+00800.M2TS      4354 (0x1102)   0x84            AC3+            hrv (Croatian)          6473.342                768                     621,459,456     3,641,364       
+00800.M2TS      4355 (0x1103)   0x81            AC3             est (Estonian)          6473.342                640                     517,882,880     3,034,470       
+00800.M2TS      4356 (0x1104)   0x84            AC3+            lav (Latvian)           6473.342                768                     621,459,456     3,641,364       
+00800.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        6473.342                640                     517,882,880     3,034,470       
+00800.M2TS      4358 (0x1106)   0x81            AC3             slv (Slovenian)         6473.342                640                     517,882,880     3,034,470       
+00800.M2TS      4359 (0x1107)   0x84            AC3+            slk (Slovak)            6473.342                768                     621,459,456     3,641,364       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6473.342                44                      35,695,818      206,066         
+00800.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           6473.342                31                      24,998,225      145,452         
+00800.M2TS      4610 (0x1202)   0x90            PGS             hrv (Croatian)          6473.342                26                      21,254,275      125,081         
+00800.M2TS      4611 (0x1203)   0x90            PGS             est (Estonian)          6473.342                34                      27,211,092      157,370         
+00800.M2TS      4612 (0x1204)   0x90            PGS             lav (Latvian)           6473.342                31                      24,731,710      143,966         
+00800.M2TS      4613 (0x1205)   0x90            PGS             lit (Lithuanian)        6473.342                30                      24,008,677      139,973         
+00800.M2TS      4614 (0x1206)   0x90            PGS             slv (Slovenian)         6473.342                27                      22,141,203      129,917         
+00800.M2TS      4615 (0x1207)   0x90            PGS             rus (Russian)           6473.342                1                       523,924         3,055           
+00800.M2TS      4616 (0x1208)   0x90            PGS             hrv (Croatian)          6473.342                1                       541,635         3,143           
+00800.M2TS      4617 (0x1209)   0x90            PGS             est (Estonian)          6473.342                1                       525,452         3,048           
+00800.M2TS      4618 (0x120A)   0x90            PGS             lav (Latvian)           6473.342                1                       551,146         3,192           
+00800.M2TS      4619 (0x120B)   0x90            PGS             lit (Lithuanian)        6473.342                1                       576,808         3,326           
+00800.M2TS      4620 (0x120C)   0x90            PGS             slv (Slovenian)         6473.342                1                       471,397         2,756           
+00800.M2TS      4621 (0x120D)   0x90            PGS             slk (Slovak)            6473.342                1                       586,772         3,399           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Sing
+Disc Label: Sing.2016.1080p.CEE.Blu-ray.AVC.TrueHD.7.1-HDCLUB
+Disc Size: 47,007,210,960 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 34,850,297,856 bytes
+Length: 1:47:53.508
+Total Bitrate: 43.07 Mbps
+Video: MPEG-4 AVC Video / 29031 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4939 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: Estonian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Latvian / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: Lithuanian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Slovak / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Subtitle: English / 44.113 kbps
+Subtitle: Russian / 30.893 kbps
+Subtitle: Croatian / 26.266 kbps
+Subtitle: Estonian / 33.628 kbps
+Subtitle: Latvian / 30.564 kbps
+Subtitle: Lithuanian / 29.670 kbps
+Subtitle: Slovenian / 27.362 kbps
+Subtitle: Russian / 0.647 kbps
+Subtitle: Croatian / 0.669 kbps
+Subtitle: Estonian / 0.649 kbps
+Subtitle: Latvian / 0.681 kbps
+Subtitle: Lithuanian / 0.713 kbps
+Subtitle: Slovenian / 0.583 kbps
+Subtitle: Slovak / 0.725 kbps
+

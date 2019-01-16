@@ -1,0 +1,106 @@
+Disc Label:     Savva.Serdtse.voina.2015.1080p.RUS.Blu-ray.AVC.DD.5.1-HDCLUB
+Disc Size:      17,212,201,748 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:27:20 16,705,345,536  17,212,201,748  25.50   22.03   DD AC3 5.1 640Kbps                        DTS 5.1 1509Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Savva.Serdtse.voina.2015.1080p.RUS.Blu-ray.AVC.DD.5.1-HDCLUB
+Disc Size:      17,212,201,748 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:27:20.000 (h:m:s.ms)
+Size:                   16,705,345,536 bytes
+Total Bitrate:          25.50 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22026 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       Russian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:27:20.000     16,705,345,536  25,504          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:56.500     20,763 kbps     55,630 kbps     00:01:55.083    40,572 kbps     00:04:16.958    37,818 kbps     00:00:51.583    108,123 bytes   748,735 bytes   00:00:57.791    
+2               0:04:56.500     0:08:40.250     19,045 kbps     54,868 kbps     00:12:23.250    40,510 kbps     00:11:38.708    36,889 kbps     00:12:23.208    99,192 bytes    941,469 bytes   00:12:23.291    
+3               0:13:36.750     0:06:19.583     23,188 kbps     62,277 kbps     00:14:11.125    40,629 kbps     00:14:11.125    37,824 kbps     00:14:11.125    120,771 bytes   904,338 bytes   00:13:57.208    
+4               0:19:56.333     0:08:05.083     27,882 kbps     62,341 kbps     00:26:39.958    40,625 kbps     00:26:39.958    37,698 kbps     00:19:56.833    145,219 bytes   935,881 bytes   00:28:00.916    
+5               0:28:01.416     0:05:41.791     29,837 kbps     62,248 kbps     00:31:15.624    38,391 kbps     00:30:17.375    36,467 kbps     00:30:17.208    155,400 bytes   965,164 bytes   00:29:51.291    
+6               0:33:43.208     0:07:36.375     17,713 kbps     53,497 kbps     00:40:24.416    40,586 kbps     00:40:47.583    37,841 kbps     00:40:47.458    92,255 bytes    800,558 bytes   00:35:30.208    
+7               0:41:19.583     0:06:55.000     22,717 kbps     53,556 kbps     00:47:10.916    39,831 kbps     00:42:14.208    37,299 kbps     00:45:13.708    118,316 bytes   799,551 bytes   00:41:45.458    
+8               0:48:14.583     0:08:29.458     20,008 kbps     55,287 kbps     00:54:05.666    40,697 kbps     00:54:04.916    37,828 kbps     00:55:57.125    104,209 bytes   856,929 bytes   00:54:25.791    
+9               0:56:44.041     0:02:49.291     15,495 kbps     35,818 kbps     00:58:21.833    31,380 kbps     00:58:18.625    27,127 kbps     00:58:18.708    80,705 bytes    668,202 bytes   00:58:17.875    
+10              0:59:33.333     0:08:17.958     30,264 kbps     62,027 kbps     01:01:38.833    40,677 kbps     01:02:10.208    37,773 kbps     00:59:33.875    157,624 bytes   919,294 bytes   01:00:01.375    
+11              1:07:51.291     0:06:42.791     18,690 kbps     46,044 kbps     01:13:45.750    38,502 kbps     01:13:44.125    33,279 kbps     01:13:26.750    97,342 bytes    882,080 bytes   01:14:34.083    
+12              1:14:34.083     0:12:45.916     18,148 kbps     62,188 kbps     01:16:53.041    40,697 kbps     01:15:40.375    37,839 kbps     01:18:51.041    94,528 bytes    963,604 bytes   01:21:34.041    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5239.917                22,026                  14,426,885,009  78,480,239      
+00001.M2TS      4352 (0x1100)   0x81            AC3             rus (Russian)           5239.917                640                     419,197,440     2,456,235       
+00001.M2TS      4353 (0x1101)   0x82            DTS             rus (Russian)           5239.917                1,510                   988,880,211     5,894,964       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Savva.Serdtse.voina.2015.1080p.RUS.Blu-ray.AVC.DD.5.1-HDCLUB
+Disc Size: 17,212,201,748 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 16,705,345,536 bytes
+Length: 1:27:20.000
+Total Bitrate: 25.50 Mbps
+Video: MPEG-4 AVC Video / 22026 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+

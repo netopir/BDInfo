@@ -1,0 +1,180 @@
+Disc Title:     SeaFood
+Disc Label:     SeeFood.2011.RUS.1080p.Blu-ray.AVC.LPCM.5.1-BLUEBIRD
+Disc Size:      17,518,803,162 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:32:04 17,265,709,056  17,518,803,162  25.00   19.17   LPCM 5.1 4608Kbps (48kHz/16-bit)          
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     SeaFood
+Disc Label:     SeeFood.2011.RUS.1080p.Blu-ray.AVC.LPCM.5.1-BLUEBIRD
+Disc Size:      17,518,803,162 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:32:04.291 (h:m:s.ms)
+Size:                   17,265,709,056 bytes
+Total Bitrate:          25.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19165 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      Russian         4608 kbps       5.1 / 48 kHz /  4608 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:32:04.291     17,265,709,056  25,003          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:32:04.291     19,165 kbps     57,520 kbps     00:07:20.124    35,354 kbps     01:02:39.250    32,402 kbps     00:12:29.041    99,819 bytes    982,370 bytes   00:36:33.041    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5524.208                19,165                  13,234,139,741  72,002,319      
+00002.M2TS      4352 (0x1100)   0x80            LPCM            rus (Russian)           5524.208                4,614                   3,186,407,266   17,677,740      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: SeaFood
+Disc Label: SeeFood.2011.RUS.1080p.Blu-ray.AVC.LPCM.5.1-BLUEBIRD
+Disc Size: 17,518,803,162 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 17,265,709,056 bytes
+Length: 1:32:04.291
+Total Bitrate: 25.00 Mbps
+Video: MPEG-4 AVC Video / 19165 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Russian / LPCM Audio / 5.1 / 48 kHz /  4608 kbps / 16-bit
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:32:04 17,265,709,056  17,518,803,162  25.00   19.17   LPCM 5.1 4608Kbps (48kHz/16-bit)          
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     SeaFood
+Disc Label:     SeeFood.2011.RUS.1080p.Blu-ray.AVC.LPCM.5.1-BLUEBIRD
+Disc Size:      17,518,803,162 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:32:04.291 (h:m:s.ms)
+Size:                   17,265,709,056 bytes
+Total Bitrate:          25.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19165 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      Russian         4608 kbps       5.1 / 48 kHz /  4608 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:32:04.291     17,265,709,056  25,003          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:16:33.000     19,602 kbps     57,520 kbps     00:07:20.124    34,881 kbps     00:00:27.250    32,402 kbps     00:12:29.041    102,088 bytes   885,940 bytes   00:13:22.541    
+2               0:16:33.000     0:13:16.916     18,775 kbps     52,921 kbps     00:16:43.125    35,241 kbps     00:26:15.666    31,846 kbps     00:26:12.374    97,788 bytes    945,844 bytes   00:19:01.291    
+3               0:29:49.916     0:13:44.125     16,480 kbps     57,390 kbps     00:37:53.291    35,020 kbps     00:32:51.708    31,207 kbps     00:42:28.458    85,832 bytes    982,370 bytes   00:36:33.041    
+4               0:43:34.041     0:18:58.500     19,046 kbps     53,524 kbps     00:57:54.750    34,662 kbps     00:45:24.000    30,632 kbps     00:50:32.291    99,202 bytes    746,338 bytes   00:52:33.333    
+5               1:02:32.541     0:13:38.499     18,621 kbps     52,704 kbps     01:10:11.916    35,354 kbps     01:02:39.250    31,955 kbps     01:02:38.791    96,984 bytes    826,199 bytes   01:04:17.291    
+6               1:16:11.041     0:15:53.250     21,966 kbps     49,951 kbps     01:30:13.458    34,277 kbps     01:16:11.291    30,883 kbps     01:16:11.416    114,413 bytes   871,247 bytes   01:22:40.666    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5524.208                19,165                  13,234,139,741  72,002,319      
+00002.M2TS      4352 (0x1100)   0x80            LPCM            rus (Russian)           5524.208                4,614                   3,186,407,266   17,677,740      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: SeaFood
+Disc Label: SeeFood.2011.RUS.1080p.Blu-ray.AVC.LPCM.5.1-BLUEBIRD
+Disc Size: 17,518,803,162 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 17,265,709,056 bytes
+Length: 1:32:04.291
+Total Bitrate: 25.00 Mbps
+Video: MPEG-4 AVC Video / 19165 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Russian / LPCM Audio / 5.1 / 48 kHz /  4608 kbps / 16-bit
+

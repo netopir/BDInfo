@@ -1,0 +1,105 @@
+Disc Label:     Space.Dogs.2010.3D.1080p.Blu-Ray.DTS-HD.MA.5.1.BLUEBIRD
+Disc Size:      32,153,552,524 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:28:26 20,451,225,600  32,153,552,524  30.83   25.68   DTS-HD Master 5.1 3567Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Space.Dogs.2010.3D.1080p.Blu-Ray.DTS-HD.MA.5.1.BLUEBIRD
+Disc Size:      32,153,552,524 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:28:26.509 (h:m:s.ms)
+Size:                   20,451,225,600 bytes
+Total Bitrate:          30.83 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25682 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         3567 kbps       5.1 / 48 kHz /  3567 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     1:28:26.509     20,451,225,600  30,832          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:35.348     25,851 kbps     44,922 kbps     00:00:30.864    33,857 kbps     00:05:07.307    32,718 kbps     00:08:11.866    134,762 bytes   703,075 bytes   00:05:07.348    
+2               0:08:35.348     0:06:49.367     26,831 kbps     40,396 kbps     00:09:33.864    33,893 kbps     00:14:13.394    31,941 kbps     00:14:38.002    139,886 bytes   677,784 bytes   00:14:13.435    
+3               0:15:24.715     0:08:06.319     26,706 kbps     56,097 kbps     00:22:59.419    33,271 kbps     00:22:46.114    32,682 kbps     00:22:46.114    139,231 bytes   842,693 bytes   00:22:59.586    
+4               0:23:31.034     0:06:00.234     27,276 kbps     43,533 kbps     00:24:37.434    34,777 kbps     00:25:20.977    33,471 kbps     00:25:17.098    142,203 bytes   898,362 bytes   00:26:55.655    
+5               0:29:31.269     0:08:58.913     27,281 kbps     42,178 kbps     00:38:05.825    35,472 kbps     00:35:45.768    33,364 kbps     00:37:57.191    142,231 bytes   895,900 bytes   00:29:57.086    
+6               0:38:30.182     0:09:26.357     27,679 kbps     40,999 kbps     00:44:42.805    35,080 kbps     00:42:54.863    32,756 kbps     00:42:26.627    144,306 bytes   806,238 bytes   00:41:21.437    
+7               0:47:56.540     0:06:00.902     24,835 kbps     48,657 kbps     00:52:28.520    34,127 kbps     00:49:59.162    32,656 kbps     00:49:57.828    129,477 bytes   829,724 bytes   00:49:35.430    
+8               0:53:57.442     0:06:19.087     21,477 kbps     42,260 kbps     00:53:57.567    35,851 kbps     00:54:12.040    32,287 kbps     00:54:11.998    111,971 bytes   765,810 bytes   00:57:32.824    
+9               1:00:16.529     0:07:49.385     26,539 kbps     47,569 kbps     01:07:00.349    36,181 kbps     01:06:13.719    32,655 kbps     01:06:10.841    138,363 bytes   1,042,034 bytes 01:03:18.920    
+10              1:08:05.915     0:07:19.814     26,805 kbps     40,780 kbps     01:15:11.673    34,606 kbps     01:10:33.103    31,726 kbps     01:10:28.349    139,751 bytes   866,373 bytes   01:15:11.715    
+11              1:15:25.729     0:05:15.106     27,119 kbps     39,994 kbps     01:17:44.868    33,363 kbps     01:20:34.913    31,612 kbps     01:16:51.982    141,386 bytes   826,334 bytes   01:17:44.951    
+12              1:20:40.836     0:07:45.673     19,089 kbps     43,756 kbps     01:20:41.002    36,803 kbps     01:22:01.916    33,648 kbps     01:22:53.301    99,529 bytes    475,542 bytes   01:23:39.180    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x1B            AVC                                     5306.426                25,683                  17,035,385,000  92,657,915      
+00009.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           5306.426                3,567                   2,365,752,912   13,681,111      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Space.Dogs.2010.3D.1080p.Blu-Ray.DTS-HD.MA.5.1.BLUEBIRD
+Disc Size: 32,153,552,524 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 20,451,225,600 bytes
+Length: 1:28:26.509
+Total Bitrate: 30.83 Mbps
+Video: MPEG-4 AVC Video / 25682 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  3567 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+

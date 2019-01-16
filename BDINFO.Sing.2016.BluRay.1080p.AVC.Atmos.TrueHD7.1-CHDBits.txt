@@ -1,0 +1,145 @@
+Disc Title:     Sing
+Disc Label:     Sing.2016.BluRay.1080p.AVC.Atmos.TrueHD7.1-CHDBits
+Disc Size:      46,469,258,922 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:47:53 33,399,017,472  46,469,258,922  41.27   30.99   Dolby Atmos 7.1 5528Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Sing
+Disc Label:     Sing.2016.BluRay.1080p.AVC.Atmos.TrueHD7.1-CHDBits
+Disc Size:      46,469,258,922 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:47:53.675 (h:m:s.ms)
+Size:                   33,399,017,472 bytes
+Total Bitrate:          41.27 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30995 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         5528 kbps       7.1 / 48 kHz /  4888 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Plus Audio        Spanish         768 kbps        7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -24dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         44.112 kbps                     
+Presentation Graphics           Spanish         32.136 kbps                     
+Presentation Graphics           French          31.287 kbps                     
+Presentation Graphics           Spanish         0.705 kbps                      
+Presentation Graphics           French          0.484 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:47:53.675     33,399,017,472  41,274          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:29.352     30,967 kbps     36,485 kbps     00:02:40.535    35,217 kbps     00:04:00.031    34,823 kbps     00:01:14.491    161,421 bytes   487,851 bytes   00:04:00.073    
+2               0:04:29.352     0:06:07.116     31,395 kbps     36,584 kbps     00:08:48.236    35,113 kbps     00:08:44.232    34,958 kbps     00:09:00.373    163,679 bytes   479,165 bytes   00:10:36.469    
+3               0:10:36.469     0:03:28.208     30,187 kbps     37,920 kbps     00:12:14.984    35,040 kbps     00:12:06.934    34,093 kbps     00:12:06.058    157,379 bytes   517,075 bytes   00:13:52.331    
+4               0:14:04.677     0:04:27.976     30,833 kbps     36,863 kbps     00:15:15.205    35,181 kbps     00:15:21.128    34,966 kbps     00:15:16.123    160,751 bytes   495,575 bytes   00:18:32.653    
+5               0:18:32.653     0:06:42.068     31,921 kbps     36,576 kbps     00:19:43.056    35,143 kbps     00:19:39.052    34,898 kbps     00:19:37.176    166,421 bytes   498,097 bytes   00:18:33.654    
+6               0:25:14.721     0:04:49.330     29,975 kbps     36,471 kbps     00:29:34.522    34,451 kbps     00:29:31.644    33,054 kbps     00:29:28.391    156,278 bytes   429,510 bytes   00:30:04.052    
+7               0:30:04.052     0:05:07.724     31,575 kbps     37,096 kbps     00:34:14.135    35,147 kbps     00:34:14.844    34,936 kbps     00:34:13.843    164,617 bytes   456,602 bytes   00:33:22.709    
+8               0:35:11.776     0:04:55.628     30,403 kbps     36,445 kbps     00:39:38.876    35,086 kbps     00:39:05.176    34,840 kbps     00:39:33.245    158,508 bytes   396,836 bytes   00:35:58.114    
+9               0:40:07.404     0:04:28.726     30,971 kbps     36,131 kbps     00:44:34.171    35,009 kbps     00:44:30.167    34,683 kbps     00:40:23.712    161,471 bytes   446,336 bytes   00:42:39.765    
+10              0:44:36.131     0:05:50.516     32,396 kbps     37,004 kbps     00:48:38.498    35,171 kbps     00:48:38.498    34,994 kbps     00:48:36.788    168,900 bytes   496,405 bytes   00:48:07.009    
+11              0:50:26.648     0:05:09.559     29,812 kbps     36,510 kbps     00:52:08.834    34,987 kbps     00:55:28.825    32,799 kbps     00:50:41.997    155,427 bytes   363,745 bytes   00:50:50.964    
+12              0:55:36.207     0:09:04.502     30,902 kbps     37,298 kbps     00:59:22.850    35,216 kbps     00:59:18.054    34,737 kbps     01:00:48.436    161,107 bytes   533,273 bytes   00:59:15.218    
+13              1:04:40.710     0:09:23.271     30,883 kbps     37,352 kbps     01:07:05.021    35,196 kbps     01:13:55.264    34,915 kbps     01:08:10.377    161,010 bytes   542,145 bytes   01:14:00.894    
+14              1:14:03.981     0:05:13.980     30,620 kbps     36,911 kbps     01:16:36.258    34,912 kbps     01:15:29.066    34,334 kbps     01:15:30.025    159,639 bytes   561,237 bytes   01:15:37.032    
+15              1:19:17.961     0:04:41.197     30,713 kbps     36,224 kbps     01:22:06.880    34,995 kbps     01:19:55.081    34,697 kbps     01:19:51.495    160,124 bytes   447,287 bytes   01:19:27.471    
+16              1:23:59.159     0:02:57.302     30,085 kbps     35,959 kbps     01:26:24.012    34,938 kbps     01:26:31.352    33,424 kbps     01:26:27.182    156,849 bytes   369,250 bytes   01:26:27.473    
+17              1:26:56.461     0:03:41.804     32,319 kbps     37,382 kbps     01:29:03.212    35,141 kbps     01:28:40.732    34,881 kbps     01:28:35.727    168,494 bytes   368,633 bytes   01:30:23.501    
+18              1:30:38.266     0:04:08.915     29,288 kbps     35,835 kbps     01:32:13.402    32,865 kbps     01:32:13.402    32,069 kbps     01:32:13.027    152,695 bytes   361,464 bytes   01:31:13.593    
+19              1:34:47.181     0:05:28.828     31,462 kbps     36,595 kbps     01:39:31.090    35,210 kbps     01:39:34.385    34,919 kbps     01:39:30.381    164,031 bytes   396,922 bytes   01:40:06.333    
+20              1:40:16.010     0:07:37.665     31,696 kbps     38,820 kbps     01:47:50.505    35,265 kbps     01:42:15.129    34,891 kbps     01:44:36.019    165,262 bytes   407,785 bytes   01:42:31.728    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6473.509                30,995                  25,081,174,876  136,401,019     
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           6473.509                5,529                   4,473,697,452   29,137,458      
+00800.M2TS      4353 (0x1101)   0x84            AC3+            spa (Spanish)           6473.509                768                     621,474,816     3,641,454       
+00800.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            6473.509                640                     517,895,680     3,034,545       
+00800.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           6473.509                192                     155,368,704     1,011,515       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6473.509                44                      35,695,818      206,066         
+00800.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           6473.509                32                      26,004,861      151,558         
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            6473.509                31                      25,317,626      147,116         
+00800.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           6473.509                1                       570,526         3,305           
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            6473.509                0                       391,764         2,291           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Sing
+Disc Label: Sing.2016.BluRay.1080p.AVC.Atmos.TrueHD7.1-CHDBits
+Disc Size: 46,469,258,922 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 33,399,017,472 bytes
+Length: 1:47:53.675
+Total Bitrate: 41.27 Mbps
+Video: MPEG-4 AVC Video / 30995 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4888 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -24dB / Dolby Surround
+Subtitle: English / 44.112 kbps
+Subtitle: Spanish / 32.136 kbps
+Subtitle: French / 31.287 kbps
+Subtitle: Spanish / 0.705 kbps
+Subtitle: French / 0.484 kbps
+
