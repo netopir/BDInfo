@@ -1,0 +1,245 @@
+Disc Title:     Early Man
+Disc Label:     Early.Man.Steinzeit.Bereit.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      32,674,040,881 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:28:53 27,136,622,592  32,674,040,881  40.70   26.98   DTS-HD Master 7.1 5190Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Early Man
+Disc Label:     Early.Man.Steinzeit.Bereit.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      32,674,040,881 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:28:53.583 (h:m:s.ms)
+Size:                   27,136,622,592 bytes
+Total Bitrate:          40.70 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26980 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          5190 kbps       7.1 / 48 kHz /  5190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3846 kbps       5.1 / 48 kHz /  3846 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* LPCM Audio                    English         2304 kbps       2.0 / 48 kHz /  2304 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          28.107 kbps                     
+Presentation Graphics           English         36.492 kbps                     
+* Presentation Graphics         German          45.233 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:34.875     27,082,758,144  40,765          
+00024.M2TS      1:28:34.875     0:00:18.708     53,864,448      23,033          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:58.791     27,727 kbps     34,572 kbps     00:00:02.916    30,734 kbps     00:03:53.791    30,355 kbps     00:03:48.749    144,384 bytes   590,037 bytes   00:03:58.666    
+2               0:03:58.791     0:05:13.291     28,672 kbps     35,903 kbps     00:06:01.791    30,771 kbps     00:05:58.000    30,305 kbps     00:05:52.791    149,331 bytes   640,400 bytes   00:04:01.666    
+3               0:09:12.083     0:07:15.291     27,245 kbps     34,421 kbps     00:12:27.583    30,678 kbps     00:10:48.750    30,212 kbps     00:10:59.749    141,902 bytes   639,125 bytes   00:11:04.541    
+4               0:16:27.375     0:04:38.083     28,929 kbps     35,179 kbps     00:17:02.708    30,607 kbps     00:18:09.541    30,202 kbps     00:20:23.083    150,674 bytes   635,745 bytes   00:17:08.833    
+5               0:21:05.458     0:04:41.458     28,656 kbps     34,348 kbps     00:21:57.624    30,742 kbps     00:22:29.416    30,217 kbps     00:23:10.624    149,249 bytes   637,774 bytes   00:23:43.000    
+6               0:25:46.916     0:10:29.958     26,269 kbps     34,524 kbps     00:36:02.249    30,867 kbps     00:32:01.666    30,281 kbps     00:33:30.458    136,820 bytes   640,901 bytes   00:34:25.500    
+7               0:36:16.875     0:09:08.541     25,378 kbps     33,750 kbps     00:43:37.624    30,812 kbps     00:41:22.250    30,198 kbps     00:41:17.208    132,176 bytes   632,434 bytes   00:40:43.625    
+8               0:45:25.416     0:07:28.958     27,249 kbps     34,229 kbps     00:52:50.749    30,658 kbps     00:50:08.833    30,238 kbps     00:48:44.249    141,919 bytes   634,865 bytes   00:45:42.500    
+9               0:52:54.375     0:04:20.833     28,876 kbps     34,274 kbps     00:52:58.041    30,499 kbps     00:54:19.625    30,132 kbps     00:54:02.874    150,394 bytes   575,028 bytes   00:54:38.708    
+10              0:57:15.208     0:10:23.166     29,066 kbps     35,223 kbps     01:07:35.708    30,922 kbps     00:58:05.291    30,264 kbps     00:58:00.208    151,385 bytes   639,356 bytes   00:59:31.583    
+11              1:07:38.375     0:09:27.083     28,081 kbps     34,609 kbps     01:08:56.416    30,602 kbps     01:11:10.916    30,179 kbps     01:08:47.583    146,256 bytes   634,901 bytes   01:09:15.875    
+12              1:17:05.458     0:11:48.124     22,671 kbps     42,121 kbps     01:18:35.958    31,719 kbps     01:26:14.458    30,223 kbps     01:17:18.083    118,087 bytes   640,875 bytes   01:25:44.958    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5314.708                26,998                  17,935,956,228  97,552,735      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5314.708                5,209                   3,460,489,868   19,637,400      
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5314.708                3,860                   2,564,227,080   14,764,362      
+00000.M2TS      4354 (0x1102)   0x80            LPCM            eng (English)           5314.708                2,310                   1,534,658,652   8,502,264       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5314.708                28                      18,738,917      108,106         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5314.708                37                      24,329,026      142,795         
+00000.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5314.708                45                      30,156,712      170,290         
+00024.M2TS      4113 (0x1011)   0x1B            AVC                                     18.542                  22,198                  51,448,220      279,901         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Early Man
+Disc Label: Early.Man.Steinzeit.Bereit.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 32,674,040,881 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 27,136,622,592 bytes
+Length: 1:28:53.583
+Total Bitrate: 40.70 Mbps
+Video: MPEG-4 AVC Video / 26980 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 7.1 / 48 kHz /  5190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3846 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Audio: English / LPCM Audio / 2.0 / 48 kHz /  2304 kbps / 24-bit
+Subtitle: German / 28.107 kbps
+Subtitle: English / 36.492 kbps
+* Subtitle: German / 45.233 kbps
+
+
+********************
+PLAYLIST: 00017.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00017.MPLS                                                      AVC     1:28:53 27,136,622,592  32,674,040,881  40.70   26.98   DTS-HD Master 7.1 5190Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Early Man
+Disc Label:     Early.Man.Steinzeit.Bereit.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      32,674,040,881 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00017.MPLS
+Length:                 1:28:53.583 (h:m:s.ms)
+Size:                   27,136,622,592 bytes
+Total Bitrate:          40.70 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26980 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           German          5190 kbps       7.1 / 48 kHz /  5190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* DTS-HD Master Audio           English         3846 kbps       5.1 / 48 kHz /  3846 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+LPCM Audio                      English         2304 kbps       2.0 / 48 kHz /  2304 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         German          28.107 kbps                     
+* Presentation Graphics         English         36.492 kbps                     
+Presentation Graphics           German          45.233 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:34.875     27,082,758,144  40,765          
+00024.M2TS      1:28:34.875     0:00:18.708     53,864,448      23,033          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:58.791     27,727 kbps     34,572 kbps     00:00:02.916    30,734 kbps     00:03:53.791    30,355 kbps     00:03:48.749    144,384 bytes   590,037 bytes   00:03:58.666    
+2               0:03:58.791     0:05:13.291     28,672 kbps     35,903 kbps     00:06:01.791    30,771 kbps     00:05:58.000    30,305 kbps     00:05:52.791    149,331 bytes   640,400 bytes   00:04:01.666    
+3               0:09:12.083     0:07:15.291     27,245 kbps     34,421 kbps     00:12:27.583    30,678 kbps     00:10:48.750    30,212 kbps     00:10:59.749    141,902 bytes   639,125 bytes   00:11:04.541    
+4               0:16:27.375     0:04:38.083     28,929 kbps     35,179 kbps     00:17:02.708    30,607 kbps     00:18:09.541    30,202 kbps     00:20:23.083    150,674 bytes   635,745 bytes   00:17:08.833    
+5               0:21:05.458     0:04:41.458     28,656 kbps     34,348 kbps     00:21:57.624    30,742 kbps     00:22:29.416    30,217 kbps     00:23:10.624    149,249 bytes   637,774 bytes   00:23:43.000    
+6               0:25:46.916     0:10:29.958     26,269 kbps     34,524 kbps     00:36:02.249    30,867 kbps     00:32:01.666    30,281 kbps     00:33:30.458    136,820 bytes   640,901 bytes   00:34:25.500    
+7               0:36:16.875     0:09:08.541     25,378 kbps     33,750 kbps     00:43:37.624    30,812 kbps     00:41:22.250    30,198 kbps     00:41:17.208    132,176 bytes   632,434 bytes   00:40:43.625    
+8               0:45:25.416     0:07:28.958     27,249 kbps     34,229 kbps     00:52:50.749    30,658 kbps     00:50:08.833    30,238 kbps     00:48:44.249    141,919 bytes   634,865 bytes   00:45:42.500    
+9               0:52:54.375     0:04:20.833     28,876 kbps     34,274 kbps     00:52:58.041    30,499 kbps     00:54:19.625    30,132 kbps     00:54:02.874    150,394 bytes   575,028 bytes   00:54:38.708    
+10              0:57:15.208     0:10:23.166     29,066 kbps     35,223 kbps     01:07:35.708    30,922 kbps     00:58:05.291    30,264 kbps     00:58:00.208    151,385 bytes   639,356 bytes   00:59:31.583    
+11              1:07:38.375     0:09:27.083     28,081 kbps     34,609 kbps     01:08:56.416    30,602 kbps     01:11:10.916    30,179 kbps     01:08:47.583    146,256 bytes   634,901 bytes   01:09:15.875    
+12              1:17:05.458     0:11:48.124     22,671 kbps     42,121 kbps     01:18:35.958    31,719 kbps     01:26:14.458    30,223 kbps     01:17:18.083    118,087 bytes   640,875 bytes   01:25:44.958    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5314.708                26,998                  17,935,956,228  97,552,735      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5314.708                5,209                   3,460,489,868   19,637,400      
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5314.708                3,860                   2,564,227,080   14,764,362      
+00000.M2TS      4354 (0x1102)   0x80            LPCM            eng (English)           5314.708                2,310                   1,534,658,652   8,502,264       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5314.708                28                      18,738,917      108,106         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5314.708                37                      24,329,026      142,795         
+00000.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5314.708                45                      30,156,712      170,290         
+00024.M2TS      4113 (0x1011)   0x1B            AVC                                     18.542                  22,198                  51,448,220      279,901         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Early Man
+Disc Label: Early.Man.Steinzeit.Bereit.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 32,674,040,881 bytes
+Protection: AACS
+Playlist: 00017.MPLS
+Size: 27,136,622,592 bytes
+Length: 1:28:53.583
+Total Bitrate: 40.70 Mbps
+Video: MPEG-4 AVC Video / 26980 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+* Audio: German / DTS-HD Master Audio / 7.1 / 48 kHz /  5190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3846 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / LPCM Audio / 2.0 / 48 kHz /  2304 kbps / 24-bit
+* Subtitle: German / 28.107 kbps
+* Subtitle: English / 36.492 kbps
+Subtitle: German / 45.233 kbps
+

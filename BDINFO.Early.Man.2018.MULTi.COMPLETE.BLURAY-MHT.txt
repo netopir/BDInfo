@@ -1,0 +1,122 @@
+Disc Title:     I PRIMITIVI
+Disc Label:     Early.Man.2018.MULTi.COMPLETE.BLURAY-MHT
+Disc Size:      21,849,256,337 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:29:10 17,306,683,392  21,849,256,337  25.88   19.98   DTS-HD Master 5.1 2115Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     I PRIMITIVI
+Disc Label:     Early.Man.2018.MULTi.COMPLETE.BLURAY-MHT
+Disc Size:      21,849,256,337 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:29:10.500 (h:m:s.ms)
+Size:                   17,306,683,392 bytes
+Total Bitrate:          25.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19985 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2115 kbps       5.1 / 48 kHz /  2115 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2143 kbps       5.1 / 48 kHz /  2143 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         23.778 kbps                     
+Presentation Graphics           Italian         0.002 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00007.M2TS      0:00:00.000     1:29:10.500     17,306,683,392  25,877          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:30.416     29,175 kbps     41,807 kbps     00:04:20.958    38,938 kbps     00:04:17.041    38,462 kbps     00:04:11.958    151,938 bytes   640,498 bytes   00:04:22.750    
+2               0:06:30.416     0:07:45.958     19,928 kbps     41,929 kbps     00:10:39.000    30,825 kbps     00:10:35.041    29,463 kbps     00:10:31.916    103,794 bytes   619,630 bytes   00:11:16.791    
+3               0:14:16.375     0:07:42.791     19,394 kbps     38,467 kbps     00:21:54.541    32,782 kbps     00:20:42.458    29,808 kbps     00:20:42.458    101,009 bytes   572,212 bytes   00:17:31.041    
+4               0:21:59.166     0:07:02.124     19,408 kbps     40,251 kbps     00:25:20.208    35,321 kbps     00:25:19.250    29,511 kbps     00:25:16.916    101,081 bytes   636,150 bytes   00:25:25.083    
+5               0:29:01.291     0:07:38.666     17,923 kbps     34,676 kbps     00:36:22.375    27,462 kbps     00:34:06.041    24,758 kbps     00:34:05.166    93,347 bytes    638,640 bytes   00:36:27.208    
+6               0:36:39.958     0:07:27.833     15,675 kbps     25,295 kbps     00:41:05.958    21,866 kbps     00:41:45.000    20,645 kbps     00:38:06.750    81,641 bytes    592,351 bytes   00:41:06.000    
+7               0:44:07.791     0:08:06.250     19,751 kbps     40,232 kbps     00:50:32.250    35,377 kbps     00:49:46.833    29,974 kbps     00:49:46.583    102,868 bytes   617,795 bytes   00:50:32.291    
+8               0:52:14.041     0:07:14.666     19,737 kbps     38,404 kbps     00:58:00.541    30,442 kbps     00:57:46.000    28,017 kbps     00:57:45.875    102,798 bytes   609,720 bytes   00:59:24.291    
+9               0:59:28.708     0:08:17.375     22,512 kbps     47,585 kbps     01:01:39.250    37,734 kbps     01:06:34.750    34,687 kbps     01:06:33.833    117,250 bytes   635,663 bytes   01:01:36.958    
+10              1:07:46.083     0:06:58.916     20,564 kbps     41,009 kbps     01:12:39.333    33,645 kbps     01:13:26.916    29,181 kbps     01:13:25.041    107,106 bytes   623,952 bytes   01:12:43.291    
+11              1:14:45.000     0:03:24.000     21,310 kbps     40,357 kbps     01:17:28.500    37,109 kbps     01:17:32.208    35,740 kbps     01:17:27.875    110,992 bytes   622,167 bytes   01:16:02.416    
+12              1:18:09.000     0:11:01.500     17,388 kbps     33,240 kbps     01:18:54.791    25,720 kbps     01:26:50.250    25,190 kbps     01:21:06.000    90,570 bytes    640,144 bytes   01:19:18.541    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     5350.333                19,985                  13,366,081,277  72,716,856      
+00007.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5350.333                2,115                   1,414,334,764   8,525,606       
+00007.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5350.333                2,143                   1,432,954,936   8,625,891       
+00007.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5350.333                24                      15,902,781      92,257          
+00007.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5350.333                0                       1,382           15              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: I PRIMITIVI
+Disc Label: Early.Man.2018.MULTi.COMPLETE.BLURAY-MHT
+Disc Size: 21,849,256,337 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 17,306,683,392 bytes
+Length: 1:29:10.500
+Total Bitrate: 25.88 Mbps
+Video: MPEG-4 AVC Video / 19985 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2115 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2143 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Italian / 23.778 kbps
+Subtitle: Italian / 0.002 kbps
+
