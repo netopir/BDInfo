@@ -1,0 +1,366 @@
+Disc Title:     Bigfoot Junior
+Disc Label:     The.Son.Of.Bigfoot.2017.COMPLETE.BLURAY-MIDDLE
+Disc Size:      27,883,684,715 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:32:15 24,218,370,048  27,883,684,715  35.00   28.11   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Junior
+Disc Label:     The.Son.Of.Bigfoot.2017.COMPLETE.BLURAY-MIDDLE
+Disc Size:      27,883,684,715 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:32:15.238 (h:m:s.ms)
+Size:                   24,218,370,048 bytes
+Total Bitrate:          35.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28113 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         2582 kbps       5.1 / 48 kHz /  2582 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           31.380 kbps                     
+Presentation Graphics           French          31.010 kbps                     
+Presentation Graphics           Dutch           0.064 kbps                      
+Presentation Graphics           French          0.095 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:32:14.403     24,218,351,616  35,008          
+00033.M2TS      1:32:14.403     0:00:00.834     18,432          177             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:24.193     26,179 kbps     46,131 kbps     00:01:45.313    34,238 kbps     00:05:07.640    33,133 kbps     00:06:24.634    136,472 bytes   756,091 bytes   00:01:46.272    
+2               0:07:24.193     0:07:29.574     27,548 kbps     43,895 kbps     00:12:09.562    34,246 kbps     00:07:52.680    33,015 kbps     00:09:36.033    143,624 bytes   768,065 bytes   00:11:37.947    
+3               0:14:53.767     0:07:18.020     27,262 kbps     44,555 kbps     00:19:55.694    34,040 kbps     00:21:16.316    33,080 kbps     00:19:54.401    142,132 bytes   1,029,023 bytes 00:15:35.059    
+4               0:22:11.788     0:08:15.703     30,377 kbps     46,695 kbps     00:22:38.565    34,289 kbps     00:27:52.128    33,044 kbps     00:22:17.544    158,369 bytes   881,604 bytes   00:23:51.805    
+5               0:30:27.492     0:08:58.120     31,600 kbps     45,321 kbps     00:38:50.745    34,192 kbps     00:36:17.592    33,074 kbps     00:38:50.911    164,748 bytes   1,037,330 bytes 00:36:57.340    
+6               0:39:25.613     0:08:51.656     29,963 kbps     46,113 kbps     00:41:04.628    34,578 kbps     00:41:12.636    32,997 kbps     00:46:51.391    156,215 bytes   1,028,251 bytes 00:43:18.095    
+7               0:48:17.269     0:07:26.404     29,946 kbps     46,582 kbps     00:48:46.548    34,274 kbps     00:54:01.363    33,335 kbps     00:49:59.162    156,123 bytes   892,747 bytes   00:54:04.282    
+8               0:55:43.673     0:06:55.456     28,677 kbps     46,991 kbps     00:55:51.473    34,395 kbps     01:00:23.453    32,994 kbps     01:00:03.766    149,508 bytes   912,619 bytes   00:56:50.657    
+9               1:02:39.130     0:09:01.082     26,548 kbps     44,250 kbps     01:08:02.244    34,324 kbps     01:08:46.956    33,002 kbps     01:08:00.951    138,410 bytes   640,501 bytes   01:10:15.127    
+10              1:11:40.212     0:08:56.869     26,933 kbps     48,790 kbps     01:19:47.199    34,121 kbps     01:14:15.075    32,988 kbps     01:12:04.695    140,417 bytes   729,273 bytes   01:12:06.822    
+11              1:20:37.082     0:07:19.438     30,035 kbps     43,355 kbps     01:25:58.778    34,358 kbps     01:21:13.326    33,194 kbps     01:25:37.382    156,590 bytes   762,891 bytes   01:27:44.926    
+12              1:27:56.521     0:04:18.716     16,848 kbps     42,594 kbps     01:28:58.166    33,902 kbps     01:29:26.235    30,088 kbps     01:29:18.478    87,851 bytes    533,412 bytes   01:29:30.323    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5534.320                28,117                  19,451,355,671  105,791,216     
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5534.320                768                     531,207,168     3,112,542       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5534.320                768                     531,287,040     3,113,010       
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5534.320                2,583                   1,786,737,924   10,574,503      
+00000.M2TS      4355 (0x1103)   0x82            DTS             fra (French)            5534.320                768                     531,207,168     3,112,542       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5534.320                31                      21,712,155      124,370         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5534.320                31                      21,456,230      122,989         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5534.320                0                       43,936          268             
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5534.320                0                       65,669          394             
+00033.M2TS      4113 (0x1011)   0x1B            AVC                                     0.751                   112                     10,528          64              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Junior
+Disc Label: The.Son.Of.Bigfoot.2017.COMPLETE.BLURAY-MIDDLE
+Disc Size: 27,883,684,715 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 24,218,370,048 bytes
+Length: 1:32:15.238
+Total Bitrate: 35.00 Mbps
+Video: MPEG-4 AVC Video / 28113 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2582 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Subtitle: Dutch / 31.380 kbps
+Subtitle: French / 31.010 kbps
+Subtitle: Dutch / 0.064 kbps
+Subtitle: French / 0.095 kbps
+
+
+********************
+PLAYLIST: 00030.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00030.MPLS                                                      AVC     1:32:15 24,218,370,048  27,883,684,715  35.00   28.11   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Junior
+Disc Label:     The.Son.Of.Bigfoot.2017.COMPLETE.BLURAY-MIDDLE
+Disc Size:      27,883,684,715 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00030.MPLS
+Length:                 1:32:15.238 (h:m:s.ms)
+Size:                   24,218,370,048 bytes
+Total Bitrate:          35.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28113 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         2582 kbps       5.1 / 48 kHz /  2582 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           31.380 kbps                     
+Presentation Graphics           French          31.010 kbps                     
+Presentation Graphics           Dutch           0.064 kbps                      
+Presentation Graphics           French          0.095 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:32:14.403     24,218,351,616  35,008          
+00033.M2TS      1:32:14.403     0:00:00.834     18,432          177             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:24.193     26,179 kbps     46,131 kbps     00:01:45.313    34,238 kbps     00:05:07.640    33,133 kbps     00:06:24.634    136,472 bytes   756,091 bytes   00:01:46.272    
+2               0:07:24.193     0:07:29.574     27,548 kbps     43,895 kbps     00:12:09.562    34,246 kbps     00:07:52.680    33,015 kbps     00:09:36.033    143,624 bytes   768,065 bytes   00:11:37.947    
+3               0:14:53.767     0:07:18.020     27,262 kbps     44,555 kbps     00:19:55.694    34,040 kbps     00:21:16.316    33,080 kbps     00:19:54.401    142,132 bytes   1,029,023 bytes 00:15:35.059    
+4               0:22:11.788     0:08:15.703     30,377 kbps     46,695 kbps     00:22:38.565    34,289 kbps     00:27:52.128    33,044 kbps     00:22:17.544    158,369 bytes   881,604 bytes   00:23:51.805    
+5               0:30:27.492     0:08:58.120     31,600 kbps     45,321 kbps     00:38:50.745    34,192 kbps     00:36:17.592    33,074 kbps     00:38:50.911    164,748 bytes   1,037,330 bytes 00:36:57.340    
+6               0:39:25.613     0:08:51.656     29,963 kbps     46,113 kbps     00:41:04.628    34,578 kbps     00:41:12.636    32,997 kbps     00:46:51.391    156,215 bytes   1,028,251 bytes 00:43:18.095    
+7               0:48:17.269     0:07:26.404     29,946 kbps     46,582 kbps     00:48:46.548    34,274 kbps     00:54:01.363    33,335 kbps     00:49:59.162    156,123 bytes   892,747 bytes   00:54:04.282    
+8               0:55:43.673     0:06:55.456     28,677 kbps     46,991 kbps     00:55:51.473    34,395 kbps     01:00:23.453    32,994 kbps     01:00:03.766    149,508 bytes   912,619 bytes   00:56:50.657    
+9               1:02:39.130     0:09:01.082     26,548 kbps     44,250 kbps     01:08:02.244    34,324 kbps     01:08:46.956    33,002 kbps     01:08:00.951    138,410 bytes   640,501 bytes   01:10:15.127    
+10              1:11:40.212     0:08:56.869     26,933 kbps     48,790 kbps     01:19:47.199    34,121 kbps     01:14:15.075    32,988 kbps     01:12:04.695    140,417 bytes   729,273 bytes   01:12:06.822    
+11              1:20:37.082     0:07:19.438     30,035 kbps     43,355 kbps     01:25:58.778    34,358 kbps     01:21:13.326    33,194 kbps     01:25:37.382    156,590 bytes   762,891 bytes   01:27:44.926    
+12              1:27:56.521     0:04:18.716     16,848 kbps     42,594 kbps     01:28:58.166    33,902 kbps     01:29:26.235    30,088 kbps     01:29:18.478    87,851 bytes    533,412 bytes   01:29:30.323    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5534.320                28,117                  19,451,355,671  105,791,216     
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5534.320                768                     531,207,168     3,112,542       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5534.320                768                     531,287,040     3,113,010       
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5534.320                2,583                   1,786,737,924   10,574,503      
+00000.M2TS      4355 (0x1103)   0x82            DTS             fra (French)            5534.320                768                     531,207,168     3,112,542       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5534.320                31                      21,712,155      124,370         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5534.320                31                      21,456,230      122,989         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5534.320                0                       43,936          268             
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5534.320                0                       65,669          394             
+00033.M2TS      4113 (0x1011)   0x1B            AVC                                     0.751                   112                     10,528          64              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Junior
+Disc Label: The.Son.Of.Bigfoot.2017.COMPLETE.BLURAY-MIDDLE
+Disc Size: 27,883,684,715 bytes
+Protection: AACS
+Playlist: 00030.MPLS
+Size: 24,218,370,048 bytes
+Length: 1:32:15.238
+Total Bitrate: 35.00 Mbps
+Video: MPEG-4 AVC Video / 28113 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2582 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Subtitle: Dutch / 31.380 kbps
+Subtitle: French / 31.010 kbps
+Subtitle: Dutch / 0.064 kbps
+Subtitle: French / 0.095 kbps
+
+
+********************
+PLAYLIST: 00033.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00033.MPLS                                                      AVC     1:32:15 24,218,370,048  27,883,684,715  35.00   28.11   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Junior
+Disc Label:     The.Son.Of.Bigfoot.2017.COMPLETE.BLURAY-MIDDLE
+Disc Size:      27,883,684,715 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00033.MPLS
+Length:                 1:32:15.238 (h:m:s.ms)
+Size:                   24,218,370,048 bytes
+Total Bitrate:          35.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28113 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         2582 kbps       5.1 / 48 kHz /  2582 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           31.380 kbps                     
+Presentation Graphics           French          31.010 kbps                     
+Presentation Graphics           Dutch           0.064 kbps                      
+Presentation Graphics           French          0.095 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:32:14.403     24,218,351,616  35,008          
+00033.M2TS      1:32:14.403     0:00:00.834     18,432          177             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:24.193     26,179 kbps     46,131 kbps     00:01:45.313    34,238 kbps     00:05:07.640    33,133 kbps     00:06:24.634    136,472 bytes   756,091 bytes   00:01:46.272    
+2               0:07:24.193     0:07:29.574     27,548 kbps     43,895 kbps     00:12:09.562    34,246 kbps     00:07:52.680    33,015 kbps     00:09:36.033    143,624 bytes   768,065 bytes   00:11:37.947    
+3               0:14:53.767     0:07:18.020     27,262 kbps     44,555 kbps     00:19:55.694    34,040 kbps     00:21:16.316    33,080 kbps     00:19:54.401    142,132 bytes   1,029,023 bytes 00:15:35.059    
+4               0:22:11.788     0:08:15.703     30,377 kbps     46,695 kbps     00:22:38.565    34,289 kbps     00:27:52.128    33,044 kbps     00:22:17.544    158,369 bytes   881,604 bytes   00:23:51.805    
+5               0:30:27.492     0:08:58.120     31,600 kbps     45,321 kbps     00:38:50.745    34,192 kbps     00:36:17.592    33,074 kbps     00:38:50.911    164,748 bytes   1,037,330 bytes 00:36:57.340    
+6               0:39:25.613     0:08:51.656     29,963 kbps     46,113 kbps     00:41:04.628    34,578 kbps     00:41:12.636    32,997 kbps     00:46:51.391    156,215 bytes   1,028,251 bytes 00:43:18.095    
+7               0:48:17.269     0:07:26.404     29,946 kbps     46,582 kbps     00:48:46.548    34,274 kbps     00:54:01.363    33,335 kbps     00:49:59.162    156,123 bytes   892,747 bytes   00:54:04.282    
+8               0:55:43.673     0:06:55.456     28,677 kbps     46,991 kbps     00:55:51.473    34,395 kbps     01:00:23.453    32,994 kbps     01:00:03.766    149,508 bytes   912,619 bytes   00:56:50.657    
+9               1:02:39.130     0:09:01.082     26,548 kbps     44,250 kbps     01:08:02.244    34,324 kbps     01:08:46.956    33,002 kbps     01:08:00.951    138,410 bytes   640,501 bytes   01:10:15.127    
+10              1:11:40.212     0:08:56.869     26,933 kbps     48,790 kbps     01:19:47.199    34,121 kbps     01:14:15.075    32,988 kbps     01:12:04.695    140,417 bytes   729,273 bytes   01:12:06.822    
+11              1:20:37.082     0:07:19.438     30,035 kbps     43,355 kbps     01:25:58.778    34,358 kbps     01:21:13.326    33,194 kbps     01:25:37.382    156,590 bytes   762,891 bytes   01:27:44.926    
+12              1:27:56.521     0:04:18.716     16,848 kbps     42,594 kbps     01:28:58.166    33,902 kbps     01:29:26.235    30,088 kbps     01:29:18.478    87,851 bytes    533,412 bytes   01:29:30.323    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5534.320                28,117                  19,451,355,671  105,791,216     
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5534.320                768                     531,207,168     3,112,542       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5534.320                768                     531,287,040     3,113,010       
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5534.320                2,583                   1,786,737,924   10,574,503      
+00000.M2TS      4355 (0x1103)   0x82            DTS             fra (French)            5534.320                768                     531,207,168     3,112,542       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5534.320                31                      21,712,155      124,370         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5534.320                31                      21,456,230      122,989         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5534.320                0                       43,936          268             
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5534.320                0                       65,669          394             
+00033.M2TS      4113 (0x1011)   0x1B            AVC                                     0.751                   112                     10,528          64              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Junior
+Disc Label: The.Son.Of.Bigfoot.2017.COMPLETE.BLURAY-MIDDLE
+Disc Size: 27,883,684,715 bytes
+Protection: AACS
+Playlist: 00033.MPLS
+Size: 24,218,370,048 bytes
+Length: 1:32:15.238
+Total Bitrate: 35.00 Mbps
+Video: MPEG-4 AVC Video / 28113 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2582 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Subtitle: Dutch / 31.380 kbps
+Subtitle: French / 31.010 kbps
+Subtitle: Dutch / 0.064 kbps
+Subtitle: French / 0.095 kbps
+

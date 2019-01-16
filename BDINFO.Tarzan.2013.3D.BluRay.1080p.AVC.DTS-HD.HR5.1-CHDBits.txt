@@ -1,0 +1,132 @@
+Disc Title:     Tarzan 3D
+Disc Label:     Tarzan.2013.3D.BluRay.1080p.AVC.DTS-HD.HR5.1-CHDBits
+Disc Size:      28,025,894,504 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:34:09 19,323,715,584  28,025,894,504  27.36   19.44   DTS-HD Hi-Res 5.1 2046Kbps (96kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Tarzan 3D
+Disc Label:     Tarzan.2013.3D.BluRay.1080p.AVC.DTS-HD.HR5.1-CHDBits
+Disc Size:      28,025,894,504 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:34:09.685 (h:m:s.ms)
+Size:                   19,323,715,584 bytes
+Total Bitrate:          27.36 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19443 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           English         2046 kbps       5.1 / 96 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD High-Res Audio           Spanish         2046 kbps       5.1 / 96 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD High-Res Audio           Portuguese      2046 kbps       5.1 / 96 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Portuguese      20.707 kbps                     
+Presentation Graphics           English         21.151 kbps                     
+Presentation Graphics           Spanish         19.727 kbps                     
+Presentation Graphics           Chinese         9.449 kbps                      
+Presentation Graphics           Chinese         9.829 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:34:09.685     19,323,715,584  27,363          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:14.517     22,562 kbps     47,096 kbps     00:00:14.389    34,925 kbps     00:00:14.472    32,974 kbps     00:00:14.472    117,616 bytes   511,324 bytes   00:00:16.016    
+2               0:07:14.517     0:07:39.250     18,466 kbps     42,122 kbps     00:14:25.406    33,137 kbps     00:14:16.897    31,725 kbps     00:13:43.239    96,274 bytes    552,645 bytes   00:13:33.813    
+3               0:14:53.767     0:11:32.733     22,587 kbps     44,929 kbps     00:23:34.663    33,395 kbps     00:23:34.329    30,433 kbps     00:14:54.727    117,758 bytes   603,694 bytes   00:26:23.623    
+4               0:26:26.501     0:06:13.581     20,664 kbps     46,135 kbps     00:30:17.565    32,585 kbps     00:28:08.520    29,293 kbps     00:29:06.745    107,734 bytes   593,776 bytes   00:28:34.587    
+5               0:32:40.083     0:06:44.946     22,970 kbps     40,219 kbps     00:32:52.845    32,477 kbps     00:37:22.615    30,030 kbps     00:34:50.296    119,754 bytes   662,919 bytes   00:37:27.578    
+6               0:39:25.029     0:06:56.290     18,700 kbps     40,542 kbps     00:45:04.326    31,238 kbps     00:41:07.590    28,477 kbps     00:45:14.420    97,493 bytes    548,618 bytes   00:45:51.999    
+7               0:46:21.320     0:09:14.011     20,184 kbps     42,171 kbps     00:50:46.418    34,651 kbps     00:52:18.969    30,473 kbps     00:52:40.490    105,232 bytes   493,769 bytes   00:50:27.566    
+8               0:55:35.332     0:06:06.991     24,437 kbps     41,564 kbps     00:58:27.086    32,616 kbps     00:56:00.357    31,927 kbps     00:55:55.685    127,406 bytes   511,229 bytes   00:58:27.420    
+9               1:01:42.323     0:08:35.056     20,408 kbps     39,289 kbps     01:09:15.192    32,046 kbps     01:07:03.978    28,590 kbps     01:05:47.777    106,396 bytes   679,223 bytes   01:08:28.062    
+10              1:10:17.379     0:07:26.362     17,498 kbps     36,025 kbps     01:14:06.567    31,504 kbps     01:14:41.977    28,275 kbps     01:12:19.001    91,224 bytes    505,516 bytes   01:14:45.981    
+11              1:17:43.742     0:10:16.365     18,914 kbps     41,083 kbps     01:27:45.802    33,035 kbps     01:22:36.576    30,538 kbps     01:27:45.343    98,610 bytes    538,169 bytes   01:25:43.555    
+12              1:28:00.108     0:06:09.577     2,648 kbps      5,559 kbps      01:33:27.685    4,752 kbps      01:33:25.683    4,465 kbps      01:33:20.636    13,807 bytes    216,817 bytes   01:33:28.561    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5649.602                19,443                  13,730,690,062  74,702,484      
+00002.M2TS      4352 (0x1100)   0x85            DTS-HD HR       eng (English)           5649.602                2,046                   1,444,909,568   8,474,543       
+00002.M2TS      4353 (0x1101)   0x85            DTS-HD HR       spa (Spanish)           5649.602                2,046                   1,444,909,752   8,474,544       
+00002.M2TS      4354 (0x1102)   0x85            DTS-HD HR       por (Portuguese)        5649.602                2,046                   1,444,909,752   8,474,544       
+00002.M2TS      4608 (0x1200)   0x90            PGS             por (Portuguese)        5649.602                21                      14,623,421      83,235          
+00002.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5649.602                21                      14,936,905      84,949          
+00002.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5649.602                20                      13,931,097      79,488          
+00002.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5649.602                9                       6,672,893       39,697          
+00002.M2TS      4612 (0x1204)   0x90            PGS             zho (Chinese)           5649.602                10                      6,941,450       41,174          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Tarzan 3D
+Disc Label: Tarzan.2013.3D.BluRay.1080p.AVC.DTS-HD.HR5.1-CHDBits
+Disc Size: 28,025,894,504 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 19,323,715,584 bytes
+Length: 1:34:09.685
+Total Bitrate: 27.36 Mbps
+Video: MPEG-4 AVC Video / 19443 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD High-Res Audio / 5.1 / 96 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Spanish / DTS-HD High-Res Audio / 5.1 / 96 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Portuguese / DTS-HD High-Res Audio / 5.1 / 96 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Portuguese / 20.707 kbps
+Subtitle: English / 21.151 kbps
+Subtitle: Spanish / 19.727 kbps
+Subtitle: Chinese / 9.449 kbps
+Subtitle: Chinese / 9.829 kbps
+

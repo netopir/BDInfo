@@ -1,0 +1,224 @@
+Disc Title:     The Little Vampier
+Disc Label:     The.Little.Vampire.2017.1080p.2D+3D.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      41,199,781,915 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:22:11 13,949,411,328  41,199,781,915  22.63   15.95   DTS-HD Master 5.1 2587Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Little Vampier
+Disc Label:     The.Little.Vampire.2017.1080p.2D+3D.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      41,199,781,915 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:22:11.801 (h:m:s.ms)
+Size:                   13,949,411,328 bytes
+Total Bitrate:          22.63 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        15948 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2587 kbps       5.1 / 48 kHz /  2587 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Dutch           2579 kbps       5.1 / 48 kHz /  2579 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           38.093 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     1:22:10.800     13,949,392,896  22,632          
+00007.M2TS      1:22:10.800     0:00:01.000     18,432          147             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:32.642     16,010 kbps     38,798 kbps     00:00:19.185    23,519 kbps     00:00:19.185    21,615 kbps     00:00:19.185    83,460 bytes    644,564 bytes   00:06:22.048    
+2               0:06:32.642     0:07:12.807     16,003 kbps     26,973 kbps     00:09:06.712    19,289 kbps     00:09:05.711    17,475 kbps     00:08:58.704    83,431 bytes    687,416 bytes   00:13:17.838    
+3               0:13:45.449     0:06:12.997     16,001 kbps     30,471 kbps     00:15:02.776    18,910 kbps     00:16:30.322    17,918 kbps     00:16:26.318    83,421 bytes    571,946 bytes   00:16:34.326    
+4               0:19:58.447     0:08:32.637     16,007 kbps     25,710 kbps     00:23:13.392    18,515 kbps     00:26:34.426    17,474 kbps     00:22:42.152    83,452 bytes    664,526 bytes   00:28:00.887    
+5               0:28:31.084     0:06:53.371     16,000 kbps     31,626 kbps     00:30:39.170    18,700 kbps     00:30:38.419    17,443 kbps     00:30:30.203    83,419 bytes    643,904 bytes   00:30:39.212    
+6               0:35:24.455     0:07:07.051     15,993 kbps     25,050 kbps     00:36:00.575    18,570 kbps     00:36:31.022    17,704 kbps     00:39:16.062    83,380 bytes    652,552 bytes   00:36:00.658    
+7               0:42:31.507     0:08:10.239     16,004 kbps     29,709 kbps     00:45:54.460    20,092 kbps     00:46:21.570    17,934 kbps     00:45:47.494    83,438 bytes    509,184 bytes   00:48:23.859    
+8               0:50:41.747     0:07:08.261     15,993 kbps     33,008 kbps     00:55:38.460    19,007 kbps     00:52:59.759    17,515 kbps     00:55:38.460    83,380 bytes    739,978 bytes   00:55:38.501    
+9               0:57:50.008     0:06:48.866     15,995 kbps     25,643 kbps     01:00:24.078    19,309 kbps     01:00:21.075    17,694 kbps     01:00:18.239    83,388 bytes    729,434 bytes   01:00:20.325    
+10              1:04:38.875     0:06:18.836     16,012 kbps     24,117 kbps     01:05:45.066    18,412 kbps     01:05:12.408    17,191 kbps     01:08:23.849    83,478 bytes    663,556 bytes   01:04:44.046    
+11              1:10:57.711     0:07:33.369     15,989 kbps     27,105 kbps     01:11:31.078    18,346 kbps     01:11:28.033    17,731 kbps     01:12:44.985    83,361 bytes    577,148 bytes   01:11:31.120    
+12              1:18:31.081     0:03:39.719     14,884 kbps     26,215 kbps     01:20:19.147    22,666 kbps     01:21:55.035    21,286 kbps     01:21:51.072    77,600 bytes    474,535 bytes   01:18:35.085    
+13              1:22:10.800     0:00:01.001     59 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    321 bytes       324 bytes       01:22:10.967    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x1B            AVC                                     4930.676                15,951                  9,831,256,316   53,499,677      
+00009.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4930.676                2,588                   1,594,909,864   9,441,818       
+00009.M2TS      4353 (0x1101)   0x86            DTS-HD MA       nld (Dutch)             4930.676                2,580                   1,590,043,240   9,413,128       
+00009.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             4930.676                38                      23,483,531      133,235         
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     0.876                   90                      9,837           60              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Little Vampier
+Disc Label: The.Little.Vampire.2017.1080p.2D+3D.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 41,199,781,915 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 13,949,411,328 bytes
+Length: 1:22:11.801
+Total Bitrate: 22.63 Mbps
+Video: MPEG-4 AVC Video / 15948 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2587 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Dutch / DTS-HD Master Audio / 5.1 / 48 kHz /  2579 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Dutch / 38.093 kbps
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      VC-1    1:22:08 21,097,586,688  41,199,781,915  34.25   23.15   DTS-HD Master 5.1 4641Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Little Vampier
+Disc Label:     The.Little.Vampire.2017.1080p.2D+3D.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      41,199,781,915 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:22:08.500 (h:m:s.ms)
+Size:                   21,097,586,688 bytes
+Total Bitrate:          34.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              23146 kbps          1080p / 24 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4641 kbps       5.1 / 48 kHz /  4641 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             Dutch           4464 kbps       5.1 / 48 kHz /  4464 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           38.119 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:22:07.500     21,097,555,968  34,253          
+00008.M2TS      1:22:07.500     0:00:01.000     30,720          246             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:33.000     24,367 kbps     34,076 kbps     00:04:20.374    30,541 kbps     00:04:17.625    28,940 kbps     00:04:27.374    126,896 bytes   504,183 bytes   00:06:32.166    
+2               0:06:33.000     0:07:12.000     22,331 kbps     31,251 kbps     00:11:33.958    29,690 kbps     00:11:31.375    29,141 kbps     00:10:43.125    116,307 bytes   448,318 bytes   00:11:01.666    
+3               0:13:45.000     0:06:12.000     24,777 kbps     34,188 kbps     00:19:20.083    30,592 kbps     00:17:54.000    29,696 kbps     00:17:53.125    129,045 bytes   436,446 bytes   00:15:13.791    
+4               0:19:57.000     0:08:33.000     21,992 kbps     34,008 kbps     00:21:37.083    30,937 kbps     00:21:37.500    29,474 kbps     00:21:32.750    114,544 bytes   501,386 bytes   00:28:29.291    
+5               0:28:30.000     0:06:53.000     26,182 kbps     40,263 kbps     00:28:30.999    35,705 kbps     00:28:30.000    32,763 kbps     00:32:54.499    136,364 bytes   686,974 bytes   00:33:01.416    
+6               0:35:23.000     0:07:06.000     23,497 kbps     36,028 kbps     00:35:24.958    31,981 kbps     00:35:23.083    29,648 kbps     00:38:53.458    122,378 bytes   670,158 bytes   00:35:25.041    
+7               0:42:29.000     0:08:10.000     24,213 kbps     34,227 kbps     00:48:22.083    31,746 kbps     00:48:22.500    31,007 kbps     00:48:21.083    126,110 bytes   619,552 bytes   00:48:22.666    
+8               0:50:39.000     0:07:08.000     22,751 kbps     33,377 kbps     00:52:37.083    30,271 kbps     00:55:48.625    29,444 kbps     00:53:03.500    118,493 bytes   492,769 bytes   00:55:15.541    
+9               0:57:47.000     0:06:48.000     25,958 kbps     37,781 kbps     01:02:13.250    33,970 kbps     01:02:10.750    33,345 kbps     01:02:07.250    135,199 bytes   677,819 bytes   01:01:21.291    
+10              1:04:35.000     0:06:18.000     24,067 kbps     32,589 kbps     01:07:25.375    30,377 kbps     01:07:38.541    30,030 kbps     01:07:34.625    125,349 bytes   463,419 bytes   01:07:34.291    
+11              1:10:53.000     0:07:34.000     22,790 kbps     33,347 kbps     01:14:19.750    30,934 kbps     01:17:58.875    30,313 kbps     01:17:55.250    118,696 bytes   521,188 bytes   01:14:19.791    
+12              1:18:27.000     0:03:41.500     8,556 kbps      21,704 kbps     01:20:17.083    16,538 kbps     01:20:13.958    12,837 kbps     01:21:45.958    44,588 bytes    222,412 bytes   01:21:54.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0xEA            VC-1                                    4927.375                23,152                  14,259,534,155  77,568,318      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4927.375                4,642                   2,859,226,964   16,301,481      
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       nld (Dutch)             4927.375                4,465                   2,749,917,464   15,714,974      
+00005.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             4927.375                38                      23,483,531      133,235         
+00008.M2TS      4113 (0x1011)   0xEA            VC-1                                    0.875                   181                     19,777          124             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Little Vampier
+Disc Label: The.Little.Vampire.2017.1080p.2D+3D.NLD.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 41,199,781,915 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 21,097,586,688 bytes
+Length: 1:22:08.500
+Total Bitrate: 34.25 Mbps
+Video: VC-1 Video / 23146 kbps / 1080p / 24 fps / 16:9 / Advanced Profile 3
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4641 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Dutch / DTS-HD Master Audio / 5.1 / 48 kHz /  4464 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Dutch / 38.119 kbps
+

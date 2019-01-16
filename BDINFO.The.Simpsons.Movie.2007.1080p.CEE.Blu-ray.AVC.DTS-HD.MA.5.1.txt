@@ -1,0 +1,1358 @@
+Disc Label:     The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      34,601,250,875 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:41:28 31,042,738,176  34,601,250,875  40.79   29.11   DTS-HD Master 5.1 3620Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      34,601,250,875 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:41:28.040 (h:m:s.ms)
+Size:                   31,042,738,176 bytes
+Total Bitrate:          40.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29108 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3620 kbps       5.1 / 48 kHz /  3620 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+DTS Audio                       Russian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Latvian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Lithuanian      448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Czech           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Hungarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         27.552 kbps                     
+Presentation Graphics           Russian         30.117 kbps                     
+Presentation Graphics           Estonian        26.698 kbps                     
+Presentation Graphics           Latvian         25.139 kbps                     
+Presentation Graphics           Lithuanian      25.803 kbps                     
+Presentation Graphics           Bulgarian       28.124 kbps                     
+Presentation Graphics           Croatian        27.209 kbps                     
+Presentation Graphics           Czech           27.423 kbps                     
+Presentation Graphics           Arabic          16.441 kbps                     
+Presentation Graphics           Greek           26.412 kbps                     
+Presentation Graphics           Hungarian       30.261 kbps                     
+Presentation Graphics           Icelandic       25.900 kbps                     
+Presentation Graphics           Romanian        28.065 kbps                     
+Presentation Graphics           Serbian         25.400 kbps                     
+Presentation Graphics           Slovenian       24.135 kbps                     
+Presentation Graphics           Russian         85.648 kbps                     
+Presentation Graphics           Russian         68.554 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     0:05:03.386     1,731,385,344   45,655          
+00001.M2TS      0:05:03.386     0:02:27.230     381,480,960     20,728          
+00002.M2TS      0:07:30.616     0:22:13.248     7,711,322,112   46,271          
+00003.M2TS      0:29:43.865     0:01:39.182     241,360,896     19,468          
+00004.M2TS      0:31:23.047     0:28:57.944     10,087,864,320  46,436          
+00005.M2TS      1:00:20.992     0:10:36.969     1,141,555,200   14,337          
+00006.M2TS      1:10:57.961     0:30:30.078     9,747,769,344   42,611          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:21.307     32,788 kbps     41,750 kbps     00:00:39.289    36,138 kbps     00:01:11.112    35,611 kbps     00:00:13.972    170,891 bytes   923,012 bytes   00:01:15.992    
+2               0:02:21.307     0:01:46.731     34,720 kbps     41,772 kbps     00:02:45.498    36,490 kbps     00:02:41.494    35,650 kbps     00:03:18.281    181,012 bytes   880,136 bytes   00:03:29.167    
+3               0:04:08.039     0:05:38.796     24,157 kbps     44,248 kbps     00:08:21.000    36,294 kbps     00:08:08.738    35,579 kbps     00:04:13.253    125,943 bytes   936,735 bytes   00:07:48.551    
+4               0:09:46.836     0:03:47.936     34,289 kbps     41,964 kbps     00:13:12.166    36,779 kbps     00:13:08.162    35,982 kbps     00:13:03.157    178,765 bytes   917,032 bytes   00:12:27.746    
+5               0:13:34.772     0:05:11.185     34,168 kbps     42,671 kbps     00:13:48.577    36,514 kbps     00:17:41.852    35,795 kbps     00:13:39.652    178,138 bytes   923,362 bytes   00:15:17.249    
+6               0:18:45.958     0:01:51.069     33,663 kbps     46,000 kbps     00:20:02.701    36,869 kbps     00:19:58.614    35,999 kbps     00:19:53.692    175,506 bytes   886,605 bytes   00:19:42.848    
+7               0:20:37.027     0:01:37.138     34,290 kbps     40,837 kbps     00:22:06.533    36,167 kbps     00:21:47.472    35,582 kbps     00:21:46.638    178,773 bytes   786,913 bytes   00:22:09.161    
+8               0:22:14.166     0:03:32.795     34,556 kbps     43,224 kbps     00:25:18.475    36,524 kbps     00:25:14.471    35,902 kbps     00:24:47.527    180,157 bytes   936,264 bytes   00:23:47.717    
+9               0:25:46.962     0:02:25.019     34,325 kbps     41,561 kbps     00:26:58.199    36,085 kbps     00:26:10.402    35,567 kbps     00:25:55.512    178,954 bytes   936,444 bytes   00:27:36.863    
+10              0:28:11.981     0:06:07.700     27,459 kbps     44,434 kbps     00:32:28.112    36,662 kbps     00:32:38.081    35,890 kbps     00:32:33.076    143,157 bytes   937,004 bytes   00:33:43.354    
+11              0:34:19.682     0:01:41.601     34,633 kbps     41,240 kbps     00:35:08.606    36,269 kbps     00:35:27.375    35,645 kbps     00:35:20.618    180,561 bytes   876,580 bytes   00:35:29.627    
+12              0:36:01.284     0:07:30.158     34,328 kbps     43,420 kbps     00:40:45.276    36,357 kbps     00:37:01.636    35,753 kbps     00:40:36.559    178,969 bytes   908,348 bytes   00:40:57.538    
+13              0:43:31.442     0:04:59.966     34,641 kbps     43,715 kbps     00:47:06.823    36,602 kbps     00:47:45.028    35,869 kbps     00:47:40.148    180,600 bytes   936,453 bytes   00:47:10.494    
+14              0:48:31.408     0:02:27.856     34,219 kbps     45,096 kbps     00:49:05.942    36,305 kbps     00:49:06.568    35,715 kbps     00:50:47.085    178,401 bytes   886,801 bytes   00:49:53.073    
+15              0:50:59.264     0:02:48.626     34,032 kbps     41,221 kbps     00:51:31.630    36,368 kbps     00:51:25.540    35,583 kbps     00:51:20.327    177,426 bytes   879,931 bytes   00:52:53.837    
+16              0:53:47.891     0:01:55.323     34,705 kbps     45,773 kbps     00:54:38.316    37,642 kbps     00:54:34.270    36,272 kbps     00:54:29.307    180,935 bytes   910,129 bytes   00:54:17.504    
+17              0:55:43.214     0:15:27.092     13,487 kbps     43,659 kbps     01:11:00.547    36,377 kbps     00:57:52.218    35,729 kbps     00:57:31.447    70,315 bytes    934,781 bytes   00:57:57.849    
+18              1:11:10.307     0:04:14.003     34,491 kbps     41,998 kbps     01:14:14.908    36,221 kbps     01:12:25.966    35,625 kbps     01:11:48.971    179,821 bytes   937,073 bytes   01:12:30.971    
+19              1:15:24.311     0:03:16.613     33,967 kbps     42,045 kbps     01:16:49.062    36,163 kbps     01:15:50.379    35,645 kbps     01:15:45.540    177,089 bytes   807,067 bytes   01:15:58.762    
+20              1:18:40.924     0:02:09.671     34,467 kbps     43,208 kbps     01:20:35.538    36,437 kbps     01:19:30.015    35,661 kbps     01:20:08.970    179,697 bytes   934,410 bytes   01:19:24.634    
+21              1:20:50.595     0:04:09.916     34,668 kbps     41,590 kbps     01:23:32.882    36,195 kbps     01:23:53.695    35,659 kbps     01:23:23.748    180,741 bytes   930,917 bytes   01:22:50.006    
+22              1:25:00.512     0:04:15.254     34,639 kbps     41,798 kbps     01:25:21.074    36,489 kbps     01:27:43.633    35,759 kbps     01:27:15.897    180,593 bytes   936,138 bytes   01:26:14.836    
+23              1:29:15.767     0:03:00.722     33,855 kbps     41,570 kbps     01:31:51.714    36,816 kbps     01:31:47.710    35,763 kbps     01:30:53.364    176,506 bytes   936,768 bytes   01:30:05.024    
+24              1:32:16.489     0:09:11.550     22,738 kbps     40,576 kbps     01:41:23.660    35,887 kbps     01:32:57.780    35,221 kbps     01:37:32.721    118,554 bytes   724,487 bytes   01:37:30.302    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     303.220                 33,837                  1,282,494,715   6,974,315       
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           303.220                 3,567                   135,215,060     781,949         
+00000.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           303.220                 768                     29,125,632      170,658         
+00000.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           303.220                 448                     16,989,952      94,810          
+00000.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        303.220                 448                     16,989,952      94,810          
+00000.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          303.220                 448                     16,989,952      94,810          
+00000.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           303.220                 20                      762,652         4,346           
+00000.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           303.220                 31                      1,192,267       6,800           
+00000.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          303.220                 25                      942,394         5,410           
+00000.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           303.220                 24                      900,540         5,201           
+00000.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        303.220                 26                      968,172         5,589           
+00000.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         303.220                 28                      1,053,461       6,052           
+00000.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          303.220                 26                      996,707         5,736           
+00000.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             303.220                 25                      936,190         5,390           
+00000.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            303.220                 16                      610,842         3,632           
+00000.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             303.220                 24                      914,975         5,246           
+00000.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         303.220                 29                      1,087,934       6,212           
+00000.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         303.220                 24                      914,761         5,252           
+00000.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          303.220                 28                      1,052,420       6,028           
+00000.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           303.220                 24                      924,766         5,334           
+00000.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         303.220                 23                      878,032         5,080           
+00000.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           303.220                 98                      3,698,431       20,746          
+00000.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           303.220                 86                      3,248,954       18,399          
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     147.064                 10,624                  195,308,175     1,063,849       
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           147.064                 3,386                   62,252,292      361,138         
+00001.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           147.064                 224                     4,122,496       23,005          
+00001.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           147.064                 224                     4,122,496       23,005          
+00001.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           147.064                 769                     14,134,272      82,818          
+00001.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           147.064                 449                     8,244,992       46,010          
+00001.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        147.064                 449                     8,244,992       46,010          
+00001.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          147.064                 449                     8,244,992       46,010          
+00001.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             147.064                 449                     8,244,992       46,010          
+00001.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             147.064                 449                     8,244,992       46,010          
+00001.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           147.064                 0                       70              7               
+00001.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           147.064                 0                       70              7               
+00001.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          147.064                 0                       70              7               
+00001.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           147.064                 0                       70              7               
+00001.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        147.064                 0                       70              7               
+00001.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         147.064                 0                       70              7               
+00001.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          147.064                 0                       70              7               
+00001.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             147.064                 0                       70              7               
+00001.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            147.064                 0                       70              7               
+00001.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             147.064                 0                       70              7               
+00001.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         147.064                 0                       70              7               
+00001.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         147.064                 0                       70              7               
+00001.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          147.064                 0                       70              7               
+00001.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           147.064                 0                       70              7               
+00001.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         147.064                 0                       70              7               
+00001.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           147.064                 79                      1,446,747       8,131           
+00001.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           147.064                 0                       70              7               
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     1333.082                34,301                  5,715,693,372   31,082,103      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1333.082                3,479                   579,681,900     3,358,404       
+00002.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1333.082                768                     127,992,832     749,958         
+00002.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1333.082                448                     74,663,680      416,650         
+00002.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1333.082                448                     74,663,680      416,650         
+00002.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1333.082                448                     74,663,680      416,650         
+00002.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1333.082                40                      6,672,175       38,211          
+00002.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1333.082                43                      7,151,860       41,002          
+00002.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1333.082                39                      6,479,532       37,136          
+00002.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1333.082                36                      5,920,080       34,253          
+00002.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1333.082                37                      6,161,518       35,580          
+00002.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1333.082                40                      6,645,915       38,228          
+00002.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1333.082                39                      6,487,888       37,366          
+00002.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1333.082                39                      6,559,708       37,748          
+00002.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1333.082                24                      3,947,604       23,527          
+00002.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1333.082                37                      6,243,357       35,854          
+00002.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1333.082                44                      7,262,605       41,564          
+00002.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1333.082                36                      6,067,123       34,884          
+00002.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1333.082                40                      6,710,022       38,579          
+00002.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1333.082                36                      6,027,344       34,846          
+00002.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1333.082                34                      5,721,905       33,215          
+00002.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1333.082                94                      15,614,814      87,805          
+00002.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1333.082                84                      13,998,163      79,297          
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     99.016                  8,709                   107,790,336     587,366         
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           99.016                  4,107                   50,828,904      291,626         
+00003.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           99.016                  224                     2,777,600       15,500          
+00003.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           99.016                  224                     2,777,600       15,500          
+00003.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           99.016                  769                     9,522,176       55,794          
+00003.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           99.016                  449                     5,555,200       31,000          
+00003.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        99.016                  449                     5,555,200       31,000          
+00003.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          99.016                  449                     5,555,200       31,000          
+00003.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             99.016                  449                     5,555,200       31,000          
+00003.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             99.016                  449                     5,555,200       31,000          
+00003.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           99.016                  0                       70              7               
+00003.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           99.016                  0                       70              7               
+00003.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          99.016                  0                       70              7               
+00003.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           99.016                  0                       70              7               
+00003.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        99.016                  0                       70              7               
+00003.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         99.016                  0                       70              7               
+00003.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          99.016                  0                       70              7               
+00003.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             99.016                  0                       70              7               
+00003.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            99.016                  0                       70              7               
+00003.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             99.016                  0                       70              7               
+00003.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         99.016                  0                       70              7               
+00003.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         99.016                  0                       70              7               
+00003.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          99.016                  0                       70              7               
+00003.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           99.016                  0                       70              7               
+00003.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         99.016                  0                       70              7               
+00003.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           99.016                  71                      873,788         4,937           
+00003.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           99.016                  0                       70              7               
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     1737.778                34,410                  7,474,617,895   40,647,349      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1737.778                3,585                   778,658,564     4,503,179       
+00004.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1737.778                768                     166,843,392     977,598         
+00004.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1737.778                448                     97,325,312      543,110         
+00004.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1737.778                448                     97,325,312      543,110         
+00004.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1737.778                448                     97,325,312      543,110         
+00004.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1737.778                37                      8,013,675       45,868          
+00004.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1737.778                40                      8,635,683       49,482          
+00004.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1737.778                34                      7,493,047       42,954          
+00004.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1737.778                33                      7,169,320       41,440          
+00004.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1737.778                34                      7,326,688       42,344          
+00004.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1737.778                37                      8,011,511       46,057          
+00004.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1737.778                36                      7,824,924       45,059          
+00004.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1737.778                37                      7,935,166       45,633          
+00004.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1737.778                22                      4,751,450       28,315          
+00004.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1737.778                34                      7,443,924       42,690          
+00004.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1737.778                40                      8,661,323       49,569          
+00004.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1737.778                34                      7,421,161       42,554          
+00004.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1737.778                36                      7,830,171       45,041          
+00004.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1737.778                33                      7,171,125       41,483          
+00004.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1737.778                31                      6,772,925       39,331          
+00004.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1737.778                92                      20,000,025      112,517         
+00004.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1737.778                77                      16,751,643      94,849          
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     636.803                 4,402                   350,391,519     1,912,367       
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           636.803                 3,493                   278,080,512     1,610,725       
+00005.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           636.803                 224                     17,835,776      99,530          
+00005.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           636.803                 224                     17,835,776      99,530          
+00005.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           636.803                 768                     61,149,184      358,296         
+00005.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           636.803                 448                     35,671,552      199,060         
+00005.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        636.803                 448                     35,671,552      199,060         
+00005.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          636.803                 448                     35,671,552      199,060         
+00005.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             636.803                 448                     35,671,552      199,060         
+00005.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             636.803                 448                     35,671,552      199,060         
+00005.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           636.803                 0                       70              7               
+00005.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           636.803                 0                       70              7               
+00005.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          636.803                 0                       70              7               
+00005.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           636.803                 0                       70              7               
+00005.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        636.803                 0                       70              7               
+00005.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         636.803                 0                       70              7               
+00005.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          636.803                 0                       70              7               
+00005.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             636.803                 0                       70              7               
+00005.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            636.803                 0                       70              7               
+00005.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             636.803                 0                       70              7               
+00005.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         636.803                 0                       70              7               
+00005.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         636.803                 0                       70              7               
+00005.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          636.803                 0                       70              7               
+00005.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           636.803                 0                       70              7               
+00005.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         636.803                 0                       70              7               
+00005.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           636.803                 60                      4,801,292       27,113          
+00005.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           636.803                 0                       70              7               
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     1829.995                30,710                  7,024,935,550   38,204,645      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1829.995                3,803                   869,915,524     5,013,036       
+00006.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1829.995                768                     175,687,680     1,029,420       
+00006.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1829.995                448                     102,484,480     571,900         
+00006.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1829.995                448                     102,484,480     571,900         
+00006.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1829.995                448                     102,484,480     571,900         
+00006.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1829.995                24                      5,518,223       31,821          
+00006.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1829.995                26                      5,939,288       34,273          
+00006.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1829.995                24                      5,401,864       31,141          
+00006.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1829.995                22                      5,140,931       29,898          
+00006.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1829.995                23                      5,179,670       30,127          
+00006.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1829.995                25                      5,691,307       32,904          
+00006.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1829.995                24                      5,396,436       31,311          
+00006.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1829.995                24                      5,437,576       31,520          
+00006.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1829.995                14                      3,201,323       19,341          
+00006.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1829.995                24                      5,497,482       31,706          
+00006.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1829.995                26                      6,016,917       34,669          
+00006.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1829.995                23                      5,306,529       30,601          
+00006.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1829.995                25                      5,764,725       33,304          
+00006.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1829.995                23                      5,206,412       30,273          
+00006.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1829.995                22                      4,993,686       29,113          
+00006.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1829.995                82                      18,743,281      105,442         
+00006.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1829.995                79                      18,170,937      102,845         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 34,601,250,875 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 31,042,738,176 bytes
+Length: 1:41:28.040
+Total Bitrate: 40.79 Mbps
+Video: MPEG-4 AVC Video / 29108 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3620 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Latvian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Lithuanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Subtitle: English / 27.552 kbps
+Subtitle: Russian / 30.117 kbps
+Subtitle: Estonian / 26.698 kbps
+Subtitle: Latvian / 25.139 kbps
+Subtitle: Lithuanian / 25.803 kbps
+Subtitle: Bulgarian / 28.124 kbps
+Subtitle: Croatian / 27.209 kbps
+Subtitle: Czech / 27.423 kbps
+Subtitle: Arabic / 16.441 kbps
+Subtitle: Greek / 26.412 kbps
+Subtitle: Hungarian / 30.261 kbps
+Subtitle: Icelandic / 25.900 kbps
+Subtitle: Romanian / 28.065 kbps
+Subtitle: Serbian / 25.400 kbps
+Subtitle: Slovenian / 24.135 kbps
+Subtitle: Russian / 85.648 kbps
+Subtitle: Russian / 68.554 kbps
+
+
+********************
+PLAYLIST: 00851.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00851.MPLS                                                      AVC     1:41:28 31,042,738,176  34,601,250,875  40.79   29.11   DTS-HD Master 5.1 3620Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      34,601,250,875 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00851.MPLS
+Length:                 1:41:28.040 (h:m:s.ms)
+Size:                   31,042,738,176 bytes
+Total Bitrate:          40.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29108 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3620 kbps       5.1 / 48 kHz /  3620 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+DTS Audio                       Russian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Latvian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Lithuanian      448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Czech           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Hungarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         27.552 kbps                     
+Presentation Graphics           Russian         30.117 kbps                     
+Presentation Graphics           Estonian        26.698 kbps                     
+Presentation Graphics           Latvian         25.139 kbps                     
+Presentation Graphics           Lithuanian      25.803 kbps                     
+Presentation Graphics           Bulgarian       28.124 kbps                     
+Presentation Graphics           Croatian        27.209 kbps                     
+Presentation Graphics           Czech           27.423 kbps                     
+Presentation Graphics           Arabic          16.441 kbps                     
+Presentation Graphics           Greek           26.412 kbps                     
+Presentation Graphics           Hungarian       30.261 kbps                     
+Presentation Graphics           Icelandic       25.900 kbps                     
+Presentation Graphics           Romanian        28.065 kbps                     
+Presentation Graphics           Serbian         25.400 kbps                     
+Presentation Graphics           Slovenian       24.135 kbps                     
+Presentation Graphics           Russian         85.648 kbps                     
+Presentation Graphics           Russian         68.554 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     0:05:03.386     1,731,385,344   45,655          
+00001.M2TS      0:05:03.386     0:02:27.230     381,480,960     20,728          
+00002.M2TS      0:07:30.616     0:22:13.248     7,711,322,112   46,271          
+00003.M2TS      0:29:43.865     0:01:39.182     241,360,896     19,468          
+00004.M2TS      0:31:23.047     0:28:57.944     10,087,864,320  46,436          
+00005.M2TS      1:00:20.992     0:10:36.969     1,141,555,200   14,337          
+00006.M2TS      1:10:57.961     0:30:30.078     9,747,769,344   42,611          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:21.307     32,788 kbps     41,750 kbps     00:00:39.289    36,138 kbps     00:01:11.112    35,611 kbps     00:00:13.972    170,891 bytes   923,012 bytes   00:01:15.992    
+2               0:02:21.307     0:01:46.731     34,720 kbps     41,772 kbps     00:02:45.498    36,490 kbps     00:02:41.494    35,650 kbps     00:03:18.281    181,012 bytes   880,136 bytes   00:03:29.167    
+3               0:04:08.039     0:05:38.796     24,157 kbps     44,248 kbps     00:08:21.000    36,294 kbps     00:08:08.738    35,579 kbps     00:04:13.253    125,943 bytes   936,735 bytes   00:07:48.551    
+4               0:09:46.836     0:03:47.936     34,289 kbps     41,964 kbps     00:13:12.166    36,779 kbps     00:13:08.162    35,982 kbps     00:13:03.157    178,765 bytes   917,032 bytes   00:12:27.746    
+5               0:13:34.772     0:05:11.185     34,168 kbps     42,671 kbps     00:13:48.577    36,514 kbps     00:17:41.852    35,795 kbps     00:13:39.652    178,138 bytes   923,362 bytes   00:15:17.249    
+6               0:18:45.958     0:01:51.069     33,663 kbps     46,000 kbps     00:20:02.701    36,869 kbps     00:19:58.614    35,999 kbps     00:19:53.692    175,506 bytes   886,605 bytes   00:19:42.848    
+7               0:20:37.027     0:01:37.138     34,290 kbps     40,837 kbps     00:22:06.533    36,167 kbps     00:21:47.472    35,582 kbps     00:21:46.638    178,773 bytes   786,913 bytes   00:22:09.161    
+8               0:22:14.166     0:03:32.795     34,556 kbps     43,224 kbps     00:25:18.475    36,524 kbps     00:25:14.471    35,902 kbps     00:24:47.527    180,157 bytes   936,264 bytes   00:23:47.717    
+9               0:25:46.962     0:02:25.019     34,325 kbps     41,561 kbps     00:26:58.199    36,085 kbps     00:26:10.402    35,567 kbps     00:25:55.512    178,954 bytes   936,444 bytes   00:27:36.863    
+10              0:28:11.981     0:06:07.700     27,459 kbps     44,434 kbps     00:32:28.112    36,662 kbps     00:32:38.081    35,890 kbps     00:32:33.076    143,157 bytes   937,004 bytes   00:33:43.354    
+11              0:34:19.682     0:01:41.601     34,633 kbps     41,240 kbps     00:35:08.606    36,269 kbps     00:35:27.375    35,645 kbps     00:35:20.618    180,561 bytes   876,580 bytes   00:35:29.627    
+12              0:36:01.284     0:07:30.158     34,328 kbps     43,420 kbps     00:40:45.276    36,357 kbps     00:37:01.636    35,753 kbps     00:40:36.559    178,969 bytes   908,348 bytes   00:40:57.538    
+13              0:43:31.442     0:04:59.966     34,641 kbps     43,715 kbps     00:47:06.823    36,602 kbps     00:47:45.028    35,869 kbps     00:47:40.148    180,600 bytes   936,453 bytes   00:47:10.494    
+14              0:48:31.408     0:02:27.856     34,219 kbps     45,096 kbps     00:49:05.942    36,305 kbps     00:49:06.568    35,715 kbps     00:50:47.085    178,401 bytes   886,801 bytes   00:49:53.073    
+15              0:50:59.264     0:02:48.626     34,032 kbps     41,221 kbps     00:51:31.630    36,368 kbps     00:51:25.540    35,583 kbps     00:51:20.327    177,426 bytes   879,931 bytes   00:52:53.837    
+16              0:53:47.891     0:01:55.323     34,705 kbps     45,773 kbps     00:54:38.316    37,642 kbps     00:54:34.270    36,272 kbps     00:54:29.307    180,935 bytes   910,129 bytes   00:54:17.504    
+17              0:55:43.214     0:15:27.092     13,487 kbps     43,659 kbps     01:11:00.547    36,377 kbps     00:57:52.218    35,729 kbps     00:57:31.447    70,315 bytes    934,781 bytes   00:57:57.849    
+18              1:11:10.307     0:04:14.003     34,491 kbps     41,998 kbps     01:14:14.908    36,221 kbps     01:12:25.966    35,625 kbps     01:11:48.971    179,821 bytes   937,073 bytes   01:12:30.971    
+19              1:15:24.311     0:03:16.613     33,967 kbps     42,045 kbps     01:16:49.062    36,163 kbps     01:15:50.379    35,645 kbps     01:15:45.540    177,089 bytes   807,067 bytes   01:15:58.762    
+20              1:18:40.924     0:02:09.671     34,467 kbps     43,208 kbps     01:20:35.538    36,437 kbps     01:19:30.015    35,661 kbps     01:20:08.970    179,697 bytes   934,410 bytes   01:19:24.634    
+21              1:20:50.595     0:04:09.916     34,668 kbps     41,590 kbps     01:23:32.882    36,195 kbps     01:23:53.695    35,659 kbps     01:23:23.748    180,741 bytes   930,917 bytes   01:22:50.006    
+22              1:25:00.512     0:04:15.254     34,639 kbps     41,798 kbps     01:25:21.074    36,489 kbps     01:27:43.633    35,759 kbps     01:27:15.897    180,593 bytes   936,138 bytes   01:26:14.836    
+23              1:29:15.767     0:03:00.722     33,855 kbps     41,570 kbps     01:31:51.714    36,816 kbps     01:31:47.710    35,763 kbps     01:30:53.364    176,506 bytes   936,768 bytes   01:30:05.024    
+24              1:32:16.489     0:09:11.550     22,738 kbps     40,576 kbps     01:41:23.660    35,887 kbps     01:32:57.780    35,221 kbps     01:37:32.721    118,554 bytes   724,487 bytes   01:37:30.302    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     303.220                 33,837                  1,282,494,715   6,974,315       
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           303.220                 3,567                   135,215,060     781,949         
+00000.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           303.220                 768                     29,125,632      170,658         
+00000.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           303.220                 448                     16,989,952      94,810          
+00000.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        303.220                 448                     16,989,952      94,810          
+00000.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          303.220                 448                     16,989,952      94,810          
+00000.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           303.220                 20                      762,652         4,346           
+00000.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           303.220                 31                      1,192,267       6,800           
+00000.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          303.220                 25                      942,394         5,410           
+00000.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           303.220                 24                      900,540         5,201           
+00000.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        303.220                 26                      968,172         5,589           
+00000.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         303.220                 28                      1,053,461       6,052           
+00000.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          303.220                 26                      996,707         5,736           
+00000.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             303.220                 25                      936,190         5,390           
+00000.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            303.220                 16                      610,842         3,632           
+00000.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             303.220                 24                      914,975         5,246           
+00000.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         303.220                 29                      1,087,934       6,212           
+00000.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         303.220                 24                      914,761         5,252           
+00000.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          303.220                 28                      1,052,420       6,028           
+00000.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           303.220                 24                      924,766         5,334           
+00000.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         303.220                 23                      878,032         5,080           
+00000.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           303.220                 98                      3,698,431       20,746          
+00000.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           303.220                 86                      3,248,954       18,399          
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     147.064                 10,624                  195,308,175     1,063,849       
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           147.064                 3,386                   62,252,292      361,138         
+00001.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           147.064                 224                     4,122,496       23,005          
+00001.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           147.064                 224                     4,122,496       23,005          
+00001.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           147.064                 769                     14,134,272      82,818          
+00001.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           147.064                 449                     8,244,992       46,010          
+00001.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        147.064                 449                     8,244,992       46,010          
+00001.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          147.064                 449                     8,244,992       46,010          
+00001.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             147.064                 449                     8,244,992       46,010          
+00001.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             147.064                 449                     8,244,992       46,010          
+00001.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         147.064                 449                     8,244,992       46,010          
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           147.064                 0                       70              7               
+00001.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           147.064                 0                       70              7               
+00001.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          147.064                 0                       70              7               
+00001.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           147.064                 0                       70              7               
+00001.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        147.064                 0                       70              7               
+00001.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         147.064                 0                       70              7               
+00001.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          147.064                 0                       70              7               
+00001.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             147.064                 0                       70              7               
+00001.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            147.064                 0                       70              7               
+00001.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             147.064                 0                       70              7               
+00001.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         147.064                 0                       70              7               
+00001.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         147.064                 0                       70              7               
+00001.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          147.064                 0                       70              7               
+00001.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           147.064                 0                       70              7               
+00001.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         147.064                 0                       70              7               
+00001.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           147.064                 79                      1,446,747       8,131           
+00001.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           147.064                 0                       70              7               
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     1333.082                34,301                  5,715,693,372   31,082,103      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1333.082                3,479                   579,681,900     3,358,404       
+00002.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1333.082                768                     127,992,832     749,958         
+00002.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1333.082                448                     74,663,680      416,650         
+00002.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1333.082                448                     74,663,680      416,650         
+00002.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1333.082                448                     74,663,680      416,650         
+00002.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1333.082                40                      6,672,175       38,211          
+00002.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1333.082                43                      7,151,860       41,002          
+00002.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1333.082                39                      6,479,532       37,136          
+00002.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1333.082                36                      5,920,080       34,253          
+00002.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1333.082                37                      6,161,518       35,580          
+00002.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1333.082                40                      6,645,915       38,228          
+00002.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1333.082                39                      6,487,888       37,366          
+00002.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1333.082                39                      6,559,708       37,748          
+00002.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1333.082                24                      3,947,604       23,527          
+00002.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1333.082                37                      6,243,357       35,854          
+00002.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1333.082                44                      7,262,605       41,564          
+00002.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1333.082                36                      6,067,123       34,884          
+00002.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1333.082                40                      6,710,022       38,579          
+00002.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1333.082                36                      6,027,344       34,846          
+00002.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1333.082                34                      5,721,905       33,215          
+00002.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1333.082                94                      15,614,814      87,805          
+00002.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1333.082                84                      13,998,163      79,297          
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     99.016                  8,709                   107,790,336     587,366         
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           99.016                  4,107                   50,828,904      291,626         
+00003.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           99.016                  224                     2,777,600       15,500          
+00003.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           99.016                  224                     2,777,600       15,500          
+00003.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           99.016                  769                     9,522,176       55,794          
+00003.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           99.016                  449                     5,555,200       31,000          
+00003.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        99.016                  449                     5,555,200       31,000          
+00003.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          99.016                  449                     5,555,200       31,000          
+00003.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             99.016                  449                     5,555,200       31,000          
+00003.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             99.016                  449                     5,555,200       31,000          
+00003.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         99.016                  449                     5,555,200       31,000          
+00003.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           99.016                  0                       70              7               
+00003.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           99.016                  0                       70              7               
+00003.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          99.016                  0                       70              7               
+00003.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           99.016                  0                       70              7               
+00003.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        99.016                  0                       70              7               
+00003.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         99.016                  0                       70              7               
+00003.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          99.016                  0                       70              7               
+00003.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             99.016                  0                       70              7               
+00003.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            99.016                  0                       70              7               
+00003.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             99.016                  0                       70              7               
+00003.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         99.016                  0                       70              7               
+00003.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         99.016                  0                       70              7               
+00003.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          99.016                  0                       70              7               
+00003.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           99.016                  0                       70              7               
+00003.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         99.016                  0                       70              7               
+00003.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           99.016                  71                      873,788         4,937           
+00003.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           99.016                  0                       70              7               
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     1737.778                34,410                  7,474,617,895   40,647,349      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1737.778                3,585                   778,658,564     4,503,179       
+00004.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1737.778                768                     166,843,392     977,598         
+00004.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1737.778                448                     97,325,312      543,110         
+00004.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1737.778                448                     97,325,312      543,110         
+00004.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1737.778                448                     97,325,312      543,110         
+00004.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1737.778                37                      8,013,675       45,868          
+00004.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1737.778                40                      8,635,683       49,482          
+00004.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1737.778                34                      7,493,047       42,954          
+00004.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1737.778                33                      7,169,320       41,440          
+00004.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1737.778                34                      7,326,688       42,344          
+00004.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1737.778                37                      8,011,511       46,057          
+00004.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1737.778                36                      7,824,924       45,059          
+00004.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1737.778                37                      7,935,166       45,633          
+00004.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1737.778                22                      4,751,450       28,315          
+00004.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1737.778                34                      7,443,924       42,690          
+00004.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1737.778                40                      8,661,323       49,569          
+00004.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1737.778                34                      7,421,161       42,554          
+00004.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1737.778                36                      7,830,171       45,041          
+00004.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1737.778                33                      7,171,125       41,483          
+00004.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1737.778                31                      6,772,925       39,331          
+00004.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1737.778                92                      20,000,025      112,517         
+00004.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1737.778                77                      16,751,643      94,849          
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     636.803                 4,402                   350,391,519     1,912,367       
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           636.803                 3,493                   278,080,512     1,610,725       
+00005.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           636.803                 224                     17,835,776      99,530          
+00005.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           636.803                 224                     17,835,776      99,530          
+00005.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           636.803                 768                     61,149,184      358,296         
+00005.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           636.803                 448                     35,671,552      199,060         
+00005.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        636.803                 448                     35,671,552      199,060         
+00005.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          636.803                 448                     35,671,552      199,060         
+00005.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             636.803                 448                     35,671,552      199,060         
+00005.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             636.803                 448                     35,671,552      199,060         
+00005.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         636.803                 448                     35,671,552      199,060         
+00005.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           636.803                 0                       70              7               
+00005.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           636.803                 0                       70              7               
+00005.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          636.803                 0                       70              7               
+00005.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           636.803                 0                       70              7               
+00005.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        636.803                 0                       70              7               
+00005.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         636.803                 0                       70              7               
+00005.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          636.803                 0                       70              7               
+00005.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             636.803                 0                       70              7               
+00005.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            636.803                 0                       70              7               
+00005.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             636.803                 0                       70              7               
+00005.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         636.803                 0                       70              7               
+00005.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         636.803                 0                       70              7               
+00005.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          636.803                 0                       70              7               
+00005.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           636.803                 0                       70              7               
+00005.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         636.803                 0                       70              7               
+00005.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           636.803                 60                      4,801,292       27,113          
+00005.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           636.803                 0                       70              7               
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     1829.995                30,710                  7,024,935,550   38,204,645      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1829.995                3,803                   869,915,524     5,013,036       
+00006.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1829.995                768                     175,687,680     1,029,420       
+00006.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1829.995                448                     102,484,480     571,900         
+00006.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1829.995                448                     102,484,480     571,900         
+00006.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1829.995                448                     102,484,480     571,900         
+00006.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1829.995                24                      5,518,223       31,821          
+00006.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1829.995                26                      5,939,288       34,273          
+00006.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1829.995                24                      5,401,864       31,141          
+00006.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1829.995                22                      5,140,931       29,898          
+00006.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1829.995                23                      5,179,670       30,127          
+00006.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1829.995                25                      5,691,307       32,904          
+00006.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1829.995                24                      5,396,436       31,311          
+00006.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1829.995                24                      5,437,576       31,520          
+00006.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1829.995                14                      3,201,323       19,341          
+00006.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1829.995                24                      5,497,482       31,706          
+00006.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1829.995                26                      6,016,917       34,669          
+00006.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1829.995                23                      5,306,529       30,601          
+00006.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1829.995                25                      5,764,725       33,304          
+00006.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1829.995                23                      5,206,412       30,273          
+00006.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1829.995                22                      4,993,686       29,113          
+00006.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1829.995                82                      18,743,281      105,442         
+00006.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1829.995                79                      18,170,937      102,845         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 34,601,250,875 bytes
+Protection: AACS
+Playlist: 00851.MPLS
+Size: 31,042,738,176 bytes
+Length: 1:41:28.040
+Total Bitrate: 40.79 Mbps
+Video: MPEG-4 AVC Video / 29108 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3620 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Latvian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Lithuanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Subtitle: English / 27.552 kbps
+Subtitle: Russian / 30.117 kbps
+Subtitle: Estonian / 26.698 kbps
+Subtitle: Latvian / 25.139 kbps
+Subtitle: Lithuanian / 25.803 kbps
+Subtitle: Bulgarian / 28.124 kbps
+Subtitle: Croatian / 27.209 kbps
+Subtitle: Czech / 27.423 kbps
+Subtitle: Arabic / 16.441 kbps
+Subtitle: Greek / 26.412 kbps
+Subtitle: Hungarian / 30.261 kbps
+Subtitle: Icelandic / 25.900 kbps
+Subtitle: Romanian / 28.065 kbps
+Subtitle: Serbian / 25.400 kbps
+Subtitle: Slovenian / 24.135 kbps
+Subtitle: Russian / 85.648 kbps
+Subtitle: Russian / 68.554 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:26:44 29,278,341,120  34,601,250,875  45.00   33.04   DTS-HD Master 5.1 3633Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      34,601,250,875 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:26:44.657 (h:m:s.ms)
+Size:                   29,278,341,120 bytes
+Total Bitrate:          45.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        33044 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3633 kbps       5.1 / 48 kHz /  3633 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+DTS Audio                       Russian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Latvian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Lithuanian      448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Czech           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Hungarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.228 kbps                     
+Presentation Graphics           Russian         35.229 kbps                     
+Presentation Graphics           Estonian        31.229 kbps                     
+Presentation Graphics           Latvian         29.406 kbps                     
+Presentation Graphics           Lithuanian      30.182 kbps                     
+Presentation Graphics           Bulgarian       32.897 kbps                     
+Presentation Graphics           Croatian        31.827 kbps                     
+Presentation Graphics           Czech           32.077 kbps                     
+Presentation Graphics           Arabic          19.231 kbps                     
+Presentation Graphics           Greek           30.895 kbps                     
+Presentation Graphics           Hungarian       35.397 kbps                     
+Presentation Graphics           Icelandic       30.295 kbps                     
+Presentation Graphics           Romanian        32.828 kbps                     
+Presentation Graphics           Serbian         29.711 kbps                     
+Presentation Graphics           Slovenian       28.231 kbps                     
+Presentation Graphics           Russian         89.238 kbps                     
+Presentation Graphics           Russian         80.189 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     0:05:03.386     1,731,385,344   45,655          
+00002.M2TS      0:05:03.386     0:22:13.248     7,711,322,112   46,271          
+00004.M2TS      0:27:16.634     0:28:57.944     10,087,864,320  46,436          
+00006.M2TS      0:56:14.579     0:30:30.078     9,747,769,344   42,611          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:21.307     32,788 kbps     41,750 kbps     00:00:39.289    36,138 kbps     00:01:11.112    35,611 kbps     00:00:13.972    170,891 bytes   923,012 bytes   00:01:15.992    
+2               0:02:21.307     0:01:46.731     34,720 kbps     41,772 kbps     00:02:45.498    36,490 kbps     00:02:41.494    35,650 kbps     00:03:18.281    181,012 bytes   880,136 bytes   00:03:29.167    
+3               0:04:08.039     0:03:11.566     34,567 kbps     44,248 kbps     00:05:53.770    36,294 kbps     00:05:41.507    35,579 kbps     00:04:13.253    180,214 bytes   936,735 bytes   00:05:21.320    
+4               0:07:19.605     0:03:47.936     34,289 kbps     41,964 kbps     00:10:44.935    36,779 kbps     00:10:40.931    35,982 kbps     00:10:35.926    178,765 bytes   917,032 bytes   00:10:00.516    
+5               0:11:07.541     0:05:11.185     34,168 kbps     42,671 kbps     00:11:21.347    36,514 kbps     00:15:14.622    35,795 kbps     00:11:12.421    178,138 bytes   923,362 bytes   00:12:50.019    
+6               0:16:18.727     0:01:51.069     33,663 kbps     46,000 kbps     00:17:35.471    36,869 kbps     00:17:31.383    35,999 kbps     00:17:26.462    175,506 bytes   886,605 bytes   00:17:15.617    
+7               0:18:09.797     0:01:37.138     34,290 kbps     40,837 kbps     00:19:39.303    36,167 kbps     00:19:20.242    35,582 kbps     00:19:19.408    178,773 bytes   786,913 bytes   00:19:41.930    
+8               0:19:46.935     0:03:32.795     34,556 kbps     43,224 kbps     00:22:51.244    36,524 kbps     00:22:47.240    35,902 kbps     00:22:20.297    180,157 bytes   936,264 bytes   00:21:20.487    
+9               0:23:19.731     0:02:25.019     34,325 kbps     41,561 kbps     00:24:30.969    36,085 kbps     00:23:43.171    35,567 kbps     00:23:28.281    178,954 bytes   936,444 bytes   00:25:09.633    
+10              0:25:44.751     0:04:28.518     34,390 kbps     44,434 kbps     00:28:21.699    36,662 kbps     00:28:31.668    35,890 kbps     00:28:26.663    179,292 bytes   937,004 bytes   00:29:36.941    
+11              0:30:13.269     0:01:41.601     34,633 kbps     41,240 kbps     00:31:02.193    36,269 kbps     00:31:20.962    35,645 kbps     00:31:14.205    180,561 bytes   876,580 bytes   00:31:23.214    
+12              0:31:54.871     0:07:30.158     34,328 kbps     43,420 kbps     00:36:38.863    36,357 kbps     00:32:55.223    35,753 kbps     00:36:30.146    178,969 bytes   908,348 bytes   00:36:51.125    
+13              0:39:25.029     0:04:59.966     34,641 kbps     43,715 kbps     00:43:00.411    36,602 kbps     00:43:38.615    35,869 kbps     00:43:33.736    180,600 bytes   936,453 bytes   00:43:04.081    
+14              0:44:24.995     0:02:27.856     34,219 kbps     45,096 kbps     00:44:59.530    36,305 kbps     00:45:00.155    35,715 kbps     00:46:40.672    178,401 bytes   886,801 bytes   00:45:46.660    
+15              0:46:52.851     0:02:48.626     34,032 kbps     41,221 kbps     00:47:25.217    36,368 kbps     00:47:19.127    35,583 kbps     00:47:13.914    177,426 bytes   879,931 bytes   00:48:47.424    
+16              0:49:41.478     0:01:55.323     34,705 kbps     45,773 kbps     00:50:31.903    37,642 kbps     00:50:27.858    36,272 kbps     00:50:22.894    180,935 bytes   910,129 bytes   00:50:11.091    
+17              0:51:36.801     0:04:50.123     33,436 kbps     43,659 kbps     00:56:17.165    36,377 kbps     00:53:45.805    35,729 kbps     00:53:25.035    174,321 bytes   934,781 bytes   00:53:51.436    
+18              0:56:26.925     0:04:14.003     34,491 kbps     41,998 kbps     00:59:31.526    36,221 kbps     00:57:42.584    35,625 kbps     00:57:05.588    179,821 bytes   937,073 bytes   00:57:47.589    
+19              1:00:40.928     0:03:16.613     33,967 kbps     42,045 kbps     01:02:05.680    36,163 kbps     01:01:06.996    35,645 kbps     01:01:02.158    177,089 bytes   807,067 bytes   01:01:15.380    
+20              1:03:57.542     0:02:09.671     34,467 kbps     43,208 kbps     01:05:52.156    36,437 kbps     01:04:46.632    35,661 kbps     01:05:25.588    179,697 bytes   934,410 bytes   01:04:41.252    
+21              1:06:07.213     0:04:09.916     34,668 kbps     41,590 kbps     01:08:49.500    36,195 kbps     01:09:10.312    35,659 kbps     01:08:40.366    180,741 bytes   930,917 bytes   01:08:06.624    
+22              1:10:17.129     0:04:15.255     34,639 kbps     41,798 kbps     01:10:37.691    36,489 kbps     01:13:00.250    35,759 kbps     01:12:32.514    180,593 bytes   936,138 bytes   01:11:31.453    
+23              1:14:32.384     0:03:00.722     33,855 kbps     41,570 kbps     01:17:08.332    36,816 kbps     01:17:04.328    35,763 kbps     01:16:09.982    176,506 bytes   936,768 bytes   01:15:21.642    
+24              1:17:33.106     0:09:11.551     22,738 kbps     40,576 kbps     01:26:40.278    35,887 kbps     01:18:14.398    35,221 kbps     01:22:49.339    118,554 bytes   724,487 bytes   01:22:46.920    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     303.220                 33,837                  1,282,494,715   6,974,315       
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           303.220                 3,567                   135,215,060     781,949         
+00000.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           303.220                 768                     29,125,632      170,658         
+00000.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           303.220                 448                     16,989,952      94,810          
+00000.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        303.220                 448                     16,989,952      94,810          
+00000.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          303.220                 448                     16,989,952      94,810          
+00000.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           303.220                 20                      762,652         4,346           
+00000.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           303.220                 31                      1,192,267       6,800           
+00000.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          303.220                 25                      942,394         5,410           
+00000.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           303.220                 24                      900,540         5,201           
+00000.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        303.220                 26                      968,172         5,589           
+00000.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         303.220                 28                      1,053,461       6,052           
+00000.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          303.220                 26                      996,707         5,736           
+00000.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             303.220                 25                      936,190         5,390           
+00000.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            303.220                 16                      610,842         3,632           
+00000.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             303.220                 24                      914,975         5,246           
+00000.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         303.220                 29                      1,087,934       6,212           
+00000.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         303.220                 24                      914,761         5,252           
+00000.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          303.220                 28                      1,052,420       6,028           
+00000.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           303.220                 24                      924,766         5,334           
+00000.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         303.220                 23                      878,032         5,080           
+00000.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           303.220                 98                      3,698,431       20,746          
+00000.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           303.220                 86                      3,248,954       18,399          
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     1333.082                34,301                  5,715,693,372   31,082,103      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1333.082                3,479                   579,681,900     3,358,404       
+00002.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1333.082                768                     127,992,832     749,958         
+00002.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1333.082                448                     74,663,680      416,650         
+00002.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1333.082                448                     74,663,680      416,650         
+00002.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1333.082                448                     74,663,680      416,650         
+00002.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1333.082                40                      6,672,175       38,211          
+00002.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1333.082                43                      7,151,860       41,002          
+00002.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1333.082                39                      6,479,532       37,136          
+00002.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1333.082                36                      5,920,080       34,253          
+00002.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1333.082                37                      6,161,518       35,580          
+00002.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1333.082                40                      6,645,915       38,228          
+00002.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1333.082                39                      6,487,888       37,366          
+00002.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1333.082                39                      6,559,708       37,748          
+00002.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1333.082                24                      3,947,604       23,527          
+00002.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1333.082                37                      6,243,357       35,854          
+00002.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1333.082                44                      7,262,605       41,564          
+00002.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1333.082                36                      6,067,123       34,884          
+00002.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1333.082                40                      6,710,022       38,579          
+00002.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1333.082                36                      6,027,344       34,846          
+00002.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1333.082                34                      5,721,905       33,215          
+00002.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1333.082                94                      15,614,814      87,805          
+00002.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1333.082                84                      13,998,163      79,297          
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     1737.778                34,410                  7,474,617,895   40,647,349      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1737.778                3,585                   778,658,564     4,503,179       
+00004.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1737.778                768                     166,843,392     977,598         
+00004.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1737.778                448                     97,325,312      543,110         
+00004.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1737.778                448                     97,325,312      543,110         
+00004.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1737.778                448                     97,325,312      543,110         
+00004.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1737.778                37                      8,013,675       45,868          
+00004.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1737.778                40                      8,635,683       49,482          
+00004.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1737.778                34                      7,493,047       42,954          
+00004.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1737.778                33                      7,169,320       41,440          
+00004.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1737.778                34                      7,326,688       42,344          
+00004.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1737.778                37                      8,011,511       46,057          
+00004.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1737.778                36                      7,824,924       45,059          
+00004.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1737.778                37                      7,935,166       45,633          
+00004.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1737.778                22                      4,751,450       28,315          
+00004.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1737.778                34                      7,443,924       42,690          
+00004.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1737.778                40                      8,661,323       49,569          
+00004.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1737.778                34                      7,421,161       42,554          
+00004.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1737.778                36                      7,830,171       45,041          
+00004.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1737.778                33                      7,171,125       41,483          
+00004.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1737.778                31                      6,772,925       39,331          
+00004.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1737.778                92                      20,000,025      112,517         
+00004.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1737.778                77                      16,751,643      94,849          
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     1829.995                30,710                  7,024,935,550   38,204,645      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1829.995                3,803                   869,915,524     5,013,036       
+00006.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1829.995                768                     175,687,680     1,029,420       
+00006.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1829.995                448                     102,484,480     571,900         
+00006.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1829.995                448                     102,484,480     571,900         
+00006.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1829.995                448                     102,484,480     571,900         
+00006.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1829.995                24                      5,518,223       31,821          
+00006.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1829.995                26                      5,939,288       34,273          
+00006.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1829.995                24                      5,401,864       31,141          
+00006.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1829.995                22                      5,140,931       29,898          
+00006.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1829.995                23                      5,179,670       30,127          
+00006.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1829.995                25                      5,691,307       32,904          
+00006.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1829.995                24                      5,396,436       31,311          
+00006.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1829.995                24                      5,437,576       31,520          
+00006.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1829.995                14                      3,201,323       19,341          
+00006.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1829.995                24                      5,497,482       31,706          
+00006.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1829.995                26                      6,016,917       34,669          
+00006.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1829.995                23                      5,306,529       30,601          
+00006.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1829.995                25                      5,764,725       33,304          
+00006.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1829.995                23                      5,206,412       30,273          
+00006.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1829.995                22                      4,993,686       29,113          
+00006.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1829.995                82                      18,743,281      105,442         
+00006.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1829.995                79                      18,170,937      102,845         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 34,601,250,875 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 29,278,341,120 bytes
+Length: 1:26:44.657
+Total Bitrate: 45.00 Mbps
+Video: MPEG-4 AVC Video / 33044 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3633 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Latvian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Lithuanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Subtitle: English / 32.228 kbps
+Subtitle: Russian / 35.229 kbps
+Subtitle: Estonian / 31.229 kbps
+Subtitle: Latvian / 29.406 kbps
+Subtitle: Lithuanian / 30.182 kbps
+Subtitle: Bulgarian / 32.897 kbps
+Subtitle: Croatian / 31.827 kbps
+Subtitle: Czech / 32.077 kbps
+Subtitle: Arabic / 19.231 kbps
+Subtitle: Greek / 30.895 kbps
+Subtitle: Hungarian / 35.397 kbps
+Subtitle: Icelandic / 30.295 kbps
+Subtitle: Romanian / 32.828 kbps
+Subtitle: Serbian / 29.711 kbps
+Subtitle: Slovenian / 28.231 kbps
+Subtitle: Russian / 89.238 kbps
+Subtitle: Russian / 80.189 kbps
+
+
+********************
+PLAYLIST: 00850.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00850.MPLS                                                      AVC     1:26:44 29,278,341,120  34,601,250,875  45.00   33.04   DTS-HD Master 5.1 3633Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      34,601,250,875 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00850.MPLS
+Length:                 1:26:44.657 (h:m:s.ms)
+Size:                   29,278,341,120 bytes
+Total Bitrate:          45.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        33044 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3633 kbps       5.1 / 48 kHz /  3633 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+DTS Audio                       Russian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Latvian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Lithuanian      448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Czech           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Hungarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.228 kbps                     
+Presentation Graphics           Russian         35.229 kbps                     
+Presentation Graphics           Estonian        31.229 kbps                     
+Presentation Graphics           Latvian         29.406 kbps                     
+Presentation Graphics           Lithuanian      30.182 kbps                     
+Presentation Graphics           Bulgarian       32.897 kbps                     
+Presentation Graphics           Croatian        31.827 kbps                     
+Presentation Graphics           Czech           32.077 kbps                     
+Presentation Graphics           Arabic          19.231 kbps                     
+Presentation Graphics           Greek           30.895 kbps                     
+Presentation Graphics           Hungarian       35.397 kbps                     
+Presentation Graphics           Icelandic       30.295 kbps                     
+Presentation Graphics           Romanian        32.828 kbps                     
+Presentation Graphics           Serbian         29.711 kbps                     
+Presentation Graphics           Slovenian       28.231 kbps                     
+Presentation Graphics           Russian         89.238 kbps                     
+Presentation Graphics           Russian         80.189 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     0:05:03.386     1,731,385,344   45,655          
+00002.M2TS      0:05:03.386     0:22:13.248     7,711,322,112   46,271          
+00004.M2TS      0:27:16.634     0:28:57.944     10,087,864,320  46,436          
+00006.M2TS      0:56:14.579     0:30:30.078     9,747,769,344   42,611          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:21.307     32,788 kbps     41,750 kbps     00:00:39.289    36,138 kbps     00:01:11.112    35,611 kbps     00:00:13.972    170,891 bytes   923,012 bytes   00:01:15.992    
+2               0:02:21.307     0:01:46.731     34,720 kbps     41,772 kbps     00:02:45.498    36,490 kbps     00:02:41.494    35,650 kbps     00:03:18.281    181,012 bytes   880,136 bytes   00:03:29.167    
+3               0:04:08.039     0:03:11.566     34,567 kbps     44,248 kbps     00:05:53.770    36,294 kbps     00:05:41.507    35,579 kbps     00:04:13.253    180,214 bytes   936,735 bytes   00:05:21.320    
+4               0:07:19.605     0:03:47.936     34,289 kbps     41,964 kbps     00:10:44.935    36,779 kbps     00:10:40.931    35,982 kbps     00:10:35.926    178,765 bytes   917,032 bytes   00:10:00.516    
+5               0:11:07.541     0:05:11.185     34,168 kbps     42,671 kbps     00:11:21.347    36,514 kbps     00:15:14.622    35,795 kbps     00:11:12.421    178,138 bytes   923,362 bytes   00:12:50.019    
+6               0:16:18.727     0:01:51.069     33,663 kbps     46,000 kbps     00:17:35.471    36,869 kbps     00:17:31.383    35,999 kbps     00:17:26.462    175,506 bytes   886,605 bytes   00:17:15.617    
+7               0:18:09.797     0:01:37.138     34,290 kbps     40,837 kbps     00:19:39.303    36,167 kbps     00:19:20.242    35,582 kbps     00:19:19.408    178,773 bytes   786,913 bytes   00:19:41.930    
+8               0:19:46.935     0:03:32.795     34,556 kbps     43,224 kbps     00:22:51.244    36,524 kbps     00:22:47.240    35,902 kbps     00:22:20.297    180,157 bytes   936,264 bytes   00:21:20.487    
+9               0:23:19.731     0:02:25.019     34,325 kbps     41,561 kbps     00:24:30.969    36,085 kbps     00:23:43.171    35,567 kbps     00:23:28.281    178,954 bytes   936,444 bytes   00:25:09.633    
+10              0:25:44.751     0:04:28.518     34,390 kbps     44,434 kbps     00:28:21.699    36,662 kbps     00:28:31.668    35,890 kbps     00:28:26.663    179,292 bytes   937,004 bytes   00:29:36.941    
+11              0:30:13.269     0:01:41.601     34,633 kbps     41,240 kbps     00:31:02.193    36,269 kbps     00:31:20.962    35,645 kbps     00:31:14.205    180,561 bytes   876,580 bytes   00:31:23.214    
+12              0:31:54.871     0:07:30.158     34,328 kbps     43,420 kbps     00:36:38.863    36,357 kbps     00:32:55.223    35,753 kbps     00:36:30.146    178,969 bytes   908,348 bytes   00:36:51.125    
+13              0:39:25.029     0:04:59.966     34,641 kbps     43,715 kbps     00:43:00.411    36,602 kbps     00:43:38.615    35,869 kbps     00:43:33.736    180,600 bytes   936,453 bytes   00:43:04.081    
+14              0:44:24.995     0:02:27.856     34,219 kbps     45,096 kbps     00:44:59.530    36,305 kbps     00:45:00.155    35,715 kbps     00:46:40.672    178,401 bytes   886,801 bytes   00:45:46.660    
+15              0:46:52.851     0:02:48.626     34,032 kbps     41,221 kbps     00:47:25.217    36,368 kbps     00:47:19.127    35,583 kbps     00:47:13.914    177,426 bytes   879,931 bytes   00:48:47.424    
+16              0:49:41.478     0:01:55.323     34,705 kbps     45,773 kbps     00:50:31.903    37,642 kbps     00:50:27.858    36,272 kbps     00:50:22.894    180,935 bytes   910,129 bytes   00:50:11.091    
+17              0:51:36.801     0:04:50.123     33,436 kbps     43,659 kbps     00:56:17.165    36,377 kbps     00:53:45.805    35,729 kbps     00:53:25.035    174,321 bytes   934,781 bytes   00:53:51.436    
+18              0:56:26.925     0:04:14.003     34,491 kbps     41,998 kbps     00:59:31.526    36,221 kbps     00:57:42.584    35,625 kbps     00:57:05.588    179,821 bytes   937,073 bytes   00:57:47.589    
+19              1:00:40.928     0:03:16.613     33,967 kbps     42,045 kbps     01:02:05.680    36,163 kbps     01:01:06.996    35,645 kbps     01:01:02.158    177,089 bytes   807,067 bytes   01:01:15.380    
+20              1:03:57.542     0:02:09.671     34,467 kbps     43,208 kbps     01:05:52.156    36,437 kbps     01:04:46.632    35,661 kbps     01:05:25.588    179,697 bytes   934,410 bytes   01:04:41.252    
+21              1:06:07.213     0:04:09.916     34,668 kbps     41,590 kbps     01:08:49.500    36,195 kbps     01:09:10.312    35,659 kbps     01:08:40.366    180,741 bytes   930,917 bytes   01:08:06.624    
+22              1:10:17.129     0:04:15.255     34,639 kbps     41,798 kbps     01:10:37.691    36,489 kbps     01:13:00.250    35,759 kbps     01:12:32.514    180,593 bytes   936,138 bytes   01:11:31.453    
+23              1:14:32.384     0:03:00.722     33,855 kbps     41,570 kbps     01:17:08.332    36,816 kbps     01:17:04.328    35,763 kbps     01:16:09.982    176,506 bytes   936,768 bytes   01:15:21.642    
+24              1:17:33.106     0:09:11.551     22,738 kbps     40,576 kbps     01:26:40.278    35,887 kbps     01:18:14.398    35,221 kbps     01:22:49.339    118,554 bytes   724,487 bytes   01:22:46.920    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     303.220                 33,837                  1,282,494,715   6,974,315       
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           303.220                 3,567                   135,215,060     781,949         
+00000.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           303.220                 224                     8,494,976       47,405          
+00000.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           303.220                 768                     29,125,632      170,658         
+00000.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           303.220                 448                     16,989,952      94,810          
+00000.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        303.220                 448                     16,989,952      94,810          
+00000.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          303.220                 448                     16,989,952      94,810          
+00000.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             303.220                 448                     16,989,952      94,810          
+00000.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         303.220                 448                     16,989,952      94,810          
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           303.220                 20                      762,652         4,346           
+00000.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           303.220                 31                      1,192,267       6,800           
+00000.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          303.220                 25                      942,394         5,410           
+00000.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           303.220                 24                      900,540         5,201           
+00000.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        303.220                 26                      968,172         5,589           
+00000.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         303.220                 28                      1,053,461       6,052           
+00000.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          303.220                 26                      996,707         5,736           
+00000.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             303.220                 25                      936,190         5,390           
+00000.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            303.220                 16                      610,842         3,632           
+00000.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             303.220                 24                      914,975         5,246           
+00000.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         303.220                 29                      1,087,934       6,212           
+00000.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         303.220                 24                      914,761         5,252           
+00000.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          303.220                 28                      1,052,420       6,028           
+00000.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           303.220                 24                      924,766         5,334           
+00000.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         303.220                 23                      878,032         5,080           
+00000.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           303.220                 98                      3,698,431       20,746          
+00000.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           303.220                 86                      3,248,954       18,399          
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     1333.082                34,301                  5,715,693,372   31,082,103      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1333.082                3,479                   579,681,900     3,358,404       
+00002.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1333.082                224                     37,331,840      208,325         
+00002.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1333.082                768                     127,992,832     749,958         
+00002.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1333.082                448                     74,663,680      416,650         
+00002.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1333.082                448                     74,663,680      416,650         
+00002.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1333.082                448                     74,663,680      416,650         
+00002.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1333.082                448                     74,663,680      416,650         
+00002.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1333.082                448                     74,663,680      416,650         
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1333.082                40                      6,672,175       38,211          
+00002.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1333.082                43                      7,151,860       41,002          
+00002.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1333.082                39                      6,479,532       37,136          
+00002.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1333.082                36                      5,920,080       34,253          
+00002.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1333.082                37                      6,161,518       35,580          
+00002.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1333.082                40                      6,645,915       38,228          
+00002.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1333.082                39                      6,487,888       37,366          
+00002.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1333.082                39                      6,559,708       37,748          
+00002.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1333.082                24                      3,947,604       23,527          
+00002.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1333.082                37                      6,243,357       35,854          
+00002.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1333.082                44                      7,262,605       41,564          
+00002.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1333.082                36                      6,067,123       34,884          
+00002.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1333.082                40                      6,710,022       38,579          
+00002.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1333.082                36                      6,027,344       34,846          
+00002.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1333.082                34                      5,721,905       33,215          
+00002.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1333.082                94                      15,614,814      87,805          
+00002.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1333.082                84                      13,998,163      79,297          
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     1737.778                34,410                  7,474,617,895   40,647,349      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1737.778                3,585                   778,658,564     4,503,179       
+00004.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1737.778                224                     48,662,656      271,555         
+00004.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1737.778                768                     166,843,392     977,598         
+00004.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1737.778                448                     97,325,312      543,110         
+00004.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1737.778                448                     97,325,312      543,110         
+00004.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1737.778                448                     97,325,312      543,110         
+00004.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1737.778                448                     97,325,312      543,110         
+00004.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1737.778                448                     97,325,312      543,110         
+00004.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1737.778                37                      8,013,675       45,868          
+00004.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1737.778                40                      8,635,683       49,482          
+00004.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1737.778                34                      7,493,047       42,954          
+00004.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1737.778                33                      7,169,320       41,440          
+00004.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1737.778                34                      7,326,688       42,344          
+00004.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1737.778                37                      8,011,511       46,057          
+00004.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1737.778                36                      7,824,924       45,059          
+00004.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1737.778                37                      7,935,166       45,633          
+00004.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1737.778                22                      4,751,450       28,315          
+00004.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1737.778                34                      7,443,924       42,690          
+00004.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1737.778                40                      8,661,323       49,569          
+00004.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1737.778                34                      7,421,161       42,554          
+00004.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1737.778                36                      7,830,171       45,041          
+00004.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1737.778                33                      7,171,125       41,483          
+00004.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1737.778                31                      6,772,925       39,331          
+00004.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1737.778                92                      20,000,025      112,517         
+00004.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1737.778                77                      16,751,643      94,849          
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     1829.995                30,710                  7,024,935,550   38,204,645      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1829.995                3,803                   869,915,524     5,013,036       
+00006.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           1829.995                224                     51,242,240      285,950         
+00006.M2TS      4355 (0x1103)   0x82            DTS             rus (Russian)           1829.995                768                     175,687,680     1,029,420       
+00006.M2TS      4356 (0x1104)   0x81            AC3             lav (Latvian)           1829.995                448                     102,484,480     571,900         
+00006.M2TS      4357 (0x1105)   0x81            AC3             lit (Lithuanian)        1829.995                448                     102,484,480     571,900         
+00006.M2TS      4358 (0x1106)   0x81            AC3             bul (Bulgarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4359 (0x1107)   0x81            AC3             hrv (Croatian)          1829.995                448                     102,484,480     571,900         
+00006.M2TS      4360 (0x1108)   0x81            AC3             ces (Czech)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4361 (0x1109)   0x81            AC3             ell (Greek)             1829.995                448                     102,484,480     571,900         
+00006.M2TS      4362 (0x110A)   0x81            AC3             hun (Hungarian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4363 (0x110B)   0x81            AC3             isl (Icelandic)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4364 (0x110C)   0x81            AC3             slv (Slovenian)         1829.995                448                     102,484,480     571,900         
+00006.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1829.995                24                      5,518,223       31,821          
+00006.M2TS      4609 (0x1201)   0x90            PGS             rus (Russian)           1829.995                26                      5,939,288       34,273          
+00006.M2TS      4610 (0x1202)   0x90            PGS             est (Estonian)          1829.995                24                      5,401,864       31,141          
+00006.M2TS      4611 (0x1203)   0x90            PGS             lav (Latvian)           1829.995                22                      5,140,931       29,898          
+00006.M2TS      4612 (0x1204)   0x90            PGS             lit (Lithuanian)        1829.995                23                      5,179,670       30,127          
+00006.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         1829.995                25                      5,691,307       32,904          
+00006.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          1829.995                24                      5,396,436       31,311          
+00006.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             1829.995                24                      5,437,576       31,520          
+00006.M2TS      4616 (0x1208)   0x90            PGS             ara (Arabic)            1829.995                14                      3,201,323       19,341          
+00006.M2TS      4617 (0x1209)   0x90            PGS             ell (Greek)             1829.995                24                      5,497,482       31,706          
+00006.M2TS      4618 (0x120A)   0x90            PGS             hun (Hungarian)         1829.995                26                      6,016,917       34,669          
+00006.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         1829.995                23                      5,306,529       30,601          
+00006.M2TS      4620 (0x120C)   0x90            PGS             ron (Romanian)          1829.995                25                      5,764,725       33,304          
+00006.M2TS      4621 (0x120D)   0x90            PGS             srp (Serbian)           1829.995                23                      5,206,412       30,273          
+00006.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         1829.995                22                      4,993,686       29,113          
+00006.M2TS      4623 (0x120F)   0x90            PGS             rus (Russian)           1829.995                82                      18,743,281      105,442         
+00006.M2TS      4624 (0x1210)   0x90            PGS             rus (Russian)           1829.995                79                      18,170,937      102,845         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Simpsons.Movie.2007.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 34,601,250,875 bytes
+Protection: AACS
+Playlist: 00850.MPLS
+Size: 29,278,341,120 bytes
+Length: 1:26:44.657
+Total Bitrate: 45.00 Mbps
+Video: MPEG-4 AVC Video / 33044 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3633 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: Russian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Latvian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Lithuanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Subtitle: English / 32.228 kbps
+Subtitle: Russian / 35.229 kbps
+Subtitle: Estonian / 31.229 kbps
+Subtitle: Latvian / 29.406 kbps
+Subtitle: Lithuanian / 30.182 kbps
+Subtitle: Bulgarian / 32.897 kbps
+Subtitle: Croatian / 31.827 kbps
+Subtitle: Czech / 32.077 kbps
+Subtitle: Arabic / 19.231 kbps
+Subtitle: Greek / 30.895 kbps
+Subtitle: Hungarian / 35.397 kbps
+Subtitle: Icelandic / 30.295 kbps
+Subtitle: Romanian / 32.828 kbps
+Subtitle: Serbian / 29.711 kbps
+Subtitle: Slovenian / 28.231 kbps
+Subtitle: Russian / 89.238 kbps
+Subtitle: Russian / 80.189 kbps
+

@@ -1,0 +1,222 @@
+Disc Title:     NOCE DI COCCO
+Disc Label:     The.Little.Dragon.Coconut.2014.1080p.ITA.Blu-Ray.AVC.DTS-HD.MA.5.1
+Disc Size:      18,825,812,034 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:22:56 17,911,799,808  18,825,812,034  28.79   21.45   DTS-HD Master 5.1 2762Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     NOCE DI COCCO
+Disc Label:     The.Little.Dragon.Coconut.2014.1080p.ITA.Blu-Ray.AVC.DTS-HD.MA.5.1
+Disc Size:      18,825,812,034 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:22:56.583 (h:m:s.ms)
+Size:                   17,911,799,808 bytes
+Total Bitrate:          28.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21454 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2762 kbps       5.1 / 48 kHz /  2762 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2803 kbps       5.1 / 48 kHz /  2803 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         28.758 kbps                     
+Presentation Graphics           Italian         0.004 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:22:56.583     17,911,799,808  28,794          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:22:56.583     21,454 kbps     44,680 kbps     00:26:49.833    29,841 kbps     00:39:51.333    28,181 kbps     01:15:57.458    111,744 bytes   1,027,740 bytes 00:33:50.458    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4976.500                21,455                  13,346,226,418  72,603,773      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           4976.500                2,762                   1,717,949,279   10,111,954      
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4976.500                2,803                   1,743,436,348   10,249,784      
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           4976.500                29                      17,889,677      103,917         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           4976.500                0                       2,298           20              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: NOCE DI COCCO
+Disc Label: The.Little.Dragon.Coconut.2014.1080p.ITA.Blu-Ray.AVC.DTS-HD.MA.5.1
+Disc Size: 18,825,812,034 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 17,911,799,808 bytes
+Length: 1:22:56.583
+Total Bitrate: 28.79 Mbps
+Video: MPEG-4 AVC Video / 21454 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2762 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2803 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 28.758 kbps
+Subtitle: Italian / 0.004 kbps
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:22:56 17,911,799,808  18,825,812,034  28.79   21.45   DTS-HD Master 5.1 2762Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     NOCE DI COCCO
+Disc Label:     The.Little.Dragon.Coconut.2014.1080p.ITA.Blu-Ray.AVC.DTS-HD.MA.5.1
+Disc Size:      18,825,812,034 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:22:56.583 (h:m:s.ms)
+Size:                   17,911,799,808 bytes
+Total Bitrate:          28.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21454 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2762 kbps       5.1 / 48 kHz /  2762 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2803 kbps       5.1 / 48 kHz /  2803 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         28.758 kbps                     
+Presentation Graphics           Italian         0.004 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:22:56.583     17,911,799,808  28,794          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:06.250     20,016 kbps     37,696 kbps     00:03:17.041    29,081 kbps     00:02:59.708    28,013 kbps     00:00:50.541    104,233 bytes   749,876 bytes   00:02:59.208    
+2               0:04:06.250     0:04:04.000     22,074 kbps     38,963 kbps     00:05:47.708    29,202 kbps     00:07:55.208    28,125 kbps     00:07:55.208    114,970 bytes   727,361 bytes   00:06:32.166    
+3               0:08:10.250     0:03:07.333     19,298 kbps     40,204 kbps     00:08:15.333    29,193 kbps     00:09:15.625    28,029 kbps     00:08:15.333    100,510 bytes   684,952 bytes   00:10:13.291    
+4               0:11:17.583     0:03:06.375     18,839 kbps     39,946 kbps     00:14:01.625    29,021 kbps     00:11:53.916    28,027 kbps     00:11:53.500    98,122 bytes    606,662 bytes   00:14:02.625    
+5               0:14:23.958     0:03:10.874     16,175 kbps     37,983 kbps     00:15:16.250    26,992 kbps     00:14:28.916    25,802 kbps     00:14:30.500    84,245 bytes    603,933 bytes   00:15:18.208    
+6               0:17:34.833     0:03:41.083     15,350 kbps     30,702 kbps     00:19:40.583    27,157 kbps     00:17:47.000    24,690 kbps     00:17:47.041    79,946 bytes    416,835 bytes   00:19:50.208    
+7               0:21:15.916     0:04:04.541     19,290 kbps     38,472 kbps     00:22:24.458    29,213 kbps     00:23:50.166    28,051 kbps     00:23:50.166    100,471 bytes   648,243 bytes   00:22:42.500    
+8               0:25:20.458     0:04:29.000     23,758 kbps     44,680 kbps     00:26:49.833    29,725 kbps     00:27:37.625    28,070 kbps     00:27:28.791    123,741 bytes   996,555 bytes   00:26:43.250    
+9               0:29:49.458     0:04:10.666     25,376 kbps     41,756 kbps     00:30:20.833    29,535 kbps     00:30:20.833    27,944 kbps     00:33:39.458    132,165 bytes   1,027,740 bytes 00:33:50.458    
+10              0:34:00.125     0:04:16.166     25,219 kbps     40,143 kbps     00:35:36.625    29,677 kbps     00:35:36.625    28,075 kbps     00:36:11.833    131,351 bytes   793,800 bytes   00:34:49.208    
+11              0:38:16.291     0:04:30.166     23,511 kbps     40,970 kbps     00:38:30.625    29,841 kbps     00:39:51.333    27,967 kbps     00:39:06.458    122,455 bytes   767,882 bytes   00:40:29.166    
+12              0:42:46.458     0:04:12.458     24,940 kbps     40,240 kbps     00:46:00.333    29,407 kbps     00:43:43.750    28,100 kbps     00:43:23.791    129,896 bytes   712,422 bytes   00:46:09.958    
+13              0:46:58.916     0:03:15.208     20,518 kbps     42,380 kbps     00:47:32.083    29,438 kbps     00:47:31.958    27,836 kbps     00:49:35.500    106,865 bytes   881,676 bytes   00:47:34.041    
+14              0:50:14.125     0:04:24.291     25,262 kbps     38,946 kbps     00:51:45.416    29,402 kbps     00:53:54.583    28,103 kbps     00:51:53.666    131,574 bytes   703,869 bytes   00:52:47.750    
+15              0:54:38.416     0:04:03.958     22,830 kbps     40,301 kbps     00:56:29.041    29,507 kbps     00:57:14.875    27,989 kbps     00:57:24.375    118,907 bytes   756,051 bytes   00:58:15.041    
+16              0:58:42.375     0:05:04.916     23,951 kbps     40,363 kbps     01:02:47.541    29,594 kbps     01:03:03.583    28,105 kbps     00:58:51.541    124,743 bytes   694,362 bytes   01:02:11.291    
+17              1:03:47.291     0:04:06.083     24,403 kbps     37,359 kbps     01:06:41.708    29,499 kbps     01:06:41.666    28,120 kbps     01:07:15.958    127,097 bytes   795,370 bytes   01:07:22.791    
+18              1:07:53.375     0:04:02.416     25,640 kbps     41,860 kbps     01:11:47.166    29,584 kbps     01:11:06.833    28,114 kbps     01:10:53.624    133,540 bytes   801,993 bytes   01:09:15.083    
+19              1:11:55.791     0:04:49.416     24,393 kbps     40,104 kbps     01:13:38.791    29,676 kbps     01:13:38.791    28,181 kbps     01:15:57.458    127,047 bytes   769,321 bytes   01:16:25.125    
+20              1:16:45.208     0:06:11.375     9,249 kbps      37,861 kbps     01:17:03.374    28,807 kbps     01:17:09.958    27,825 kbps     01:17:03.416    48,190 bytes    695,435 bytes   01:17:13.041    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4976.500                21,455                  13,346,226,418  72,603,773      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           4976.500                2,762                   1,717,949,279   10,111,954      
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4976.500                2,803                   1,743,436,348   10,249,784      
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           4976.500                29                      17,889,677      103,917         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           4976.500                0                       2,298           20              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: NOCE DI COCCO
+Disc Label: The.Little.Dragon.Coconut.2014.1080p.ITA.Blu-Ray.AVC.DTS-HD.MA.5.1
+Disc Size: 18,825,812,034 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 17,911,799,808 bytes
+Length: 1:22:56.583
+Total Bitrate: 28.79 Mbps
+Video: MPEG-4 AVC Video / 21454 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2762 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2803 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 28.758 kbps
+Subtitle: Italian / 0.004 kbps
+

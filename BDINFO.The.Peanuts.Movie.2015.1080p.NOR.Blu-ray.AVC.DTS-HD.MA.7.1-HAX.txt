@@ -1,0 +1,1675 @@
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:28:06 28,907,077,632  49,851,905,768  43.75   30.81   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,907,077,632 bytes
+Total Bitrate:          43.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30814 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02577.M2TS      0:00:00.000     0:01:28.463     491,968,512     44,490          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02589.M2TS      1:18:43.927     0:09:22.228     2,968,633,344   42,241          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,702 kbps     39,141 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,256 bytes   627,790 bytes   00:00:20.812    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,577 kbps     39,379 kbps     01:18:36.878    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    154,212 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02577.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,586                  348,619,001     1,895,911       
+02577.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02577.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02577.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02577.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02577.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02577.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02577.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02577.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02577.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02577.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02577.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02577.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02577.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02577.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02577.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02577.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02589.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 29,853                  2,097,377,185   11,406,677      
+02589.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02589.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02589.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02589.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02589.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02589.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02589.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02589.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02589.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02589.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02589.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02589.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02589.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02589.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02589.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02589.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00800.MPLS
+Size: 28,907,077,632 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.75 Mbps
+Video: MPEG-4 AVC Video / 30814 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:28:06 28,906,715,136  49,851,905,768  43.75   30.81   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,906,715,136 bytes
+Total Bitrate:          43.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30813 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02586.M2TS      0:00:00.000     0:01:28.463     491,606,016     44,457          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02589.M2TS      1:18:43.927     0:09:22.228     2,968,633,344   42,241          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,693 kbps     39,731 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,211 bytes   640,905 bytes   00:00:21.813    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,577 kbps     39,379 kbps     01:18:36.878    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    154,212 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02586.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,555                  348,272,803     1,894,039       
+02586.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02586.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02586.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02586.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02586.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02586.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02586.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02586.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02586.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02586.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02586.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02586.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02586.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02586.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02586.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02586.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02589.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 29,853                  2,097,377,185   11,406,677      
+02589.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02589.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02589.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02589.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02589.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02589.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02589.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02589.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02589.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02589.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02589.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02589.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02589.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02589.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02589.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02589.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00801.MPLS
+Size: 28,906,715,136 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.75 Mbps
+Video: MPEG-4 AVC Video / 30813 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+
+
+********************
+PLAYLIST: 00802.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      AVC     1:28:06 28,934,658,048  49,851,905,768  43.79   30.85   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,934,658,048 bytes
+Total Bitrate:          43.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30854 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02577.M2TS      0:00:00.000     0:01:28.463     491,968,512     44,490          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02590.M2TS      1:18:43.927     0:09:22.228     2,996,213,760   42,633          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,702 kbps     39,141 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,256 bytes   627,790 bytes   00:00:20.812    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,905 kbps     39,405 kbps     01:20:00.128    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    155,919 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02577.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,586                  348,619,001     1,895,911       
+02577.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02577.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02577.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02577.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02577.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02577.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02577.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02577.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02577.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02577.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02577.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02577.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02577.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02577.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02577.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02577.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02590.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 30,229                  2,123,788,310   11,550,336      
+02590.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02590.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02590.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02590.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02590.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02590.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02590.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02590.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02590.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02590.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02590.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02590.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02590.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02590.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02590.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02590.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00802.MPLS
+Size: 28,934,658,048 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.79 Mbps
+Video: MPEG-4 AVC Video / 30854 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+
+
+********************
+PLAYLIST: 00803.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00803.MPLS                                                      AVC     1:28:06 28,934,295,552  49,851,905,768  43.79   30.85   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00803.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,934,295,552 bytes
+Total Bitrate:          43.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30853 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02586.M2TS      0:00:00.000     0:01:28.463     491,606,016     44,457          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02590.M2TS      1:18:43.927     0:09:22.228     2,996,213,760   42,633          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,693 kbps     39,731 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,211 bytes   640,905 bytes   00:00:21.813    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,905 kbps     39,405 kbps     01:20:00.128    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    155,919 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02586.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,555                  348,272,803     1,894,039       
+02586.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02586.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02586.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02586.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02586.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02586.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02586.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02586.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02586.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02586.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02586.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02586.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02586.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02586.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02586.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02586.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02590.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 30,229                  2,123,788,310   11,550,336      
+02590.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02590.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02590.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02590.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02590.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02590.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02590.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02590.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02590.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02590.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02590.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02590.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02590.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02590.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02590.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02590.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00803.MPLS
+Size: 28,934,295,552 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.79 Mbps
+Video: MPEG-4 AVC Video / 30853 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+
+
+********************
+PLAYLIST: 00850.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00850.MPLS                                                      AVC     1:28:06 28,907,077,632  49,851,905,768  43.75   30.81   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00850.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,907,077,632 bytes
+Total Bitrate:          43.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30814 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02577.M2TS      0:00:00.000     0:01:28.463     491,968,512     44,490          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02589.M2TS      1:18:43.927     0:09:22.228     2,968,633,344   42,241          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,702 kbps     39,141 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,256 bytes   627,790 bytes   00:00:20.812    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,577 kbps     39,379 kbps     01:18:36.878    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    154,212 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02577.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,586                  348,619,001     1,895,911       
+02577.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02577.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02577.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02577.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02577.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02577.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02577.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02577.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02577.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02577.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02577.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02577.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02577.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02577.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02577.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02577.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02589.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 29,853                  2,097,377,185   11,406,677      
+02589.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02589.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02589.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02589.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02589.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02589.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02589.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02589.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02589.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02589.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02589.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02589.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02589.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02589.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02589.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02589.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00850.MPLS
+Size: 28,907,077,632 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.75 Mbps
+Video: MPEG-4 AVC Video / 30814 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+
+
+********************
+PLAYLIST: 00851.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00851.MPLS                                                      AVC     1:28:06 28,906,715,136  49,851,905,768  43.75   30.81   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00851.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,906,715,136 bytes
+Total Bitrate:          43.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30813 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02586.M2TS      0:00:00.000     0:01:28.463     491,606,016     44,457          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02589.M2TS      1:18:43.927     0:09:22.228     2,968,633,344   42,241          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,693 kbps     39,731 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,211 bytes   640,905 bytes   00:00:21.813    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,577 kbps     39,379 kbps     01:18:36.878    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    154,212 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02586.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,555                  348,272,803     1,894,039       
+02586.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02586.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02586.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02586.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02586.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02586.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02586.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02586.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02586.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02586.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02586.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02586.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02586.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02586.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02586.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02586.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02589.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 29,853                  2,097,377,185   11,406,677      
+02589.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02589.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02589.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02589.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02589.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02589.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02589.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02589.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02589.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02589.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02589.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02589.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02589.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02589.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02589.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02589.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02589.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02589.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00851.MPLS
+Size: 28,906,715,136 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.75 Mbps
+Video: MPEG-4 AVC Video / 30813 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+
+
+********************
+PLAYLIST: 00852.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00852.MPLS                                                      AVC     1:28:06 28,934,658,048  49,851,905,768  43.79   30.85   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00852.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,934,658,048 bytes
+Total Bitrate:          43.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30854 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02577.M2TS      0:00:00.000     0:01:28.463     491,968,512     44,490          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02590.M2TS      1:18:43.927     0:09:22.228     2,996,213,760   42,633          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,702 kbps     39,141 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,256 bytes   627,790 bytes   00:00:20.812    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,905 kbps     39,405 kbps     01:20:00.128    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    155,919 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02577.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,586                  348,619,001     1,895,911       
+02577.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02577.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02577.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02577.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02577.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02577.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02577.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02577.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02577.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02577.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02577.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02577.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02577.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02577.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02577.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02577.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02577.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02577.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02590.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 30,229                  2,123,788,310   11,550,336      
+02590.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02590.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02590.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02590.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02590.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02590.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02590.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02590.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02590.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02590.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02590.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02590.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02590.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02590.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02590.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02590.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00852.MPLS
+Size: 28,934,658,048 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.79 Mbps
+Video: MPEG-4 AVC Video / 30854 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+
+
+********************
+PLAYLIST: 00853.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00853.MPLS                                                      AVC     1:28:06 28,934,295,552  49,851,905,768  43.79   30.85   DTS-HD Master 7.1 4887Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Peanuts Movie
+Disc Label:     The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size:      49,851,905,768 bytes
+Protection:     BD+
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00853.MPLS
+Length:                 1:28:06.155 (h:m:s.ms)
+Size:                   28,934,295,552 bytes
+Total Bitrate:          43.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30853 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4887 kbps       7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Bulgarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Korean          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         26.379 kbps                     
+Presentation Graphics           Danish          25.444 kbps                     
+Presentation Graphics           Finnish         22.897 kbps                     
+Presentation Graphics           Norwegian       24.591 kbps                     
+Presentation Graphics           Swedish         22.458 kbps                     
+Presentation Graphics           Bulgarian       25.498 kbps                     
+Presentation Graphics           Croatian        26.458 kbps                     
+Presentation Graphics           Korean          17.462 kbps                     
+Presentation Graphics           Serbian         26.018 kbps                     
+Presentation Graphics           Slovenian       23.317 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+02586.M2TS      0:00:00.000     0:01:28.463     491,606,016     44,457          
+02591.M2TS      0:01:28.463     1:17:15.464     25,446,475,776  43,916          
+02590.M2TS      1:18:43.927     0:09:22.228     2,996,213,760   42,633          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:19.110     31,693 kbps     39,731 kbps     00:00:25.400    34,021 kbps     00:05:10.935    33,342 kbps     00:05:05.930    165,211 bytes   640,905 bytes   00:00:21.813    
+2               0:05:19.110     0:02:39.117     30,373 kbps     36,965 kbps     00:05:56.230    33,101 kbps     00:07:01.045    32,351 kbps     00:07:19.147    158,349 bytes   633,687 bytes   00:05:54.228    
+3               0:07:58.227     0:03:04.684     30,630 kbps     37,184 kbps     00:09:35.032    32,889 kbps     00:09:39.787    32,693 kbps     00:09:34.782    159,693 bytes   635,418 bytes   00:08:42.063    
+4               0:11:02.912     0:02:32.193     31,729 kbps     36,584 kbps     00:12:33.127    33,438 kbps     00:12:29.081    32,992 kbps     00:13:25.095    165,420 bytes   639,243 bytes   00:11:45.538    
+5               0:13:35.105     0:04:14.087     30,050 kbps     37,655 kbps     00:16:09.927    33,514 kbps     00:16:59.893    33,008 kbps     00:16:54.888    156,668 bytes   640,839 bytes   00:14:46.760    
+6               0:17:49.193     0:03:06.853     31,091 kbps     38,483 kbps     00:19:01.348    33,491 kbps     00:18:22.643    32,785 kbps     00:18:17.638    162,094 bytes   633,035 bytes   00:19:11.900    
+7               0:20:56.046     0:02:31.901     31,052 kbps     35,376 kbps     00:22:29.389    33,320 kbps     00:20:59.007    32,959 kbps     00:21:18.902    161,890 bytes   606,494 bytes   00:21:08.016    
+8               0:23:27.948     0:02:07.669     30,947 kbps     36,051 kbps     00:23:53.640    33,106 kbps     00:24:26.756    32,903 kbps     00:24:24.838    161,343 bytes   421,037 bytes   00:24:37.851    
+9               0:25:35.617     0:02:32.610     31,076 kbps     37,043 kbps     00:27:12.297    33,061 kbps     00:25:51.549    32,687 kbps     00:25:46.544    162,018 bytes   503,259 bytes   00:26:00.433    
+10              0:28:08.228     0:04:28.309     31,053 kbps     37,229 kbps     00:31:09.617    33,113 kbps     00:29:44.407    32,949 kbps     00:29:42.947    161,895 bytes   637,894 bytes   00:32:30.990    
+11              0:32:36.537     0:03:46.643     31,100 kbps     37,039 kbps     00:36:06.956    33,143 kbps     00:36:18.175    32,924 kbps     00:36:13.170    162,139 bytes   526,301 bytes   00:32:38.039    
+12              0:36:23.180     0:04:50.957     30,684 kbps     37,420 kbps     00:37:32.083    32,944 kbps     00:37:16.984    32,544 kbps     00:37:12.688    159,973 bytes   630,441 bytes   00:39:01.589    
+13              0:41:14.138     0:03:05.727     31,316 kbps     41,716 kbps     00:43:54.048    33,383 kbps     00:42:47.439    32,980 kbps     00:42:19.703    163,267 bytes   639,582 bytes   00:43:22.057    
+14              0:44:19.865     0:03:37.467     30,942 kbps     40,077 kbps     00:47:27.177    34,324 kbps     00:44:56.568    33,550 kbps     00:44:51.563    161,319 bytes   639,789 bytes   00:45:07.955    
+15              0:47:57.332     0:03:50.104     30,808 kbps     38,442 kbps     00:49:45.107    33,204 kbps     00:48:37.623    32,985 kbps     00:48:32.534    160,619 bytes   639,597 bytes   00:50:16.805    
+16              0:51:47.437     0:03:42.096     31,481 kbps     41,944 kbps     00:55:18.148    33,269 kbps     00:55:14.144    32,490 kbps     00:51:51.900    164,125 bytes   628,602 bytes   00:52:03.537    
+17              0:55:29.534     0:04:45.660     31,404 kbps     40,481 kbps     00:56:59.749    33,736 kbps     00:58:14.908    32,983 kbps     00:57:25.567    163,724 bytes   636,787 bytes   00:57:38.037    
+18              1:00:15.194     0:03:11.900     29,803 kbps     41,426 kbps     01:03:13.039    33,530 kbps     01:00:36.674    32,767 kbps     01:02:28.035    155,381 bytes   639,753 bytes   01:02:51.017    
+19              1:03:27.094     0:01:26.336     30,597 kbps     36,825 kbps     01:04:30.032    33,268 kbps     01:04:00.253    32,854 kbps     01:03:55.248    159,521 bytes   640,033 bytes   01:04:15.560    
+20              1:04:53.431     0:04:06.454     31,413 kbps     36,664 kbps     01:05:17.204    33,277 kbps     01:08:13.923    32,795 kbps     01:08:12.087    163,771 bytes   640,726 bytes   01:08:59.301    
+21              1:08:59.885     0:03:24.662     30,516 kbps     36,475 kbps     01:10:01.447    33,440 kbps     01:09:48.767    33,033 kbps     01:09:27.788    159,097 bytes   639,655 bytes   01:11:39.211    
+22              1:12:24.548     0:03:50.939     31,164 kbps     37,345 kbps     01:14:36.847    33,251 kbps     01:14:32.843    32,620 kbps     01:12:46.320    162,477 bytes   640,691 bytes   01:13:31.115    
+23              1:16:15.487     0:01:05.523     31,511 kbps     38,077 kbps     01:17:13.670    33,815 kbps     01:17:09.166    33,289 kbps     01:17:04.286    164,286 bytes   637,507 bytes   01:16:24.538    
+24              1:17:21.011     0:10:45.144     29,905 kbps     39,405 kbps     01:20:00.128    34,240 kbps     01:18:32.958    33,390 kbps     01:18:27.994    155,919 bytes   640,806 bytes   01:17:34.024    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+02586.M2TS      4113 (0x1011)   0x1B            AVC                                     88.297                  31,555                  348,272,803     1,894,039       
+02586.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           88.297                  5,112                   56,422,316      320,936         
+02586.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            88.297                  770                     8,493,056       49,764          
+02586.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         88.297                  770                     8,493,056       49,764          
+02586.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           88.297                  770                     8,493,056       49,764          
+02586.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          88.297                  449                     4,954,880       27,650          
+02586.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            88.297                  449                     4,954,880       27,650          
+02586.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           88.297                  449                     4,954,880       27,650          
+02586.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         88.297                  449                     4,954,880       27,650          
+02586.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           88.297                  0                       70              7               
+02586.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            88.297                  4                       40,713          235             
+02586.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           88.297                  2                       22,729          138             
+02586.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         88.297                  4                       42,819          246             
+02586.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           88.297                  3                       29,454          174             
+02586.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         88.297                  2                       22,174          134             
+02586.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          88.297                  4                       39,872          230             
+02586.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            88.297                  1                       15,890          99              
+02586.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           88.297                  3                       36,292          211             
+02586.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         88.297                  3                       34,847          196             
+02591.M2TS      4113 (0x1011)   0x1B            AVC                                     4635.297                30,919                  17,914,837,836  97,428,219      
+02591.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4635.297                4,910                   2,845,007,696   16,181,904      
+02591.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           4635.297                768                     445,004,800     2,607,450       
+02591.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         4635.297                448                     259,587,328     1,448,590       
+02591.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4635.297                30                      17,399,744      100,172         
+02591.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            4635.297                29                      16,670,383      95,381          
+02591.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           4635.297                26                      15,036,544      87,374          
+02591.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         4635.297                28                      16,122,903      93,315          
+02591.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           4635.297                25                      14,722,751      85,710          
+02591.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         4635.297                29                      16,745,162      96,763          
+02591.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4635.297                30                      17,361,185      100,027         
+02591.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            4635.297                20                      11,472,207      68,033          
+02591.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           4635.297                29                      17,085,137      98,573          
+02591.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         4635.297                26                      15,301,938      87,994          
+02590.M2TS      4113 (0x1011)   0x1B            AVC                                     562.062                 30,229                  2,123,788,310   11,550,336      
+02590.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           562.062                 4,661                   327,456,340     1,866,352       
+02590.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            562.062                 768                     53,974,016      316,254         
+02590.M2TS      4354 (0x1102)   0x82            DTS             fin (Finnish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4355 (0x1103)   0x82            DTS             nor (Norwegian)         562.062                 768                     53,974,016      316,254         
+02590.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           562.062                 768                     53,974,016      316,254         
+02590.M2TS      4357 (0x1105)   0x81            AC3             bul (Bulgarian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          562.062                 448                     31,485,440      175,700         
+02590.M2TS      4359 (0x1107)   0x81            AC3             kor (Korean)            562.062                 448                     31,485,440      175,700         
+02590.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           562.062                 448                     31,485,440      175,700         
+02590.M2TS      4361 (0x1109)   0x81            AC3             slv (Slovenian)         562.062                 448                     31,485,440      175,700         
+02590.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           562.062                 0                       30,731          174             
+02590.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            562.062                 1                       101,273         570             
+02590.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           562.062                 1                       70,187          403             
+02590.M2TS      4611 (0x1203)   0x90            PGS             nor (Norwegian)         562.062                 1                       83,425          474             
+02590.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           562.062                 1                       87,441          496             
+02590.M2TS      4613 (0x1205)   0x90            PGS             bul (Bulgarian)         562.062                 1                       81,263          463             
+02590.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          562.062                 1                       81,360          463             
+02590.M2TS      4615 (0x1207)   0x90            PGS             kor (Korean)            562.062                 1                       50,200          294             
+02590.M2TS      4616 (0x1208)   0x90            PGS             srp (Serbian)           562.062                 1                       70,478          404             
+02590.M2TS      4617 (0x1209)   0x90            PGS             slv (Slovenian)         562.062                 1                       70,364          403             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Peanuts Movie
+Disc Label: The.Peanuts.Movie.2015.1080p.NOR.Blu-ray.AVC.DTS-HD.MA.7.1-HAX
+Disc Size: 49,851,905,768 bytes
+Protection: BD+
+Playlist: 00853.MPLS
+Size: 28,934,295,552 bytes
+Length: 1:28:06.155
+Total Bitrate: 43.79 Mbps
+Video: MPEG-4 AVC Video / 30853 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4887 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 26.379 kbps
+Subtitle: Danish / 25.444 kbps
+Subtitle: Finnish / 22.897 kbps
+Subtitle: Norwegian / 24.591 kbps
+Subtitle: Swedish / 22.458 kbps
+Subtitle: Bulgarian / 25.498 kbps
+Subtitle: Croatian / 26.458 kbps
+Subtitle: Korean / 17.462 kbps
+Subtitle: Serbian / 26.018 kbps
+Subtitle: Slovenian / 23.317 kbps
+

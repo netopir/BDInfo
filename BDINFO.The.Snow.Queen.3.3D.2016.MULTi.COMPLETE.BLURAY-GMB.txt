@@ -1,0 +1,210 @@
+Disc Label:     The.Snow.Queen.3.3D.2016.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      22,189,233,024 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:29:10 12,861,622,272  22,189,233,024  19.23   13.53   DTS-HD Master 5.1 2053Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Snow.Queen.3.3D.2016.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      22,189,233,024 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:29:10.386 (h:m:s.ms)
+Size:                   12,861,622,272 bytes
+Total Bitrate:          19.23 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        13533 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2053 kbps       5.1 / 48 kHz /  2053 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2222 kbps       5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          49.775 kbps                     
+Presentation Graphics           German          0.106 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:29:10.386     12,861,622,272  19,231          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:29:10.386     13,533 kbps     25,390 kbps     01:21:54.534    18,660 kbps     01:20:35.622    17,523 kbps     00:33:41.352    70,553 bytes    837,690 bytes   01:22:06.504    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5350.303                13,533                  9,050,619,337   49,263,383      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5350.303                2,053                   1,372,917,244   8,295,304       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5350.303                2,222                   1,486,246,736   8,909,471       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5350.303                50                      33,289,404      186,604         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5350.303                0                       70,962          400             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Snow.Queen.3.3D.2016.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 22,189,233,024 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 12,861,622,272 bytes
+Length: 1:29:10.386
+Total Bitrate: 19.23 Mbps
+Video: MPEG-4 AVC Video / 13533 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2053 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 49.775 kbps
+Subtitle: German / 0.106 kbps
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:29:10 12,861,622,272  22,189,233,024  19.23   13.53   DTS-HD Master 5.1 2053Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Snow.Queen.3.3D.2016.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      22,189,233,024 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:29:10.386 (h:m:s.ms)
+Size:                   12,861,622,272 bytes
+Total Bitrate:          19.23 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        13533 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2053 kbps       5.1 / 48 kHz /  2053 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2222 kbps       5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          49.775 kbps                     
+Presentation Graphics           German          0.106 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:29:10.386     12,861,622,272  19,231          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:50.094     13,308 kbps     25,348 kbps     00:01:19.579    18,088 kbps     00:06:37.772    17,431 kbps     00:01:19.579    69,373 bytes    677,816 bytes   00:05:26.159    
+2               0:07:50.094     0:07:47.592     13,796 kbps     22,853 kbps     00:10:20.661    18,241 kbps     00:10:20.411    17,501 kbps     00:08:47.818    71,926 bytes    642,685 bytes   00:08:45.066    
+3               0:15:37.686     0:05:51.017     13,032 kbps     22,822 kbps     00:19:24.621    17,918 kbps     00:19:43.849    17,040 kbps     00:19:56.361    67,941 bytes    573,518 bytes   00:15:47.154    
+4               0:21:28.704     0:07:28.030     13,691 kbps     24,696 kbps     00:28:38.007    18,498 kbps     00:26:42.183    17,443 kbps     00:26:05.397    71,381 bytes    505,540 bytes   00:28:04.724    
+5               0:28:56.735     0:08:16.412     14,460 kbps     24,633 kbps     00:33:41.602    18,577 kbps     00:31:34.142    17,523 kbps     00:33:41.352    75,387 bytes    636,878 bytes   00:34:17.597    
+6               0:37:13.147     0:06:36.521     14,869 kbps     25,232 kbps     00:38:59.462    18,485 kbps     00:38:59.045    17,399 kbps     00:39:07.511    77,519 bytes    619,763 bytes   00:40:24.713    
+7               0:43:49.668     0:07:10.179     14,942 kbps     23,725 kbps     00:44:53.941    18,218 kbps     00:49:39.476    17,345 kbps     00:45:27.808    77,900 bytes    639,745 bytes   00:48:29.323    
+8               0:50:59.848     0:09:15.763     14,682 kbps     25,155 kbps     00:57:02.168    18,089 kbps     00:54:44.489    17,488 kbps     00:59:54.424    76,545 bytes    592,057 bytes   00:52:44.369    
+9               1:00:15.612     0:05:16.274     14,634 kbps     25,085 kbps     01:03:05.323    18,312 kbps     01:03:01.402    17,271 kbps     01:00:45.308    76,296 bytes    518,909 bytes   01:00:32.462    
+10              1:05:31.886     0:08:42.772     14,226 kbps     24,989 kbps     01:08:11.796    18,316 kbps     01:10:41.946    17,318 kbps     01:06:43.207    74,166 bytes    591,006 bytes   01:13:25.776    
+11              1:14:14.658     0:05:53.519     14,110 kbps     24,075 kbps     01:19:02.612    18,073 kbps     01:14:56.492    17,479 kbps     01:18:01.551    73,565 bytes    570,978 bytes   01:18:05.764    
+12              1:20:08.178     0:09:00.790     7,905 kbps      25,390 kbps     01:21:54.534    18,660 kbps     01:20:35.622    17,372 kbps     01:20:30.575    41,213 bytes    837,690 bytes   01:22:06.504    
+13              1:29:08.968     0:00:01.418     62 kbps         63 kbps         01:29:09.344    0 kbps          00:00:00.000    0 kbps          00:00:00.000    331 bytes       815 bytes       01:29:09.010    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5350.303                13,533                  9,050,619,337   49,263,383      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5350.303                2,053                   1,372,917,244   8,295,304       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5350.303                2,222                   1,486,246,736   8,909,471       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5350.303                50                      33,289,404      186,604         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5350.303                0                       70,962          400             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Snow.Queen.3.3D.2016.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 22,189,233,024 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 12,861,622,272 bytes
+Length: 1:29:10.386
+Total Bitrate: 19.23 Mbps
+Video: MPEG-4 AVC Video / 13533 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2053 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2222 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 49.775 kbps
+Subtitle: German / 0.106 kbps
+

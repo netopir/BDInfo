@@ -1,0 +1,128 @@
+Disc Label:     The.LEGO.Batman.Movie.2017.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      37,103,224,418 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     1:44:30 28,254,806,016  37,103,224,418  36.05   22.00   DD AC3+ 7.1 1512Kbps                      DTS-HD Master 5.1 2319Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.LEGO.Batman.Movie.2017.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      37,103,224,418 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 1:44:30.097 (h:m:s.ms)
+Size:                   28,254,806,016 bytes
+Total Bitrate:          36.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Plus/Atmos Audio  English         1512 kbps       7.1 / 48 kHz /  1512 kbps / DN -27dB (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -27dB)
+DTS-HD Master Audio             English         2319 kbps       5.1 / 48 kHz /  2319 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby TrueHD/Atmos Audio        German          4369 kbps       7.1 / 48 kHz /  3921 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   448 kbps / DN -27dB)
+DTS-HD Master Audio             German          2301 kbps       5.1 / 48 kHz /  2301 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         57.692 kbps                     
+Presentation Graphics           German          63.922 kbps                     
+Presentation Graphics           German          0.136 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00207.M2TS      0:00:00.000     1:44:30.097     28,254,806,016  36,050          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:12:56.525     21,992 kbps     30,359 kbps     00:08:48.194    27,402 kbps     00:12:51.020    27,126 kbps     00:12:45.973    114,648 bytes   459,386 bytes   00:01:30.757    
+2               0:12:56.525     0:10:01.267     21,997 kbps     30,785 kbps     00:14:00.506    27,156 kbps     00:22:32.309    26,913 kbps     00:13:00.112    114,681 bytes   480,650 bytes   00:15:10.576    
+3               0:22:57.793     0:09:34.907     21,996 kbps     30,730 kbps     00:26:05.397    27,255 kbps     00:30:34.123    26,477 kbps     00:30:40.964    114,677 bytes   499,403 bytes   00:26:49.983    
+4               0:32:32.700     0:08:25.838     21,994 kbps     29,858 kbps     00:40:29.677    27,165 kbps     00:33:35.847    26,946 kbps     00:33:29.382    114,664 bytes   481,427 bytes   00:39:11.682    
+5               0:40:58.539     0:09:14.053     21,995 kbps     29,492 kbps     00:47:02.319    27,318 kbps     00:42:07.483    26,927 kbps     00:42:02.436    114,674 bytes   416,989 bytes   00:44:20.699    
+6               0:50:12.592     0:10:13.863     21,990 kbps     30,755 kbps     00:51:19.034    27,311 kbps     00:58:43.019    27,009 kbps     00:58:15.408    114,646 bytes   487,687 bytes   00:57:41.499    
+7               1:00:26.456     0:10:33.049     22,045 kbps     31,703 kbps     01:10:44.782    27,387 kbps     01:05:54.116    27,029 kbps     01:05:49.111    114,933 bytes   399,254 bytes   01:10:45.532    
+8               1:10:59.505     0:08:31.469     21,984 kbps     29,281 kbps     01:16:58.322    27,366 kbps     01:15:13.258    27,061 kbps     01:15:08.128    114,616 bytes   447,830 bytes   01:18:31.123    
+9               1:19:30.974     0:07:47.425     21,996 kbps     31,656 kbps     01:25:55.608    27,467 kbps     01:27:11.559    26,964 kbps     01:25:58.987    114,678 bytes   374,274 bytes   01:25:23.827    
+10              1:27:18.399     0:09:08.756     22,002 kbps     29,814 kbps     01:27:44.759    27,128 kbps     01:28:22.338    26,940 kbps     01:28:20.545    114,710 bytes   389,299 bytes   01:28:34.517    
+11              1:36:27.156     0:08:02.940     21,989 kbps     29,356 kbps     01:38:28.277    27,347 kbps     01:38:24.231    27,096 kbps     01:38:21.937    114,651 bytes   640,558 bytes   01:42:27.683    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00207.M2TS      4113 (0x1011)   0x1B            AVC                                     6269.930                21,999                  17,241,788,755  93,793,401      
+00207.M2TS      4352 (0x1100)   0x84            AC3+            eng (English)           6269.930                1,512                   1,185,051,168   6,857,935       
+00207.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6269.930                2,319                   1,817,351,252   10,885,114      
+00207.M2TS      4354 (0x1102)   0x83            Atmos           deu (German)            6269.930                4,370                   3,424,598,838   23,080,420      
+00207.M2TS      4355 (0x1103)   0x86            DTS-HD MA       deu (German)            6269.930                2,301                   1,803,368,688   10,802,092      
+00207.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           6269.930                192                     150,482,688     979,705         
+00207.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6269.930                58                      45,216,622      262,189         
+00207.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6269.930                64                      50,099,408      288,890         
+00207.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            6269.930                0                       106,683         621             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.LEGO.Batman.Movie.2017.DUAL.COMPLETE.BLURAY-GMB
+Disc Size: 37,103,224,418 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 28,254,806,016 bytes
+Length: 1:44:30.097
+Total Bitrate: 36.05 Mbps
+Video: MPEG-4 AVC Video / 21999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby Digital Plus/Atmos Audio / 7.1 / 48 kHz /  1512 kbps / DN -27dB (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -27dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2319 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  3921 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   448 kbps / DN -27dB)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2301 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+Subtitle: English / 57.692 kbps
+Subtitle: German / 63.922 kbps
+Subtitle: German / 0.136 kbps
+

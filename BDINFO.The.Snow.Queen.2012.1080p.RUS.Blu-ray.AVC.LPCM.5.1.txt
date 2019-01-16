@@ -1,0 +1,180 @@
+Disc Title:     TheSnowQueen
+Disc Label:     The.Snow.Queen.2012.1080p.RUS.Blu-ray.AVC.LPCM.5.1
+Disc Size:      18,422,287,474 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:16:00 18,110,349,312  18,422,287,474  31.77   23.17   LPCM 5.1 6912Kbps (48kHz/24-bit)          
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     TheSnowQueen
+Disc Label:     The.Snow.Queen.2012.1080p.RUS.Blu-ray.AVC.LPCM.5.1
+Disc Size:      18,422,287,474 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:16:00.708 (h:m:s.ms)
+Size:                   18,110,349,312 bytes
+Total Bitrate:          31.77 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23165 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      Russian         6912 kbps       5.1 / 48 kHz /  6912 kbps / 24-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:16:00.708     18,110,349,312  31,768          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:16:00.708     23,165 kbps     55,694 kbps     00:21:45.416    37,427 kbps     00:00:10.291    33,444 kbps     00:18:50.416    120,653 bytes   982,832 bytes   00:28:56.500    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     4560.625                23,166                  13,206,316,752  71,837,360      
+00001.M2TS      4352 (0x1100)   0x80            LPCM            rus (Russian)           4560.625                7,042                   4,014,302,042   22,281,070      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: TheSnowQueen
+Disc Label: The.Snow.Queen.2012.1080p.RUS.Blu-ray.AVC.LPCM.5.1
+Disc Size: 18,422,287,474 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 18,110,349,312 bytes
+Length: 1:16:00.708
+Total Bitrate: 31.77 Mbps
+Video: MPEG-4 AVC Video / 23165 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Russian / LPCM Audio / 5.1 / 48 kHz /  6912 kbps / 24-bit
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:16:00 18,110,349,312  18,422,287,474  31.77   23.17   LPCM 5.1 6912Kbps (48kHz/24-bit)          
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     TheSnowQueen
+Disc Label:     The.Snow.Queen.2012.1080p.RUS.Blu-ray.AVC.LPCM.5.1
+Disc Size:      18,422,287,474 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:16:00.708 (h:m:s.ms)
+Size:                   18,110,349,312 bytes
+Total Bitrate:          31.77 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23165 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      Russian         6912 kbps       5.1 / 48 kHz /  6912 kbps / 24-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:16:00.708     18,110,349,312  31,768          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:25.291     24,183 kbps     43,289 kbps     00:06:25.999    37,427 kbps     00:00:10.291    32,973 kbps     00:00:52.583    125,945 bytes   980,974 bytes   00:05:35.083    
+2               0:09:25.291     0:13:24.333     20,723 kbps     55,694 kbps     00:21:45.416    37,403 kbps     00:18:50.625    33,444 kbps     00:18:50.416    107,933 bytes   982,132 bytes   00:13:25.666    
+3               0:22:49.625     0:08:56.541     24,214 kbps     41,805 kbps     00:30:00.041    33,833 kbps     00:28:59.625    31,579 kbps     00:28:58.874    126,116 bytes   982,832 bytes   00:28:56.500    
+4               0:31:46.166     0:14:58.666     23,666 kbps     49,713 kbps     00:40:35.833    34,010 kbps     00:35:47.083    32,654 kbps     00:35:44.833    123,260 bytes   981,942 bytes   00:37:25.791    
+5               0:46:44.833     0:13:39.500     24,320 kbps     49,090 kbps     00:54:25.125    34,966 kbps     00:51:45.708    30,682 kbps     01:00:10.041    126,668 bytes   976,873 bytes   00:51:02.458    
+6               1:00:24.333     0:15:36.374     22,557 kbps     41,540 kbps     01:11:04.666    33,153 kbps     01:11:18.166    31,741 kbps     01:07:55.125    117,488 bytes   973,756 bytes   01:03:47.083    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     4560.625                23,166                  13,206,316,752  71,837,360      
+00001.M2TS      4352 (0x1100)   0x80            LPCM            rus (Russian)           4560.625                7,042                   4,014,302,042   22,281,070      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: TheSnowQueen
+Disc Label: The.Snow.Queen.2012.1080p.RUS.Blu-ray.AVC.LPCM.5.1
+Disc Size: 18,422,287,474 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 18,110,349,312 bytes
+Length: 1:16:00.708
+Total Bitrate: 31.77 Mbps
+Video: MPEG-4 AVC Video / 23165 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Russian / LPCM Audio / 5.1 / 48 kHz /  6912 kbps / 24-bit
+
