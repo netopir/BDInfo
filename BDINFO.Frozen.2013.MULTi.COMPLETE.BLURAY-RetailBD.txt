@@ -1,0 +1,649 @@
+Disc Title:     Frozen - Blu-ray™
+Disc Label:     Frozen.2013.MULTi.COMPLETE.BLURAY-RetailBD
+Disc Size:      41,255,192,304 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:42:13 30,053,160,960  41,255,192,304  39.20   26.70   DTS-HD Master 7.1 4906Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Frozen - Blu-ray™
+Disc Label:     Frozen.2013.MULTi.COMPLETE.BLURAY-RetailBD
+Disc Size:      41,255,192,304 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:42:13.043 (h:m:s.ms)
+Size:                   30,053,160,960 bytes
+Total Bitrate:          39.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26696 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4906 kbps       7.1 / 48 kHz /  4906 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS-HD High-Res Audio           German          2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Turkish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         43.917 kbps                     
+Presentation Graphics           Italian         29.643 kbps                     
+Presentation Graphics           German          29.990 kbps                     
+Presentation Graphics           Turkish         33.000 kbps                     
+Presentation Graphics           Turkish         0.016 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00879.M2TS      0:00:00.000     0:00:57.223     273,088,512     38,178          
+00880.M2TS      0:00:57.223     0:00:50.759     249,403,392     39,308          
+00881.M2TS      0:01:47.982     0:09:50.256     2,903,808,000   39,357          
+00882.M2TS      0:11:38.239     0:00:11.219     54,816,768      39,087          
+00883.M2TS      0:11:49.458     0:24:13.535     7,186,888,704   39,555          
+00884.M2TS      0:36:02.994     0:00:07.674     37,404,672      38,992          
+00885.M2TS      0:36:10.668     0:01:58.493     572,553,216     38,656          
+00886.M2TS      0:38:09.161     0:00:17.559     85,438,464      38,926          
+00887.M2TS      0:38:26.721     1:03:46.322     18,689,759,232  39,076          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:59.817     26,566 kbps     32,061 kbps     00:02:13.258    28,856 kbps     00:00:36.244    28,417 kbps     00:00:31.239    138,487 bytes   638,040 bytes   00:01:31.966    
+2               0:05:59.817     0:05:38.129     27,030 kbps     39,852 kbps     00:11:34.527    30,159 kbps     00:11:30.523    28,909 kbps     00:11:25.518    140,920 bytes   640,776 bytes   00:09:46.585    
+3               0:11:37.947     0:08:15.786     26,957 kbps     35,911 kbps     00:11:38.322    28,644 kbps     00:18:18.388    28,245 kbps     00:18:17.137    140,543 bytes   640,178 bytes   00:18:13.592    
+4               0:19:53.734     0:11:09.460     27,077 kbps     32,286 kbps     00:23:12.891    28,557 kbps     00:22:37.022    28,225 kbps     00:22:49.868    141,168 bytes   638,690 bytes   00:23:40.544    
+5               0:31:03.194     0:07:36.289     26,829 kbps     34,567 kbps     00:34:42.997    28,969 kbps     00:33:14.617    28,304 kbps     00:33:39.559    139,874 bytes   639,595 bytes   00:35:51.607    
+6               0:38:39.483     0:05:41.799     26,623 kbps     31,023 kbps     00:43:32.735    28,350 kbps     00:43:28.772    28,132 kbps     00:43:24.643    138,802 bytes   634,019 bytes   00:43:36.655    
+7               0:44:21.283     0:06:30.223     26,954 kbps     38,198 kbps     00:49:17.454    29,621 kbps     00:49:13.450    28,722 kbps     00:49:08.445    140,526 bytes   640,647 bytes   00:46:55.020    
+8               0:50:51.506     0:06:56.874     26,961 kbps     33,056 kbps     00:51:04.436    28,661 kbps     00:57:40.290    28,328 kbps     00:50:55.469    140,562 bytes   640,672 bytes   00:55:18.189    
+9               0:57:48.381     0:05:09.017     27,243 kbps     32,229 kbps     00:58:56.366    28,592 kbps     00:58:44.145    28,211 kbps     00:58:39.140    142,033 bytes   638,998 bytes   00:58:50.151    
+10              1:02:57.398     0:06:38.648     26,936 kbps     31,597 kbps     01:05:59.288    28,655 kbps     01:03:14.957    28,224 kbps     01:03:09.952    140,433 bytes   638,057 bytes   01:04:34.245    
+11              1:09:36.046     0:03:58.821     26,705 kbps     32,669 kbps     01:11:39.503    28,792 kbps     01:11:35.582    28,284 kbps     01:11:30.577    139,228 bytes   632,695 bytes   01:12:06.864    
+12              1:13:34.868     0:04:32.730     27,059 kbps     31,424 kbps     01:14:42.060    28,518 kbps     01:13:58.267    28,190 kbps     01:14:06.650    141,075 bytes   639,565 bytes   01:14:53.196    
+13              1:18:07.599     0:04:26.140     26,659 kbps     31,468 kbps     01:19:01.945    28,646 kbps     01:18:49.766    28,274 kbps     01:18:44.761    138,987 bytes   629,634 bytes   01:19:05.365    
+14              1:22:33.740     0:04:37.068     27,061 kbps     32,339 kbps     01:26:27.432    28,725 kbps     01:22:52.717    28,300 kbps     01:22:47.712    141,084 bytes   639,821 bytes   01:26:10.707    
+15              1:27:10.808     0:05:22.697     27,333 kbps     38,693 kbps     01:32:30.836    29,990 kbps     01:32:26.832    28,948 kbps     01:32:21.827    142,502 bytes   640,725 bytes   01:30:29.549    
+16              1:32:33.506     0:09:39.537     24,345 kbps     41,783 kbps     01:42:09.998    31,140 kbps     01:42:05.994    29,536 kbps     01:42:00.989    126,935 bytes   640,828 bytes   01:41:43.680    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00879.M2TS      4113 (0x1011)   0x1B            AVC                                     57.099                  26,089                  186,204,147     1,012,762       
+00879.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           57.099                  4,729                   33,753,656      192,651         
+00879.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           57.099                  1,512                   10,794,380      64,380          
+00879.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            57.099                  2,051                   14,635,720      85,840          
+00879.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           57.099                  1,512                   10,794,380      64,380          
+00879.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           57.099                  8                       56,847          323             
+00879.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           57.099                  0                       70              7               
+00879.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            57.099                  0                       70              7               
+00879.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           57.099                  0                       70              7               
+00879.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           57.099                  0                       70              7               
+00880.M2TS      4113 (0x1011)   0x1B            AVC                                     50.592                  26,959                  170,487,428     927,291         
+00880.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           50.592                  4,988                   31,541,088      179,133         
+00880.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           50.592                  1,514                   9,575,108       57,108          
+00880.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            50.592                  2,053                   12,982,552      76,144          
+00880.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           50.592                  1,514                   9,575,108       57,108          
+00880.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           50.592                  2                       10,045          62              
+00880.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           50.592                  3                       22,062          127             
+00880.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            50.592                  5                       28,748          163             
+00880.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           50.592                  2                       11,421          69              
+00880.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           50.592                  2                       11,421          69              
+00881.M2TS      4113 (0x1011)   0x1B            AVC                                     590.090                 26,861                  1,981,300,451   10,776,214      
+00881.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           590.090                 4,911                   362,213,588     2,060,633       
+00881.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           590.090                 1,509                   111,338,044     664,044         
+00881.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            590.090                 2,047                   150,959,336     885,392         
+00881.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           590.090                 1,509                   111,338,044     664,044         
+00881.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           590.090                 38                      2,795,715       16,432          
+00881.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           590.090                 28                      2,044,647       12,069          
+00881.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            590.090                 30                      2,205,182       13,019          
+00881.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           590.090                 28                      2,100,913       12,364          
+00881.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           590.090                 0                       70              7               
+00882.M2TS      4113 (0x1011)   0x1B            AVC                                     11.094                  27,209                  37,733,224      205,226         
+00882.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           11.094                  4,758                   6,598,560       37,624          
+00882.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           11.094                  1,526                   2,116,624       12,624          
+00882.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            11.094                  2,069                   2,869,856       16,832          
+00882.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           11.094                  1,526                   2,116,624       12,624          
+00882.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           11.094                  0                       70              7               
+00882.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           11.094                  7                       9,400           58              
+00882.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            11.094                  8                       11,541          70              
+00882.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           11.094                  6                       8,922           55              
+00882.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           11.094                  0                       70              7               
+00883.M2TS      4113 (0x1011)   0x1B            AVC                                     1453.410                26,985                  4,902,473,478   26,664,296      
+00883.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1453.410                4,938                   897,074,564     5,101,852       
+00883.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           1453.410                1,509                   274,173,228     1,635,228       
+00883.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            1453.410                2,046                   371,741,832     2,180,304       
+00883.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           1453.410                1,509                   274,173,228     1,635,228       
+00883.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1453.410                48                      8,743,073       51,106          
+00883.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           1453.410                34                      6,119,083       36,112          
+00883.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            1453.410                36                      6,485,675       38,099          
+00883.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           1453.410                38                      6,975,686       40,773          
+00883.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           1453.410                0                       70              7               
+00884.M2TS      4113 (0x1011)   0x1B            AVC                                     7.508                   27,571                  25,873,826      140,734         
+00884.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           7.508                   4,489                   4,212,808       24,135          
+00884.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           7.508                   1,544                   1,448,640       8,640           
+00884.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            7.508                   2,093                   1,964,160       11,520          
+00884.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           7.508                   1,544                   1,448,640       8,640           
+00884.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           7.508                   32                      29,733          182             
+00884.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           7.508                   42                      39,285          234             
+00884.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            7.508                   36                      33,634          197             
+00884.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           7.508                   43                      40,164          239             
+00884.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           7.508                   0                       70              7               
+00885.M2TS      4113 (0x1011)   0x1B            AVC                                     118.368                 27,018                  399,759,326     2,174,258       
+00885.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           118.368                 4,030                   59,629,916      342,467         
+00885.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           118.368                 1,511                   22,351,308      133,308         
+00885.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            118.368                 2,048                   30,305,352      177,744         
+00885.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           118.368                 1,511                   22,351,308      133,308         
+00885.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           118.368                 62                      917,460         5,349           
+00885.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           118.368                 46                      681,262         3,972           
+00885.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            118.368                 43                      641,940         3,771           
+00885.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           118.368                 45                      666,424         3,891           
+00885.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           118.368                 0                       70              7               
+00886.M2TS      4113 (0x1011)   0x1B            AVC                                     17.434                  27,172                  59,215,336      322,076         
+00886.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           17.434                  4,383                   9,550,892       54,635          
+00886.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           17.434                  1,521                   3,313,764       19,764          
+00886.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            17.434                  2,062                   4,493,016       26,352          
+00886.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           17.434                  1,521                   3,313,764       19,764          
+00886.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           17.434                  53                      116,488         689             
+00886.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           17.434                  26                      57,415          346             
+00886.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            17.434                  27                      57,893          335             
+00886.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           17.434                  33                      72,485          429             
+00886.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           17.434                  0                       70              7               
+00887.M2TS      4113 (0x1011)   0x1B            AVC                                     3826.156                26,560                  12,702,717,945  69,090,218      
+00887.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3826.156                4,927                   2,356,282,572   13,401,907      
+00887.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           3826.156                1,509                   721,740,616     4,304,616       
+00887.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            3826.156                2,046                   978,582,704     5,739,488       
+00887.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           3826.156                1,509                   721,740,616     4,304,616       
+00887.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3826.156                44                      20,998,413      122,732         
+00887.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           3826.156                29                      13,751,662      81,080          
+00887.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            3826.156                28                      13,526,807      79,517          
+00887.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           3826.156                32                      15,422,585      90,125          
+00887.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           3826.156                0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Frozen - Blu-ray™
+Disc Label: Frozen.2013.MULTi.COMPLETE.BLURAY-RetailBD
+Disc Size: 41,255,192,304 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 30,053,160,960 bytes
+Length: 1:42:13.043
+Total Bitrate: 39.20 Mbps
+Video: MPEG-4 AVC Video / 26696 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4906 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: German / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Subtitle: English / 43.917 kbps
+Subtitle: Italian / 29.643 kbps
+Subtitle: German / 29.990 kbps
+Subtitle: Turkish / 33.000 kbps
+Subtitle: Turkish / 0.016 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:42:13 30,053,879,808  41,255,192,304  39.20   26.70   DTS-HD Master 7.1 4906Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Frozen - Blu-ray™
+Disc Label:     Frozen.2013.MULTi.COMPLETE.BLURAY-RetailBD
+Disc Size:      41,255,192,304 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:42:13.043 (h:m:s.ms)
+Size:                   30,053,879,808 bytes
+Total Bitrate:          39.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26697 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4906 kbps       7.1 / 48 kHz /  4906 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS-HD High-Res Audio           German          2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Turkish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         43.917 kbps                     
+Presentation Graphics           Italian         29.643 kbps                     
+Presentation Graphics           German          29.990 kbps                     
+Presentation Graphics           Turkish         33.000 kbps                     
+Presentation Graphics           Turkish         0.016 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00879.M2TS      0:00:00.000     0:00:57.223     273,088,512     38,178          
+00889.M2TS      0:00:57.223     0:00:50.759     250,146,816     39,425          
+00881.M2TS      0:01:47.982     0:09:50.256     2,903,808,000   39,357          
+00890.M2TS      0:11:38.239     0:00:11.219     54,841,344      39,104          
+00883.M2TS      0:11:49.458     0:24:13.535     7,186,888,704   39,555          
+00891.M2TS      0:36:02.994     0:00:07.674     37,373,952      38,960          
+00885.M2TS      0:36:10.668     0:01:58.493     572,553,216     38,656          
+00892.M2TS      0:38:09.161     0:00:17.559     85,420,032      38,917          
+00887.M2TS      0:38:26.721     1:03:46.322     18,689,759,232  39,076          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:59.817     26,582 kbps     32,061 kbps     00:02:13.258    28,856 kbps     00:00:36.244    28,417 kbps     00:00:31.239    138,570 bytes   639,619 bytes   00:01:37.972    
+2               0:05:59.817     0:05:38.129     27,030 kbps     39,852 kbps     00:11:34.527    30,159 kbps     00:11:30.523    28,909 kbps     00:11:25.518    140,920 bytes   640,776 bytes   00:09:46.585    
+3               0:11:37.947     0:08:15.786     26,958 kbps     35,490 kbps     00:11:38.322    28,644 kbps     00:18:18.388    28,245 kbps     00:18:17.137    140,545 bytes   640,178 bytes   00:18:13.592    
+4               0:19:53.734     0:11:09.460     27,077 kbps     32,286 kbps     00:23:12.891    28,557 kbps     00:22:37.022    28,225 kbps     00:22:49.868    141,168 bytes   638,690 bytes   00:23:40.544    
+5               0:31:03.194     0:07:36.289     26,828 kbps     34,567 kbps     00:34:42.997    28,969 kbps     00:33:14.617    28,304 kbps     00:33:39.559    139,870 bytes   639,595 bytes   00:35:51.607    
+6               0:38:39.483     0:05:41.799     26,623 kbps     31,023 kbps     00:43:32.735    28,350 kbps     00:43:28.772    28,132 kbps     00:43:24.643    138,802 bytes   634,019 bytes   00:43:36.655    
+7               0:44:21.283     0:06:30.223     26,954 kbps     38,198 kbps     00:49:17.454    29,621 kbps     00:49:13.450    28,722 kbps     00:49:08.445    140,526 bytes   640,647 bytes   00:46:55.020    
+8               0:50:51.506     0:06:56.874     26,961 kbps     33,056 kbps     00:51:04.436    28,661 kbps     00:57:40.290    28,328 kbps     00:50:55.469    140,562 bytes   640,672 bytes   00:55:18.189    
+9               0:57:48.381     0:05:09.017     27,243 kbps     32,229 kbps     00:58:56.366    28,592 kbps     00:58:44.145    28,211 kbps     00:58:39.140    142,033 bytes   638,998 bytes   00:58:50.151    
+10              1:02:57.398     0:06:38.648     26,936 kbps     31,597 kbps     01:05:59.288    28,655 kbps     01:03:14.957    28,224 kbps     01:03:09.952    140,433 bytes   638,057 bytes   01:04:34.245    
+11              1:09:36.046     0:03:58.821     26,705 kbps     32,669 kbps     01:11:39.503    28,792 kbps     01:11:35.582    28,284 kbps     01:11:30.577    139,228 bytes   632,695 bytes   01:12:06.864    
+12              1:13:34.868     0:04:32.730     27,059 kbps     31,424 kbps     01:14:42.060    28,518 kbps     01:13:58.267    28,190 kbps     01:14:06.650    141,075 bytes   639,565 bytes   01:14:53.196    
+13              1:18:07.599     0:04:26.140     26,659 kbps     31,468 kbps     01:19:01.945    28,646 kbps     01:18:49.766    28,274 kbps     01:18:44.761    138,987 bytes   629,634 bytes   01:19:05.365    
+14              1:22:33.740     0:04:37.068     27,061 kbps     32,339 kbps     01:26:27.432    28,725 kbps     01:22:52.717    28,300 kbps     01:22:47.712    141,084 bytes   639,821 bytes   01:26:10.707    
+15              1:27:10.808     0:05:22.697     27,333 kbps     38,693 kbps     01:32:30.836    29,990 kbps     01:32:26.832    28,948 kbps     01:32:21.827    142,502 bytes   640,725 bytes   01:30:29.549    
+16              1:32:33.506     0:09:39.537     24,345 kbps     41,783 kbps     01:42:09.998    31,140 kbps     01:42:05.994    29,536 kbps     01:42:00.989    126,935 bytes   640,828 bytes   01:41:43.680    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00879.M2TS      4113 (0x1011)   0x1B            AVC                                     57.099                  26,089                  186,204,147     1,012,762       
+00879.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           57.099                  4,729                   33,753,656      192,651         
+00879.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           57.099                  1,512                   10,794,380      64,380          
+00879.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            57.099                  2,051                   14,635,720      85,840          
+00879.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           57.099                  1,512                   10,794,380      64,380          
+00879.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           57.099                  8                       56,847          323             
+00879.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           57.099                  0                       70              7               
+00879.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            57.099                  0                       70              7               
+00879.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           57.099                  0                       70              7               
+00879.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           57.099                  0                       70              7               
+00889.M2TS      4113 (0x1011)   0x1B            AVC                                     50.592                  27,071                  171,199,261     931,147         
+00889.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           50.592                  4,988                   31,541,088      179,133         
+00889.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           50.592                  1,514                   9,575,108       57,108          
+00889.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            50.592                  2,053                   12,982,552      76,144          
+00889.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           50.592                  1,514                   9,575,108       57,108          
+00889.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           50.592                  2                       10,045          62              
+00889.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           50.592                  3                       22,062          127             
+00889.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            50.592                  5                       28,748          163             
+00889.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           50.592                  2                       11,421          69              
+00889.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           50.592                  2                       11,421          69              
+00881.M2TS      4113 (0x1011)   0x1B            AVC                                     590.090                 26,861                  1,981,300,451   10,776,214      
+00881.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           590.090                 4,911                   362,213,588     2,060,633       
+00881.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           590.090                 1,509                   111,338,044     664,044         
+00881.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            590.090                 2,047                   150,959,336     885,392         
+00881.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           590.090                 1,509                   111,338,044     664,044         
+00881.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           590.090                 38                      2,795,715       16,432          
+00881.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           590.090                 28                      2,044,647       12,069          
+00881.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            590.090                 30                      2,205,182       13,019          
+00881.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           590.090                 28                      2,100,913       12,364          
+00881.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           590.090                 0                       70              7               
+00890.M2TS      4113 (0x1011)   0x1B            AVC                                     11.094                  27,224                  37,754,401      205,342         
+00890.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           11.094                  4,758                   6,598,560       37,624          
+00890.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           11.094                  1,526                   2,116,624       12,624          
+00890.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            11.094                  2,069                   2,869,856       16,832          
+00890.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           11.094                  1,526                   2,116,624       12,624          
+00890.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           11.094                  0                       70              7               
+00890.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           11.094                  7                       9,400           58              
+00890.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            11.094                  8                       11,541          70              
+00890.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           11.094                  6                       8,922           55              
+00890.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           11.094                  0                       70              7               
+00883.M2TS      4113 (0x1011)   0x1B            AVC                                     1453.410                26,985                  4,902,473,478   26,664,296      
+00883.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1453.410                4,938                   897,074,564     5,101,852       
+00883.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           1453.410                1,509                   274,173,228     1,635,228       
+00883.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            1453.410                2,046                   371,741,832     2,180,304       
+00883.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           1453.410                1,509                   274,173,228     1,635,228       
+00883.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1453.410                48                      8,743,073       51,106          
+00883.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           1453.410                34                      6,119,083       36,112          
+00883.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            1453.410                36                      6,485,675       38,099          
+00883.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           1453.410                38                      6,975,686       40,773          
+00883.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           1453.410                0                       70              7               
+00891.M2TS      4113 (0x1011)   0x1B            AVC                                     7.508                   27,547                  25,850,904      140,595         
+00891.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           7.508                   4,489                   4,212,808       24,135          
+00891.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           7.508                   1,544                   1,448,640       8,640           
+00891.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            7.508                   2,093                   1,964,160       11,520          
+00891.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           7.508                   1,544                   1,448,640       8,640           
+00891.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           7.508                   32                      29,733          182             
+00891.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           7.508                   42                      39,285          234             
+00891.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            7.508                   36                      33,634          197             
+00891.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           7.508                   43                      40,164          239             
+00891.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           7.508                   0                       70              7               
+00885.M2TS      4113 (0x1011)   0x1B            AVC                                     118.368                 27,018                  399,759,326     2,174,258       
+00885.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           118.368                 4,030                   59,629,916      342,467         
+00885.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           118.368                 1,511                   22,351,308      133,308         
+00885.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            118.368                 2,048                   30,305,352      177,744         
+00885.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           118.368                 1,511                   22,351,308      133,308         
+00885.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           118.368                 62                      917,460         5,349           
+00885.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           118.368                 46                      681,262         3,972           
+00885.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            118.368                 43                      641,940         3,771           
+00885.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           118.368                 45                      666,424         3,891           
+00885.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           118.368                 0                       70              7               
+00892.M2TS      4113 (0x1011)   0x1B            AVC                                     17.392                  27,228                  59,195,929      321,962         
+00892.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           17.392                  4,393                   9,550,892       54,635          
+00892.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           17.392                  1,524                   3,313,764       19,764          
+00892.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            17.392                  2,067                   4,493,016       26,352          
+00892.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           17.392                  1,524                   3,313,764       19,764          
+00892.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           17.392                  54                      116,488         689             
+00892.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           17.392                  26                      57,415          346             
+00892.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            17.392                  27                      57,893          335             
+00892.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           17.392                  33                      72,485          429             
+00892.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           17.392                  0                       70              7               
+00887.M2TS      4113 (0x1011)   0x1B            AVC                                     3826.156                26,560                  12,702,717,945  69,090,218      
+00887.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3826.156                4,927                   2,356,282,572   13,401,907      
+00887.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           3826.156                1,509                   721,740,616     4,304,616       
+00887.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            3826.156                2,046                   978,582,704     5,739,488       
+00887.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           3826.156                1,509                   721,740,616     4,304,616       
+00887.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3826.156                44                      20,998,413      122,732         
+00887.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           3826.156                29                      13,751,662      81,080          
+00887.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            3826.156                28                      13,526,807      79,517          
+00887.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           3826.156                32                      15,422,585      90,125          
+00887.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           3826.156                0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Frozen - Blu-ray™
+Disc Label: Frozen.2013.MULTi.COMPLETE.BLURAY-RetailBD
+Disc Size: 41,255,192,304 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 30,053,879,808 bytes
+Length: 1:42:13.043
+Total Bitrate: 39.20 Mbps
+Video: MPEG-4 AVC Video / 26697 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4906 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: German / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Subtitle: English / 43.917 kbps
+Subtitle: Italian / 29.643 kbps
+Subtitle: German / 29.990 kbps
+Subtitle: Turkish / 33.000 kbps
+Subtitle: Turkish / 0.016 kbps
+
+
+********************
+PLAYLIST: 00802.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      AVC     1:42:13 30,053,812,224  41,255,192,304  39.20   26.70   DTS-HD Master 7.1 4906Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Frozen - Blu-ray™
+Disc Label:     Frozen.2013.MULTi.COMPLETE.BLURAY-RetailBD
+Disc Size:      41,255,192,304 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS
+Length:                 1:42:13.043 (h:m:s.ms)
+Size:                   30,053,812,224 bytes
+Total Bitrate:          39.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26697 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4906 kbps       7.1 / 48 kHz /  4906 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS-HD High-Res Audio           German          2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Turkish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         43.917 kbps                     
+Presentation Graphics           Italian         29.643 kbps                     
+Presentation Graphics           German          29.990 kbps                     
+Presentation Graphics           Turkish         33.000 kbps                     
+Presentation Graphics           Turkish         0.016 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00879.M2TS      0:00:00.000     0:00:57.223     273,088,512     38,178          
+00894.M2TS      0:00:57.223     0:00:50.759     250,146,816     39,425          
+00881.M2TS      0:01:47.982     0:09:50.256     2,903,808,000   39,357          
+00895.M2TS      0:11:38.239     0:00:11.219     54,884,352      39,135          
+00883.M2TS      0:11:49.458     0:24:13.535     7,186,888,704   39,555          
+00896.M2TS      0:36:02.994     0:00:07.674     37,287,936      38,870          
+00885.M2TS      0:36:10.668     0:01:58.493     572,553,216     38,656          
+00943.M2TS      0:38:09.161     0:00:17.559     85,395,456      38,906          
+00887.M2TS      0:38:26.721     1:03:46.322     18,689,759,232  39,076          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:59.817     26,582 kbps     32,061 kbps     00:02:13.258    28,856 kbps     00:00:36.244    28,417 kbps     00:00:31.239    138,570 bytes   640,043 bytes   00:01:37.972    
+2               0:05:59.817     0:05:38.129     27,030 kbps     39,852 kbps     00:11:34.527    30,159 kbps     00:11:30.523    28,909 kbps     00:11:25.518    140,920 bytes   640,776 bytes   00:09:46.585    
+3               0:11:37.947     0:08:15.786     26,958 kbps     35,988 kbps     00:11:38.322    28,644 kbps     00:18:18.388    28,245 kbps     00:18:17.137    140,549 bytes   640,178 bytes   00:18:13.592    
+4               0:19:53.734     0:11:09.460     27,077 kbps     32,286 kbps     00:23:12.891    28,557 kbps     00:22:37.022    28,225 kbps     00:22:49.868    141,168 bytes   638,690 bytes   00:23:40.544    
+5               0:31:03.194     0:07:36.289     26,826 kbps     34,567 kbps     00:34:42.997    28,969 kbps     00:33:14.617    28,304 kbps     00:33:39.559    139,861 bytes   639,595 bytes   00:35:51.607    
+6               0:38:39.483     0:05:41.799     26,623 kbps     31,023 kbps     00:43:32.735    28,350 kbps     00:43:28.772    28,132 kbps     00:43:24.643    138,802 bytes   634,019 bytes   00:43:36.655    
+7               0:44:21.283     0:06:30.223     26,954 kbps     38,198 kbps     00:49:17.454    29,621 kbps     00:49:13.450    28,722 kbps     00:49:08.445    140,526 bytes   640,647 bytes   00:46:55.020    
+8               0:50:51.506     0:06:56.874     26,961 kbps     33,056 kbps     00:51:04.436    28,661 kbps     00:57:40.290    28,328 kbps     00:50:55.469    140,562 bytes   640,672 bytes   00:55:18.189    
+9               0:57:48.381     0:05:09.017     27,243 kbps     32,229 kbps     00:58:56.366    28,592 kbps     00:58:44.145    28,211 kbps     00:58:39.140    142,033 bytes   638,998 bytes   00:58:50.151    
+10              1:02:57.398     0:06:38.648     26,936 kbps     31,597 kbps     01:05:59.288    28,655 kbps     01:03:14.957    28,224 kbps     01:03:09.952    140,433 bytes   638,057 bytes   01:04:34.245    
+11              1:09:36.046     0:03:58.821     26,705 kbps     32,669 kbps     01:11:39.503    28,792 kbps     01:11:35.582    28,284 kbps     01:11:30.577    139,228 bytes   632,695 bytes   01:12:06.864    
+12              1:13:34.868     0:04:32.730     27,059 kbps     31,424 kbps     01:14:42.060    28,518 kbps     01:13:58.267    28,190 kbps     01:14:06.650    141,075 bytes   639,565 bytes   01:14:53.196    
+13              1:18:07.599     0:04:26.140     26,659 kbps     31,468 kbps     01:19:01.945    28,646 kbps     01:18:49.766    28,274 kbps     01:18:44.761    138,987 bytes   629,634 bytes   01:19:05.365    
+14              1:22:33.740     0:04:37.068     27,061 kbps     32,339 kbps     01:26:27.432    28,725 kbps     01:22:52.717    28,300 kbps     01:22:47.712    141,084 bytes   639,821 bytes   01:26:10.707    
+15              1:27:10.808     0:05:22.697     27,333 kbps     38,693 kbps     01:32:30.836    29,990 kbps     01:32:26.832    28,948 kbps     01:32:21.827    142,502 bytes   640,725 bytes   01:30:29.549    
+16              1:32:33.506     0:09:39.537     24,345 kbps     41,783 kbps     01:42:09.998    31,140 kbps     01:42:05.994    29,536 kbps     01:42:00.989    126,935 bytes   640,828 bytes   01:41:43.680    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00879.M2TS      4113 (0x1011)   0x1B            AVC                                     57.099                  26,089                  186,204,147     1,012,762       
+00879.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           57.099                  4,729                   33,753,656      192,651         
+00879.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           57.099                  1,512                   10,794,380      64,380          
+00879.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            57.099                  2,051                   14,635,720      85,840          
+00879.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           57.099                  1,512                   10,794,380      64,380          
+00879.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           57.099                  8                       56,847          323             
+00879.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           57.099                  0                       70              7               
+00879.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            57.099                  0                       70              7               
+00879.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           57.099                  0                       70              7               
+00879.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           57.099                  0                       70              7               
+00894.M2TS      4113 (0x1011)   0x1B            AVC                                     50.592                  27,072                  171,202,431     931,143         
+00894.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           50.592                  4,988                   31,541,088      179,133         
+00894.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           50.592                  1,514                   9,575,108       57,108          
+00894.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            50.592                  2,053                   12,982,552      76,144          
+00894.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           50.592                  1,514                   9,575,108       57,108          
+00894.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           50.592                  2                       10,045          62              
+00894.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           50.592                  3                       22,062          127             
+00894.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            50.592                  5                       28,748          163             
+00894.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           50.592                  2                       11,421          69              
+00894.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           50.592                  2                       11,421          69              
+00881.M2TS      4113 (0x1011)   0x1B            AVC                                     590.090                 26,861                  1,981,300,451   10,776,214      
+00881.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           590.090                 4,911                   362,213,588     2,060,633       
+00881.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           590.090                 1,509                   111,338,044     664,044         
+00881.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            590.090                 2,047                   150,959,336     885,392         
+00881.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           590.090                 1,509                   111,338,044     664,044         
+00881.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           590.090                 38                      2,795,715       16,432          
+00881.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           590.090                 28                      2,044,647       12,069          
+00881.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            590.090                 30                      2,205,182       13,019          
+00881.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           590.090                 28                      2,100,913       12,364          
+00881.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           590.090                 0                       70              7               
+00895.M2TS      4113 (0x1011)   0x1B            AVC                                     11.094                  27,256                  37,798,454      205,583         
+00895.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           11.094                  4,758                   6,598,560       37,624          
+00895.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           11.094                  1,526                   2,116,624       12,624          
+00895.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            11.094                  2,069                   2,869,856       16,832          
+00895.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           11.094                  1,526                   2,116,624       12,624          
+00895.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           11.094                  0                       70              7               
+00895.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           11.094                  7                       9,400           58              
+00895.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            11.094                  8                       11,541          70              
+00895.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           11.094                  6                       8,922           55              
+00895.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           11.094                  0                       70              7               
+00883.M2TS      4113 (0x1011)   0x1B            AVC                                     1453.410                26,985                  4,902,473,478   26,664,296      
+00883.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1453.410                4,938                   897,074,564     5,101,852       
+00883.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           1453.410                1,509                   274,173,228     1,635,228       
+00883.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            1453.410                2,046                   371,741,832     2,180,304       
+00883.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           1453.410                1,509                   274,173,228     1,635,228       
+00883.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           1453.410                48                      8,743,073       51,106          
+00883.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           1453.410                34                      6,119,083       36,112          
+00883.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            1453.410                36                      6,485,675       38,099          
+00883.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           1453.410                38                      6,975,686       40,773          
+00883.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           1453.410                0                       70              7               
+00896.M2TS      4113 (0x1011)   0x1B            AVC                                     7.508                   27,456                  25,765,780      140,132         
+00896.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           7.508                   4,489                   4,212,808       24,135          
+00896.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           7.508                   1,544                   1,448,640       8,640           
+00896.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            7.508                   2,093                   1,964,160       11,520          
+00896.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           7.508                   1,544                   1,448,640       8,640           
+00896.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           7.508                   32                      29,733          182             
+00896.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           7.508                   42                      39,285          234             
+00896.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            7.508                   36                      33,634          197             
+00896.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           7.508                   43                      40,164          239             
+00896.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           7.508                   0                       70              7               
+00885.M2TS      4113 (0x1011)   0x1B            AVC                                     118.368                 27,018                  399,759,326     2,174,258       
+00885.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           118.368                 4,030                   59,629,916      342,467         
+00885.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           118.368                 1,511                   22,351,308      133,308         
+00885.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            118.368                 2,048                   30,305,352      177,744         
+00885.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           118.368                 1,511                   22,351,308      133,308         
+00885.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           118.368                 62                      917,460         5,349           
+00885.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           118.368                 46                      681,262         3,972           
+00885.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            118.368                 43                      641,940         3,771           
+00885.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           118.368                 45                      666,424         3,891           
+00885.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           118.368                 0                       70              7               
+00943.M2TS      4113 (0x1011)   0x1B            AVC                                     17.392                  27,218                  59,174,161      321,852         
+00943.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           17.392                  4,393                   9,550,892       54,635          
+00943.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           17.392                  1,524                   3,313,764       19,764          
+00943.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            17.392                  2,067                   4,493,016       26,352          
+00943.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           17.392                  1,524                   3,313,764       19,764          
+00943.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           17.392                  54                      116,488         689             
+00943.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           17.392                  26                      57,415          346             
+00943.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            17.392                  27                      57,893          335             
+00943.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           17.392                  33                      72,485          429             
+00943.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           17.392                  0                       70              7               
+00887.M2TS      4113 (0x1011)   0x1B            AVC                                     3826.156                26,560                  12,702,717,945  69,090,218      
+00887.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3826.156                4,927                   2,356,282,572   13,401,907      
+00887.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           3826.156                1,509                   721,740,616     4,304,616       
+00887.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            3826.156                2,046                   978,582,704     5,739,488       
+00887.M2TS      4355 (0x1103)   0x82            DTS             tur (Turkish)           3826.156                1,509                   721,740,616     4,304,616       
+00887.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3826.156                44                      20,998,413      122,732         
+00887.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           3826.156                29                      13,751,662      81,080          
+00887.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            3826.156                28                      13,526,807      79,517          
+00887.M2TS      4611 (0x1203)   0x90            PGS             tur (Turkish)           3826.156                32                      15,422,585      90,125          
+00887.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           3826.156                0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Frozen - Blu-ray™
+Disc Label: Frozen.2013.MULTi.COMPLETE.BLURAY-RetailBD
+Disc Size: 41,255,192,304 bytes
+Protection: AACS
+Playlist: 00802.MPLS
+Size: 30,053,812,224 bytes
+Length: 1:42:13.043
+Total Bitrate: 39.20 Mbps
+Video: MPEG-4 AVC Video / 26697 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4906 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: German / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Subtitle: English / 43.917 kbps
+Subtitle: Italian / 29.643 kbps
+Subtitle: German / 29.990 kbps
+Subtitle: Turkish / 33.000 kbps
+Subtitle: Turkish / 0.016 kbps
+
