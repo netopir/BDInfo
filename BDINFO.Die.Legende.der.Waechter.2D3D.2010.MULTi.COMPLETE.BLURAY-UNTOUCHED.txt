@@ -1,0 +1,737 @@
+Disc Label:     Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      40,427,054,228 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 01051.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01051.MPLS                                                      AVC     1:36:49 24,876,152,832  40,427,054,228  34.25   24.96   DTS-HD Master 5.1 3903Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      40,427,054,228 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01051.MPLS
+Length:                 1:36:49.720 (h:m:s.ms)
+Size:                   24,876,152,832 bytes
+Total Bitrate:          34.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24956 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3903 kbps       5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.982 kbps                     
+Presentation Graphics           French          29.450 kbps                     
+Presentation Graphics           German          38.888 kbps                     
+Presentation Graphics           Italian         33.982 kbps                     
+Presentation Graphics           Dutch           30.836 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:36:48.719     24,876,036,096  34,260          
+00036.M2TS      1:36:48.719     0:00:01.001     116,736         933             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:52.026     24,853 kbps     30,354 kbps     00:08:58.913    26,932 kbps     00:00:12.637    26,339 kbps     00:10:09.650    129,563 bytes   502,499 bytes   00:04:27.392    
+2               0:10:52.026     0:09:18.349     25,324 kbps     30,490 kbps     00:13:51.413    27,251 kbps     00:13:49.203    26,360 kbps     00:13:50.579    132,029 bytes   475,579 bytes   00:17:09.903    
+3               0:20:10.375     0:09:56.721     25,253 kbps     29,785 kbps     00:22:16.209    26,984 kbps     00:25:34.115    26,511 kbps     00:26:37.387    131,657 bytes   506,516 bytes   00:23:48.885    
+4               0:30:07.096     0:09:54.176     25,163 kbps     28,744 kbps     00:30:34.249    26,545 kbps     00:37:33.793    26,088 kbps     00:34:59.430    131,190 bytes   517,643 bytes   00:38:07.576    
+5               0:40:01.273     0:09:56.512     25,198 kbps     30,510 kbps     00:40:49.321    27,443 kbps     00:41:14.930    26,298 kbps     00:44:24.578    131,370 bytes   498,206 bytes   00:41:18.851    
+6               0:49:57.786     0:10:36.344     25,110 kbps     29,303 kbps     00:58:06.649    27,119 kbps     00:50:53.717    26,310 kbps     00:50:48.795    130,914 bytes   514,970 bytes   00:55:18.023    
+7               1:00:34.130     0:09:10.967     25,205 kbps     29,695 kbps     01:00:56.527    26,825 kbps     01:00:52.774    26,155 kbps     01:06:52.049    131,406 bytes   486,795 bytes   01:09:23.784    
+8               1:09:45.097     0:09:13.010     25,447 kbps     29,145 kbps     01:12:49.615    26,578 kbps     01:15:09.463    26,448 kbps     01:17:37.653    132,670 bytes   481,225 bytes   01:12:47.863    
+9               1:18:58.108     0:09:21.644     25,022 kbps     30,944 kbps     01:19:29.848    26,902 kbps     01:19:29.431    26,302 kbps     01:19:39.608    130,455 bytes   489,171 bytes   01:24:31.316    
+10              1:28:19.752     0:08:28.966     22,791 kbps     29,008 kbps     01:30:39.725    26,840 kbps     01:33:30.688    26,309 kbps     01:32:33.214    118,824 bytes   690,560 bytes   01:30:26.462    
+11              1:36:48.719     0:00:01.001     93 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    506 bytes       830 bytes       01:36:48.844    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5808.636                24,961                  18,123,482,797  98,579,039      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5808.636                3,904                   2,834,499,787   16,310,438      
+00002.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5808.636                640                     464,698,696     2,722,844       
+00002.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4356 (0x1104)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5808.636                33                      23,951,862      138,987         
+00002.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5808.636                29                      21,386,822      123,510         
+00002.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5808.636                39                      28,241,073      162,559         
+00002.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5808.636                34                      24,677,906      143,015         
+00002.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5808.636                31                      22,393,827      127,469         
+00036.M2TS      4113 (0x1011)   0x1B            AVC                                     0.918                   110                     12,567          77              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 40,427,054,228 bytes
+Protection: AACS
+Playlist: 01051.MPLS
+Size: 24,876,152,832 bytes
+Length: 1:36:49.720
+Total Bitrate: 34.25 Mbps
+Video: MPEG-4 AVC Video / 24956 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 32.982 kbps
+Subtitle: French / 29.450 kbps
+Subtitle: German / 38.888 kbps
+Subtitle: Italian / 33.982 kbps
+Subtitle: Dutch / 30.836 kbps
+
+
+********************
+PLAYLIST: 01052.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01052.MPLS                                                      AVC     1:36:49 24,876,152,832  40,427,054,228  34.25   24.96   DTS-HD Master 5.1 3903Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      40,427,054,228 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01052.MPLS
+Length:                 1:36:49.720 (h:m:s.ms)
+Size:                   24,876,152,832 bytes
+Total Bitrate:          34.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24956 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3903 kbps       5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.982 kbps                     
+Presentation Graphics           French          29.450 kbps                     
+Presentation Graphics           German          38.888 kbps                     
+Presentation Graphics           Italian         33.982 kbps                     
+Presentation Graphics           Dutch           30.836 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:36:48.719     24,876,036,096  34,260          
+00036.M2TS      1:36:48.719     0:00:01.001     116,736         933             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:52.026     24,853 kbps     30,354 kbps     00:08:58.913    26,932 kbps     00:00:12.637    26,339 kbps     00:10:09.650    129,563 bytes   502,499 bytes   00:04:27.392    
+2               0:10:52.026     0:09:18.349     25,324 kbps     30,490 kbps     00:13:51.413    27,251 kbps     00:13:49.203    26,360 kbps     00:13:50.579    132,029 bytes   475,579 bytes   00:17:09.903    
+3               0:20:10.375     0:09:56.721     25,253 kbps     29,785 kbps     00:22:16.209    26,984 kbps     00:25:34.115    26,511 kbps     00:26:37.387    131,657 bytes   506,516 bytes   00:23:48.885    
+4               0:30:07.096     0:09:54.176     25,163 kbps     28,744 kbps     00:30:34.249    26,545 kbps     00:37:33.793    26,088 kbps     00:34:59.430    131,190 bytes   517,643 bytes   00:38:07.576    
+5               0:40:01.273     0:09:56.512     25,198 kbps     30,510 kbps     00:40:49.321    27,443 kbps     00:41:14.930    26,298 kbps     00:44:24.578    131,370 bytes   498,206 bytes   00:41:18.851    
+6               0:49:57.786     0:10:36.344     25,110 kbps     29,303 kbps     00:58:06.649    27,119 kbps     00:50:53.717    26,310 kbps     00:50:48.795    130,914 bytes   514,970 bytes   00:55:18.023    
+7               1:00:34.130     0:09:10.967     25,205 kbps     29,695 kbps     01:00:56.527    26,825 kbps     01:00:52.774    26,155 kbps     01:06:52.049    131,406 bytes   486,795 bytes   01:09:23.784    
+8               1:09:45.097     0:09:13.010     25,447 kbps     29,145 kbps     01:12:49.615    26,578 kbps     01:15:09.463    26,448 kbps     01:17:37.653    132,670 bytes   481,225 bytes   01:12:47.863    
+9               1:18:58.108     0:09:21.644     25,022 kbps     30,944 kbps     01:19:29.848    26,902 kbps     01:19:29.431    26,302 kbps     01:19:39.608    130,455 bytes   489,171 bytes   01:24:31.316    
+10              1:28:19.752     0:08:28.966     22,791 kbps     29,008 kbps     01:30:39.725    26,840 kbps     01:33:30.688    26,309 kbps     01:32:33.214    118,824 bytes   690,560 bytes   01:30:26.462    
+11              1:36:48.719     0:00:01.001     93 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    506 bytes       830 bytes       01:36:48.844    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5808.636                24,961                  18,123,482,797  98,579,039      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5808.636                3,904                   2,834,499,787   16,310,438      
+00002.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5808.636                640                     464,698,696     2,722,844       
+00002.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4356 (0x1104)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5808.636                33                      23,951,862      138,987         
+00002.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5808.636                29                      21,386,822      123,510         
+00002.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5808.636                39                      28,241,073      162,559         
+00002.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5808.636                34                      24,677,906      143,015         
+00002.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5808.636                31                      22,393,827      127,469         
+00036.M2TS      4113 (0x1011)   0x1B            AVC                                     0.918                   110                     12,567          77              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 40,427,054,228 bytes
+Protection: AACS
+Playlist: 01052.MPLS
+Size: 24,876,152,832 bytes
+Length: 1:36:49.720
+Total Bitrate: 34.25 Mbps
+Video: MPEG-4 AVC Video / 24956 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 32.982 kbps
+Subtitle: French / 29.450 kbps
+Subtitle: German / 38.888 kbps
+Subtitle: Italian / 33.982 kbps
+Subtitle: Dutch / 30.836 kbps
+
+
+********************
+PLAYLIST: 01053.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01053.MPLS                                                      AVC     1:36:49 24,876,152,832  40,427,054,228  34.25   24.96   DTS-HD Master 5.1 3903Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      40,427,054,228 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01053.MPLS
+Length:                 1:36:49.720 (h:m:s.ms)
+Size:                   24,876,152,832 bytes
+Total Bitrate:          34.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24956 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3903 kbps       5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.982 kbps                     
+Presentation Graphics           French          29.450 kbps                     
+Presentation Graphics           German          38.888 kbps                     
+Presentation Graphics           Italian         33.982 kbps                     
+Presentation Graphics           Dutch           30.836 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:36:48.719     24,876,036,096  34,260          
+00036.M2TS      1:36:48.719     0:00:01.001     116,736         933             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:52.026     24,853 kbps     30,354 kbps     00:08:58.913    26,932 kbps     00:00:12.637    26,339 kbps     00:10:09.650    129,563 bytes   502,499 bytes   00:04:27.392    
+2               0:10:52.026     0:09:18.349     25,324 kbps     30,490 kbps     00:13:51.413    27,251 kbps     00:13:49.203    26,360 kbps     00:13:50.579    132,029 bytes   475,579 bytes   00:17:09.903    
+3               0:20:10.375     0:09:56.721     25,253 kbps     29,785 kbps     00:22:16.209    26,984 kbps     00:25:34.115    26,511 kbps     00:26:37.387    131,657 bytes   506,516 bytes   00:23:48.885    
+4               0:30:07.096     0:09:54.176     25,163 kbps     28,744 kbps     00:30:34.249    26,545 kbps     00:37:33.793    26,088 kbps     00:34:59.430    131,190 bytes   517,643 bytes   00:38:07.576    
+5               0:40:01.273     0:09:56.512     25,198 kbps     30,510 kbps     00:40:49.321    27,443 kbps     00:41:14.930    26,298 kbps     00:44:24.578    131,370 bytes   498,206 bytes   00:41:18.851    
+6               0:49:57.786     0:10:36.344     25,110 kbps     29,303 kbps     00:58:06.649    27,119 kbps     00:50:53.717    26,310 kbps     00:50:48.795    130,914 bytes   514,970 bytes   00:55:18.023    
+7               1:00:34.130     0:09:10.967     25,205 kbps     29,695 kbps     01:00:56.527    26,825 kbps     01:00:52.774    26,155 kbps     01:06:52.049    131,406 bytes   486,795 bytes   01:09:23.784    
+8               1:09:45.097     0:09:13.010     25,447 kbps     29,145 kbps     01:12:49.615    26,578 kbps     01:15:09.463    26,448 kbps     01:17:37.653    132,670 bytes   481,225 bytes   01:12:47.863    
+9               1:18:58.108     0:09:21.644     25,022 kbps     30,944 kbps     01:19:29.848    26,902 kbps     01:19:29.431    26,302 kbps     01:19:39.608    130,455 bytes   489,171 bytes   01:24:31.316    
+10              1:28:19.752     0:08:28.966     22,791 kbps     29,008 kbps     01:30:39.725    26,840 kbps     01:33:30.688    26,309 kbps     01:32:33.214    118,824 bytes   690,560 bytes   01:30:26.462    
+11              1:36:48.719     0:00:01.001     93 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    506 bytes       830 bytes       01:36:48.844    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5808.636                24,961                  18,123,482,797  98,579,039      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5808.636                3,904                   2,834,499,787   16,310,438      
+00002.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5808.636                640                     464,698,696     2,722,844       
+00002.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4356 (0x1104)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5808.636                33                      23,951,862      138,987         
+00002.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5808.636                29                      21,386,822      123,510         
+00002.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5808.636                39                      28,241,073      162,559         
+00002.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5808.636                34                      24,677,906      143,015         
+00002.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5808.636                31                      22,393,827      127,469         
+00036.M2TS      4113 (0x1011)   0x1B            AVC                                     0.918                   110                     12,567          77              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 40,427,054,228 bytes
+Protection: AACS
+Playlist: 01053.MPLS
+Size: 24,876,152,832 bytes
+Length: 1:36:49.720
+Total Bitrate: 34.25 Mbps
+Video: MPEG-4 AVC Video / 24956 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 32.982 kbps
+Subtitle: French / 29.450 kbps
+Subtitle: German / 38.888 kbps
+Subtitle: Italian / 33.982 kbps
+Subtitle: Dutch / 30.836 kbps
+
+
+********************
+PLAYLIST: 01054.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01054.MPLS                                                      AVC     1:36:49 24,876,152,832  40,427,054,228  34.25   24.96   DTS-HD Master 5.1 3903Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      40,427,054,228 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01054.MPLS
+Length:                 1:36:49.720 (h:m:s.ms)
+Size:                   24,876,152,832 bytes
+Total Bitrate:          34.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24956 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3903 kbps       5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.982 kbps                     
+Presentation Graphics           French          29.450 kbps                     
+Presentation Graphics           German          38.888 kbps                     
+Presentation Graphics           Italian         33.982 kbps                     
+Presentation Graphics           Dutch           30.836 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:36:48.719     24,876,036,096  34,260          
+00036.M2TS      1:36:48.719     0:00:01.001     116,736         933             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:52.026     24,853 kbps     30,354 kbps     00:08:58.913    26,932 kbps     00:00:12.637    26,339 kbps     00:10:09.650    129,563 bytes   502,499 bytes   00:04:27.392    
+2               0:10:52.026     0:09:18.349     25,324 kbps     30,490 kbps     00:13:51.413    27,251 kbps     00:13:49.203    26,360 kbps     00:13:50.579    132,029 bytes   475,579 bytes   00:17:09.903    
+3               0:20:10.375     0:09:56.721     25,253 kbps     29,785 kbps     00:22:16.209    26,984 kbps     00:25:34.115    26,511 kbps     00:26:37.387    131,657 bytes   506,516 bytes   00:23:48.885    
+4               0:30:07.096     0:09:54.176     25,163 kbps     28,744 kbps     00:30:34.249    26,545 kbps     00:37:33.793    26,088 kbps     00:34:59.430    131,190 bytes   517,643 bytes   00:38:07.576    
+5               0:40:01.273     0:09:56.512     25,198 kbps     30,510 kbps     00:40:49.321    27,443 kbps     00:41:14.930    26,298 kbps     00:44:24.578    131,370 bytes   498,206 bytes   00:41:18.851    
+6               0:49:57.786     0:10:36.344     25,110 kbps     29,303 kbps     00:58:06.649    27,119 kbps     00:50:53.717    26,310 kbps     00:50:48.795    130,914 bytes   514,970 bytes   00:55:18.023    
+7               1:00:34.130     0:09:10.967     25,205 kbps     29,695 kbps     01:00:56.527    26,825 kbps     01:00:52.774    26,155 kbps     01:06:52.049    131,406 bytes   486,795 bytes   01:09:23.784    
+8               1:09:45.097     0:09:13.010     25,447 kbps     29,145 kbps     01:12:49.615    26,578 kbps     01:15:09.463    26,448 kbps     01:17:37.653    132,670 bytes   481,225 bytes   01:12:47.863    
+9               1:18:58.108     0:09:21.644     25,022 kbps     30,944 kbps     01:19:29.848    26,902 kbps     01:19:29.431    26,302 kbps     01:19:39.608    130,455 bytes   489,171 bytes   01:24:31.316    
+10              1:28:19.752     0:08:28.966     22,791 kbps     29,008 kbps     01:30:39.725    26,840 kbps     01:33:30.688    26,309 kbps     01:32:33.214    118,824 bytes   690,560 bytes   01:30:26.462    
+11              1:36:48.719     0:00:01.001     93 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    506 bytes       830 bytes       01:36:48.844    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5808.636                24,961                  18,123,482,797  98,579,039      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5808.636                3,904                   2,834,499,787   16,310,438      
+00002.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5808.636                640                     464,698,696     2,722,844       
+00002.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4356 (0x1104)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5808.636                33                      23,951,862      138,987         
+00002.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5808.636                29                      21,386,822      123,510         
+00002.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5808.636                39                      28,241,073      162,559         
+00002.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5808.636                34                      24,677,906      143,015         
+00002.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5808.636                31                      22,393,827      127,469         
+00036.M2TS      4113 (0x1011)   0x1B            AVC                                     0.918                   110                     12,567          77              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 40,427,054,228 bytes
+Protection: AACS
+Playlist: 01054.MPLS
+Size: 24,876,152,832 bytes
+Length: 1:36:49.720
+Total Bitrate: 34.25 Mbps
+Video: MPEG-4 AVC Video / 24956 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 32.982 kbps
+Subtitle: French / 29.450 kbps
+Subtitle: German / 38.888 kbps
+Subtitle: Italian / 33.982 kbps
+Subtitle: Dutch / 30.836 kbps
+
+
+********************
+PLAYLIST: 01055.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01055.MPLS                                                      AVC     1:36:49 24,876,152,832  40,427,054,228  34.25   24.96   DTS-HD Master 5.1 3903Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      40,427,054,228 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01055.MPLS
+Length:                 1:36:49.720 (h:m:s.ms)
+Size:                   24,876,152,832 bytes
+Total Bitrate:          34.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24956 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3903 kbps       5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.982 kbps                     
+Presentation Graphics           French          29.450 kbps                     
+Presentation Graphics           German          38.888 kbps                     
+Presentation Graphics           Italian         33.982 kbps                     
+Presentation Graphics           Dutch           30.836 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:36:48.719     24,876,036,096  34,260          
+00036.M2TS      1:36:48.719     0:00:01.001     116,736         933             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:52.026     24,853 kbps     30,354 kbps     00:08:58.913    26,932 kbps     00:00:12.637    26,339 kbps     00:10:09.650    129,563 bytes   502,499 bytes   00:04:27.392    
+2               0:10:52.026     0:09:18.349     25,324 kbps     30,490 kbps     00:13:51.413    27,251 kbps     00:13:49.203    26,360 kbps     00:13:50.579    132,029 bytes   475,579 bytes   00:17:09.903    
+3               0:20:10.375     0:09:56.721     25,253 kbps     29,785 kbps     00:22:16.209    26,984 kbps     00:25:34.115    26,511 kbps     00:26:37.387    131,657 bytes   506,516 bytes   00:23:48.885    
+4               0:30:07.096     0:09:54.176     25,163 kbps     28,744 kbps     00:30:34.249    26,545 kbps     00:37:33.793    26,088 kbps     00:34:59.430    131,190 bytes   517,643 bytes   00:38:07.576    
+5               0:40:01.273     0:09:56.512     25,198 kbps     30,510 kbps     00:40:49.321    27,443 kbps     00:41:14.930    26,298 kbps     00:44:24.578    131,370 bytes   498,206 bytes   00:41:18.851    
+6               0:49:57.786     0:10:36.344     25,110 kbps     29,303 kbps     00:58:06.649    27,119 kbps     00:50:53.717    26,310 kbps     00:50:48.795    130,914 bytes   514,970 bytes   00:55:18.023    
+7               1:00:34.130     0:09:10.967     25,205 kbps     29,695 kbps     01:00:56.527    26,825 kbps     01:00:52.774    26,155 kbps     01:06:52.049    131,406 bytes   486,795 bytes   01:09:23.784    
+8               1:09:45.097     0:09:13.010     25,447 kbps     29,145 kbps     01:12:49.615    26,578 kbps     01:15:09.463    26,448 kbps     01:17:37.653    132,670 bytes   481,225 bytes   01:12:47.863    
+9               1:18:58.108     0:09:21.644     25,022 kbps     30,944 kbps     01:19:29.848    26,902 kbps     01:19:29.431    26,302 kbps     01:19:39.608    130,455 bytes   489,171 bytes   01:24:31.316    
+10              1:28:19.752     0:08:28.966     22,791 kbps     29,008 kbps     01:30:39.725    26,840 kbps     01:33:30.688    26,309 kbps     01:32:33.214    118,824 bytes   690,560 bytes   01:30:26.462    
+11              1:36:48.719     0:00:01.001     93 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    506 bytes       830 bytes       01:36:48.844    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5808.636                24,961                  18,123,482,797  98,579,039      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5808.636                3,904                   2,834,499,787   16,310,438      
+00002.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5808.636                640                     464,698,696     2,722,844       
+00002.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4356 (0x1104)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5808.636                33                      23,951,862      138,987         
+00002.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5808.636                29                      21,386,822      123,510         
+00002.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5808.636                39                      28,241,073      162,559         
+00002.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5808.636                34                      24,677,906      143,015         
+00002.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5808.636                31                      22,393,827      127,469         
+00036.M2TS      4113 (0x1011)   0x1B            AVC                                     0.918                   110                     12,567          77              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 40,427,054,228 bytes
+Protection: AACS
+Playlist: 01055.MPLS
+Size: 24,876,152,832 bytes
+Length: 1:36:49.720
+Total Bitrate: 34.25 Mbps
+Video: MPEG-4 AVC Video / 24956 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 32.982 kbps
+Subtitle: French / 29.450 kbps
+Subtitle: German / 38.888 kbps
+Subtitle: Italian / 33.982 kbps
+Subtitle: Dutch / 30.836 kbps
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:36:48 24,876,036,096  40,427,054,228  34.26   24.96   DTS-HD Master 5.1 3904Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      40,427,054,228 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:36:48.719 (h:m:s.ms)
+Size:                   24,876,036,096 bytes
+Total Bitrate:          34.26 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24960 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3904 kbps       5.1 / 48 kHz /  3904 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.987 kbps                     
+Presentation Graphics           French          29.455 kbps                     
+Presentation Graphics           German          38.895 kbps                     
+Presentation Graphics           Italian         33.987 kbps                     
+Presentation Graphics           Dutch           30.842 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:36:48.719     24,876,036,096  34,260          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:36:48.719     24,960 kbps     30,944 kbps     01:19:29.848    27,443 kbps     00:41:14.930    26,511 kbps     00:26:37.387    130,132 bytes   690,560 bytes   01:30:26.462    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5808.636                24,961                  18,123,482,797  98,579,039      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5808.636                3,904                   2,834,499,787   16,310,438      
+00002.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5808.636                640                     464,698,696     2,722,844       
+00002.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4356 (0x1104)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5808.636                640                     464,698,880     2,722,845       
+00002.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5808.636                33                      23,951,862      138,987         
+00002.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5808.636                29                      21,386,822      123,510         
+00002.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5808.636                39                      28,241,073      162,559         
+00002.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5808.636                34                      24,677,906      143,015         
+00002.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5808.636                31                      22,393,827      127,469         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Die.Legende.der.Waechter.2D3D.2010.MULTi.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 40,427,054,228 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 24,876,036,096 bytes
+Length: 1:36:48.719
+Total Bitrate: 34.26 Mbps
+Video: MPEG-4 AVC Video / 24960 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3904 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 32.987 kbps
+Subtitle: French / 29.455 kbps
+Subtitle: German / 38.895 kbps
+Subtitle: Italian / 33.987 kbps
+Subtitle: Dutch / 30.842 kbps
+
