@@ -1,0 +1,222 @@
+Disc Title:     IL VIAGGIO DI NORM
+Disc Label:     Norm.of.the.North.2016.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-MHT
+Disc Size:      18,503,447,633 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:30:40 18,437,160,960  18,503,447,633  27.11   20.81   DTS-HD Master 5.1 2278Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     IL VIAGGIO DI NORM
+Disc Label:     Norm.of.the.North.2016.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-MHT
+Disc Size:      18,503,447,633 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:30:40.958 (h:m:s.ms)
+Size:                   18,437,160,960 bytes
+Total Bitrate:          27.11 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20807 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2278 kbps       5.1 / 48 kHz /  2278 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2312 kbps       5.1 / 48 kHz /  2312 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         35.630 kbps                     
+Presentation Graphics           Italian         0.022 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:30:40.958     18,437,160,960  27,109          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:30:40.958     20,807 kbps     41,694 kbps     00:34:13.250    30,625 kbps     00:19:21.500    28,735 kbps     00:19:20.624    108,369 bytes   860,223 bytes   00:27:40.041    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5440.875                20,807                  14,151,098,677  76,984,299      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5440.875                2,278                   1,549,020,664   9,267,764       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5440.875                2,312                   1,572,222,955   9,393,706       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5440.875                36                      24,232,608      139,220         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5440.875                0                       15,273          90              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: IL VIAGGIO DI NORM
+Disc Label: Norm.of.the.North.2016.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-MHT
+Disc Size: 18,503,447,633 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 18,437,160,960 bytes
+Length: 1:30:40.958
+Total Bitrate: 27.11 Mbps
+Video: MPEG-4 AVC Video / 20807 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2278 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2312 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 35.630 kbps
+Subtitle: Italian / 0.022 kbps
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:30:40 18,437,160,960  18,503,447,633  27.11   20.81   DTS-HD Master 5.1 2278Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     IL VIAGGIO DI NORM
+Disc Label:     Norm.of.the.North.2016.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-MHT
+Disc Size:      18,503,447,633 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:30:40.958 (h:m:s.ms)
+Size:                   18,437,160,960 bytes
+Total Bitrate:          27.11 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20807 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2278 kbps       5.1 / 48 kHz /  2278 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2312 kbps       5.1 / 48 kHz /  2312 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         35.630 kbps                     
+Presentation Graphics           Italian         0.022 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:30:40.958     18,437,160,960  27,109          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:58.458     21,653 kbps     39,023 kbps     00:00:38.708    29,225 kbps     00:02:11.916    28,106 kbps     00:00:39.000    112,758 bytes   662,946 bytes   00:01:34.250    
+2               0:03:58.458     0:04:19.458     23,327 kbps     39,961 kbps     00:06:20.416    29,571 kbps     00:06:39.250    27,849 kbps     00:06:54.583    121,496 bytes   698,231 bytes   00:06:25.250    
+3               0:08:17.916     0:03:59.750     21,668 kbps     38,902 kbps     00:09:41.041    28,985 kbps     00:09:08.916    27,828 kbps     00:09:17.000    112,853 bytes   702,412 bytes   00:10:05.583    
+4               0:12:17.666     0:03:24.625     22,570 kbps     38,302 kbps     00:14:35.833    28,945 kbps     00:13:05.208    27,789 kbps     00:13:02.708    117,553 bytes   751,425 bytes   00:15:08.583    
+5               0:15:42.291     0:04:51.999     22,851 kbps     41,286 kbps     00:16:29.416    30,625 kbps     00:19:21.500    28,735 kbps     00:19:20.624    119,014 bytes   652,776 bytes   00:19:38.958    
+6               0:20:34.291     0:06:55.500     20,276 kbps     40,174 kbps     00:26:22.208    29,191 kbps     00:20:44.541    28,149 kbps     00:20:44.541    105,604 bytes   725,153 bytes   00:26:23.208    
+7               0:27:29.791     0:05:27.416     24,249 kbps     40,212 kbps     00:28:34.666    29,099 kbps     00:32:40.041    28,158 kbps     00:32:40.874    126,297 bytes   860,223 bytes   00:27:40.041    
+8               0:32:57.208     0:05:11.458     20,843 kbps     41,694 kbps     00:34:13.250    29,745 kbps     00:34:13.250    27,977 kbps     00:33:13.541    108,559 bytes   807,092 bytes   00:34:14.250    
+9               0:38:08.666     0:04:08.000     19,746 kbps     40,045 kbps     00:40:02.541    28,775 kbps     00:41:01.875    27,893 kbps     00:41:02.000    102,844 bytes   723,659 bytes   00:40:04.500    
+10              0:42:16.666     0:04:06.333     21,310 kbps     39,343 kbps     00:42:56.125    29,009 kbps     00:44:18.833    26,180 kbps     00:44:13.791    110,989 bytes   698,507 bytes   00:45:47.083    
+11              0:46:23.000     0:04:25.250     19,009 kbps     39,002 kbps     00:49:56.125    28,759 kbps     00:47:21.708    26,158 kbps     00:47:21.916    99,003 bytes    625,343 bytes   00:48:38.666    
+12              0:50:48.250     0:03:25.083     20,858 kbps     38,205 kbps     00:52:24.125    29,210 kbps     00:53:54.916    27,799 kbps     00:52:48.583    108,633 bytes   694,383 bytes   00:52:27.041    
+13              0:54:13.333     0:04:08.166     24,272 kbps     39,740 kbps     00:54:15.291    29,325 kbps     00:54:15.291    28,162 kbps     00:56:15.333    126,416 bytes   805,076 bytes   00:56:45.750    
+14              0:58:21.500     0:04:00.583     21,731 kbps     36,828 kbps     00:59:33.250    29,061 kbps     00:58:48.916    27,890 kbps     00:58:49.458    113,182 bytes   719,335 bytes   00:58:43.208    
+15              1:02:22.083     0:04:48.666     20,914 kbps     39,101 kbps     01:02:47.083    28,834 kbps     01:02:43.250    27,717 kbps     01:05:22.291    108,930 bytes   675,293 bytes   01:03:42.166    
+16              1:07:10.750     0:04:12.125     21,467 kbps     38,760 kbps     01:11:17.416    29,201 kbps     01:10:25.291    27,834 kbps     01:08:55.791    111,805 bytes   642,669 bytes   01:11:11.458    
+17              1:11:22.875     0:04:10.541     22,112 kbps     38,943 kbps     01:13:24.458    29,008 kbps     01:13:23.916    27,815 kbps     01:13:24.499    115,165 bytes   573,206 bytes   01:14:37.208    
+18              1:15:33.416     0:03:57.750     23,280 kbps     37,569 kbps     01:17:13.124    28,946 kbps     01:16:47.583    28,346 kbps     01:16:05.999    121,248 bytes   717,515 bytes   01:18:51.625    
+19              1:19:31.166     0:05:49.708     20,872 kbps     39,361 kbps     01:21:28.208    29,120 kbps     01:21:36.416    28,069 kbps     01:23:13.749    108,706 bytes   745,852 bytes   01:21:11.166    
+20              1:25:20.875     0:05:20.083     6,594 kbps      12,782 kbps     01:29:56.124    11,742 kbps     01:29:52.208    11,354 kbps     01:29:51.124    34,352 bytes    248,340 bytes   01:25:48.666    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5440.875                20,807                  14,151,098,677  76,984,299      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5440.875                2,278                   1,549,020,664   9,267,764       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5440.875                2,312                   1,572,222,955   9,393,706       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5440.875                36                      24,232,608      139,220         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5440.875                0                       15,273          90              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: IL VIAGGIO DI NORM
+Disc Label: Norm.of.the.North.2016.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-MHT
+Disc Size: 18,503,447,633 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 18,437,160,960 bytes
+Length: 1:30:40.958
+Total Bitrate: 27.11 Mbps
+Video: MPEG-4 AVC Video / 20807 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2278 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2312 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 35.630 kbps
+Subtitle: Italian / 0.022 kbps
+

@@ -1,0 +1,113 @@
+Disc Label:     Justin.and.the.Knights.of.Valour.2013.1080p.3D.Blu-ray.ITA.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      27,387,662,617 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:36:48 17,839,650,816  27,387,662,617  24.57   15.00   DTS-HD Master 5.1 3864Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Justin.and.the.Knights.of.Valour.2013.1080p.3D.Blu-ray.ITA.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      27,387,662,617 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:36:48.594 (h:m:s.ms)
+Size:                   17,839,650,816 bytes
+Total Bitrate:          24.57 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        14999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         3864 kbps       5.1 / 48 kHz /  3864 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4120 kbps       5.1 / 48 kHz /  4120 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         31.674 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:36:48.594     17,839,650,816  24,570          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:55.054     14,975 kbps     27,612 kbps     00:00:46.546    18,178 kbps     00:00:16.057    16,376 kbps     00:00:10.969    78,013 bytes    586,232 bytes   00:00:47.047    
+2               0:00:55.054     0:14:39.879     15,013 kbps     31,354 kbps     00:00:55.221    17,178 kbps     00:00:55.096    16,215 kbps     00:00:55.055    78,270 bytes    650,228 bytes   00:12:10.730    
+3               0:15:34.934     0:10:56.656     14,998 kbps     26,597 kbps     00:16:52.011    17,515 kbps     00:16:48.007    16,098 kbps     00:16:45.295    78,190 bytes    715,352 bytes   00:26:13.572    
+4               0:26:31.590     0:11:29.688     14,999 kbps     24,859 kbps     00:28:13.358    17,042 kbps     00:28:11.815    16,132 kbps     00:28:35.714    78,196 bytes    728,978 bytes   00:28:13.692    
+5               0:38:01.279     0:08:50.530     14,994 kbps     26,077 kbps     00:45:13.752    17,130 kbps     00:38:36.731    15,892 kbps     00:38:30.725    78,171 bytes    720,141 bytes   00:40:10.408    
+6               0:46:51.809     0:13:07.786     15,007 kbps     24,911 kbps     00:59:58.553    16,816 kbps     00:54:53.206    16,134 kbps     00:55:37.334    78,242 bytes    884,041 bytes   00:52:20.137    
+7               0:59:59.595     0:11:20.680     14,991 kbps     22,795 kbps     01:07:07.648    16,753 kbps     01:07:03.644    15,849 kbps     01:09:22.741    78,158 bytes    706,729 bytes   01:07:30.046    
+8               1:11:20.276     0:14:22.862     15,000 kbps     24,830 kbps     01:15:56.552    16,922 kbps     01:19:39.775    15,956 kbps     01:16:10.566    78,204 bytes    564,039 bytes   01:17:29.645    
+9               1:25:43.138     0:11:05.456     14,989 kbps     28,668 kbps     01:32:55.486    17,733 kbps     01:32:51.482    16,104 kbps     01:32:46.519    78,151 bytes    936,414 bytes   01:31:25.479    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5808.428                15,000                  10,890,725,212  59,270,603      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5808.428                3,864                   2,805,521,780   16,153,406      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5808.428                4,120                   2,991,341,232   17,163,355      
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5808.428                32                      22,997,745      132,859         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Justin.and.the.Knights.of.Valour.2013.1080p.3D.Blu-ray.ITA.AVC.DTS-HD.MA.5.1-DDN
+Disc Size: 27,387,662,617 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 17,839,650,816 bytes
+Length: 1:36:48.594
+Total Bitrate: 24.57 Mbps
+Video: MPEG-4 AVC Video / 14999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  3864 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4120 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 31.674 kbps
+
