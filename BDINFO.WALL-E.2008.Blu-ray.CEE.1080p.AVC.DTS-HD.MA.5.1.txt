@@ -1,0 +1,202 @@
+Disc Title:     WALL-E - Blu-ray™
+Disc Label:     WALL-E.2008.Blu-ray.CEE.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      36,832,362,018 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:38:11 26,899,273,728  36,832,362,018  36.52   23.49   DD AC3 5.1 640Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     WALL-E - Blu-ray™
+Disc Label:     WALL-E.2008.Blu-ray.CEE.1080p.AVC.DTS-HD.MA.5.1
+Disc Size:      36,832,362,018 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:38:11.927 (h:m:s.ms)
+Size:                   26,899,273,728 bytes
+Total Bitrate:          36.52 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23493 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Hungarian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Slovak          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Greek           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Romanian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Bulgarian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS-HD Master Audio             English         4150 kbps       5.1-ES / 48 kHz /  4150 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Slovenian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         9.106 kbps                      
+Presentation Graphics           English         22.576 kbps                     
+Presentation Graphics           Hungarian       9.192 kbps                      
+Presentation Graphics           Slovak          9.256 kbps                      
+Presentation Graphics           Greek           8.383 kbps                      
+Presentation Graphics           Romanian        9.527 kbps                      
+Presentation Graphics           Turkish         8.417 kbps                      
+Presentation Graphics           Czech           7.991 kbps                      
+Presentation Graphics           Hebrew          6.230 kbps                      
+Presentation Graphics           Bulgarian       10.056 kbps                     
+Presentation Graphics           Croatian        9.137 kbps                      
+Presentation Graphics           Slovenian       8.745 kbps                      
+Presentation Graphics           Serbian         9.744 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00263.M2TS      0:00:00.000     1:38:11.927     26,899,273,728  36,524          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:36.299     25,638 kbps     35,594 kbps     00:00:45.295    31,280 kbps     00:00:32.532    30,894 kbps     00:00:32.532    133,637 bytes   784,800 bytes   00:00:46.254    
+2               0:03:36.299     0:02:13.383     26,265 kbps     31,970 kbps     00:04:01.074    29,993 kbps     00:05:29.829    29,790 kbps     00:05:24.866    136,931 bytes   526,384 bytes   00:04:02.033    
+3               0:05:49.682     0:03:29.083     24,094 kbps     34,009 kbps     00:06:07.825    29,825 kbps     00:08:31.344    29,575 kbps     00:08:31.469    125,615 bytes   439,861 bytes   00:09:18.766    
+4               0:09:18.766     0:02:44.664     23,636 kbps     32,355 kbps     00:10:33.341    28,768 kbps     00:11:10.169    27,698 kbps     00:11:21.347    123,225 bytes   512,891 bytes   00:11:13.506    
+5               0:12:03.431     0:05:53.019     23,909 kbps     35,177 kbps     00:12:48.601    30,216 kbps     00:13:01.906    29,828 kbps     00:13:00.571    124,652 bytes   520,246 bytes   00:13:22.259    
+6               0:17:56.450     0:01:36.930     23,906 kbps     32,153 kbps     00:17:59.995    29,785 kbps     00:19:17.030    26,954 kbps     00:18:00.079    124,637 bytes   405,145 bytes   00:18:05.918    
+7               0:19:33.380     0:01:36.763     23,618 kbps     32,994 kbps     00:19:41.972    30,171 kbps     00:19:42.097    29,742 kbps     00:19:36.842    123,134 bytes   630,512 bytes   00:19:40.387    
+8               0:21:10.143     0:02:36.656     24,891 kbps     38,022 kbps     00:21:38.296    29,816 kbps     00:21:43.218    29,660 kbps     00:21:43.260    129,768 bytes   497,393 bytes   00:21:25.659    
+9               0:23:46.800     0:05:31.205     25,008 kbps     33,562 kbps     00:29:02.657    30,678 kbps     00:23:50.220    29,868 kbps     00:24:01.481    130,379 bytes   562,089 bytes   00:29:18.006    
+10              0:29:18.006     0:02:07.085     26,238 kbps     33,592 kbps     00:29:20.717    30,426 kbps     00:30:18.942    29,846 kbps     00:30:39.295    136,795 bytes   567,584 bytes   00:29:19.007    
+11              0:31:25.091     0:02:02.664     23,351 kbps     29,692 kbps     00:32:25.943    27,871 kbps     00:32:24.275    27,118 kbps     00:32:24.275    121,743 bytes   467,115 bytes   00:31:33.099    
+12              0:33:27.755     0:01:52.362     23,530 kbps     37,529 kbps     00:34:42.330    31,088 kbps     00:34:38.326    30,488 kbps     00:34:33.321    122,675 bytes   427,929 bytes   00:34:26.439    
+13              0:35:20.118     0:03:29.417     24,949 kbps     34,622 kbps     00:35:32.588    30,763 kbps     00:35:28.584    29,852 kbps     00:35:36.092    130,075 bytes   437,232 bytes   00:35:22.120    
+14              0:38:49.535     0:04:03.826     25,702 kbps     33,681 kbps     00:40:25.798    30,411 kbps     00:40:21.794    29,704 kbps     00:39:13.476    133,997 bytes   564,683 bytes   00:40:26.382    
+15              0:42:53.362     0:00:38.288     21,142 kbps     25,935 kbps     00:43:02.538    23,540 kbps     00:43:02.538    22,847 kbps     00:43:02.538    110,227 bytes   317,870 bytes   00:43:31.650    
+16              0:43:31.650     0:07:37.290     23,971 kbps     32,186 kbps     00:45:52.541    30,151 kbps     00:45:50.372    29,907 kbps     00:45:58.005    124,973 bytes   473,677 bytes   00:45:54.376    
+17              0:51:08.940     0:00:58.641     23,505 kbps     29,346 kbps     00:51:22.120    27,831 kbps     00:51:21.912    25,549 kbps     00:51:21.036    122,546 bytes   311,762 bytes   00:51:55.070    
+18              0:52:07.582     0:02:39.868     23,443 kbps     32,853 kbps     00:52:59.134    30,380 kbps     00:52:55.130    30,098 kbps     00:52:50.250    122,220 bytes   454,970 bytes   00:53:11.980    
+19              0:54:47.450     0:01:18.328     25,723 kbps     32,534 kbps     00:55:59.814    29,854 kbps     00:54:56.042    29,273 kbps     00:55:29.200    134,110 bytes   385,495 bytes   00:55:13.935    
+20              0:56:05.779     0:01:52.237     24,470 kbps     31,356 kbps     00:57:13.429    30,011 kbps     00:57:10.593    29,640 kbps     00:57:11.219    127,576 bytes   387,654 bytes   00:57:31.281    
+21              0:57:58.016     0:00:43.168     27,402 kbps     31,967 kbps     00:58:10.653    29,820 kbps     00:58:14.866    29,558 kbps     00:58:09.777    142,863 bytes   388,141 bytes   00:58:40.391    
+22              0:58:41.184     0:03:33.713     24,678 kbps     33,475 kbps     00:58:55.323    30,209 kbps     01:02:03.177    29,960 kbps     01:02:03.261    128,657 bytes   520,998 bytes   00:59:32.235    
+23              1:02:14.897     0:01:06.149     24,064 kbps     32,523 kbps     01:02:56.773    30,211 kbps     01:02:28.745    29,603 kbps     01:02:23.990    125,458 bytes   453,268 bytes   01:02:15.898    
+24              1:03:21.047     0:02:28.648     24,166 kbps     30,759 kbps     01:04:25.069    28,726 kbps     01:05:13.618    26,565 kbps     01:04:07.802    125,991 bytes   355,139 bytes   01:03:25.051    
+25              1:05:49.695     0:05:55.188     23,447 kbps     31,751 kbps     01:06:28.317    29,940 kbps     01:08:49.083    29,707 kbps     01:08:46.288    122,240 bytes   405,129 bytes   01:06:28.859    
+26              1:11:44.883     0:04:09.332     23,442 kbps     34,182 kbps     01:15:49.294    29,975 kbps     01:11:58.272    29,411 kbps     01:11:52.474    122,217 bytes   468,763 bytes   01:12:58.165    
+27              1:15:54.216     0:03:28.583     24,838 kbps     31,912 kbps     01:16:52.357    30,158 kbps     01:17:40.697    29,385 kbps     01:18:00.175    129,495 bytes   467,443 bytes   01:17:16.715    
+28              1:19:22.799     0:00:51.885     27,180 kbps     32,779 kbps     01:20:01.505    29,955 kbps     01:19:47.866    29,611 kbps     01:19:46.823    141,705 bytes   493,541 bytes   01:20:02.214    
+29              1:20:14.684     0:03:59.405     25,033 kbps     33,630 kbps     01:24:07.125    29,887 kbps     01:21:18.290    29,387 kbps     01:21:14.828    130,509 bytes   592,152 bytes   01:20:26.780    
+30              1:24:14.090     0:01:31.674     24,089 kbps     33,684 kbps     01:25:05.183    29,035 kbps     01:25:03.932    28,139 kbps     01:24:59.636    125,587 bytes   423,503 bytes   01:24:15.091    
+31              1:25:45.765     0:04:31.729     23,720 kbps     32,668 kbps     01:29:53.471    30,028 kbps     01:29:55.640    29,667 kbps     01:29:36.662    123,664 bytes   509,681 bytes   01:30:08.069    
+32              1:30:17.495     0:07:54.432     13,012 kbps     37,671 kbps     01:31:29.775    31,142 kbps     01:37:19.875    30,475 kbps     01:37:20.000    67,845 bytes    935,762 bytes   01:32:03.601    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00263.M2TS      4113 (0x1011)   0x1B            AVC                                     5891.761                23,494                  17,302,660,414  94,118,839      
+00263.M2TS      4352 (0x1100)   0x81            AC3             ces (Czech)             5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4353 (0x1101)   0x81            AC3             hun (Hungarian)         5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4354 (0x1102)   0x81            AC3             slk (Slovak)            5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4355 (0x1103)   0x81            AC3             ell (Greek)             5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4356 (0x1104)   0x81            AC3             ron (Romanian)          5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4357 (0x1105)   0x81            AC3             tur (Turkish)           5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4358 (0x1106)   0x81            AC3             heb (Hebrew)            5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4359 (0x1107)   0x81            AC3             bul (Bulgarian)         5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4360 (0x1108)   0x81            AC3             hrv (Croatian)          5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4361 (0x1109)   0x86            DTS-HD MA       eng (English)           5891.761                4,150                   3,056,296,080   17,530,205      
+00263.M2TS      4362 (0x110A)   0x81            AC3             slv (Slovenian)         5891.761                640                     471,592,960     2,763,240       
+00263.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5891.761                9                       6,706,266       39,548          
+00263.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5891.761                23                      16,626,672      98,814          
+00263.M2TS      4610 (0x1202)   0x90            PGS             hun (Hungarian)         5891.761                9                       6,769,694       40,039          
+00263.M2TS      4611 (0x1203)   0x90            PGS             slk (Slovak)            5891.761                9                       6,817,199       40,294          
+00263.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5891.761                8                       6,174,348       36,094          
+00263.M2TS      4613 (0x1205)   0x90            PGS             ron (Romanian)          5891.761                10                      7,016,361       41,357          
+00263.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           5891.761                8                       6,198,713       36,333          
+00263.M2TS      4615 (0x1207)   0x90            PGS             ces (Czech)             5891.761                8                       5,885,059       34,930          
+00263.M2TS      4616 (0x1208)   0x90            PGS             heb (Hebrew)            5891.761                6                       4,588,591       27,455          
+00263.M2TS      4617 (0x1209)   0x90            PGS             bul (Bulgarian)         5891.761                10                      7,406,284       43,467          
+00263.M2TS      4618 (0x120A)   0x90            PGS             hrv (Croatian)          5891.761                9                       6,728,983       39,823          
+00263.M2TS      4619 (0x120B)   0x90            PGS             slv (Slovenian)         5891.761                9                       6,440,447       38,251          
+00263.M2TS      4620 (0x120C)   0x90            PGS             srp (Serbian)           5891.761                10                      7,176,486       42,223          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: WALL-E - Blu-ray™
+Disc Label: WALL-E.2008.Blu-ray.CEE.1080p.AVC.DTS-HD.MA.5.1
+Disc Size: 36,832,362,018 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 26,899,273,728 bytes
+Length: 1:38:11.927
+Total Bitrate: 36.52 Mbps
+Video: MPEG-4 AVC Video / 23493 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Slovak / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / DTS-HD Master Audio / 5.1-ES / 48 kHz /  4150 kbps / 24-bit (DTS Core: 5.1-ES / 48 kHz /  1509 kbps / 24-bit)
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 9.106 kbps
+Subtitle: English / 22.576 kbps
+Subtitle: Hungarian / 9.192 kbps
+Subtitle: Slovak / 9.256 kbps
+Subtitle: Greek / 8.383 kbps
+Subtitle: Romanian / 9.527 kbps
+Subtitle: Turkish / 8.417 kbps
+Subtitle: Czech / 7.991 kbps
+Subtitle: Hebrew / 6.230 kbps
+Subtitle: Bulgarian / 10.056 kbps
+Subtitle: Croatian / 9.137 kbps
+Subtitle: Slovenian / 8.745 kbps
+Subtitle: Serbian / 9.744 kbps
+

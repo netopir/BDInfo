@@ -1,0 +1,475 @@
+Disc Title:     Cloudy With A Chance Of Meatballs 2 - 3D Blu-ray™
+Disc Label:     Wolkig.mit.Aussicht.auf.Fleischbaellchen.2.3D.2013.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      33,921,802,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:34:50 22,496,028,672  33,921,802,187  31.63   23.81   DTS-HD Master 5.1 2532Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Cloudy With A Chance Of Meatballs 2 - 3D Blu-ray™
+Disc Label:     Wolkig.mit.Aussicht.auf.Fleischbaellchen.2.3D.2013.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      33,921,802,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:34:50.684 (h:m:s.ms)
+Size:                   22,496,028,672 bytes
+Total Bitrate:          31.63 Mbps
+
+Angle 1 Length:         0:00:17.726 (h:m:s.ms) / 1:34:50.684 (h:m:s.ms)
+Angle 1 Size:           71,307,264 bytes / 22,498,013,184 bytes
+Angle 1 Total Bitrate:  32.18 Mbps / 31.63 Mbps
+
+All Angles Length:      1:35:08.411 (h:m:s.ms)
+All Angles Size:        22,567,335,936 bytes
+All Angles Bitrate:     31.63 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23807 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video (1)    75 (24057) kbps     1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2532 kbps       5.1 / 48 kHz /  2532 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             German          2216 kbps       5.1 / 48 kHz /  2216 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Thai            640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         37.176 kbps                     
+Presentation Graphics           English         37.172 kbps                     
+Presentation Graphics           German          42.754 kbps                     
+Presentation Graphics           Thai            37.356 kbps                     
+Presentation Graphics           Turkish         36.944 kbps                     
+Presentation Graphics           German          73.282 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00344.M2TS      0:00:00.000     0:07:34.745     1,808,142,336   31,809          
+00345.M2TS      0:07:34.745     0:00:17.726     69,322,752      31,286          
+00350.M2TS (1)  0:07:34.745     0:00:17.726     71,307,264      32,182          
+00346.M2TS      0:07:52.471     1:26:58.213     20,618,563,584  31,610          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:12.014     23,991 kbps     42,471 kbps     00:03:07.103    31,201 kbps     00:03:05.935    27,132 kbps     00:03:03.766    125,064 bytes   641,256 bytes   00:03:02.682    
+2               0:07:12.014     0:05:39.505     23,765 kbps     50,740 kbps     00:07:53.973    30,099 kbps     00:08:39.060    28,398 kbps     00:08:39.060    123,899 bytes   719,006 bytes   00:12:44.930    
+3               0:12:51.520     0:05:58.900     23,749 kbps     43,121 kbps     00:14:55.728    30,095 kbps     00:13:21.717    28,121 kbps     00:13:21.800    123,816 bytes   662,767 bytes   00:15:08.616    
+4               0:18:50.420     0:07:07.969     23,772 kbps     49,090 kbps     00:20:31.313    34,595 kbps     00:21:08.308    30,443 kbps     00:21:04.972    123,936 bytes   774,032 bytes   00:21:09.393    
+5               0:25:58.390     0:05:58.691     23,539 kbps     43,683 kbps     00:31:50.992    31,229 kbps     00:27:47.332    27,994 kbps     00:31:45.236    122,722 bytes   689,912 bytes   00:29:28.099    
+6               0:31:57.081     0:04:56.170     25,700 kbps     43,041 kbps     00:34:12.800    31,590 kbps     00:33:42.645    29,477 kbps     00:35:45.643    133,986 bytes   694,042 bytes   00:32:58.309    
+7               0:36:53.252     0:02:35.655     22,545 kbps     31,733 kbps     00:39:10.264    24,924 kbps     00:39:10.014    23,813 kbps     00:39:01.839    117,539 bytes   636,834 bytes   00:39:19.273    
+8               0:39:28.908     0:01:38.932     23,067 kbps     31,962 kbps     00:39:52.681    26,207 kbps     00:39:33.204    24,824 kbps     00:40:51.490    120,258 bytes   721,022 bytes   00:39:45.591    
+9               0:41:07.840     0:04:20.176     24,290 kbps     35,565 kbps     00:42:49.692    31,655 kbps     00:45:01.031    31,052 kbps     00:44:56.235    126,637 bytes   749,159 bytes   00:42:51.360    
+10              0:45:28.016     0:04:20.677     23,384 kbps     30,800 kbps     00:45:48.620    26,220 kbps     00:45:29.309    24,853 kbps     00:48:30.282    121,913 bytes   651,255 bytes   00:49:48.694    
+11              0:49:48.694     0:04:52.709     24,571 kbps     43,379 kbps     00:53:57.400    31,715 kbps     00:53:53.063    29,291 kbps     00:53:35.503    128,101 bytes   771,364 bytes   00:54:11.706    
+12              0:54:41.403     0:05:58.483     23,939 kbps     36,379 kbps     00:59:59.053    29,712 kbps     00:58:26.878    27,928 kbps     00:58:24.459    124,809 bytes   684,314 bytes   00:59:47.083    
+13              1:00:39.886     0:06:08.034     24,082 kbps     41,927 kbps     01:04:24.777    29,199 kbps     01:00:49.437    28,221 kbps     01:00:46.184    125,554 bytes   712,712 bytes   01:01:54.252    
+14              1:06:47.920     0:06:07.033     23,712 kbps     45,038 kbps     01:12:16.457    30,032 kbps     01:09:17.027    28,819 kbps     01:12:16.248    123,622 bytes   671,584 bytes   01:10:16.879    
+15              1:12:54.953     0:08:30.635     24,054 kbps     46,058 kbps     01:19:13.457    30,484 kbps     01:19:13.707    27,917 kbps     01:19:24.509    125,405 bytes   750,004 bytes   01:16:14.486    
+16              1:21:25.589     0:13:25.095     22,934 kbps     55,611 kbps     01:27:23.071    33,331 kbps     01:26:42.113    31,406 kbps     01:26:37.150    119,572 bytes   782,543 bytes   01:28:17.041    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00344.M2TS      4113 (0x1011)   0x1B            AVC                                     454.663                 24,001                  1,364,065,185   7,419,859       
+00344.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           454.663                 2,511                   142,685,388     848,760         
+00344.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            454.663                 2,155                   122,485,728     738,134         
+00344.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              454.663                 640                     36,380,160      213,165         
+00344.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           454.663                 192                     10,914,048      71,055          
+00344.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           454.663                 51                      2,905,939       16,834          
+00344.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           454.663                 51                      2,905,338       16,830          
+00344.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            454.663                 59                      3,360,414       19,338          
+00344.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              454.663                 50                      2,837,310       16,483          
+00344.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           454.663                 50                      2,842,659       16,516          
+00344.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            454.663                 78                      4,451,186       25,175          
+00345.M2TS      4113 (0x1011)   0x1B            AVC                                     17.643                  23,308                  51,400,734      279,595         
+00345.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           17.643                  2,750                   6,063,984       35,752          
+00345.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            17.643                  2,498                   5,509,860       32,558          
+00345.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              17.643                  643                     1,418,240       8,310           
+00345.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           17.643                  193                     425,472         2,770           
+00345.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00345.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00345.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            17.643                  5                       10,857          66              
+00345.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              17.643                  14                      30,802          182             
+00345.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           17.643                  4                       8,251           52              
+00345.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            17.643                  81                      178,829         1,021           
+00350.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     17.643                  24,171                  53,305,500      289,956         
+00350.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       eng (English)           17.643                  2,750                   6,063,984       35,752          
+00350.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       deu (German)            17.643                  2,498                   5,509,860       32,558          
+00350.M2TS (1)  4354 (0x1102)   0x81            AC3             tha (Thai)              17.643                  643                     1,418,240       8,310           
+00350.M2TS (1)  4355 (0x1103)   0x81            AC3             eng (English)           17.643                  193                     425,472         2,770           
+00350.M2TS (1)  4608 (0x1200)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00350.M2TS (1)  4609 (0x1201)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00350.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            17.643                  5                       10,857          66              
+00350.M2TS (1)  4611 (0x1203)   0x90            PGS             tha (Thai)              17.643                  14                      30,802          182             
+00350.M2TS (1)  4612 (0x1204)   0x90            PGS             tur (Turkish)           17.643                  4                       8,251           52              
+00350.M2TS (1)  4613 (0x1205)   0x90            PGS             deu (German)            17.643                  81                      178,829         1,021           
+00346.M2TS      4113 (0x1011)   0x1B            AVC                                     5218.130                23,793                  15,519,245,337  84,417,244      
+00346.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5218.130                2,533                   1,652,359,560   9,862,014       
+00346.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5218.130                2,221                   1,448,668,096   8,700,542       
+00346.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              5218.130                640                     417,459,200     2,446,050       
+00346.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           5218.130                192                     125,237,760     815,350         
+00346.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5218.130                36                      23,528,064      136,560         
+00346.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5218.130                36                      23,526,002      136,550         
+00346.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5218.130                41                      27,040,932      155,966         
+00346.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              5218.130                36                      23,704,689      137,772         
+00346.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5218.130                36                      23,428,895      136,310         
+00346.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            5218.130                73                      47,498,434      269,219         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Cloudy With A Chance Of Meatballs 2 - 3D Blu-ray™
+Disc Label: Wolkig.mit.Aussicht.auf.Fleischbaellchen.2.3D.2013.MULTi.COMPLETE.BLURAY-iND
+Disc Size: 33,921,802,187 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 22,496,028,672 bytes
+Length: 1:34:50.684
+Total Bitrate: 31.63 Mbps
+Video: MPEG-4 AVC Video / 23807 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video (1) / 75 (24057) kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2532 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2216 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+* Subtitle: English / 37.176 kbps
+Subtitle: English / 37.172 kbps
+Subtitle: German / 42.754 kbps
+Subtitle: Thai / 37.356 kbps
+Subtitle: Turkish / 36.944 kbps
+Subtitle: German / 73.282 kbps
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:34:50 22,496,028,672  33,921,802,187  31.63   23.81   DTS-HD Master 5.1 2532Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Cloudy With A Chance Of Meatballs 2 - 3D Blu-ray™
+Disc Label:     Wolkig.mit.Aussicht.auf.Fleischbaellchen.2.3D.2013.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      33,921,802,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:34:50.684 (h:m:s.ms)
+Size:                   22,496,028,672 bytes
+Total Bitrate:          31.63 Mbps
+
+Angle 1 Length:         0:00:17.726 (h:m:s.ms) / 1:34:50.684 (h:m:s.ms)
+Angle 1 Size:           71,307,264 bytes / 22,498,013,184 bytes
+Angle 1 Total Bitrate:  32.18 Mbps / 31.63 Mbps
+
+All Angles Length:      1:35:08.411 (h:m:s.ms)
+All Angles Size:        22,567,335,936 bytes
+All Angles Bitrate:     31.63 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23807 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video (1)    75 (24057) kbps     1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2532 kbps       5.1 / 48 kHz /  2532 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             German          2216 kbps       5.1 / 48 kHz /  2216 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Thai            640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         37.176 kbps                     
+* Presentation Graphics         English         37.172 kbps                     
+Presentation Graphics           German          42.754 kbps                     
+Presentation Graphics           Thai            37.356 kbps                     
+Presentation Graphics           Turkish         36.944 kbps                     
+Presentation Graphics           German          73.282 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00344.M2TS      0:00:00.000     0:07:34.745     1,808,142,336   31,809          
+00345.M2TS      0:07:34.745     0:00:17.726     69,322,752      31,286          
+00350.M2TS (1)  0:07:34.745     0:00:17.726     71,307,264      32,182          
+00346.M2TS      0:07:52.471     1:26:58.213     20,618,563,584  31,610          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:12.014     23,991 kbps     42,471 kbps     00:03:07.103    31,201 kbps     00:03:05.935    27,132 kbps     00:03:03.766    125,064 bytes   641,256 bytes   00:03:02.682    
+2               0:07:12.014     0:05:39.505     23,765 kbps     50,740 kbps     00:07:53.973    30,099 kbps     00:08:39.060    28,398 kbps     00:08:39.060    123,899 bytes   719,006 bytes   00:12:44.930    
+3               0:12:51.520     0:05:58.900     23,749 kbps     43,121 kbps     00:14:55.728    30,095 kbps     00:13:21.717    28,121 kbps     00:13:21.800    123,816 bytes   662,767 bytes   00:15:08.616    
+4               0:18:50.420     0:07:07.969     23,772 kbps     49,090 kbps     00:20:31.313    34,595 kbps     00:21:08.308    30,443 kbps     00:21:04.972    123,936 bytes   774,032 bytes   00:21:09.393    
+5               0:25:58.390     0:05:58.691     23,539 kbps     43,683 kbps     00:31:50.992    31,229 kbps     00:27:47.332    27,994 kbps     00:31:45.236    122,722 bytes   689,912 bytes   00:29:28.099    
+6               0:31:57.081     0:04:56.170     25,700 kbps     43,041 kbps     00:34:12.800    31,590 kbps     00:33:42.645    29,477 kbps     00:35:45.643    133,986 bytes   694,042 bytes   00:32:58.309    
+7               0:36:53.252     0:02:35.655     22,545 kbps     31,733 kbps     00:39:10.264    24,924 kbps     00:39:10.014    23,813 kbps     00:39:01.839    117,539 bytes   636,834 bytes   00:39:19.273    
+8               0:39:28.908     0:01:38.932     23,067 kbps     31,962 kbps     00:39:52.681    26,207 kbps     00:39:33.204    24,824 kbps     00:40:51.490    120,258 bytes   721,022 bytes   00:39:45.591    
+9               0:41:07.840     0:04:20.176     24,290 kbps     35,565 kbps     00:42:49.692    31,655 kbps     00:45:01.031    31,052 kbps     00:44:56.235    126,637 bytes   749,159 bytes   00:42:51.360    
+10              0:45:28.016     0:04:20.677     23,384 kbps     30,800 kbps     00:45:48.620    26,220 kbps     00:45:29.309    24,853 kbps     00:48:30.282    121,913 bytes   651,255 bytes   00:49:48.694    
+11              0:49:48.694     0:04:52.709     24,571 kbps     43,379 kbps     00:53:57.400    31,715 kbps     00:53:53.063    29,291 kbps     00:53:35.503    128,101 bytes   771,364 bytes   00:54:11.706    
+12              0:54:41.403     0:05:58.483     23,939 kbps     36,379 kbps     00:59:59.053    29,712 kbps     00:58:26.878    27,928 kbps     00:58:24.459    124,809 bytes   684,314 bytes   00:59:47.083    
+13              1:00:39.886     0:06:08.034     24,082 kbps     41,927 kbps     01:04:24.777    29,199 kbps     01:00:49.437    28,221 kbps     01:00:46.184    125,554 bytes   712,712 bytes   01:01:54.252    
+14              1:06:47.920     0:06:07.033     23,712 kbps     45,038 kbps     01:12:16.457    30,032 kbps     01:09:17.027    28,819 kbps     01:12:16.248    123,622 bytes   671,584 bytes   01:10:16.879    
+15              1:12:54.953     0:08:30.635     24,054 kbps     46,058 kbps     01:19:13.457    30,484 kbps     01:19:13.707    27,917 kbps     01:19:24.509    125,405 bytes   750,004 bytes   01:16:14.486    
+16              1:21:25.589     0:13:25.095     22,934 kbps     55,611 kbps     01:27:23.071    33,331 kbps     01:26:42.113    31,406 kbps     01:26:37.150    119,572 bytes   782,543 bytes   01:28:17.041    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00344.M2TS      4113 (0x1011)   0x1B            AVC                                     454.663                 24,001                  1,364,065,185   7,419,859       
+00344.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           454.663                 2,511                   142,685,388     848,760         
+00344.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            454.663                 2,155                   122,485,728     738,134         
+00344.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              454.663                 640                     36,380,160      213,165         
+00344.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           454.663                 192                     10,914,048      71,055          
+00344.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           454.663                 51                      2,905,939       16,834          
+00344.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           454.663                 51                      2,905,338       16,830          
+00344.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            454.663                 59                      3,360,414       19,338          
+00344.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              454.663                 50                      2,837,310       16,483          
+00344.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           454.663                 50                      2,842,659       16,516          
+00344.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            454.663                 78                      4,451,186       25,175          
+00345.M2TS      4113 (0x1011)   0x1B            AVC                                     17.643                  23,308                  51,400,734      279,595         
+00345.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           17.643                  2,750                   6,063,984       35,752          
+00345.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            17.643                  2,498                   5,509,860       32,558          
+00345.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              17.643                  643                     1,418,240       8,310           
+00345.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           17.643                  193                     425,472         2,770           
+00345.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00345.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00345.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            17.643                  5                       10,857          66              
+00345.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              17.643                  14                      30,802          182             
+00345.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           17.643                  4                       8,251           52              
+00345.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            17.643                  81                      178,829         1,021           
+00350.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     17.643                  24,171                  53,305,500      289,956         
+00350.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       eng (English)           17.643                  2,750                   6,063,984       35,752          
+00350.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       deu (German)            17.643                  2,498                   5,509,860       32,558          
+00350.M2TS (1)  4354 (0x1102)   0x81            AC3             tha (Thai)              17.643                  643                     1,418,240       8,310           
+00350.M2TS (1)  4355 (0x1103)   0x81            AC3             eng (English)           17.643                  193                     425,472         2,770           
+00350.M2TS (1)  4608 (0x1200)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00350.M2TS (1)  4609 (0x1201)   0x90            PGS             eng (English)           17.643                  5                       10,764          66              
+00350.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            17.643                  5                       10,857          66              
+00350.M2TS (1)  4611 (0x1203)   0x90            PGS             tha (Thai)              17.643                  14                      30,802          182             
+00350.M2TS (1)  4612 (0x1204)   0x90            PGS             tur (Turkish)           17.643                  4                       8,251           52              
+00350.M2TS (1)  4613 (0x1205)   0x90            PGS             deu (German)            17.643                  81                      178,829         1,021           
+00346.M2TS      4113 (0x1011)   0x1B            AVC                                     5218.130                23,793                  15,519,245,337  84,417,244      
+00346.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5218.130                2,533                   1,652,359,560   9,862,014       
+00346.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5218.130                2,221                   1,448,668,096   8,700,542       
+00346.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              5218.130                640                     417,459,200     2,446,050       
+00346.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           5218.130                192                     125,237,760     815,350         
+00346.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5218.130                36                      23,528,064      136,560         
+00346.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5218.130                36                      23,526,002      136,550         
+00346.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5218.130                41                      27,040,932      155,966         
+00346.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              5218.130                36                      23,704,689      137,772         
+00346.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5218.130                36                      23,428,895      136,310         
+00346.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            5218.130                73                      47,498,434      269,219         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Cloudy With A Chance Of Meatballs 2 - 3D Blu-ray™
+Disc Label: Wolkig.mit.Aussicht.auf.Fleischbaellchen.2.3D.2013.MULTi.COMPLETE.BLURAY-iND
+Disc Size: 33,921,802,187 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 22,496,028,672 bytes
+Length: 1:34:50.684
+Total Bitrate: 31.63 Mbps
+Video: MPEG-4 AVC Video / 23807 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video (1) / 75 (24057) kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2532 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2216 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+Subtitle: English / 37.176 kbps
+* Subtitle: English / 37.172 kbps
+Subtitle: German / 42.754 kbps
+Subtitle: Thai / 37.356 kbps
+Subtitle: Turkish / 36.944 kbps
+Subtitle: German / 73.282 kbps
+
+
+********************
+PLAYLIST: 00338.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00338.MPLS                                                      AVC     1:26:58 20,618,563,584  33,921,802,187  31.61   23.79   DTS-HD Master 5.1 2533Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Cloudy With A Chance Of Meatballs 2 - 3D Blu-ray™
+Disc Label:     Wolkig.mit.Aussicht.auf.Fleischbaellchen.2.3D.2013.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      33,921,802,187 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00338.MPLS
+Length:                 1:26:58.213 (h:m:s.ms)
+Size:                   20,618,563,584 bytes
+Total Bitrate:          31.61 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23792 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2533 kbps       5.1 / 48 kHz /  2533 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             German          2221 kbps       5.1 / 48 kHz /  2221 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Thai            640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         36.071 kbps                     
+Presentation Graphics           English         36.068 kbps                     
+Presentation Graphics           German          41.456 kbps                     
+Presentation Graphics           Thai            36.341 kbps                     
+Presentation Graphics           Turkish         35.919 kbps                     
+Presentation Graphics           German          72.819 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00346.M2TS      0:00:00.000     1:26:58.213     20,618,563,584  31,610          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:26:58.213     23,792 kbps     55,611 kbps     01:19:30.599    34,595 kbps     00:13:15.836    31,406 kbps     01:18:44.678    124,043 bytes   782,543 bytes   01:20:24.569    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00346.M2TS      4113 (0x1011)   0x1B            AVC                                     5218.130                23,793                  15,519,245,337  84,417,244      
+00346.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5218.130                2,533                   1,652,359,560   9,862,014       
+00346.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5218.130                2,221                   1,448,668,096   8,700,542       
+00346.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              5218.130                640                     417,459,200     2,446,050       
+00346.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           5218.130                192                     125,237,760     815,350         
+00346.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5218.130                36                      23,528,064      136,560         
+00346.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5218.130                36                      23,526,002      136,550         
+00346.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5218.130                41                      27,040,932      155,966         
+00346.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              5218.130                36                      23,704,689      137,772         
+00346.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5218.130                36                      23,428,895      136,310         
+00346.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            5218.130                73                      47,498,434      269,219         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Cloudy With A Chance Of Meatballs 2 - 3D Blu-ray™
+Disc Label: Wolkig.mit.Aussicht.auf.Fleischbaellchen.2.3D.2013.MULTi.COMPLETE.BLURAY-iND
+Disc Size: 33,921,802,187 bytes
+Protection: AACS
+Playlist: 00338.MPLS
+Size: 20,618,563,584 bytes
+Length: 1:26:58.213
+Total Bitrate: 31.61 Mbps
+Video: MPEG-4 AVC Video / 23792 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2533 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2221 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+Subtitle: English / 36.071 kbps
+Subtitle: English / 36.068 kbps
+Subtitle: German / 41.456 kbps
+Subtitle: Thai / 36.341 kbps
+Subtitle: Turkish / 35.919 kbps
+Subtitle: German / 72.819 kbps
+
