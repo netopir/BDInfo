@@ -1,0 +1,118 @@
+Disc Label:     Storks.3D.2016.MULTI.COMPLETE.BLURAY-ARMO
+Disc Size:      30,982,981,674 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00098.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00098.MPLS                                                      AVC     1:26:57 21,407,668,224  30,982,981,674  32.82   25.01   DTS-HD Master 7.1 2896Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Storks.3D.2016.MULTI.COMPLETE.BLURAY-ARMO
+Disc Size:      30,982,981,674 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00098.MPLS
+Length:                 1:26:57.879 (h:m:s.ms)
+Size:                   21,407,668,224 bytes
+Total Bitrate:          32.82 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25007 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2896 kbps       7.1 / 48 kHz /  2896 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2909 kbps       7.1 / 48 kHz /  2909 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         50.067 kbps                     
+Presentation Graphics           German          55.187 kbps                     
+Presentation Graphics           German          0.385 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00052.M2TS      0:00:00.000     1:26:57.879     21,407,668,224  32,822          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:26.500     24,990 kbps     32,611 kbps     00:07:23.776    30,515 kbps     00:01:57.242    30,073 kbps     00:02:08.586    130,276 bytes   407,625 bytes   00:06:54.497    
+2               0:10:26.500     0:10:09.233     24,998 kbps     38,892 kbps     00:16:46.130    32,350 kbps     00:16:42.126    30,783 kbps     00:15:05.321    130,328 bytes   574,580 bytes   00:15:54.662    
+3               0:20:35.734     0:09:48.671     24,998 kbps     32,376 kbps     00:28:56.943    30,765 kbps     00:29:14.544    29,546 kbps     00:29:11.124    130,329 bytes   376,549 bytes   00:20:53.460    
+4               0:30:24.405     0:09:05.628     24,923 kbps     33,724 kbps     00:36:12.545    31,004 kbps     00:38:09.662    30,707 kbps     00:37:18.611    129,939 bytes   444,848 bytes   00:38:14.667    
+5               0:39:30.034     0:10:54.445     25,100 kbps     33,527 kbps     00:47:11.495    30,939 kbps     00:46:39.421    30,831 kbps     00:46:40.839    130,860 bytes   366,612 bytes   00:49:16.411    
+6               0:50:24.479     0:08:59.956     24,989 kbps     31,879 kbps     00:55:41.046    30,936 kbps     00:53:33.335    30,376 kbps     00:58:27.879    130,280 bytes   326,407 bytes   00:58:28.505    
+7               0:59:24.435     0:07:41.586     24,881 kbps     32,435 kbps     01:04:08.636    30,375 kbps     01:04:07.635    29,416 kbps     01:03:47.406    129,716 bytes   449,793 bytes   01:04:07.677    
+8               1:07:06.022     0:07:22.275     24,812 kbps     33,245 kbps     01:08:39.448    30,950 kbps     01:08:18.761    30,782 kbps     01:08:19.345    129,357 bytes   319,887 bytes   01:08:05.414    
+9               1:14:28.297     0:06:25.301     22,958 kbps     32,193 kbps     01:14:37.514    29,342 kbps     01:14:34.136    29,009 kbps     01:16:08.063    119,692 bytes   476,719 bytes   01:15:24.353    
+10              1:20:53.598     0:06:04.280     27,613 kbps     31,757 kbps     01:26:47.785    31,054 kbps     01:26:43.781    30,980 kbps     01:26:38.943    143,977 bytes   640,594 bytes   01:26:09.414    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00052.M2TS      4113 (0x1011)   0x1B            AVC                                     5217.796                25,007                  16,310,301,919  88,718,296      
+00052.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5217.796                2,896                   1,888,656,284   11,080,216      
+00052.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5217.796                2,909                   1,897,271,480   11,126,063      
+00052.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5217.796                50                      32,655,610      189,582         
+00052.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5217.796                55                      35,994,998      207,920         
+00052.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5217.796                0                       251,370         1,465           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Storks.3D.2016.MULTI.COMPLETE.BLURAY-ARMO
+Disc Size: 30,982,981,674 bytes
+Protection: AACS
+Playlist: 00098.MPLS
+Size: 21,407,668,224 bytes
+Length: 1:26:57.879
+Total Bitrate: 32.82 Mbps
+Video: MPEG-4 AVC Video / 25007 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  2896 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 7.1 / 48 kHz /  2909 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: English / 50.067 kbps
+Subtitle: German / 55.187 kbps
+Subtitle: German / 0.385 kbps
+

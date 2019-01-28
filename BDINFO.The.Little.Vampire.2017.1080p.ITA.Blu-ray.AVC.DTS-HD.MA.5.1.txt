@@ -1,0 +1,222 @@
+Disc Title:     VAMPIRETTO
+Disc Label:     The.Little.Vampire.2017.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      18,540,176,034 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:22:50 18,443,360,256  18,540,176,034  29.68   22.72   DTS-HD Master 5.1 2502Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     VAMPIRETTO
+Disc Label:     The.Little.Vampire.2017.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      18,540,176,034 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:22:50.666 (h:m:s.ms)
+Size:                   18,443,360,256 bytes
+Total Bitrate:          29.68 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22724 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2502 kbps       5.1 / 48 kHz /  2502 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2639 kbps       5.1 / 48 kHz /  2639 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         37.796 kbps                     
+Presentation Graphics           Italian         0.004 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:22:50.666     18,443,360,256  29,684          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:22:50.666     22,724 kbps     41,193 kbps     01:01:02.791    29,381 kbps     00:48:33.416    28,198 kbps     00:31:17.749    118,354 bytes   826,258 bytes   00:28:43.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4970.583                22,724                  14,119,133,732  76,804,026      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           4970.583                2,502                   1,554,453,539   9,215,382       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4970.583                2,639                   1,639,759,668   9,683,393       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           4970.583                38                      23,483,889      135,434         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           4970.583                0                       2,298           20              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: VAMPIRETTO
+Disc Label: The.Little.Vampire.2017.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 18,540,176,034 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 18,443,360,256 bytes
+Length: 1:22:50.666
+Total Bitrate: 29.68 Mbps
+Video: MPEG-4 AVC Video / 22724 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2502 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2639 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 37.796 kbps
+Subtitle: Italian / 0.004 kbps
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:22:50 18,443,360,256  18,540,176,034  29.68   22.72   DTS-HD Master 5.1 2502Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     VAMPIRETTO
+Disc Label:     The.Little.Vampire.2017.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      18,540,176,034 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:22:50.666 (h:m:s.ms)
+Size:                   18,443,360,256 bytes
+Total Bitrate:          29.68 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22724 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2502 kbps       5.1 / 48 kHz /  2502 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2639 kbps       5.1 / 48 kHz /  2639 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         37.796 kbps                     
+Presentation Graphics           Italian         0.004 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:22:50.666     18,443,360,256  29,684          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:06.250     21,927 kbps     36,108 kbps     00:03:11.166    29,041 kbps     00:00:40.000    27,825 kbps     00:00:40.166    114,182 bytes   515,152 bytes   00:02:28.166    
+2               0:04:06.250     0:02:38.791     24,464 kbps     38,041 kbps     00:04:47.374    29,227 kbps     00:04:59.625    27,831 kbps     00:05:22.791    127,415 bytes   540,768 bytes   00:06:35.250    
+3               0:06:45.041     0:03:42.916     21,915 kbps     37,160 kbps     00:06:45.749    29,079 kbps     00:07:46.125    27,826 kbps     00:08:53.375    114,141 bytes   582,528 bytes   00:06:46.750    
+4               0:10:27.958     0:04:29.416     23,373 kbps     35,479 kbps     00:11:14.333    28,868 kbps     00:10:52.750    27,914 kbps     00:10:54.666    121,733 bytes   544,198 bytes   00:11:17.250    
+5               0:14:57.375     0:03:42.125     25,023 kbps     37,150 kbps     00:15:01.291    28,905 kbps     00:15:49.791    27,876 kbps     00:17:00.041    130,328 bytes   508,166 bytes   00:15:26.708    
+6               0:18:39.500     0:03:56.333     22,974 kbps     38,109 kbps     00:21:00.916    29,169 kbps     00:20:30.833    28,007 kbps     00:20:30.041    119,657 bytes   542,747 bytes   00:21:50.375    
+7               0:22:35.833     0:04:19.458     21,056 kbps     35,848 kbps     00:25:10.249    28,524 kbps     00:25:09.125    27,927 kbps     00:25:03.541    109,665 bytes   562,859 bytes   00:22:51.333    
+8               0:26:55.291     0:03:53.166     22,340 kbps     38,046 kbps     00:28:41.999    28,995 kbps     00:30:42.375    27,582 kbps     00:28:42.333    116,354 bytes   826,258 bytes   00:28:43.000    
+9               0:30:48.458     0:04:19.666     25,618 kbps     39,796 kbps     00:31:17.749    29,351 kbps     00:31:49.750    28,198 kbps     00:31:17.749    133,428 bytes   816,396 bytes   00:33:13.958    
+10              0:35:08.125     0:03:46.125     22,253 kbps     36,257 kbps     00:35:35.375    28,689 kbps     00:35:35.250    27,562 kbps     00:35:34.958    115,902 bytes   723,908 bytes   00:35:39.250    
+11              0:38:54.250     0:03:49.416     22,631 kbps     34,222 kbps     00:41:27.791    29,269 kbps     00:41:37.875    27,991 kbps     00:39:03.333    117,869 bytes   523,234 bytes   00:40:10.916    
+12              0:42:43.666     0:03:47.500     23,076 kbps     36,056 kbps     00:43:07.166    28,667 kbps     00:44:20.375    27,761 kbps     00:44:51.291    120,190 bytes   514,648 bytes   00:45:36.541    
+13              0:46:31.166     0:04:20.958     24,479 kbps     36,464 kbps     00:47:54.875    29,381 kbps     00:48:33.416    28,011 kbps     00:48:17.416    127,494 bytes   716,162 bytes   00:48:38.250    
+14              0:50:52.125     0:03:51.541     23,102 kbps     37,107 kbps     00:54:05.125    29,302 kbps     00:53:14.083    28,023 kbps     00:52:40.208    120,323 bytes   579,519 bytes   00:52:50.166    
+15              0:54:43.666     0:04:38.250     22,570 kbps     34,652 kbps     00:55:35.375    28,952 kbps     00:55:59.666    27,719 kbps     00:58:51.625    117,554 bytes   609,933 bytes   00:55:29.708    
+16              0:59:21.916     0:04:00.291     23,944 kbps     41,193 kbps     01:01:02.791    29,091 kbps     01:01:43.250    27,952 kbps     01:01:02.666    124,710 bytes   786,954 bytes   01:01:03.791    
+17              1:03:22.208     0:04:15.083     23,769 kbps     37,813 kbps     01:07:01.583    28,864 kbps     01:05:07.625    27,954 kbps     01:03:59.666    123,795 bytes   595,769 bytes   01:03:29.708    
+18              1:07:37.291     0:04:16.583     23,209 kbps     36,384 kbps     01:11:10.624    28,990 kbps     01:08:08.541    28,071 kbps     01:07:45.541    120,879 bytes   531,480 bytes   01:07:39.125    
+19              1:11:53.875     0:06:45.583     22,434 kbps     37,841 kbps     01:16:19.583    29,261 kbps     01:15:30.291    27,797 kbps     01:13:23.791    116,846 bytes   644,988 bytes   01:15:39.125    
+20              1:18:39.458     0:04:11.208     15,179 kbps     31,285 kbps     01:20:27.249    25,389 kbps     01:20:25.916    22,691 kbps     01:20:20.874    79,072 bytes    336,945 bytes   01:20:30.166    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4970.583                22,724                  14,119,133,732  76,804,026      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           4970.583                2,502                   1,554,453,539   9,215,382       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4970.583                2,639                   1,639,759,668   9,683,393       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           4970.583                38                      23,483,889      135,434         
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           4970.583                0                       2,298           20              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: VAMPIRETTO
+Disc Label: The.Little.Vampire.2017.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 18,540,176,034 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 18,443,360,256 bytes
+Length: 1:22:50.666
+Total Bitrate: 29.68 Mbps
+Video: MPEG-4 AVC Video / 22724 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2502 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2639 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 37.796 kbps
+Subtitle: Italian / 0.004 kbps
+

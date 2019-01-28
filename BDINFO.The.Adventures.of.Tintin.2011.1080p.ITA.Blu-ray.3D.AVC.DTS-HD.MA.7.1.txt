@@ -1,0 +1,129 @@
+Disc Title:     Adventures of Tintin, The (3D) - Blu-ray™
+Disc Label:     The.Adventures.of.Tintin.2011.1080p.ITA.Blu-ray.3D.AVC.DTS-HD.MA.7.1
+Disc Size:      38,514,783,960 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:46:51 26,105,985,024  38,514,783,960  32.57   24.95   DTS-HD Master 7.1 2710Kbps (48kHz/16-bit) DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Adventures of Tintin, The (3D) - Blu-ray™
+Disc Label:     The.Adventures.of.Tintin.2011.1080p.ITA.Blu-ray.3D.AVC.DTS-HD.MA.7.1
+Disc Size:      38,514,783,960 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:46:51.780 (h:m:s.ms)
+Size:                   26,105,985,024 bytes
+Total Bitrate:          32.57 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24947 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2710 kbps       7.1 / 48 kHz /  2710 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -28dB
+DTS-HD Master Audio             Italian         2283 kbps       5.1 / 48 kHz /  2283 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         28.256 kbps                     
+Presentation Graphics           Italian         24.672 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:46:51.780     26,105,985,024  32,573          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:39.297     24,937 kbps     50,156 kbps     00:00:48.965    32,543 kbps     00:00:44.919    31,013 kbps     00:01:36.054    129,995 bytes   762,115 bytes   00:00:49.090    
+2               0:05:39.297     0:06:33.017     24,646 kbps     38,039 kbps     00:11:57.633    29,880 kbps     00:06:34.352    29,384 kbps     00:06:34.310    128,490 bytes   699,006 bytes   00:09:43.749    
+3               0:12:12.314     0:04:59.048     25,133 kbps     36,953 kbps     00:13:24.178    32,094 kbps     00:13:24.136    30,519 kbps     00:13:20.007    131,032 bytes   781,084 bytes   00:13:13.626    
+4               0:17:11.363     0:08:25.505     24,812 kbps     39,859 kbps     00:20:12.961    32,177 kbps     00:24:43.023    30,698 kbps     00:23:16.686    129,356 bytes   604,854 bytes   00:25:23.939    
+5               0:25:36.868     0:07:00.711     25,483 kbps     48,627 kbps     00:29:22.969    31,297 kbps     00:29:28.099    30,229 kbps     00:29:22.635    132,855 bytes   584,582 bytes   00:28:24.411    
+6               0:32:37.580     0:05:17.734     23,989 kbps     36,867 kbps     00:37:44.011    31,805 kbps     00:36:47.205    29,704 kbps     00:36:47.205    125,070 bytes   545,745 bytes   00:36:36.527    
+7               0:37:55.314     0:04:34.524     25,335 kbps     43,783 kbps     00:40:36.434    31,657 kbps     00:40:23.587    30,737 kbps     00:41:26.817    132,084 bytes   537,007 bytes   00:39:30.534    
+8               0:42:29.838     0:08:22.668     24,896 kbps     37,087 kbps     00:44:21.325    31,926 kbps     00:47:38.605    30,528 kbps     00:48:35.495    129,798 bytes   601,892 bytes   00:44:21.492    
+9               0:50:52.507     0:05:34.709     24,903 kbps     46,030 kbps     00:53:45.180    30,204 kbps     00:54:20.090    28,275 kbps     00:54:18.797    129,835 bytes   479,280 bytes   00:51:39.054    
+10              0:56:27.217     0:05:52.393     25,073 kbps     42,700 kbps     01:01:00.698    32,963 kbps     00:59:14.175    31,084 kbps     00:59:10.380    130,719 bytes   488,317 bytes   00:58:44.229    
+11              1:02:19.610     0:09:39.370     25,049 kbps     43,018 kbps     01:08:46.372    32,505 kbps     01:08:42.701    30,591 kbps     01:05:01.355    130,592 bytes   683,768 bytes   01:03:08.534    
+12              1:11:58.981     0:08:04.984     24,943 kbps     36,059 kbps     01:19:18.879    30,049 kbps     01:19:26.136    28,780 kbps     01:19:18.920    130,040 bytes   690,636 bytes   01:17:43.075    
+13              1:20:03.965     0:07:27.029     25,326 kbps     40,679 kbps     01:24:02.912    30,659 kbps     01:23:40.849    29,550 kbps     01:22:27.734    132,039 bytes   701,056 bytes   01:21:27.549    
+14              1:27:30.995     0:06:41.818     24,923 kbps     37,636 kbps     01:31:12.550    31,272 kbps     01:31:38.451    28,832 kbps     01:31:38.534    129,939 bytes   584,073 bytes   01:28:08.116    
+15              1:34:12.813     0:06:17.668     24,648 kbps     42,988 kbps     01:35:13.290    31,783 kbps     01:35:09.662    30,224 kbps     01:35:04.532    128,502 bytes   688,273 bytes   01:35:22.591    
+16              1:40:30.482     0:06:21.297     24,939 kbps     44,794 kbps     01:46:41.728    28,662 kbps     01:46:41.645    27,156 kbps     01:43:25.490    130,032 bytes   690,929 bytes   01:46:45.190    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     6411.614                24,947                  19,994,051,174  108,753,884     
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6411.614                2,710                   2,172,232,432   12,809,290      
+00001.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           6411.614                640                     512,944,640     3,005,535       
+00001.M2TS      4354 (0x1102)   0x86            DTS-HD MA       ita (Italian)           6411.614                2,283                   1,829,413,932   10,937,893      
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6411.614                28                      22,646,097      131,556         
+00001.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           6411.614                25                      19,773,641      115,721         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Adventures of Tintin, The (3D) - Blu-ray™
+Disc Label: The.Adventures.of.Tintin.2011.1080p.ITA.Blu-ray.3D.AVC.DTS-HD.MA.7.1
+Disc Size: 38,514,783,960 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 26,105,985,024 bytes
+Length: 1:46:51.780
+Total Bitrate: 32.57 Mbps
+Video: MPEG-4 AVC Video / 24947 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  2710 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -28dB
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2283 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: English / 28.256 kbps
+Subtitle: Italian / 24.672 kbps
+

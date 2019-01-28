@@ -1,0 +1,123 @@
+Disc Label:     The.Nut.Job.2D3D.2014.DUAL.COMPLETE.BLURAY-CAELUM
+Disc Size:      38,029,609,831 bytes
+Protection:     AACS
+Extras:         50Hz Content, Blu-ray 3D
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:25:37 24,769,443,840  38,029,609,831  38.57   20.00   DTS-HD Master 5.1 2433Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Nut.Job.2D3D.2014.DUAL.COMPLETE.BLURAY-CAELUM
+Disc Size:      38,029,609,831 bytes
+Protection:     AACS
+Extras:         50Hz Content, Blu-ray 3D
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:25:37.131 (h:m:s.ms)
+Size:                   24,769,443,840 bytes
+Total Bitrate:          38.57 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 MVC Video        12000 kbps                          
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2433 kbps       5.1 / 48 kHz /  2433 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         1983 kbps       5.1 / 48 kHz /  1983 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.098 kbps                      
+Presentation Graphics           German          33.556 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00012.SSIF      0:00:00.000     1:25:37.131     24,769,443,840  38,573          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:53.311     17,039 kbps     45,157 kbps     00:04:29.060    32,762 kbps     00:01:32.467    30,953 kbps     00:01:29.089    88,824 bytes    973,639 bytes   00:02:10.171    
+2               0:05:53.311     0:08:34.889     23,586 kbps     50,710 kbps     00:05:53.561    30,984 kbps     00:05:53.311    29,112 kbps     00:09:06.546    122,969 bytes   799,958 bytes   00:05:54.312    
+3               0:14:28.200     0:07:34.328     21,409 kbps     40,194 kbps     00:17:29.798    31,774 kbps     00:18:07.544    28,362 kbps     00:18:06.001    111,618 bytes   966,029 bytes   00:20:30.103    
+4               0:22:02.529     0:07:50.261     19,393 kbps     43,574 kbps     00:26:55.864    33,187 kbps     00:28:33.211    29,219 kbps     00:26:55.822    101,104 bytes   981,558 bytes   00:29:01.698    
+5               0:29:52.791     0:06:18.669     21,313 kbps     41,234 kbps     00:36:09.292    34,370 kbps     00:34:15.595    29,049 kbps     00:33:32.635    111,115 bytes   983,430 bytes   00:32:07.008    
+6               0:36:11.460     0:05:12.395     19,540 kbps     48,201 kbps     00:37:26.577    31,491 kbps     00:41:02.585    28,365 kbps     00:40:30.386    101,874 bytes   944,720 bytes   00:40:16.080    
+7               0:41:23.856     0:07:39.333     18,846 kbps     55,110 kbps     00:48:17.311    31,541 kbps     00:42:10.903    29,428 kbps     00:42:09.985    98,254 bytes    909,953 bytes   00:48:18.061    
+8               0:49:03.190     0:07:18.104     20,564 kbps     39,312 kbps     00:54:54.374    32,013 kbps     00:54:52.414    27,926 kbps     00:50:27.607    107,211 bytes   949,307 bytes   00:53:53.396    
+9               0:56:21.294     0:06:40.441     19,628 kbps     51,046 kbps     01:01:19.801    33,684 kbps     00:58:28.922    28,519 kbps     00:58:25.877    102,334 bytes   923,647 bytes   00:58:32.425    
+10              1:03:01.736     0:07:09.595     22,653 kbps     40,147 kbps     01:04:13.474    31,546 kbps     01:05:51.697    27,117 kbps     01:05:51.656    118,104 bytes   948,745 bytes   01:03:42.652    
+11              1:10:11.332     0:06:10.286     23,018 kbps     36,995 kbps     01:10:18.839    29,613 kbps     01:14:48.609    28,085 kbps     01:14:44.313    120,006 bytes   973,710 bytes   01:15:47.167    
+12              1:16:21.618     0:03:01.639     22,550 kbps     39,554 kbps     01:19:04.740    30,576 kbps     01:18:39.798    28,906 kbps     01:18:32.999    117,564 bytes   969,577 bytes   01:19:03.363    
+13              1:19:23.258     0:06:13.873     9,842 kbps      28,634 kbps     01:23:26.918    23,443 kbps     01:23:23.331    23,159 kbps     01:23:18.159    51,316 bytes    394,421 bytes   01:23:16.449    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00012.SSIF      4114 (0x1012)   0x20            MVC                                     5137.049                12,000                  7,705,678,464   41,954,707      
+00012.SSIF      4113 (0x1011)   0x1B            AVC                                     5137.049                20,000                  12,842,762,837  69,869,498      
+00012.SSIF      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5137.049                2,433                   1,562,126,084   9,288,142       
+00012.SSIF      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5137.049                1,983                   1,273,478,144   7,415,395       
+00012.SSIF      4608 (0x1200)   0x90            PGS             deu (German)            5137.049                0                       63,109          365             
+00012.SSIF      4609 (0x1201)   0x90            PGS             deu (German)            5137.049                34                      21,547,898      124,588         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Nut.Job.2D3D.2014.DUAL.COMPLETE.BLURAY-CAELUM
+Disc Size: 38,029,609,831 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 24,769,443,840 bytes
+Length: 1:25:37.131
+Total Bitrate: 38.57 Mbps
+Video: MPEG-4 AVC Video / 20000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 MVC Video / 12000 kbps / 
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2433 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1983 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 0.098 kbps
+Subtitle: German / 33.556 kbps
+
