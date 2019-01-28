@@ -1,0 +1,111 @@
+Disc Title:     ALBERT
+Disc Label:     Albert.E.Il.Diamante.Magico.2015.Full.Blu-Ray.ITA-DAN.1080p.AVC.DTS-HD.5.1-DDN
+Disc Size:      17,195,853,547 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:22:02 16,596,307,968  17,195,853,547  26.97   20.87   DTS-HD Master 5.1 2199Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     ALBERT
+Disc Label:     Albert.E.Il.Diamante.Magico.2015.Full.Blu-Ray.ITA-DAN.1080p.AVC.DTS-HD.5.1-DDN
+Disc Size:      17,195,853,547 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:22:02.541 (h:m:s.ms)
+Size:                   16,596,307,968 bytes
+Total Bitrate:          26.97 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20874 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2199 kbps       5.1 / 48 kHz /  2199 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             Danish          2200 kbps       5.1 / 48 kHz /  2200 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         27.303 kbps                     
+Presentation Graphics           Italian         0.003 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:22:02.541     16,596,307,968  26,972          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:22:02.541     20,874 kbps     39,514 kbps     01:15:22.499    29,534 kbps     00:32:13.375    28,134 kbps     00:16:53.375    108,718 bytes   790,093 bytes   00:17:02.166    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4922.458                20,874                  12,843,999,168  69,873,510      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           4922.458                2,199                   1,353,365,172   8,121,204       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       dan (Danish)            4922.458                2,200                   1,353,798,356   8,126,408       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           4922.458                27                      16,799,960      99,212          
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           4922.458                0                       1,848           17              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: ALBERT
+Disc Label: Albert.E.Il.Diamante.Magico.2015.Full.Blu-Ray.ITA-DAN.1080p.AVC.DTS-HD.5.1-DDN
+Disc Size: 17,195,853,547 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 16,596,307,968 bytes
+Length: 1:22:02.541
+Total Bitrate: 26.97 Mbps
+Video: MPEG-4 AVC Video / 20874 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2199 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS-HD Master Audio / 5.1 / 48 kHz /  2200 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 27.303 kbps
+Subtitle: Italian / 0.003 kbps
+
