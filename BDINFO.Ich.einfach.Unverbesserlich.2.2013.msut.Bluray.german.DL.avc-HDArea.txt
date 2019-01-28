@@ -1,0 +1,134 @@
+Disc Title:     Despicable Me 2
+Disc Label:     Ich.einfach.Unverbesserlich.2.2013.msut.Bluray.german.DL.avc-HDArea
+Disc Size:      26,880,952,632 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:37:58 26,880,651,264  26,880,952,632  36.58   30.02   DTS-HD Master 5.1 3768Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Despicable Me 2
+Disc Label:     Ich.einfach.Unverbesserlich.2.2013.msut.Bluray.german.DL.avc-HDArea
+Disc Size:      26,880,952,632 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:37:58.747 (h:m:s.ms)
+Size:                   26,880,651,264 bytes
+Total Bitrate:          36.58 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30018 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3768 kbps       5.1 / 48 kHz /  3768 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         33.810 kbps                     
+Presentation Graphics           German          24.413 kbps                     
+Presentation Graphics           English         71.382 kbps                     
+Presentation Graphics           German          0.268 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00023.M2TS      0:00:00.000     1:37:58.747     26,880,651,264  36,580          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:22.994     30,010 kbps     42,003 kbps     00:00:39.581    33,846 kbps     00:00:35.618    32,822 kbps     00:00:30.613    156,426 bytes   628,494 bytes   00:00:25.066    
+2               0:03:22.994     0:04:41.739     31,110 kbps     35,912 kbps     00:03:46.559    32,470 kbps     00:04:57.255    32,081 kbps     00:07:37.290    162,194 bytes   609,442 bytes   00:04:05.328    
+3               0:08:04.734     0:07:46.132     29,657 kbps     35,344 kbps     00:08:46.150    32,451 kbps     00:08:15.620    32,153 kbps     00:08:08.863    154,619 bytes   618,842 bytes   00:08:22.251    
+4               0:15:50.866     0:02:37.365     28,582 kbps     34,278 kbps     00:17:13.032    31,829 kbps     00:16:32.866    31,329 kbps     00:17:09.069    149,013 bytes   561,948 bytes   00:17:19.913    
+5               0:18:28.232     0:06:08.659     30,057 kbps     42,843 kbps     00:22:56.416    32,370 kbps     00:21:23.365    32,019 kbps     00:19:39.678    156,702 bytes   569,931 bytes   00:20:00.908    
+6               0:24:36.892     0:06:13.831     30,513 kbps     37,540 kbps     00:30:19.526    32,248 kbps     00:29:26.806    32,065 kbps     00:29:30.226    159,080 bytes   588,690 bytes   00:29:21.926    
+7               0:30:50.723     0:03:49.979     29,800 kbps     34,263 kbps     00:30:57.313    32,415 kbps     00:32:43.878    32,156 kbps     00:32:38.915    155,362 bytes   505,098 bytes   00:30:59.232    
+8               0:34:40.703     0:06:07.575     29,300 kbps     37,989 kbps     00:39:31.368    32,661 kbps     00:39:45.174    32,108 kbps     00:40:03.192    152,754 bytes   637,522 bytes   00:39:48.928    
+9               0:40:48.279     0:05:37.920     30,908 kbps     35,559 kbps     00:46:08.807    32,352 kbps     00:46:05.721    32,069 kbps     00:45:10.958    161,138 bytes   640,395 bytes   00:46:10.726    
+10              0:46:26.200     0:04:56.921     30,431 kbps     34,449 kbps     00:51:02.893    32,344 kbps     00:50:38.035    32,061 kbps     00:50:44.708    158,655 bytes   626,457 bytes   00:50:34.031    
+11              0:51:23.121     0:05:04.304     29,484 kbps     35,202 kbps     00:51:34.216    32,203 kbps     00:55:04.968    31,993 kbps     00:53:32.000    153,717 bytes   524,329 bytes   00:52:05.497    
+12              0:56:27.425     0:03:33.046     30,644 kbps     35,464 kbps     00:57:12.429    32,358 kbps     00:57:27.193    32,179 kbps     00:56:57.747    159,761 bytes   612,158 bytes   00:59:43.079    
+13              1:00:00.471     0:03:26.581     29,484 kbps     35,590 kbps     01:02:18.860    32,589 kbps     01:02:15.940    32,268 kbps     01:02:10.935    153,718 bytes   480,035 bytes   01:03:02.779    
+14              1:03:27.053     0:05:17.025     30,102 kbps     37,288 kbps     01:04:50.428    32,909 kbps     01:04:46.424    32,162 kbps     01:04:41.419    156,937 bytes   619,751 bytes   01:08:44.078    
+15              1:08:44.078     0:05:17.900     29,809 kbps     35,101 kbps     01:11:46.427    32,298 kbps     01:12:10.159    32,002 kbps     01:10:37.233    155,413 bytes   620,352 bytes   01:11:47.886    
+16              1:14:01.979     0:04:06.079     29,726 kbps     38,961 kbps     01:17:41.531    33,300 kbps     01:17:37.444    32,440 kbps     01:17:32.314    154,977 bytes   638,652 bytes   01:17:43.158    
+17              1:18:08.058     0:04:25.848     30,240 kbps     35,337 kbps     01:20:59.437    32,371 kbps     01:20:04.716    32,008 kbps     01:19:59.753    157,657 bytes   635,012 bytes   01:18:34.334    
+18              1:22:33.907     0:04:35.191     30,090 kbps     36,270 kbps     01:24:38.448    32,590 kbps     01:24:34.444    32,115 kbps     01:24:52.420    156,875 bytes   634,357 bytes   01:22:43.667    
+19              1:27:09.098     0:03:24.621     29,820 kbps     35,606 kbps     01:27:44.676    32,578 kbps     01:27:40.672    32,118 kbps     01:30:10.363    155,466 bytes   640,778 bytes   01:27:21.110    
+20              1:30:33.719     0:07:25.027     30,008 kbps     43,385 kbps     01:31:12.967    34,343 kbps     01:31:08.963    32,801 kbps     01:31:03.958    156,461 bytes   624,283 bytes   01:31:13.759    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00023.M2TS      4113 (0x1011)   0x1B            AVC                                     5878.581                30,019                  22,058,879,169  119,967,024     
+00023.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5878.581                3,768                   2,768,986,656   15,963,634      
+00023.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5878.581                768                     564,360,192     3,306,798       
+00023.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5878.581                34                      24,845,300      144,760         
+00023.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5878.581                24                      17,939,525      103,846         
+00023.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5878.581                71                      52,454,742      295,969         
+00023.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5878.581                0                       196,892         1,176           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Despicable Me 2
+Disc Label: Ich.einfach.Unverbesserlich.2.2013.msut.Bluray.german.DL.avc-HDArea
+Disc Size: 26,880,952,632 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 26,880,651,264 bytes
+Length: 1:37:58.747
+Total Bitrate: 36.58 Mbps
+Video: MPEG-4 AVC Video / 30018 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3768 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Subtitle: English / 33.810 kbps
+Subtitle: German / 24.413 kbps
+Subtitle: English / 71.382 kbps
+Subtitle: German / 0.268 kbps
+

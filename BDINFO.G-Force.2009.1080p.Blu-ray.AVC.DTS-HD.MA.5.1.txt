@@ -1,0 +1,1322 @@
+Disc Title:     G-Force - Blu-ray™
+Disc Label:     G-Force.2009.1080p.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      48,430,043,099 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00170.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00170.MPLS                                                      AVC     1:30:11 23,606,372,352  48,430,043,099  34.90   22.21   DTS-HD Master 5.1 3992Kbps (48kHz/24-bit) DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     G-Force - Blu-ray™
+Disc Label:     G-Force.2009.1080p.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      48,430,043,099 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00170.MPLS
+Length:                 1:30:11.030 (h:m:s.ms)
+Size:                   23,606,372,352 bytes
+Total Bitrate:          34.90 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22210 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        448 kbps            Left Eye / 480p / 23.976 fps / 4:3 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         3992 kbps       5.1 / 48 kHz /  3992 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* DTS Audio                     Spanish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+* DTS Audio                     Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+* DTS Audio                     German          1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+* Dolby Digital Audio           Portuguese      640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         16.195 kbps                     
+* Presentation Graphics         English         17.261 kbps                     
+* Presentation Graphics         Spanish         16.056 kbps                     
+* Presentation Graphics         Italian         16.182 kbps                     
+* Presentation Graphics         German          17.332 kbps                     
+* Presentation Graphics         Portuguese      16.382 kbps                     
+* Presentation Graphics         Turkish         16.056 kbps                     
+* Presentation Graphics         Spanish         0.531 kbps                      
+* Presentation Graphics         Italian         0.621 kbps                      
+* Presentation Graphics         German          0.578 kbps                      
+* Presentation Graphics         Portuguese      0.544 kbps                      
+* Presentation Graphics         English         7.036 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00312.M2TS      0:00:00.000     0:03:36.716     948,559,872     35,016          
+00313.M2TS      0:03:36.716     0:01:19.412     339,425,280     34,194          
+00279.M2TS      0:04:56.129     0:01:21.831     379,232,256     37,074          
+00301.M2TS      0:06:17.960     0:08:15.995     2,136,754,176   34,464          
+00281.M2TS      0:14:33.956     0:01:44.187     479,453,184     36,815          
+00302.M2TS      0:16:18.143     0:04:03.201     1,077,565,440   35,446          
+00283.M2TS      0:20:21.345     0:02:54.966     825,126,912     37,727          
+00303.M2TS      0:23:16.311     0:01:19.579     343,025,664     34,484          
+00304.M2TS      0:24:35.891     0:06:10.370     1,575,856,128   34,039          
+00305.M2TS      0:30:46.261     0:06:34.977     1,715,668,992   34,750          
+00287.M2TS      0:37:21.238     0:08:14.702     2,184,124,416   35,320          
+00306.M2TS      0:45:35.941     0:03:02.599     797,921,280     34,958          
+00289.M2TS      0:48:38.540     0:06:00.610     1,733,486,592   38,457          
+00290.M2TS      0:54:39.150     0:03:52.607     1,135,491,072   39,053          
+00307.M2TS      0:58:31.758     0:05:06.514     1,352,527,872   35,301          
+00292.M2TS      1:03:38.272     0:02:44.789     725,624,832     35,227          
+00308.M2TS      1:06:23.062     0:05:01.801     1,324,916,736   35,120          
+00294.M2TS      1:11:24.863     0:01:53.780     535,787,520     37,672          
+00309.M2TS      1:13:18.644     0:03:01.639     802,621,440     35,350          
+00296.M2TS      1:16:20.283     0:06:38.481     1,833,639,936   36,813          
+00310.M2TS      1:22:58.765     0:01:07.067     288,903,168     34,461          
+00314.M2TS      1:24:05.832     0:06:05.198     1,070,659,584   23,454          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:39.117     22,386 kbps     30,237 kbps     00:01:27.670    27,597 kbps     00:01:07.484    26,140 kbps     00:01:02.729    116,681 bytes   528,302 bytes   00:01:16.451    
+2               0:02:39.117     0:08:30.843     22,522 kbps     32,201 kbps     00:05:16.482    27,647 kbps     00:05:39.922    26,668 kbps     00:05:35.043    117,421 bytes   561,035 bytes   00:09:56.304    
+3               0:11:09.960     0:03:09.814     22,711 kbps     29,721 kbps     00:13:12.791    26,742 kbps     00:13:00.070    26,162 kbps     00:13:02.865    118,404 bytes   541,947 bytes   00:12:12.189    
+4               0:14:19.775     0:05:01.843     23,816 kbps     31,397 kbps     00:14:29.451    26,942 kbps     00:17:56.366    26,348 kbps     00:17:53.197    124,168 bytes   534,854 bytes   00:17:46.815    
+5               0:19:21.618     0:03:56.110     23,233 kbps     30,168 kbps     00:23:00.796    26,477 kbps     00:21:02.803    25,655 kbps     00:21:32.999    121,126 bytes   504,728 bytes   00:20:14.671    
+6               0:23:17.729     0:04:04.494     20,666 kbps     31,236 kbps     00:24:34.931    27,045 kbps     00:24:30.927    26,059 kbps     00:24:27.757    107,742 bytes   569,042 bytes   00:25:57.222    
+7               0:27:22.223     0:04:02.951     23,196 kbps     30,034 kbps     00:30:41.923    26,273 kbps     00:28:08.228    25,795 kbps     00:30:24.322    120,932 bytes   531,443 bytes   00:27:50.585    
+8               0:31:25.174     0:03:34.881     22,496 kbps     31,490 kbps     00:32:31.824    26,025 kbps     00:33:22.708    25,413 kbps     00:32:55.431    117,282 bytes   529,738 bytes   00:33:40.476    
+9               0:35:00.056     0:05:42.550     21,732 kbps     30,236 kbps     00:40:21.752    26,113 kbps     00:35:25.414    25,672 kbps     00:35:39.053    113,299 bytes   534,498 bytes   00:37:27.703    
+10              0:40:42.606     0:04:56.546     22,994 kbps     30,211 kbps     00:44:57.027    26,316 kbps     00:43:11.380    25,548 kbps     00:43:11.213    119,881 bytes   504,826 bytes   00:44:57.069    
+11              0:45:39.152     0:03:02.265     22,863 kbps     30,468 kbps     00:48:37.581    26,720 kbps     00:46:49.973    25,758 kbps     00:47:31.473    119,197 bytes   534,084 bytes   00:46:11.727    
+12              0:48:41.418     0:03:43.640     23,722 kbps     30,424 kbps     00:50:13.260    26,896 kbps     00:52:11.461    26,179 kbps     00:52:10.835    123,677 bytes   500,517 bytes   00:51:53.401    
+13              0:52:25.058     0:05:21.529     24,794 kbps     29,933 kbps     00:52:26.768    27,051 kbps     00:55:08.221    26,259 kbps     00:52:26.351    129,266 bytes   427,395 bytes   00:54:15.168    
+14              0:57:46.588     0:05:59.192     23,334 kbps     29,664 kbps     00:58:04.272    26,562 kbps     01:02:57.940    25,906 kbps     00:57:57.515    121,651 bytes   528,906 bytes   01:02:31.080    
+15              1:03:45.780     0:06:18.086     22,633 kbps     30,041 kbps     01:09:51.186    26,499 kbps     01:05:59.914    25,226 kbps     01:09:19.279    117,999 bytes   529,321 bytes   01:08:20.971    
+16              1:10:03.866     0:02:30.108     23,382 kbps     32,052 kbps     01:11:26.782    27,467 kbps     01:11:26.532    26,613 kbps     01:11:26.615    121,906 bytes   446,950 bytes   01:10:15.794    
+17              1:12:33.974     0:07:38.374     23,270 kbps     30,822 kbps     01:13:18.101    28,304 kbps     01:17:37.736    26,937 kbps     01:17:37.110    121,322 bytes   530,320 bytes   01:13:51.593    
+18              1:20:12.349     0:02:48.167     24,224 kbps     34,608 kbps     01:22:53.927    26,836 kbps     01:22:14.345    26,272 kbps     01:20:26.446    126,292 bytes   548,055 bytes   01:20:50.970    
+19              1:23:00.517     0:01:06.232     22,195 kbps     31,740 kbps     01:23:59.576    25,738 kbps     01:23:25.291    25,243 kbps     01:23:29.295    115,715 bytes   498,515 bytes   01:23:44.769    
+20              1:24:06.749     0:06:04.280     11,639 kbps     27,869 kbps     01:30:02.355    20,974 kbps     01:29:51.886    16,537 kbps     01:24:43.411    60,685 bytes    448,927 bytes   01:30:07.777    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00312.M2TS      4113 (0x1011)   0x1B            AVC                                     216.633                 22,846                  618,659,630     3,365,343       
+00312.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           216.633                 3,995                   108,174,972     621,535         
+00312.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           216.633                 640                     17,338,880      101,595         
+00312.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           216.633                 1,510                   40,879,816      243,816         
+00312.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           216.633                 1,510                   40,879,816      243,816         
+00312.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            216.633                 1,510                   40,879,816      243,816         
+00312.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        216.633                 640                     17,338,880      101,595         
+00312.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           216.633                 0                       70              7               
+00312.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           216.633                 0                       70              7               
+00312.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           216.633                 0                       70              7               
+00312.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           216.633                 0                       70              7               
+00312.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            216.633                 0                       70              7               
+00312.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        216.633                 0                       70              7               
+00312.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           216.633                 0                       70              7               
+00312.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           216.633                 0                       70              7               
+00312.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           216.633                 0                       70              7               
+00312.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            216.633                 0                       70              7               
+00312.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        216.633                 0                       70              7               
+00312.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           216.633                 20                      535,677         2,968           
+00312.M2TS      6912 (0x1B00)   0x1B            AVC                                     216.633                 41                      1,111,549       8,550           
+00313.M2TS      4113 (0x1011)   0x1B            AVC                                     79.329                  22,299                  221,123,926     1,202,877       
+00313.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           79.329                  3,793                   37,614,900      216,601         
+00313.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           79.329                  641                     6,353,920       37,230          
+00313.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           79.329                  1,511                   14,979,340      89,340          
+00313.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           79.329                  1,511                   14,979,340      89,340          
+00313.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            79.329                  1,511                   14,979,340      89,340          
+00313.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        79.329                  641                     6,353,920       37,230          
+00313.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           79.329                  0                       70              7               
+00313.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           79.329                  0                       70              7               
+00313.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           79.329                  0                       70              7               
+00313.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           79.329                  0                       70              7               
+00313.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            79.329                  0                       70              7               
+00313.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        79.329                  0                       70              7               
+00313.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           79.329                  0                       70              7               
+00313.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           79.329                  0                       70              7               
+00313.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           79.329                  0                       70              7               
+00313.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            79.329                  0                       70              7               
+00313.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        79.329                  0                       70              7               
+00313.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           79.329                  0                       70              7               
+00313.M2TS      6912 (0x1B00)   0x1B            AVC                                     79.329                  42                      418,177         3,136           
+00279.M2TS      4113 (0x1011)   0x1B            AVC                                     81.707                  24,116                  246,309,573     1,339,777       
+00279.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           81.707                  4,147                   42,357,472      242,957         
+00279.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           81.707                  641                     6,548,480       38,370          
+00279.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           81.707                  1,511                   15,436,064      92,064          
+00279.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           81.707                  1,511                   15,436,064      92,064          
+00279.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            81.707                  1,511                   15,436,064      92,064          
+00279.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        81.707                  641                     6,548,480       38,370          
+00279.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           81.707                  29                      295,005         1,703           
+00279.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           81.707                  35                      360,907         2,110           
+00279.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           81.707                  27                      277,297         1,608           
+00279.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           81.707                  27                      279,826         1,621           
+00279.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            81.707                  32                      324,621         1,864           
+00279.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        81.707                  28                      288,043         1,663           
+00279.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           81.707                  29                      296,338         1,709           
+00279.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           81.707                  0                       70              7               
+00279.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           81.707                  0                       70              7               
+00279.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            81.707                  0                       70              7               
+00279.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        81.707                  0                       70              7               
+00279.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           81.707                  52                      535,677         2,968           
+00279.M2TS      6912 (0x1B00)   0x1B            AVC                                     81.707                  369                     3,772,320       21,479          
+00301.M2TS      4113 (0x1011)   0x1B            AVC                                     495.912                 22,273                  1,380,669,879   7,510,601       
+00301.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           495.912                 4,045                   250,744,304     1,439,896       
+00301.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           495.912                 640                     39,680,000      232,500         
+00301.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           495.912                 1,509                   93,558,000      558,000         
+00301.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           495.912                 1,509                   93,558,000      558,000         
+00301.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            495.912                 1,509                   93,558,000      558,000         
+00301.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        495.912                 640                     39,680,000      232,500         
+00301.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           495.912                 0                       70              7               
+00301.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           495.912                 0                       70              7               
+00301.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           495.912                 0                       70              7               
+00301.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           495.912                 0                       70              7               
+00301.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            495.912                 0                       70              7               
+00301.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        495.912                 0                       70              7               
+00301.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           495.912                 0                       70              7               
+00301.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           495.912                 0                       70              7               
+00301.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           495.912                 0                       70              7               
+00301.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            495.912                 0                       70              7               
+00301.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        495.912                 0                       70              7               
+00301.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           495.912                 9                       535,677         2,968           
+00301.M2TS      6912 (0x1B00)   0x1B            AVC                                     495.912                 42                      2,590,106       19,757          
+00281.M2TS      4113 (0x1011)   0x1B            AVC                                     104.104                 23,597                  307,070,995     1,670,342       
+00281.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           104.104                 3,791                   49,328,756      284,362         
+00281.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           104.104                 641                     8,335,360       48,840          
+00281.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           104.104                 1,510                   19,653,216      117,216         
+00281.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           104.104                 1,510                   19,653,216      117,216         
+00281.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            104.104                 1,510                   19,653,216      117,216         
+00281.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        104.104                 641                     8,335,360       48,840          
+00281.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           104.104                 48                      628,878         3,630           
+00281.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           104.104                 51                      658,288         3,810           
+00281.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           104.104                 48                      623,615         3,608           
+00281.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           104.104                 49                      633,876         3,665           
+00281.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            104.104                 53                      694,642         3,993           
+00281.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        104.104                 53                      695,360         3,992           
+00281.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           104.104                 48                      626,668         3,620           
+00281.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           104.104                 2                       30,829          174             
+00281.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           104.104                 2                       24,422          140             
+00281.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            104.104                 3                       36,962          208             
+00281.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        104.104                 3                       32,899          186             
+00281.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           104.104                 0                       70              7               
+00281.M2TS      6912 (0x1B00)   0x1B            AVC                                     104.104                 867                     11,282,583      62,596          
+00302.M2TS      4113 (0x1011)   0x1B            AVC                                     243.076                 23,269                  707,006,498     3,845,834       
+00302.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           243.076                 4,008                   121,791,300     699,628         
+00302.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           243.076                 640                     19,458,560      114,015         
+00302.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           243.076                 1,510                   45,875,612      273,612         
+00302.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           243.076                 1,510                   45,875,612      273,612         
+00302.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            243.076                 1,510                   45,875,612      273,612         
+00302.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        243.076                 640                     19,458,560      114,015         
+00302.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           243.076                 0                       70              7               
+00302.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           243.076                 0                       70              7               
+00302.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           243.076                 0                       70              7               
+00302.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           243.076                 0                       70              7               
+00302.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            243.076                 0                       70              7               
+00302.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        243.076                 0                       70              7               
+00302.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           243.076                 0                       70              7               
+00302.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           243.076                 0                       70              7               
+00302.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           243.076                 0                       70              7               
+00302.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            243.076                 0                       70              7               
+00302.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        243.076                 0                       70              7               
+00302.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           243.076                 0                       70              7               
+00302.M2TS      6912 (0x1B00)   0x1B            AVC                                     243.076                 42                      1,274,794       9,751           
+00283.M2TS      4113 (0x1011)   0x1B            AVC                                     174.883                 23,838                  521,116,866     2,834,626       
+00283.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           174.883                 4,149                   90,706,096      520,259         
+00283.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           174.883                 640                     13,998,080      82,020          
+00283.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           174.883                 1,510                   33,004,848      196,848         
+00283.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           174.883                 1,510                   33,004,848      196,848         
+00283.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            174.883                 1,510                   33,004,848      196,848         
+00283.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        174.883                 640                     13,998,080      82,020          
+00283.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           174.883                 45                      973,436         5,624           
+00283.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           174.883                 48                      1,055,528       6,103           
+00283.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           174.883                 42                      924,648         5,366           
+00283.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           174.883                 41                      905,145         5,262           
+00283.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            174.883                 46                      1,002,618       5,783           
+00283.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        174.883                 42                      926,405         5,372           
+00283.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           174.883                 44                      964,624         5,578           
+00283.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           174.883                 0                       7,422           47              
+00283.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           174.883                 1                       12,957          77              
+00283.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            174.883                 0                       10,451          63              
+00283.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        174.883                 0                       10,927          66              
+00283.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           174.883                 0                       70              7               
+00283.M2TS      6912 (0x1B00)   0x1B            AVC                                     174.883                 1,184                   25,878,042      142,858         
+00303.M2TS      4113 (0x1011)   0x1B            AVC                                     79.496                  22,522                  223,805,276     1,217,447       
+00303.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           79.496                  3,794                   37,696,200      217,070         
+00303.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           79.496                  641                     6,366,720       37,305          
+00303.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           79.496                  1,511                   15,011,532      89,532          
+00303.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           79.496                  1,511                   15,011,532      89,532          
+00303.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            79.496                  1,511                   15,011,532      89,532          
+00303.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        79.496                  641                     6,366,720       37,305          
+00303.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           79.496                  0                       70              7               
+00303.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           79.496                  0                       70              7               
+00303.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           79.496                  0                       70              7               
+00303.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           79.496                  0                       70              7               
+00303.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            79.496                  0                       70              7               
+00303.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        79.496                  0                       70              7               
+00303.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           79.496                  0                       70              7               
+00303.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           79.496                  0                       70              7               
+00303.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           79.496                  0                       70              7               
+00303.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            79.496                  0                       70              7               
+00303.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        79.496                  0                       70              7               
+00303.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           79.496                  54                      535,677         2,968           
+00303.M2TS      6912 (0x1B00)   0x1B            AVC                                     79.496                  42                      413,358         3,151           
+00304.M2TS      4113 (0x1011)   0x1B            AVC                                     370.287                 21,857                  1,011,680,801   5,503,516       
+00304.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           370.287                 4,051                   187,494,480     1,076,585       
+00304.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           370.287                 640                     29,632,000      173,625         
+00304.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           370.287                 1,509                   69,862,676      416,676         
+00304.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           370.287                 1,509                   69,862,676      416,676         
+00304.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            370.287                 1,509                   69,862,676      416,676         
+00304.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        370.287                 640                     29,632,000      173,625         
+00304.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           370.287                 0                       70              7               
+00304.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           370.287                 0                       70              7               
+00304.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           370.287                 0                       70              7               
+00304.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           370.287                 0                       70              7               
+00304.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            370.287                 0                       70              7               
+00304.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        370.287                 0                       70              7               
+00304.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           370.287                 0                       70              7               
+00304.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           370.287                 0                       70              7               
+00304.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           370.287                 0                       70              7               
+00304.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            370.287                 0                       70              7               
+00304.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        370.287                 0                       70              7               
+00304.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           370.287                 12                      535,677         2,968           
+00304.M2TS      6912 (0x1B00)   0x1B            AVC                                     370.287                 42                      1,961,119       14,741          
+00305.M2TS      4113 (0x1011)   0x1B            AVC                                     394.895                 22,548                  1,112,991,491   6,054,448       
+00305.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           394.895                 4,042                   199,507,812     1,145,693       
+00305.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           394.895                 640                     31,600,640      185,160         
+00305.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           394.895                 1,509                   74,504,360      444,360         
+00305.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           394.895                 1,509                   74,504,360      444,360         
+00305.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            394.895                 1,509                   74,504,360      444,360         
+00305.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        394.895                 640                     31,600,640      185,160         
+00305.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           394.895                 0                       70              7               
+00305.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           394.895                 0                       70              7               
+00305.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           394.895                 0                       70              7               
+00305.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           394.895                 0                       70              7               
+00305.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            394.895                 0                       70              7               
+00305.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        394.895                 0                       70              7               
+00305.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           394.895                 0                       70              7               
+00305.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           394.895                 0                       70              7               
+00305.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           394.895                 0                       70              7               
+00305.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            394.895                 0                       70              7               
+00305.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        394.895                 0                       70              7               
+00305.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           394.895                 11                      535,647         2,965           
+00305.M2TS      6912 (0x1B00)   0x1B            AVC                                     394.895                 42                      2,086,062       15,936          
+00287.M2TS      4113 (0x1011)   0x1B            AVC                                     494.577                 22,148                  1,369,236,351   7,448,446       
+00287.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           494.577                 3,854                   238,287,928     1,372,077       
+00287.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           494.577                 640                     39,577,600      231,900         
+00287.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           494.577                 1,509                   93,314,548      556,548         
+00287.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           494.577                 1,509                   93,314,548      556,548         
+00287.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            494.577                 1,509                   93,314,548      556,548         
+00287.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        494.577                 640                     39,577,600      231,900         
+00287.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           494.577                 39                      2,421,112       13,934          
+00287.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           494.577                 42                      2,614,668       15,088          
+00287.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           494.577                 40                      2,456,021       14,146          
+00287.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           494.577                 39                      2,432,227       14,027          
+00287.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            494.577                 42                      2,601,381       14,940          
+00287.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        494.577                 39                      2,405,856       13,872          
+00287.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           494.577                 39                      2,430,271       14,019          
+00287.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           494.577                 1                       87,897          506             
+00287.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           494.577                 2                       111,548         640             
+00287.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            494.577                 2                       109,836         633             
+00287.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        494.577                 1                       82,845          478             
+00287.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           494.577                 9                       535,677         2,968           
+00287.M2TS      6912 (0x1B00)   0x1B            AVC                                     494.577                 874                     54,020,416      299,849         
+00306.M2TS      4113 (0x1011)   0x1B            AVC                                     182.516                 22,865                  521,650,120     2,837,659       
+00306.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           182.516                 3,947                   90,039,132      517,659         
+00306.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           182.516                 640                     14,609,920      85,605          
+00306.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           182.516                 1,510                   34,443,428      205,428         
+00306.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           182.516                 1,510                   34,443,428      205,428         
+00306.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            182.516                 1,510                   34,443,428      205,428         
+00306.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        182.516                 640                     14,609,920      85,605          
+00306.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           182.516                 0                       70              7               
+00306.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           182.516                 0                       70              7               
+00306.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           182.516                 0                       70              7               
+00306.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           182.516                 0                       70              7               
+00306.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            182.516                 0                       70              7               
+00306.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        182.516                 0                       70              7               
+00306.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           182.516                 0                       70              7               
+00306.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           182.516                 0                       70              7               
+00306.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           182.516                 0                       70              7               
+00306.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            182.516                 0                       70              7               
+00306.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        182.516                 0                       70              7               
+00306.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           182.516                 0                       70              7               
+00306.M2TS      6912 (0x1B00)   0x1B            AVC                                     182.516                 38                      860,485         6,803           
+00289.M2TS      4113 (0x1011)   0x1B            AVC                                     360.527                 24,234                  1,092,107,734   5,940,443       
+00289.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           360.527                 3,908                   176,107,828     1,013,557       
+00289.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           360.527                 640                     28,851,200      169,050         
+00289.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           360.527                 1,509                   68,021,696      405,696         
+00289.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           360.527                 1,509                   68,021,696      405,696         
+00289.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            360.527                 1,509                   68,021,696      405,696         
+00289.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        360.527                 640                     28,851,200      169,050         
+00289.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           360.527                 41                      1,858,954       10,679          
+00289.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           360.527                 44                      1,985,781       11,456          
+00289.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           360.527                 41                      1,838,408       10,580          
+00289.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           360.527                 40                      1,794,167       10,340          
+00289.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            360.527                 44                      1,978,785       11,337          
+00289.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        360.527                 41                      1,833,726       10,550          
+00289.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           360.527                 40                      1,813,056       10,446          
+00289.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           360.527                 1                       34,614          203             
+00289.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           360.527                 1                       42,925          246             
+00289.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            360.527                 1                       39,005          226             
+00289.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        360.527                 1                       34,861          203             
+00289.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           360.527                 12                      535,677         2,968           
+00289.M2TS      6912 (0x1B00)   0x1B            AVC                                     360.527                 1,728                   77,878,432      428,070         
+00290.M2TS      4113 (0x1011)   0x1B            AVC                                     232.524                 24,692                  717,691,512     3,903,773       
+00290.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           232.524                 3,903                   113,440,300     652,821         
+00290.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           232.524                 640                     18,608,640      109,035         
+00290.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           232.524                 1,510                   43,875,684      261,684         
+00290.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           232.524                 1,510                   43,875,684      261,684         
+00290.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            232.524                 1,510                   43,875,684      261,684         
+00290.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        232.524                 640                     18,608,640      109,035         
+00290.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           232.524                 49                      1,419,476       8,118           
+00290.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           232.524                 49                      1,432,858       8,220           
+00290.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           232.524                 46                      1,343,534       7,714           
+00290.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           232.524                 48                      1,406,143       8,050           
+00290.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            232.524                 50                      1,440,677       8,232           
+00290.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        232.524                 48                      1,400,928       8,018           
+00290.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           232.524                 45                      1,318,235       7,573           
+00290.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           232.524                 0                       70              7               
+00290.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           232.524                 0                       70              7               
+00290.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            232.524                 0                       70              7               
+00290.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        232.524                 0                       70              7               
+00290.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           232.524                 0                       70              7               
+00290.M2TS      6912 (0x1B00)   0x1B            AVC                                     232.524                 1,819                   52,870,850      290,530         
+00307.M2TS      4113 (0x1011)   0x1B            AVC                                     306.389                 23,115                  885,266,815     4,815,574       
+00307.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           306.389                 4,024                   154,122,844     885,201         
+00307.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           306.389                 640                     24,522,240      143,685         
+00307.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           306.389                 1,510                   57,816,832      344,832         
+00307.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           306.389                 1,510                   57,816,832      344,832         
+00307.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            306.389                 1,510                   57,816,832      344,832         
+00307.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        306.389                 640                     24,522,240      143,685         
+00307.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           306.389                 0                       70              7               
+00307.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           306.389                 0                       70              7               
+00307.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           306.389                 0                       70              7               
+00307.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           306.389                 0                       70              7               
+00307.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            306.389                 0                       70              7               
+00307.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        306.389                 0                       70              7               
+00307.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           306.389                 0                       70              7               
+00307.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           306.389                 0                       70              7               
+00307.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           306.389                 0                       70              7               
+00307.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            306.389                 0                       70              7               
+00307.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        306.389                 0                       70              7               
+00307.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           306.389                 0                       70              7               
+00307.M2TS      6912 (0x1B00)   0x1B            AVC                                     306.389                 38                      1,443,783       11,417          
+00292.M2TS      4113 (0x1011)   0x1B            AVC                                     164.706                 22,259                  458,264,258     2,492,901       
+00292.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           164.706                 3,930                   80,915,232      465,476         
+00292.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           164.706                 640                     13,184,000      77,250          
+00292.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           164.706                 1,510                   31,085,400      185,400         
+00292.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           164.706                 1,510                   31,085,400      185,400         
+00292.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            164.706                 1,510                   31,085,400      185,400         
+00292.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        164.706                 640                     13,184,000      77,250          
+00292.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           164.706                 35                      727,521         4,174           
+00292.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           164.706                 40                      818,707         4,750           
+00292.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           164.706                 35                      720,538         4,163           
+00292.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           164.706                 38                      776,146         4,471           
+00292.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            164.706                 38                      787,129         4,533           
+00292.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        164.706                 36                      746,565         4,305           
+00292.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           164.706                 37                      767,709         4,421           
+00292.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           164.706                 4                       91,776          534             
+00292.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           164.706                 5                       96,414          559             
+00292.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            164.706                 5                       101,173         585             
+00292.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        164.706                 5                       102,517         591             
+00292.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           164.706                 0                       70              7               
+00292.M2TS      6912 (0x1B00)   0x1B            AVC                                     164.706                 621                     12,789,678      71,588          
+00308.M2TS      4113 (0x1011)   0x1B            AVC                                     301.676                 22,928                  864,621,495     4,703,287       
+00308.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           301.676                 4,025                   151,777,000     871,715         
+00308.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           301.676                 640                     24,145,920      141,480         
+00308.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           301.676                 1,510                   56,927,528      339,528         
+00308.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           301.676                 1,510                   56,927,528      339,528         
+00308.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            301.676                 1,510                   56,927,528      339,528         
+00308.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        301.676                 640                     24,145,920      141,480         
+00308.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           301.676                 0                       70              7               
+00308.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           301.676                 0                       70              7               
+00308.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           301.676                 0                       70              7               
+00308.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           301.676                 0                       70              7               
+00308.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            301.676                 0                       70              7               
+00308.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        301.676                 0                       70              7               
+00308.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           301.676                 0                       70              7               
+00308.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           301.676                 0                       70              7               
+00308.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           301.676                 0                       70              7               
+00308.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            301.676                 0                       70              7               
+00308.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        301.676                 0                       70              7               
+00308.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           301.676                 13                      472,961         2,623           
+00308.M2TS      6912 (0x1B00)   0x1B            AVC                                     301.676                 38                      1,421,699       11,242          
+00294.M2TS      4113 (0x1011)   0x1B            AVC                                     113.697                 23,802                  338,283,152     1,840,090       
+00294.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           113.697                 4,106                   58,352,424      334,915         
+00294.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           113.697                 641                     9,103,360       53,340          
+00294.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           113.697                 1,510                   21,462,004      128,004         
+00294.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           113.697                 1,510                   21,462,004      128,004         
+00294.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            113.697                 1,510                   21,462,004      128,004         
+00294.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        113.697                 641                     9,103,360       53,340          
+00294.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           113.697                 49                      690,481         3,946           
+00294.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           113.697                 50                      706,475         4,038           
+00294.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           113.697                 49                      690,988         3,959           
+00294.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           113.697                 49                      702,187         4,015           
+00294.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            113.697                 52                      741,919         4,228           
+00294.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        113.697                 50                      710,945         4,057           
+00294.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           113.697                 47                      674,010         3,860           
+00294.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           113.697                 0                       70              7               
+00294.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           113.697                 0                       70              7               
+00294.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            113.697                 0                       70              7               
+00294.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        113.697                 0                       70              7               
+00294.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           113.697                 0                       70              7               
+00294.M2TS      6912 (0x1B00)   0x1B            AVC                                     113.697                 1,182                   16,798,594      92,902          
+00309.M2TS      4113 (0x1011)   0x1B            AVC                                     181.556                 23,242                  527,477,749     2,869,296       
+00309.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           181.556                 3,945                   89,526,476      514,722         
+00309.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           181.556                 640                     14,533,120      85,155          
+00309.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           181.556                 1,510                   34,262,348      204,348         
+00309.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           181.556                 1,510                   34,262,348      204,348         
+00309.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            181.556                 1,510                   34,262,348      204,348         
+00309.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        181.556                 640                     14,533,120      85,155          
+00309.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           181.556                 0                       70              7               
+00309.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           181.556                 0                       70              7               
+00309.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           181.556                 0                       70              7               
+00309.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           181.556                 0                       70              7               
+00309.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            181.556                 0                       70              7               
+00309.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        181.556                 0                       70              7               
+00309.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           181.556                 0                       70              7               
+00309.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           181.556                 0                       70              7               
+00309.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           181.556                 0                       70              7               
+00309.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            181.556                 0                       70              7               
+00309.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        181.556                 0                       70              7               
+00309.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           181.556                 0                       70              7               
+00309.M2TS      6912 (0x1B00)   0x1B            AVC                                     181.556                 38                      855,498         6,765           
+00296.M2TS      4113 (0x1011)   0x1B            AVC                                     398.398                 23,665                  1,178,522,598   6,410,660       
+00296.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           398.398                 4,042                   201,308,992     1,155,975       
+00296.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           398.398                 640                     31,879,680      186,795         
+00296.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           398.398                 1,509                   75,164,296      448,296         
+00296.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           398.398                 1,509                   75,164,296      448,296         
+00296.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            398.398                 1,509                   75,164,296      448,296         
+00296.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        398.398                 640                     31,879,680      186,795         
+00296.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           398.398                 37                      1,828,299       10,552          
+00296.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           398.398                 39                      1,924,346       11,139          
+00296.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           398.398                 37                      1,831,645       10,599          
+00296.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           398.398                 37                      1,850,367       10,711          
+00296.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            398.398                 40                      1,988,795       11,464          
+00296.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        398.398                 39                      1,934,395       11,169          
+00296.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           398.398                 37                      1,861,400       10,774          
+00296.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           398.398                 1                       67,608          408             
+00296.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           398.398                 2                       89,300          533             
+00296.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            398.398                 1                       58,779          363             
+00296.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        398.398                 2                       90,237          539             
+00296.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           398.398                 0                       70              7               
+00296.M2TS      6912 (0x1B00)   0x1B            AVC                                     398.398                 623                     31,009,896      173,491         
+00310.M2TS      4113 (0x1011)   0x1B            AVC                                     66.984                  22,569                  188,972,205     1,027,985       
+00310.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           66.984                  3,789                   31,724,096      182,636         
+00310.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           66.984                  641                     5,365,760       31,440          
+00310.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           66.984                  1,511                   12,651,456      75,456          
+00310.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           66.984                  1,511                   12,651,456      75,456          
+00310.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            66.984                  1,511                   12,651,456      75,456          
+00310.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        66.984                  641                     5,365,760       31,440          
+00310.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           66.984                  0                       70              7               
+00310.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           66.984                  0                       70              7               
+00310.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           66.984                  0                       70              7               
+00310.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           66.984                  0                       70              7               
+00310.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            66.984                  0                       70              7               
+00310.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        66.984                  0                       70              7               
+00310.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           66.984                  0                       70              7               
+00310.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           66.984                  0                       70              7               
+00310.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           66.984                  0                       70              7               
+00310.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            66.984                  0                       70              7               
+00310.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        66.984                  0                       70              7               
+00310.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           66.984                  0                       70              7               
+00310.M2TS      6912 (0x1B00)   0x1B            AVC                                     66.984                  38                      315,916         2,498           
+00314.M2TS      4113 (0x1011)   0x1B            AVC                                     365.115                 11,614                  530,053,910     2,885,888       
+00314.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           365.115                 4,139                   188,905,300     1,083,450       
+00314.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           365.115                 640                     29,217,280      171,195         
+00314.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           365.115                 1,509                   68,886,856      410,856         
+00314.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           365.115                 1,509                   68,886,856      410,856         
+00314.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            365.115                 1,509                   68,886,856      410,856         
+00314.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        365.115                 640                     29,217,280      171,195         
+00314.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           365.115                 2                       110,082         638             
+00314.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           365.115                 3                       116,553         672             
+00314.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           365.115                 3                       152,617         883             
+00314.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           365.115                 4                       164,512         948             
+00314.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            365.115                 4                       161,529         928             
+00314.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        365.115                 3                       137,515         797             
+00314.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           365.115                 2                       106,590         620             
+00314.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           365.115                 1                       38,158          219             
+00314.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           365.115                 1                       41,742          239             
+00314.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            365.115                 1                       33,576          193             
+00314.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        365.115                 0                       12,414          77              
+00314.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           365.115                 0                       70              7               
+00314.M2TS      6912 (0x1B00)   0x1B            AVC                                     365.115                 38                      1,720,254       13,603          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: G-Force - Blu-ray™
+Disc Label: G-Force.2009.1080p.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 48,430,043,099 bytes
+Protection: AACS
+Playlist: 00170.MPLS
+Size: 23,606,372,352 bytes
+Length: 1:30:11.030
+Total Bitrate: 34.90 Mbps
+Video: MPEG-4 AVC Video / 22210 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video / 448 kbps / Left Eye / 480p / 23.976 fps / 4:3 / High Profile 3.2
+* Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3992 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Spanish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+* Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+* Audio: German / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+* Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Subtitle: English / 16.195 kbps
+* Subtitle: English / 17.261 kbps
+* Subtitle: Spanish / 16.056 kbps
+* Subtitle: Italian / 16.182 kbps
+* Subtitle: German / 17.332 kbps
+* Subtitle: Portuguese / 16.382 kbps
+* Subtitle: Turkish / 16.056 kbps
+* Subtitle: Spanish / 0.531 kbps
+* Subtitle: Italian / 0.621 kbps
+* Subtitle: German / 0.578 kbps
+* Subtitle: Portuguese / 0.544 kbps
+* Subtitle: English / 7.036 kbps
+
+
+********************
+PLAYLIST: 00034.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00034.MPLS                                                      AVC     1:28:16 23,661,668,352  48,430,043,099  35.74   22.62   DTS-HD Master 5.1 4102Kbps (48kHz/24-bit) DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     G-Force - Blu-ray™
+Disc Label:     G-Force.2009.1080p.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      48,430,043,099 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00034.MPLS
+Length:                 1:28:16.332 (h:m:s.ms)
+Size:                   23,661,668,352 bytes
+Total Bitrate:          35.74 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22621 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* MPEG-4 AVC Video      571 kbps            Left Eye / 480p / 23.976 fps / 4:3 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4102 kbps       5.1 / 48 kHz /  4102 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Dolby Digital Audio           English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+DTS Audio                       Spanish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Italian         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       German          1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+Dolby Digital Audio             Portuguese      640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         37.596 kbps                     
+Presentation Graphics           English         40.924 kbps                     
+Presentation Graphics           Spanish         37.136 kbps                     
+Presentation Graphics           Italian         36.881 kbps                     
+Presentation Graphics           German          40.124 kbps                     
+Presentation Graphics           Portuguese      37.514 kbps                     
+Presentation Graphics           Turkish         36.981 kbps                     
+Presentation Graphics           Spanish         1.280 kbps                      
+Presentation Graphics           Italian         1.541 kbps                      
+Presentation Graphics           German          1.467 kbps                      
+Presentation Graphics           Portuguese      1.274 kbps                      
+* Presentation Graphics         English         2.430 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00325.M2TS      0:00:00.000     0:02:50.378     718,602,240     33,741          
+00278.M2TS      0:02:50.378     0:01:16.367     352,432,128     36,919          
+00279.M2TS      0:04:06.746     0:01:21.831     379,232,256     37,074          
+00280.M2TS      0:05:28.578     0:08:15.995     2,203,115,520   35,534          
+00281.M2TS      0:13:44.573     0:01:44.187     479,453,184     36,815          
+00282.M2TS      0:15:28.761     0:04:03.201     1,124,069,376   36,976          
+00283.M2TS      0:19:31.962     0:02:54.966     825,126,912     37,727          
+00285.M2TS      0:22:26.928     0:01:19.579     364,455,936     36,638          
+00335.M2TS      0:23:46.508     0:01:46.106     462,544,896     34,874          
+00353.M2TS      0:25:32.614     0:00:55.221     248,186,880     35,955          
+00354.M2TS      0:26:27.836     0:00:49.174     208,281,600     33,885          
+00337.M2TS      0:27:17.010     0:01:34.552     433,010,688     36,637          
+00338.M2TS      0:28:51.563     0:02:10.922     601,430,016     36,750          
+00339.M2TS      0:31:02.485     0:02:10.213     583,133,184     35,826          
+00340.M2TS      0:33:12.698     0:02:13.842     558,802,944     33,401          
+00287.M2TS      0:35:26.540     0:08:14.702     2,184,124,416   35,320          
+00288.M2TS      0:43:41.243     0:03:02.599     849,408,000     37,214          
+00289.M2TS      0:46:43.842     0:06:00.610     1,733,486,592   38,457          
+00290.M2TS      0:52:44.452     0:03:52.607     1,135,491,072   39,053          
+00291.M2TS      0:56:37.060     0:05:06.514     1,481,705,472   38,672          
+00292.M2TS      1:01:43.574     0:02:44.789     725,624,832     35,227          
+00293.M2TS      1:04:28.364     0:05:01.801     1,380,237,312   36,587          
+00294.M2TS      1:09:30.165     0:01:53.780     535,787,520     37,672          
+00295.M2TS      1:11:23.946     0:03:01.639     880,029,696     38,759          
+00296.M2TS      1:14:25.585     0:06:38.481     1,833,639,936   36,813          
+00297.M2TS      1:21:04.067     0:01:07.067     309,596,160     36,930          
+00314.M2TS      1:22:11.134     0:06:05.198     1,070,659,584   23,454          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:39.117     21,265 kbps     31,039 kbps     00:01:06.441    27,958 kbps     00:01:02.520    27,304 kbps     00:00:58.391    110,838 bytes   460,912 bytes   00:00:29.112    
+2               0:02:39.117     0:07:40.835     23,216 kbps     32,201 kbps     00:04:27.100    27,647 kbps     00:04:50.540    26,668 kbps     00:04:45.660    121,039 bytes   538,865 bytes   00:08:55.660    
+3               0:10:19.952     0:03:10.440     22,957 kbps     30,976 kbps     00:12:29.790    26,282 kbps     00:12:33.586    25,212 kbps     00:11:54.255    119,687 bytes   504,868 bytes   00:11:39.073    
+4               0:13:30.392     0:05:01.843     24,320 kbps     31,214 kbps     00:17:58.202    27,326 kbps     00:17:06.984    26,316 kbps     00:17:03.063    126,794 bytes   438,326 bytes   00:15:01.900    
+5               0:18:32.236     0:03:54.692     23,595 kbps     30,168 kbps     00:22:11.413    26,477 kbps     00:20:13.420    25,655 kbps     00:20:43.617    123,015 bytes   497,096 bytes   00:20:07.289    
+6               0:22:26.928     0:04:04.285     23,107 kbps     28,824 kbps     00:26:19.160    26,583 kbps     00:22:28.764    25,929 kbps     00:22:27.679    120,470 bytes   502,485 bytes   00:26:29.963    
+7               0:26:31.214     0:04:02.742     23,810 kbps     30,018 kbps     00:30:03.176    26,877 kbps     00:29:06.661    25,963 kbps     00:28:45.348    124,137 bytes   497,542 bytes   00:27:40.492    
+8               0:30:33.957     0:03:34.505     23,232 kbps     30,487 kbps     00:32:23.691    26,578 kbps     00:33:47.567    25,497 kbps     00:32:28.070    121,120 bytes   458,418 bytes   00:31:55.663    
+9               0:34:08.462     0:04:39.445     20,539 kbps     30,236 kbps     00:38:27.054    25,407 kbps     00:38:33.519    24,700 kbps     00:35:42.098    107,082 bytes   534,498 bytes   00:35:33.005    
+10              0:38:47.908     0:04:56.129     22,988 kbps     30,211 kbps     00:43:02.329    26,316 kbps     00:41:16.682    25,548 kbps     00:41:16.515    119,850 bytes   504,826 bytes   00:43:02.371    
+11              0:43:44.037     0:03:02.682     24,191 kbps     31,117 kbps     00:45:49.913    27,206 kbps     00:46:13.520    26,424 kbps     00:46:11.226    126,121 bytes   505,870 bytes   00:45:49.955    
+12              0:46:46.720     0:03:40.637     23,763 kbps     30,424 kbps     00:48:18.562    26,896 kbps     00:50:16.763    26,179 kbps     00:50:16.137    123,888 bytes   500,517 bytes   00:49:58.703    
+13              0:50:27.357     0:05:21.112     24,761 kbps     29,933 kbps     00:50:32.070    27,051 kbps     00:53:13.523    26,259 kbps     00:50:31.653    129,094 bytes   427,395 bytes   00:52:20.470    
+14              0:55:48.469     0:06:01.277     24,551 kbps     30,134 kbps     01:00:49.020    26,898 kbps     01:01:25.431    26,409 kbps     01:00:10.523    127,996 bytes   444,045 bytes   00:56:40.647    
+15              1:01:49.747     0:06:16.918     23,033 kbps     31,135 kbps     01:07:16.073    26,960 kbps     01:06:40.704    25,671 kbps     01:06:40.788    120,085 bytes   450,226 bytes   01:05:12.491    
+16              1:08:06.665     0:02:28.565     23,325 kbps     32,052 kbps     01:09:32.084    27,612 kbps     01:09:14.650    26,613 kbps     01:09:31.917    121,608 bytes   463,939 bytes   01:08:21.096    
+17              1:10:35.230     0:07:41.961     23,839 kbps     30,688 kbps     01:10:53.624    28,304 kbps     01:15:43.038    27,021 kbps     01:11:20.067    124,284 bytes   534,282 bytes   01:11:23.946    
+18              1:18:17.192     0:02:49.586     24,245 kbps     34,608 kbps     01:20:59.229    26,836 kbps     01:20:19.647    26,272 kbps     01:18:31.748    126,402 bytes   548,055 bytes   01:18:56.272    
+19              1:21:06.778     0:01:05.273     23,348 kbps     29,963 kbps     01:21:31.219    26,873 kbps     01:21:23.545    26,231 kbps     01:21:23.419    121,726 bytes   406,518 bytes   01:21:17.831    
+20              1:22:12.051     0:06:04.280     11,639 kbps     27,869 kbps     01:28:07.657    20,974 kbps     01:27:57.188    16,537 kbps     01:22:48.713    60,685 bytes    448,927 bytes   01:28:13.079    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00325.M2TS      4113 (0x1011)   0x1B            AVC                                     170.295                 21,344                  454,345,409     2,471,686       
+00325.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           170.295                 4,048                   86,160,700      494,908         
+00325.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           170.295                 640                     13,632,000      79,875          
+00325.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           170.295                 1,510                   32,137,676      191,676         
+00325.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           170.295                 1,510                   32,137,676      191,676         
+00325.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            170.295                 1,510                   32,137,676      191,676         
+00325.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        170.295                 640                     13,632,000      79,875          
+00325.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           170.295                 29                      622,094         3,555           
+00325.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           170.295                 31                      664,250         3,804           
+00325.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           170.295                 31                      661,528         3,791           
+00325.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           170.295                 31                      669,312         3,838           
+00325.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            170.295                 32                      689,063         3,941           
+00325.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        170.295                 31                      657,761         3,769           
+00325.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           170.295                 31                      651,997         3,731           
+00325.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           170.295                 5                       98,387          577             
+00325.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           170.295                 6                       120,153         705             
+00325.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            170.295                 5                       103,348         611             
+00325.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        170.295                 4                       79,699          467             
+00325.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           170.295                 0                       70              7               
+00325.M2TS      6912 (0x1B00)   0x1B            AVC                                     170.295                 42                      887,719         6,786           
+00278.M2TS      4113 (0x1011)   0x1B            AVC                                     76.285                  24,202                  230,776,101     1,255,290       
+00278.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           76.285                  4,210                   40,145,892      230,065         
+00278.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           76.285                  641                     6,110,720       35,805          
+00278.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           76.285                  1,511                   14,405,920      85,920          
+00278.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           76.285                  1,511                   14,405,920      85,920          
+00278.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            76.285                  1,511                   14,405,920      85,920          
+00278.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        76.285                  641                     6,110,720       35,805          
+00278.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           76.285                  39                      373,820         2,147           
+00278.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           76.285                  44                      418,483         2,410           
+00278.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           76.285                  39                      368,755         2,119           
+00278.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           76.285                  37                      351,443         2,024           
+00278.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            76.285                  41                      392,595         2,248           
+00278.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        76.285                  41                      390,175         2,233           
+00278.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           76.285                  38                      359,011         2,066           
+00278.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           76.285                  0                       70              7               
+00278.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           76.285                  0                       70              7               
+00278.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            76.285                  0                       70              7               
+00278.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        76.285                  0                       70              7               
+00278.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           76.285                  0                       70              7               
+00278.M2TS      6912 (0x1B00)   0x1B            AVC                                     76.285                  40                      384,366         3,020           
+00279.M2TS      4113 (0x1011)   0x1B            AVC                                     81.707                  24,116                  246,309,573     1,339,777       
+00279.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           81.707                  4,147                   42,357,472      242,957         
+00279.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           81.707                  641                     6,548,480       38,370          
+00279.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           81.707                  1,511                   15,436,064      92,064          
+00279.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           81.707                  1,511                   15,436,064      92,064          
+00279.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            81.707                  1,511                   15,436,064      92,064          
+00279.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        81.707                  641                     6,548,480       38,370          
+00279.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           81.707                  29                      295,005         1,703           
+00279.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           81.707                  35                      360,907         2,110           
+00279.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           81.707                  27                      277,297         1,608           
+00279.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           81.707                  27                      279,826         1,621           
+00279.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            81.707                  32                      324,621         1,864           
+00279.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        81.707                  28                      288,043         1,663           
+00279.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           81.707                  29                      296,338         1,709           
+00279.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           81.707                  0                       70              7               
+00279.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           81.707                  0                       70              7               
+00279.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            81.707                  0                       70              7               
+00279.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        81.707                  0                       70              7               
+00279.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           81.707                  52                      535,677         2,968           
+00279.M2TS      6912 (0x1B00)   0x1B            AVC                                     81.707                  369                     3,772,320       21,479          
+00280.M2TS      4113 (0x1011)   0x1B            AVC                                     495.912                 22,897                  1,419,346,923   7,720,856       
+00280.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           495.912                 4,136                   256,414,208     1,471,032       
+00280.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           495.912                 640                     39,680,000      232,500         
+00280.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           495.912                 1,509                   93,558,000      558,000         
+00280.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           495.912                 1,509                   93,558,000      558,000         
+00280.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            495.912                 1,509                   93,558,000      558,000         
+00280.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        495.912                 640                     39,680,000      232,500         
+00280.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           495.912                 38                      2,339,710       13,449          
+00280.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           495.912                 44                      2,731,184       15,811          
+00280.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           495.912                 41                      2,527,092       14,538          
+00280.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           495.912                 39                      2,411,100       13,911          
+00280.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            495.912                 44                      2,702,023       15,488          
+00280.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        495.912                 40                      2,497,550       14,368          
+00280.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           495.912                 40                      2,481,042       14,282          
+00280.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           495.912                 4                       250,463         1,439           
+00280.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           495.912                 4                       223,541         1,293           
+00280.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            495.912                 4                       237,646         1,370           
+00280.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        495.912                 4                       229,500         1,325           
+00280.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           495.912                 0                       70              7               
+00280.M2TS      6912 (0x1B00)   0x1B            AVC                                     495.912                 42                      2,585,248       19,754          
+00281.M2TS      4113 (0x1011)   0x1B            AVC                                     104.104                 23,597                  307,070,995     1,670,342       
+00281.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           104.104                 3,791                   49,328,756      284,362         
+00281.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           104.104                 641                     8,335,360       48,840          
+00281.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           104.104                 1,510                   19,653,216      117,216         
+00281.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           104.104                 1,510                   19,653,216      117,216         
+00281.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            104.104                 1,510                   19,653,216      117,216         
+00281.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        104.104                 641                     8,335,360       48,840          
+00281.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           104.104                 48                      628,878         3,630           
+00281.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           104.104                 51                      658,288         3,810           
+00281.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           104.104                 48                      623,615         3,608           
+00281.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           104.104                 49                      633,876         3,665           
+00281.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            104.104                 53                      694,642         3,993           
+00281.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        104.104                 53                      695,360         3,992           
+00281.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           104.104                 48                      626,668         3,620           
+00281.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           104.104                 2                       30,829          174             
+00281.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           104.104                 2                       24,422          140             
+00281.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            104.104                 3                       36,962          208             
+00281.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        104.104                 3                       32,899          186             
+00281.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           104.104                 0                       70              7               
+00281.M2TS      6912 (0x1B00)   0x1B            AVC                                     104.104                 867                     11,282,583      62,596          
+00282.M2TS      4113 (0x1011)   0x1B            AVC                                     243.076                 24,263                  737,225,692     4,010,083       
+00282.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           243.076                 3,882                   117,950,340     678,923         
+00282.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           243.076                 640                     19,458,560      114,015         
+00282.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           243.076                 1,510                   45,875,612      273,612         
+00282.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           243.076                 1,510                   45,875,612      273,612         
+00282.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            243.076                 1,510                   45,875,612      273,612         
+00282.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        243.076                 640                     19,458,560      114,015         
+00282.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           243.076                 62                      1,892,097       10,807          
+00282.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           243.076                 64                      1,930,381       11,035          
+00282.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           243.076                 58                      1,751,597       10,045          
+00282.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           243.076                 57                      1,723,104       9,897           
+00282.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            243.076                 61                      1,850,856       10,586          
+00282.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        243.076                 57                      1,726,447       9,900           
+00282.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           243.076                 55                      1,660,052       9,552           
+00282.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           243.076                 0                       13,204          79              
+00282.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           243.076                 1                       25,691          147             
+00282.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            243.076                 1                       22,539          130             
+00282.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        243.076                 1                       19,136          111             
+00282.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           243.076                 0                       70              7               
+00282.M2TS      6912 (0x1B00)   0x1B            AVC                                     243.076                 202                     6,128,759       36,182          
+00283.M2TS      4113 (0x1011)   0x1B            AVC                                     174.883                 23,838                  521,116,866     2,834,626       
+00283.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           174.883                 4,149                   90,706,096      520,259         
+00283.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           174.883                 640                     13,998,080      82,020          
+00283.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           174.883                 1,510                   33,004,848      196,848         
+00283.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           174.883                 1,510                   33,004,848      196,848         
+00283.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            174.883                 1,510                   33,004,848      196,848         
+00283.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        174.883                 640                     13,998,080      82,020          
+00283.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           174.883                 45                      973,436         5,624           
+00283.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           174.883                 48                      1,055,528       6,103           
+00283.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           174.883                 42                      924,648         5,366           
+00283.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           174.883                 41                      905,145         5,262           
+00283.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            174.883                 46                      1,002,618       5,783           
+00283.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        174.883                 42                      926,405         5,372           
+00283.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           174.883                 44                      964,624         5,578           
+00283.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           174.883                 0                       7,422           47              
+00283.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           174.883                 1                       12,957          77              
+00283.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            174.883                 0                       10,451          63              
+00283.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        174.883                 0                       10,927          66              
+00283.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           174.883                 0                       70              7               
+00283.M2TS      6912 (0x1B00)   0x1B            AVC                                     174.883                 1,184                   25,878,042      142,858         
+00285.M2TS      4113 (0x1011)   0x1B            AVC                                     79.496                  23,996                  238,448,296     1,297,028       
+00285.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           79.496                  3,956                   39,312,120      226,068         
+00285.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           79.496                  641                     6,366,720       37,305          
+00285.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           79.496                  1,511                   15,011,532      89,532          
+00285.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           79.496                  1,511                   15,011,532      89,532          
+00285.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            79.496                  1,511                   15,011,532      89,532          
+00285.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        79.496                  641                     6,366,720       37,305          
+00285.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           79.496                  58                      578,080         3,300           
+00285.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           79.496                  57                      566,324         3,240           
+00285.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           79.496                  60                      591,943         3,390           
+00285.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           79.496                  58                      574,981         3,302           
+00285.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            79.496                  63                      627,701         3,589           
+00285.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        79.496                  58                      572,342         3,285           
+00285.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           79.496                  63                      623,706         3,564           
+00285.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           79.496                  0                       70              7               
+00285.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           79.496                  4                       34,876          203             
+00285.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            79.496                  4                       35,875          209             
+00285.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        79.496                  0                       70              7               
+00285.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           79.496                  0                       70              7               
+00285.M2TS      6912 (0x1B00)   0x1B            AVC                                     79.496                  78                      773,411         5,111           
+00335.M2TS      4113 (0x1011)   0x1B            AVC                                     106.023                 22,420                  297,133,409     1,616,352       
+00335.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           106.023                 3,896                   51,633,076      297,138         
+00335.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           106.023                 641                     8,488,960       49,740          
+00335.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           106.023                 1,510                   20,015,376      119,376         
+00335.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           106.023                 1,510                   20,015,376      119,376         
+00335.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            106.023                 1,510                   20,015,376      119,376         
+00335.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        106.023                 641                     8,488,960       49,740          
+00335.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           106.023                 59                      783,689         4,488           
+00335.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           106.023                 64                      854,620         4,923           
+00335.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           106.023                 54                      710,815         4,092           
+00335.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           106.023                 54                      713,534         4,110           
+00335.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            106.023                 57                      759,060         4,356           
+00335.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        106.023                 55                      734,910         4,226           
+00335.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           106.023                 56                      737,247         4,234           
+00335.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           106.023                 0                       70              7               
+00335.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           106.023                 0                       70              7               
+00335.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            106.023                 0                       70              7               
+00335.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        106.023                 0                       70              7               
+00335.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           106.023                 0                       70              7               
+00335.M2TS      6912 (0x1B00)   0x1B            AVC                                     106.023                 38                      499,783         3,952           
+00353.M2TS      4113 (0x1011)   0x1B            AVC                                     55.138                  23,236                  160,151,598     871,164         
+00353.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           55.138                  4,273                   29,452,244      168,632         
+00353.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           55.138                  641                     4,418,560       25,890          
+00353.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           55.138                  1,512                   10,418,136      62,136          
+00353.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           55.138                  1,512                   10,418,136      62,136          
+00353.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            55.138                  1,512                   10,418,136      62,136          
+00353.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        55.138                  641                     4,418,560       25,890          
+00353.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           55.138                  37                      257,812         1,490           
+00353.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           55.138                  44                      301,164         1,760           
+00353.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           55.138                  39                      267,749         1,542           
+00353.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           55.138                  35                      244,070         1,415           
+00353.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            55.138                  39                      272,002         1,566           
+00353.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        55.138                  40                      273,674         1,575           
+00353.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           55.138                  34                      231,701         1,348           
+00353.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           55.138                  0                       70              7               
+00353.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           55.138                  0                       70              7               
+00353.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            55.138                  0                       70              7               
+00353.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        55.138                  0                       70              7               
+00353.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           55.138                  0                       70              7               
+00353.M2TS      6912 (0x1B00)   0x1B            AVC                                     55.138                  38                      260,571         2,059           
+00354.M2TS      4113 (0x1011)   0x1B            AVC                                     49.091                  21,499                  131,923,077     717,665         
+00354.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           49.091                  3,877                   23,790,120      136,937         
+00354.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           49.091                  641                     3,934,720       23,055          
+00354.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           49.091                  1,512                   9,277,332       55,332          
+00354.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           49.091                  1,512                   9,277,332       55,332          
+00354.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            49.091                  1,512                   9,277,332       55,332          
+00354.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        49.091                  641                     3,934,720       23,055          
+00354.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           49.091                  57                      351,924         2,005           
+00354.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           49.091                  60                      369,285         2,114           
+00354.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           49.091                  63                      386,893         2,207           
+00354.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           49.091                  54                      329,394         1,893           
+00354.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            49.091                  55                      339,506         1,945           
+00354.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        49.091                  60                      365,459         2,090           
+00354.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           49.091                  59                      362,069         2,071           
+00354.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           49.091                  0                       70              7               
+00354.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           49.091                  4                       22,568          130             
+00354.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            49.091                  3                       20,319          117             
+00354.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        49.091                  0                       70              7               
+00354.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           49.091                  0                       70              7               
+00354.M2TS      6912 (0x1B00)   0x1B            AVC                                     49.091                  38                      231,638         1,832           
+00337.M2TS      4113 (0x1011)   0x1B            AVC                                     94.469                  24,055                  284,061,554     1,545,123       
+00337.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           94.469                  3,985                   47,060,568      270,535         
+00337.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           94.469                  641                     7,564,800       44,325          
+00337.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           94.469                  1,510                   17,836,380      106,380         
+00337.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           94.469                  1,510                   17,836,380      106,380         
+00337.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            94.469                  1,510                   17,836,380      106,380         
+00337.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        94.469                  641                     7,564,800       44,325          
+00337.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           94.469                  53                      629,971         3,602           
+00337.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           94.469                  55                      654,186         3,740           
+00337.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           94.469                  52                      611,076         3,501           
+00337.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           94.469                  51                      599,833         3,441           
+00337.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            94.469                  58                      685,459         3,903           
+00337.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        94.469                  51                      598,948         3,437           
+00337.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           94.469                  51                      599,270         3,438           
+00337.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           94.469                  0                       70              7               
+00337.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           94.469                  0                       70              7               
+00337.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            94.469                  0                       70              7               
+00337.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        94.469                  0                       70              7               
+00337.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           94.469                  0                       70              7               
+00337.M2TS      6912 (0x1B00)   0x1B            AVC                                     94.469                  38                      445,635         3,523           
+00338.M2TS      4113 (0x1011)   0x1B            AVC                                     130.839                 24,204                  395,855,282     2,153,230       
+00338.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           130.839                 3,958                   64,737,192      372,295         
+00338.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           130.839                 641                     10,475,520      61,380          
+00338.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           130.839                 1,510                   24,695,288      147,288         
+00338.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           130.839                 1,510                   24,695,288      147,288         
+00338.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            130.839                 1,510                   24,695,288      147,288         
+00338.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        130.839                 641                     10,475,520      61,380          
+00338.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           130.839                 53                      860,236         4,912           
+00338.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           130.839                 57                      930,343         5,333           
+00338.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           130.839                 47                      765,941         4,397           
+00338.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           130.839                 45                      743,349         4,277           
+00338.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            130.839                 54                      876,824         5,004           
+00338.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        130.839                 48                      780,100         4,475           
+00338.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           130.839                 49                      803,319         4,606           
+00338.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           130.839                 0                       70              7               
+00338.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           130.839                 0                       70              7               
+00338.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            130.839                 0                       70              7               
+00338.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        130.839                 0                       70              7               
+00338.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           130.839                 0                       70              7               
+00338.M2TS      6912 (0x1B00)   0x1B            AVC                                     130.839                 38                      616,523         4,876           
+00339.M2TS      4113 (0x1011)   0x1B            AVC                                     130.130                 23,495                  382,180,653     2,078,930       
+00339.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           130.130                 3,879                   63,101,740      363,150         
+00339.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           130.130                 641                     10,419,200      61,050          
+00339.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           130.130                 1,510                   24,562,496      146,496         
+00339.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           130.130                 1,510                   24,562,496      146,496         
+00339.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            130.130                 1,510                   24,562,496      146,496         
+00339.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        130.130                 641                     10,419,200      61,050          
+00339.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           130.130                 35                      565,375         3,289           
+00339.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           130.130                 38                      614,616         3,564           
+00339.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           130.130                 35                      565,877         3,291           
+00339.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           130.130                 35                      561,847         3,280           
+00339.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            130.130                 40                      652,008         3,768           
+00339.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        130.130                 36                      590,498         3,430           
+00339.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           130.130                 36                      583,844         3,392           
+00339.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           130.130                 0                       70              7               
+00339.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           130.130                 1                       17,998          105             
+00339.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            130.130                 1                       22,377          129             
+00339.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        130.130                 0                       70              7               
+00339.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           130.130                 0                       70              7               
+00339.M2TS      6912 (0x1B00)   0x1B            AVC                                     130.130                 38                      613,976         4,853           
+00340.M2TS      4113 (0x1011)   0x1B            AVC                                     133.759                 21,065                  352,198,021     1,915,975       
+00340.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           133.759                 3,954                   66,114,500      380,302         
+00340.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           133.759                 640                     10,708,480      62,745          
+00340.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           133.759                 1,510                   25,246,576      150,576         
+00340.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           133.759                 1,510                   25,246,576      150,576         
+00340.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            133.759                 1,510                   25,246,576      150,576         
+00340.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        133.759                 640                     10,708,480      62,745          
+00340.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           133.759                 41                      689,635         3,931           
+00340.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           133.759                 44                      741,965         4,242           
+00340.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           133.759                 40                      664,118         3,791           
+00340.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           133.759                 39                      649,142         3,712           
+00340.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            133.759                 42                      707,995         4,027           
+00340.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        133.759                 39                      660,081         3,769           
+00340.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           133.759                 41                      692,748         3,948           
+00340.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           133.759                 0                       70              7               
+00340.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           133.759                 0                       70              7               
+00340.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            133.759                 0                       70              7               
+00340.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        133.759                 0                       70              7               
+00340.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           133.759                 0                       70              7               
+00340.M2TS      6912 (0x1B00)   0x1B            AVC                                     133.759                 38                      630,128         4,984           
+00287.M2TS      4113 (0x1011)   0x1B            AVC                                     494.577                 22,148                  1,369,236,351   7,448,446       
+00287.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           494.577                 3,854                   238,287,928     1,372,077       
+00287.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           494.577                 640                     39,577,600      231,900         
+00287.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           494.577                 1,509                   93,314,548      556,548         
+00287.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           494.577                 1,509                   93,314,548      556,548         
+00287.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            494.577                 1,509                   93,314,548      556,548         
+00287.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        494.577                 640                     39,577,600      231,900         
+00287.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           494.577                 39                      2,421,112       13,934          
+00287.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           494.577                 42                      2,614,668       15,088          
+00287.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           494.577                 40                      2,456,021       14,146          
+00287.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           494.577                 39                      2,432,227       14,027          
+00287.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            494.577                 42                      2,601,381       14,940          
+00287.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        494.577                 39                      2,405,856       13,872          
+00287.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           494.577                 39                      2,430,271       14,019          
+00287.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           494.577                 1                       87,897          506             
+00287.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           494.577                 2                       111,548         640             
+00287.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            494.577                 2                       109,836         633             
+00287.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        494.577                 1                       82,845          478             
+00287.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           494.577                 9                       535,677         2,968           
+00287.M2TS      6912 (0x1B00)   0x1B            AVC                                     494.577                 874                     54,020,416      299,849         
+00288.M2TS      4113 (0x1011)   0x1B            AVC                                     182.516                 24,184                  551,747,970     3,001,203       
+00288.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           182.516                 4,579                   104,478,324     596,367         
+00288.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           182.516                 640                     14,609,920      85,605          
+00288.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           182.516                 1,510                   34,443,428      205,428         
+00288.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           182.516                 1,510                   34,443,428      205,428         
+00288.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            182.516                 1,510                   34,443,428      205,428         
+00288.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        182.516                 640                     14,609,920      85,605          
+00288.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           182.516                 27                      621,619         3,659           
+00288.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           182.516                 33                      757,393         4,458           
+00288.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           182.516                 27                      610,908         3,603           
+00288.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           182.516                 25                      563,715         3,346           
+00288.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            182.516                 29                      672,976         3,944           
+00288.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        182.516                 26                      583,097         3,424           
+00288.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           182.516                 26                      589,702         3,485           
+00288.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           182.516                 0                       70              7               
+00288.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           182.516                 0                       70              7               
+00288.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            182.516                 0                       6,470           42              
+00288.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        182.516                 0                       70              7               
+00288.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           182.516                 0                       70              7               
+00288.M2TS      6912 (0x1B00)   0x1B            AVC                                     182.516                 38                      860,485         6,803           
+00289.M2TS      4113 (0x1011)   0x1B            AVC                                     360.527                 24,234                  1,092,107,734   5,940,443       
+00289.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           360.527                 3,908                   176,107,828     1,013,557       
+00289.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           360.527                 640                     28,851,200      169,050         
+00289.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           360.527                 1,509                   68,021,696      405,696         
+00289.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           360.527                 1,509                   68,021,696      405,696         
+00289.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            360.527                 1,509                   68,021,696      405,696         
+00289.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        360.527                 640                     28,851,200      169,050         
+00289.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           360.527                 41                      1,858,954       10,679          
+00289.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           360.527                 44                      1,985,781       11,456          
+00289.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           360.527                 41                      1,838,408       10,580          
+00289.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           360.527                 40                      1,794,167       10,340          
+00289.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            360.527                 44                      1,978,785       11,337          
+00289.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        360.527                 41                      1,833,726       10,550          
+00289.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           360.527                 40                      1,813,056       10,446          
+00289.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           360.527                 1                       34,614          203             
+00289.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           360.527                 1                       42,925          246             
+00289.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            360.527                 1                       39,005          226             
+00289.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        360.527                 1                       34,861          203             
+00289.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           360.527                 12                      535,677         2,968           
+00289.M2TS      6912 (0x1B00)   0x1B            AVC                                     360.527                 1,728                   77,878,432      428,070         
+00290.M2TS      4113 (0x1011)   0x1B            AVC                                     232.524                 24,692                  717,691,512     3,903,773       
+00290.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           232.524                 3,903                   113,440,300     652,821         
+00290.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           232.524                 640                     18,608,640      109,035         
+00290.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           232.524                 1,510                   43,875,684      261,684         
+00290.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           232.524                 1,510                   43,875,684      261,684         
+00290.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            232.524                 1,510                   43,875,684      261,684         
+00290.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        232.524                 640                     18,608,640      109,035         
+00290.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           232.524                 49                      1,419,476       8,118           
+00290.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           232.524                 49                      1,432,858       8,220           
+00290.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           232.524                 46                      1,343,534       7,714           
+00290.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           232.524                 48                      1,406,143       8,050           
+00290.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            232.524                 50                      1,440,677       8,232           
+00290.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        232.524                 48                      1,400,928       8,018           
+00290.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           232.524                 45                      1,318,235       7,573           
+00290.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           232.524                 0                       70              7               
+00290.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           232.524                 0                       70              7               
+00290.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            232.524                 0                       70              7               
+00290.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        232.524                 0                       70              7               
+00290.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           232.524                 0                       70              7               
+00290.M2TS      6912 (0x1B00)   0x1B            AVC                                     232.524                 1,819                   52,870,850      290,530         
+00291.M2TS      4113 (0x1011)   0x1B            AVC                                     306.389                 24,513                  938,833,710     5,106,659       
+00291.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           306.389                 4,635                   177,499,256     1,012,480       
+00291.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           306.389                 640                     24,522,240      143,685         
+00291.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           306.389                 1,510                   57,816,832      344,832         
+00291.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           306.389                 1,510                   57,816,832      344,832         
+00291.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            306.389                 1,510                   57,816,832      344,832         
+00291.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        306.389                 640                     24,522,240      143,685         
+00291.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           306.389                 35                      1,337,253       7,712           
+00291.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           306.389                 40                      1,532,186       8,840           
+00291.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           306.389                 34                      1,311,088       7,594           
+00291.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           306.389                 35                      1,356,460       7,846           
+00291.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            306.389                 37                      1,434,537       8,264           
+00291.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        306.389                 34                      1,313,513       7,604           
+00291.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           306.389                 34                      1,309,157       7,580           
+00291.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           306.389                 1                       24,021          144             
+00291.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           306.389                 1                       50,753          295             
+00291.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            306.389                 1                       36,570          219             
+00291.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        306.389                 1                       36,026          217             
+00291.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           306.389                 0                       70              7               
+00291.M2TS      6912 (0x1B00)   0x1B            AVC                                     306.389                 989                     37,873,241      209,605         
+00292.M2TS      4113 (0x1011)   0x1B            AVC                                     164.706                 22,259                  458,264,258     2,492,901       
+00292.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           164.706                 3,930                   80,915,232      465,476         
+00292.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           164.706                 640                     13,184,000      77,250          
+00292.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           164.706                 1,510                   31,085,400      185,400         
+00292.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           164.706                 1,510                   31,085,400      185,400         
+00292.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            164.706                 1,510                   31,085,400      185,400         
+00292.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        164.706                 640                     13,184,000      77,250          
+00292.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           164.706                 35                      727,521         4,174           
+00292.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           164.706                 40                      818,707         4,750           
+00292.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           164.706                 35                      720,538         4,163           
+00292.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           164.706                 38                      776,146         4,471           
+00292.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            164.706                 38                      787,129         4,533           
+00292.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        164.706                 36                      746,565         4,305           
+00292.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           164.706                 37                      767,709         4,421           
+00292.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           164.706                 4                       91,776          534             
+00292.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           164.706                 5                       96,414          559             
+00292.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            164.706                 5                       101,173         585             
+00292.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        164.706                 5                       102,517         591             
+00292.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           164.706                 0                       70              7               
+00292.M2TS      6912 (0x1B00)   0x1B            AVC                                     164.706                 621                     12,789,678      71,588          
+00293.M2TS      4113 (0x1011)   0x1B            AVC                                     301.718                 23,432                  883,749,292     4,807,265       
+00293.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           301.718                 4,287                   161,676,736     925,742         
+00293.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           301.718                 640                     24,145,920      141,480         
+00293.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           301.718                 1,509                   56,927,528      339,528         
+00293.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           301.718                 1,509                   56,927,528      339,528         
+00293.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            301.718                 1,509                   56,927,528      339,528         
+00293.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        301.718                 640                     24,145,920      141,480         
+00293.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           301.718                 37                      1,394,633       8,016           
+00293.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           301.718                 41                      1,529,092       8,795           
+00293.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           301.718                 36                      1,355,943       7,833           
+00293.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           301.718                 37                      1,386,108       7,992           
+00293.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            301.718                 40                      1,496,806       8,599           
+00293.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        301.718                 37                      1,382,408       7,982           
+00293.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           301.718                 35                      1,334,174       7,716           
+00293.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           301.718                 3                       101,974         600             
+00293.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           301.718                 3                       104,576         616             
+00293.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            301.718                 3                       95,699          568             
+00293.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        301.718                 3                       111,602         653             
+00293.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           301.718                 0                       70              7               
+00293.M2TS      6912 (0x1B00)   0x1B            AVC                                     301.718                 396                     14,919,102      84,669          
+00294.M2TS      4113 (0x1011)   0x1B            AVC                                     113.697                 23,802                  338,283,152     1,840,090       
+00294.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           113.697                 4,106                   58,352,424      334,915         
+00294.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           113.697                 641                     9,103,360       53,340          
+00294.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           113.697                 1,510                   21,462,004      128,004         
+00294.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           113.697                 1,510                   21,462,004      128,004         
+00294.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            113.697                 1,510                   21,462,004      128,004         
+00294.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        113.697                 641                     9,103,360       53,340          
+00294.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           113.697                 49                      690,481         3,946           
+00294.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           113.697                 50                      706,475         4,038           
+00294.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           113.697                 49                      690,988         3,959           
+00294.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           113.697                 49                      702,187         4,015           
+00294.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            113.697                 52                      741,919         4,228           
+00294.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        113.697                 50                      710,945         4,057           
+00294.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           113.697                 47                      674,010         3,860           
+00294.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           113.697                 0                       70              7               
+00294.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           113.697                 0                       70              7               
+00294.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            113.697                 0                       70              7               
+00294.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        113.697                 0                       70              7               
+00294.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           113.697                 0                       70              7               
+00294.M2TS      6912 (0x1B00)   0x1B            AVC                                     113.697                 1,182                   16,798,594      92,902          
+00295.M2TS      4113 (0x1011)   0x1B            AVC                                     181.515                 24,677                  559,901,001     3,045,511       
+00295.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           181.515                 4,689                   106,378,964     606,439         
+00295.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           181.515                 641                     14,533,120      85,155          
+00295.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           181.515                 1,510                   34,262,348      204,348         
+00295.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           181.515                 1,510                   34,262,348      204,348         
+00295.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            181.515                 1,510                   34,262,348      204,348         
+00295.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        181.515                 641                     14,533,120      85,155          
+00295.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           181.515                 24                      548,252         3,171           
+00295.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           181.515                 28                      626,359         3,669           
+00295.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           181.515                 22                      499,202         2,907           
+00295.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           181.515                 22                      507,971         2,951           
+00295.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            181.515                 26                      579,176         3,337           
+00295.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        181.515                 24                      548,975         3,176           
+00295.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           181.515                 23                      517,622         3,004           
+00295.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           181.515                 0                       70              7               
+00295.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           181.515                 0                       70              7               
+00295.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            181.515                 0                       70              7               
+00295.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        181.515                 0                       70              7               
+00295.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           181.515                 0                       70              7               
+00295.M2TS      6912 (0x1B00)   0x1B            AVC                                     181.515                 953                     21,626,545      119,842         
+00296.M2TS      4113 (0x1011)   0x1B            AVC                                     398.398                 23,665                  1,178,522,598   6,410,660       
+00296.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           398.398                 4,042                   201,308,992     1,155,975       
+00296.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           398.398                 640                     31,879,680      186,795         
+00296.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           398.398                 1,509                   75,164,296      448,296         
+00296.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           398.398                 1,509                   75,164,296      448,296         
+00296.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            398.398                 1,509                   75,164,296      448,296         
+00296.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        398.398                 640                     31,879,680      186,795         
+00296.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           398.398                 37                      1,828,299       10,552          
+00296.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           398.398                 39                      1,924,346       11,139          
+00296.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           398.398                 37                      1,831,645       10,599          
+00296.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           398.398                 37                      1,850,367       10,711          
+00296.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            398.398                 40                      1,988,795       11,464          
+00296.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        398.398                 39                      1,934,395       11,169          
+00296.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           398.398                 37                      1,861,400       10,774          
+00296.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           398.398                 1                       67,608          408             
+00296.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           398.398                 2                       89,300          533             
+00296.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            398.398                 1                       58,779          363             
+00296.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        398.398                 2                       90,237          539             
+00296.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           398.398                 0                       70              7               
+00296.M2TS      6912 (0x1B00)   0x1B            AVC                                     398.398                 623                     31,009,896      173,491         
+00297.M2TS      4113 (0x1011)   0x1B            AVC                                     66.942                  23,805                  199,197,048     1,083,550       
+00297.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           66.942                  4,793                   40,105,484      228,404         
+00297.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           66.942                  641                     5,365,760       31,440          
+00297.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           66.942                  1,512                   12,651,456      75,456          
+00297.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           66.942                  1,512                   12,651,456      75,456          
+00297.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            66.942                  1,512                   12,651,456      75,456          
+00297.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        66.942                  641                     5,365,760       31,440          
+00297.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           66.942                  11                      90,383          538             
+00297.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           66.942                  24                      197,731         1,177           
+00297.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           66.942                  9                       75,547          460             
+00297.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           66.942                  10                      86,700          518             
+00297.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            66.942                  12                      103,138         607             
+00297.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        66.942                  10                      80,278          476             
+00297.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           66.942                  10                      87,407          522             
+00297.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           66.942                  0                       70              7               
+00297.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           66.942                  0                       70              7               
+00297.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            66.942                  0                       70              7               
+00297.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        66.942                  0                       70              7               
+00297.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           66.942                  0                       70              7               
+00297.M2TS      6912 (0x1B00)   0x1B            AVC                                     66.942                  86                      723,566         4,679           
+00314.M2TS      4113 (0x1011)   0x1B            AVC                                     365.115                 11,614                  530,053,910     2,885,888       
+00314.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           365.115                 4,139                   188,905,300     1,083,450       
+00314.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           365.115                 640                     29,217,280      171,195         
+00314.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           365.115                 1,509                   68,886,856      410,856         
+00314.M2TS      4355 (0x1103)   0x82            DTS             ita (Italian)           365.115                 1,509                   68,886,856      410,856         
+00314.M2TS      4356 (0x1104)   0x82            DTS             deu (German)            365.115                 1,509                   68,886,856      410,856         
+00314.M2TS      4357 (0x1105)   0x81            AC3             por (Portuguese)        365.115                 640                     29,217,280      171,195         
+00314.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           365.115                 2                       110,082         638             
+00314.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           365.115                 3                       116,553         672             
+00314.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           365.115                 3                       152,617         883             
+00314.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           365.115                 4                       164,512         948             
+00314.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            365.115                 4                       161,529         928             
+00314.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        365.115                 3                       137,515         797             
+00314.M2TS      4614 (0x1206)   0x90            PGS             tur (Turkish)           365.115                 2                       106,590         620             
+00314.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           365.115                 1                       38,158          219             
+00314.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           365.115                 1                       41,742          239             
+00314.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            365.115                 1                       33,576          193             
+00314.M2TS      4618 (0x120A)   0x90            PGS             por (Portuguese)        365.115                 0                       12,414          77              
+00314.M2TS      4619 (0x120B)   0x90            PGS             eng (English)           365.115                 0                       70              7               
+00314.M2TS      6912 (0x1B00)   0x1B            AVC                                     365.115                 38                      1,720,254       13,603          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: G-Force - Blu-ray™
+Disc Label: G-Force.2009.1080p.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 48,430,043,099 bytes
+Protection: AACS
+Playlist: 00034.MPLS
+Size: 23,661,668,352 bytes
+Length: 1:28:16.332
+Total Bitrate: 35.74 Mbps
+Video: MPEG-4 AVC Video / 22621 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Video: MPEG-4 AVC Video / 571 kbps / Left Eye / 480p / 23.976 fps / 4:3 / High Profile 3.2
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4102 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 37.596 kbps
+Subtitle: English / 40.924 kbps
+Subtitle: Spanish / 37.136 kbps
+Subtitle: Italian / 36.881 kbps
+Subtitle: German / 40.124 kbps
+Subtitle: Portuguese / 37.514 kbps
+Subtitle: Turkish / 36.981 kbps
+Subtitle: Spanish / 1.280 kbps
+Subtitle: Italian / 1.541 kbps
+Subtitle: German / 1.467 kbps
+Subtitle: Portuguese / 1.274 kbps
+* Subtitle: English / 2.430 kbps
+

@@ -1,0 +1,1342 @@
+Disc Title:     Finding Nemo - Blu-ray™
+Disc Label:     Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      41,728,860,004 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:40:53 30,035,177,472  41,728,860,004  39.69   24.51   Dolby TrueHD 7.1 6973Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Finding Nemo - Blu-ray™
+Disc Label:     Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      41,728,860,004 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:40:53.964 (h:m:s.ms)
+Size:                   30,035,177,472 bytes
+Total Bitrate:          39.69 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24506 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         6973 kbps       7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Dolby Digital EX Audio          German          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Spanish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Portuguese      640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Turkish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Catalan         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         41.419 kbps                     
+Presentation Graphics           English         39.167 kbps                     
+Presentation Graphics           German          34.599 kbps                     
+Presentation Graphics           Spanish         37.128 kbps                     
+Presentation Graphics           Portuguese      38.852 kbps                     
+Presentation Graphics           Turkish         34.491 kbps                     
+Presentation Graphics           Portuguese      0.082 kbps                      
+Presentation Graphics           Turkish         0.073 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     0:04:45.785     1,532,153,856   42,890          
+00872.M2TS      0:04:45.785     0:00:52.260     255,025,152     39,039          
+00873.M2TS      0:05:38.046     1:27:46.219     26,182,207,488  39,774          
+00876.M2TS      1:33:24.265     0:07:05.174     1,954,394,112   36,773          
+00877.M2TS      1:40:29.440     0:00:24.524     111,396,864     36,338          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:18.716     27,946 kbps     38,696 kbps     00:00:32.532    32,695 kbps     00:00:28.445    32,069 kbps     00:00:23.440    145,675 bytes   567,613 bytes   00:00:33.033    
+2               0:04:18.716     0:01:16.951     26,397 kbps     34,058 kbps     00:04:42.865    31,729 kbps     00:04:36.818    31,470 kbps     00:04:20.635    137,622 bytes   468,126 bytes   00:04:38.403    
+3               0:05:35.668     0:05:42.133     24,514 kbps     33,456 kbps     00:09:48.713    31,527 kbps     00:05:53.686    31,330 kbps     00:06:17.752    127,803 bytes   433,139 bytes   00:10:33.591    
+4               0:11:17.802     0:00:58.475     27,481 kbps     33,839 kbps     00:11:50.042    31,507 kbps     00:11:21.514    31,253 kbps     00:11:32.191    143,273 bytes   322,380 bytes   00:12:16.277    
+5               0:12:16.277     0:01:52.570     26,780 kbps     34,704 kbps     00:13:53.707    31,845 kbps     00:13:53.707    30,795 kbps     00:12:45.556    139,619 bytes   495,696 bytes   00:13:55.334    
+6               0:14:08.847     0:02:20.431     26,034 kbps     33,424 kbps     00:15:01.942    31,479 kbps     00:14:53.100    29,634 kbps     00:15:01.317    135,727 bytes   416,933 bytes   00:15:02.735    
+7               0:16:29.279     0:02:21.057     28,585 kbps     33,713 kbps     00:16:46.380    31,645 kbps     00:16:35.494    31,352 kbps     00:16:30.447    149,031 bytes   468,879 bytes   00:16:47.297    
+8               0:18:50.337     0:06:41.651     24,420 kbps     36,547 kbps     00:25:19.559    29,693 kbps     00:25:26.483    28,933 kbps     00:25:19.851    127,316 bytes   507,974 bytes   00:24:27.007    
+9               0:25:31.988     0:05:22.238     23,626 kbps     33,642 kbps     00:29:04.868    31,128 kbps     00:25:48.380    30,634 kbps     00:30:38.336    123,177 bytes   479,553 bytes   00:29:05.785    
+10              0:30:54.227     0:02:07.418     26,466 kbps     31,822 kbps     00:32:06.257    29,445 kbps     00:32:42.752    28,541 kbps     00:32:38.998    137,983 bytes   508,969 bytes   00:31:29.637    
+11              0:33:01.646     0:03:10.190     25,247 kbps     33,022 kbps     00:34:57.303    30,970 kbps     00:34:52.465    30,379 kbps     00:34:52.340    131,627 bytes   368,155 bytes   00:35:04.143    
+12              0:36:11.836     0:04:07.330     24,927 kbps     35,360 kbps     00:39:49.637    32,204 kbps     00:39:45.633    30,227 kbps     00:39:44.548    129,957 bytes   492,141 bytes   00:39:47.760    
+13              0:40:19.166     0:04:39.112     22,738 kbps     34,994 kbps     00:40:51.198    29,312 kbps     00:43:50.711    27,545 kbps     00:43:46.290    118,546 bytes   450,420 bytes   00:44:08.354    
+14              0:44:58.278     0:03:14.110     20,914 kbps     33,018 kbps     00:48:06.758    31,494 kbps     00:48:06.800    29,057 kbps     00:48:02.379    109,037 bytes   365,486 bytes   00:45:02.032    
+15              0:48:12.389     0:03:16.029     26,427 kbps     33,543 kbps     00:49:42.437    31,696 kbps     00:49:53.240    31,465 kbps     00:49:48.318    137,778 bytes   432,277 bytes   00:49:43.397    
+16              0:51:28.418     0:04:38.611     23,058 kbps     31,664 kbps     00:52:38.697    31,094 kbps     00:52:38.864    29,266 kbps     00:52:34.901    120,213 bytes   317,255 bytes   00:53:01.386    
+17              0:56:07.030     0:04:48.871     24,801 kbps     33,156 kbps     00:59:44.163    31,629 kbps     01:00:31.377    31,480 kbps     01:00:27.540    129,298 bytes   450,808 bytes   00:59:19.013    
+18              1:00:55.902     0:04:24.764     31,295 kbps     33,512 kbps     01:04:44.589    31,797 kbps     01:05:10.948    31,574 kbps     01:05:09.947    163,157 bytes   404,685 bytes   01:05:13.534    
+19              1:05:20.666     0:01:41.434     25,545 kbps     32,841 kbps     01:05:24.337    31,573 kbps     01:05:22.627    31,098 kbps     01:05:20.666    133,180 bytes   343,085 bytes   01:05:25.171    
+20              1:07:02.101     0:01:28.046     30,128 kbps     35,365 kbps     01:07:17.074    32,037 kbps     01:07:13.696    31,704 kbps     01:07:08.065    157,076 bytes   620,570 bytes   01:07:17.908    
+21              1:08:30.147     0:04:49.288     21,882 kbps     32,839 kbps     01:10:26.805    30,310 kbps     01:10:24.261    29,395 kbps     01:10:18.213    114,081 bytes   423,434 bytes   01:10:19.506    
+22              1:13:19.436     0:00:55.764     24,105 kbps     31,812 kbps     01:13:45.838    31,369 kbps     01:13:42.042    29,747 kbps     01:13:37.538    125,672 bytes   361,790 bytes   01:13:41.250    
+23              1:14:15.200     0:01:44.896     27,856 kbps     34,126 kbps     01:15:36.198    31,871 kbps     01:14:19.663    31,477 kbps     01:15:27.189    145,231 bytes   554,762 bytes   01:14:31.967    
+24              1:16:00.097     0:02:41.202     22,830 kbps     33,064 kbps     01:16:35.132    30,714 kbps     01:16:03.725    28,951 kbps     01:16:03.725    119,027 bytes   480,367 bytes   01:17:11.460    
+25              1:18:41.299     0:03:16.321     23,277 kbps     33,635 kbps     01:20:47.968    31,482 kbps     01:21:18.206    30,758 kbps     01:21:15.328    121,353 bytes   568,181 bytes   01:20:47.300    
+26              1:21:57.621     0:02:31.860     20,566 kbps     28,280 kbps     01:22:18.558    24,600 kbps     01:22:18.600    24,334 kbps     01:22:09.341    107,221 bytes   396,797 bytes   01:22:23.063    
+27              1:24:29.481     0:02:24.853     21,344 kbps     32,802 kbps     01:25:38.925    28,119 kbps     01:25:34.963    26,426 kbps     01:25:29.958    111,276 bytes   449,483 bytes   01:25:34.379    
+28              1:26:54.334     0:02:32.277     23,748 kbps     34,592 kbps     01:29:20.396    31,252 kbps     01:28:21.879    29,071 kbps     01:28:21.129    123,814 bytes   392,267 bytes   01:29:10.511    
+29              1:29:26.611     0:01:24.751     20,782 kbps     31,654 kbps     01:29:39.999    25,375 kbps     01:29:37.121    24,615 kbps     01:29:32.200    108,349 bytes   527,004 bytes   01:29:34.619    
+30              1:30:51.362     0:01:51.611     23,218 kbps     32,801 kbps     01:31:01.664    30,080 kbps     01:30:59.537    27,330 kbps     01:30:55.199    121,049 bytes   365,316 bytes   01:32:19.200    
+31              1:32:42.974     0:00:41.291     22,218 kbps     26,563 kbps     01:33:01.492    25,615 kbps     01:33:00.866    24,235 kbps     01:33:00.741    115,836 bytes   387,342 bytes   01:32:53.734    
+32              1:33:24.265     0:07:29.699     22,206 kbps     34,118 kbps     01:40:33.569    31,797 kbps     01:40:30.482    28,360 kbps     01:33:37.737    115,784 bytes   463,189 bytes   01:40:32.609    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     285.702                 28,153                  1,005,432,089   5,468,397       
+00801.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           285.702                 6,389                   228,152,774     1,465,063       
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            285.702                 896                     32,008,704      187,551         
+00801.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            285.702                 640                     22,863,360      133,965         
+00801.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        285.702                 640                     22,863,360      133,965         
+00801.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           285.702                 31                      1,109,123       6,399           
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           285.702                 28                      1,004,291       5,795           
+00801.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            285.702                 26                      930,458         5,334           
+00801.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           285.702                 26                      922,758         5,298           
+00801.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        285.702                 29                      1,021,147       5,849           
+00801.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           285.702                 24                      847,060         4,880           
+00801.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        285.702                 0                       70              7               
+00801.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           285.702                 0                       70              7               
+00872.M2TS      4113 (0x1011)   0x1B            AVC                                     52.177                  24,389                  159,066,589     865,245         
+00872.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           52.177                  6,632                   43,253,932      273,162         
+00872.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00872.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00872.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            52.177                  898                     5,856,256       34,314          
+00872.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            52.177                  641                     4,183,040       24,510          
+00872.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           52.177                  641                     4,183,040       24,510          
+00872.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        52.177                  641                     4,183,040       24,510          
+00872.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           52.177                  641                     4,183,040       24,510          
+00872.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           52.177                  641                     4,183,040       24,510          
+00872.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00872.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00872.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            52.177                  16                      103,950         606             
+00872.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           52.177                  23                      149,662         862             
+00872.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        52.177                  21                      139,160         806             
+00872.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           52.177                  15                      100,548         587             
+00872.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        52.177                  9                       61,541          356             
+00872.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           52.177                  8                       54,788          318             
+00873.M2TS      4113 (0x1011)   0x1B            AVC                                     5266.136                24,507                  16,131,846,660  87,748,482      
+00873.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5266.136                7,025                   4,624,376,900   29,007,269      
+00873.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            5266.136                896                     589,818,880     3,455,970       
+00873.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5266.136                46                      30,132,161      173,907         
+00873.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5266.136                43                      28,549,684      164,803         
+00873.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5266.136                38                      25,147,743      144,496         
+00873.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5266.136                41                      27,024,030      155,485         
+00873.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        5266.136                43                      28,221,483      161,628         
+00873.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           5266.136                38                      25,153,423      145,278         
+00873.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5266.136                0                       70              7               
+00873.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5266.136                0                       70              7               
+00876.M2TS      4113 (0x1011)   0x1B            AVC                                     425.091                 22,159                  1,177,441,479   6,405,323       
+00876.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           425.091                 6,876                   365,351,512     2,266,648       
+00876.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            425.091                 896                     47,620,608      279,027         
+00876.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            425.091                 640                     34,014,720      199,305         
+00876.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        425.091                 640                     34,014,720      199,305         
+00876.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           425.091                 0                       16,742          98              
+00876.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           425.091                 0                       70              7               
+00876.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            425.091                 0                       70              7               
+00876.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           425.091                 0                       70              7               
+00876.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        425.091                 0                       19,042          110             
+00876.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00876.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        425.091                 0                       70              7               
+00876.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00877.M2TS      4113 (0x1011)   0x1B            AVC                                     24.441                  23,211                  70,913,276      385,752         
+00877.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           24.441                  5,224                   15,959,432      107,396         
+00877.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            24.441                  900                     2,748,928       16,107          
+00877.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            24.441                  643                     1,963,520       11,505          
+00877.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        24.441                  643                     1,963,520       11,505          
+00877.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            24.441                  0                       70              7               
+00877.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           24.441                  0                       70              7               
+00877.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+00877.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Finding Nemo - Blu-ray™
+Disc Label: Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 41,728,860,004 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 30,035,177,472 bytes
+Length: 1:40:53.964
+Total Bitrate: 39.69 Mbps
+Video: MPEG-4 AVC Video / 24506 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Audio: German / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Turkish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Catalan / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 41.419 kbps
+Subtitle: English / 39.167 kbps
+Subtitle: German / 34.599 kbps
+Subtitle: Spanish / 37.128 kbps
+Subtitle: Portuguese / 38.852 kbps
+Subtitle: Turkish / 34.491 kbps
+Subtitle: Portuguese / 0.082 kbps
+Subtitle: Turkish / 0.073 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:40:53 30,035,693,568  41,728,860,004  39.69   24.51   Dolby TrueHD 7.1 6973Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Finding Nemo - Blu-ray™
+Disc Label:     Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      41,728,860,004 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:40:53.964 (h:m:s.ms)
+Size:                   30,035,693,568 bytes
+Total Bitrate:          39.69 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24507 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         6973 kbps       7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Dolby Digital EX Audio          German          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Spanish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Portuguese      640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Turkish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Catalan         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         41.419 kbps                     
+Presentation Graphics           English         39.167 kbps                     
+Presentation Graphics           German          34.599 kbps                     
+Presentation Graphics           Spanish         37.128 kbps                     
+Presentation Graphics           Portuguese      38.852 kbps                     
+Presentation Graphics           Turkish         34.491 kbps                     
+Presentation Graphics           Portuguese      0.082 kbps                      
+Presentation Graphics           Turkish         0.073 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     0:04:45.785     1,532,153,856   42,890          
+00882.M2TS      0:04:45.785     0:00:52.260     255,541,248     39,118          
+00873.M2TS      0:05:38.046     1:27:46.219     26,182,207,488  39,774          
+00876.M2TS      1:33:24.265     0:07:05.174     1,954,394,112   36,773          
+00877.M2TS      1:40:29.440     0:00:24.524     111,396,864     36,338          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:18.716     27,946 kbps     38,696 kbps     00:00:32.532    32,695 kbps     00:00:28.445    32,069 kbps     00:00:23.440    145,675 bytes   567,613 bytes   00:00:33.033    
+2               0:04:18.716     0:01:16.951     26,448 kbps     34,058 kbps     00:04:42.865    31,729 kbps     00:04:36.818    31,470 kbps     00:04:20.635    137,887 bytes   468,126 bytes   00:04:38.403    
+3               0:05:35.668     0:05:42.133     24,514 kbps     33,456 kbps     00:09:48.713    31,527 kbps     00:05:53.686    31,330 kbps     00:06:17.752    127,804 bytes   433,139 bytes   00:10:33.591    
+4               0:11:17.802     0:00:58.475     27,481 kbps     33,839 kbps     00:11:50.042    31,507 kbps     00:11:21.514    31,253 kbps     00:11:32.191    143,273 bytes   322,380 bytes   00:12:16.277    
+5               0:12:16.277     0:01:52.570     26,780 kbps     34,704 kbps     00:13:53.707    31,845 kbps     00:13:53.707    30,795 kbps     00:12:45.556    139,619 bytes   495,696 bytes   00:13:55.334    
+6               0:14:08.847     0:02:20.431     26,034 kbps     33,424 kbps     00:15:01.942    31,479 kbps     00:14:53.100    29,634 kbps     00:15:01.317    135,727 bytes   416,933 bytes   00:15:02.735    
+7               0:16:29.279     0:02:21.057     28,585 kbps     33,713 kbps     00:16:46.380    31,645 kbps     00:16:35.494    31,352 kbps     00:16:30.447    149,031 bytes   468,879 bytes   00:16:47.297    
+8               0:18:50.337     0:06:41.651     24,420 kbps     36,547 kbps     00:25:19.559    29,693 kbps     00:25:26.483    28,933 kbps     00:25:19.851    127,316 bytes   507,974 bytes   00:24:27.007    
+9               0:25:31.988     0:05:22.238     23,626 kbps     33,642 kbps     00:29:04.868    31,128 kbps     00:25:48.380    30,634 kbps     00:30:38.336    123,177 bytes   479,553 bytes   00:29:05.785    
+10              0:30:54.227     0:02:07.418     26,466 kbps     31,822 kbps     00:32:06.257    29,445 kbps     00:32:42.752    28,541 kbps     00:32:38.998    137,983 bytes   508,969 bytes   00:31:29.637    
+11              0:33:01.646     0:03:10.190     25,247 kbps     33,022 kbps     00:34:57.303    30,970 kbps     00:34:52.465    30,379 kbps     00:34:52.340    131,627 bytes   368,155 bytes   00:35:04.143    
+12              0:36:11.836     0:04:07.330     24,927 kbps     35,360 kbps     00:39:49.637    32,204 kbps     00:39:45.633    30,227 kbps     00:39:44.548    129,957 bytes   492,141 bytes   00:39:47.760    
+13              0:40:19.166     0:04:39.112     22,738 kbps     34,994 kbps     00:40:51.198    29,312 kbps     00:43:50.711    27,545 kbps     00:43:46.290    118,546 bytes   450,420 bytes   00:44:08.354    
+14              0:44:58.278     0:03:14.110     20,914 kbps     33,018 kbps     00:48:06.758    31,494 kbps     00:48:06.800    29,057 kbps     00:48:02.379    109,037 bytes   365,486 bytes   00:45:02.032    
+15              0:48:12.389     0:03:16.029     26,427 kbps     33,543 kbps     00:49:42.437    31,696 kbps     00:49:53.240    31,465 kbps     00:49:48.318    137,778 bytes   432,277 bytes   00:49:43.397    
+16              0:51:28.418     0:04:38.611     23,058 kbps     31,664 kbps     00:52:38.697    31,094 kbps     00:52:38.864    29,266 kbps     00:52:34.901    120,213 bytes   317,255 bytes   00:53:01.386    
+17              0:56:07.030     0:04:48.871     24,801 kbps     33,156 kbps     00:59:44.163    31,629 kbps     01:00:31.377    31,480 kbps     01:00:27.540    129,298 bytes   450,808 bytes   00:59:19.013    
+18              1:00:55.902     0:04:24.764     31,295 kbps     33,512 kbps     01:04:44.589    31,797 kbps     01:05:10.948    31,574 kbps     01:05:09.947    163,157 bytes   404,685 bytes   01:05:13.534    
+19              1:05:20.666     0:01:41.434     25,545 kbps     32,841 kbps     01:05:24.337    31,573 kbps     01:05:22.627    31,098 kbps     01:05:20.666    133,180 bytes   343,085 bytes   01:05:25.171    
+20              1:07:02.101     0:01:28.046     30,128 kbps     35,365 kbps     01:07:17.074    32,037 kbps     01:07:13.696    31,704 kbps     01:07:08.065    157,076 bytes   620,570 bytes   01:07:17.908    
+21              1:08:30.147     0:04:49.288     21,882 kbps     32,839 kbps     01:10:26.805    30,310 kbps     01:10:24.261    29,395 kbps     01:10:18.213    114,081 bytes   423,434 bytes   01:10:19.506    
+22              1:13:19.436     0:00:55.764     24,105 kbps     31,812 kbps     01:13:45.838    31,369 kbps     01:13:42.042    29,747 kbps     01:13:37.538    125,672 bytes   361,790 bytes   01:13:41.250    
+23              1:14:15.200     0:01:44.896     27,856 kbps     34,126 kbps     01:15:36.198    31,871 kbps     01:14:19.663    31,477 kbps     01:15:27.189    145,231 bytes   554,762 bytes   01:14:31.967    
+24              1:16:00.097     0:02:41.202     22,830 kbps     33,064 kbps     01:16:35.132    30,714 kbps     01:16:03.725    28,951 kbps     01:16:03.725    119,027 bytes   480,367 bytes   01:17:11.460    
+25              1:18:41.299     0:03:16.321     23,277 kbps     33,635 kbps     01:20:47.968    31,482 kbps     01:21:18.206    30,758 kbps     01:21:15.328    121,353 bytes   568,181 bytes   01:20:47.300    
+26              1:21:57.621     0:02:31.860     20,566 kbps     28,280 kbps     01:22:18.558    24,600 kbps     01:22:18.600    24,334 kbps     01:22:09.341    107,221 bytes   396,797 bytes   01:22:23.063    
+27              1:24:29.481     0:02:24.853     21,344 kbps     32,802 kbps     01:25:38.925    28,119 kbps     01:25:34.963    26,426 kbps     01:25:29.958    111,276 bytes   449,483 bytes   01:25:34.379    
+28              1:26:54.334     0:02:32.277     23,748 kbps     34,592 kbps     01:29:20.396    31,252 kbps     01:28:21.879    29,071 kbps     01:28:21.129    123,814 bytes   392,267 bytes   01:29:10.511    
+29              1:29:26.611     0:01:24.751     20,782 kbps     31,654 kbps     01:29:39.999    25,375 kbps     01:29:37.121    24,615 kbps     01:29:32.200    108,349 bytes   527,004 bytes   01:29:34.619    
+30              1:30:51.362     0:01:51.611     23,218 kbps     32,801 kbps     01:31:01.664    30,080 kbps     01:30:59.537    27,330 kbps     01:30:55.199    121,049 bytes   365,316 bytes   01:32:19.200    
+31              1:32:42.974     0:00:41.291     22,218 kbps     26,563 kbps     01:33:01.492    25,615 kbps     01:33:00.866    24,235 kbps     01:33:00.741    115,836 bytes   387,342 bytes   01:32:53.734    
+32              1:33:24.265     0:07:29.699     22,206 kbps     34,118 kbps     01:40:33.569    31,797 kbps     01:40:30.482    28,360 kbps     01:33:37.737    115,784 bytes   463,189 bytes   01:40:32.609    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     285.702                 28,153                  1,005,432,089   5,468,397       
+00801.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           285.702                 6,389                   228,152,774     1,465,063       
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            285.702                 896                     32,008,704      187,551         
+00801.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            285.702                 640                     22,863,360      133,965         
+00801.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        285.702                 640                     22,863,360      133,965         
+00801.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           285.702                 31                      1,109,123       6,399           
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           285.702                 28                      1,004,291       5,795           
+00801.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            285.702                 26                      930,458         5,334           
+00801.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           285.702                 26                      922,758         5,298           
+00801.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        285.702                 29                      1,021,147       5,849           
+00801.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           285.702                 24                      847,060         4,880           
+00801.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        285.702                 0                       70              7               
+00801.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           285.702                 0                       70              7               
+00882.M2TS      4113 (0x1011)   0x1B            AVC                                     52.177                  24,465                  159,562,922     867,946         
+00882.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           52.177                  6,632                   43,253,932      273,162         
+00882.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00882.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00882.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            52.177                  898                     5,856,256       34,314          
+00882.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            52.177                  641                     4,183,040       24,510          
+00882.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           52.177                  641                     4,183,040       24,510          
+00882.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        52.177                  641                     4,183,040       24,510          
+00882.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           52.177                  641                     4,183,040       24,510          
+00882.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           52.177                  641                     4,183,040       24,510          
+00882.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00882.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00882.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            52.177                  16                      103,950         606             
+00882.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           52.177                  23                      149,662         862             
+00882.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        52.177                  21                      139,160         806             
+00882.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           52.177                  15                      100,548         587             
+00882.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        52.177                  9                       61,541          356             
+00882.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           52.177                  8                       54,788          318             
+00873.M2TS      4113 (0x1011)   0x1B            AVC                                     5266.136                24,507                  16,131,846,660  87,748,482      
+00873.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5266.136                7,025                   4,624,376,900   29,007,269      
+00873.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            5266.136                896                     589,818,880     3,455,970       
+00873.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5266.136                46                      30,132,161      173,907         
+00873.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5266.136                43                      28,549,684      164,803         
+00873.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5266.136                38                      25,147,743      144,496         
+00873.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5266.136                41                      27,024,030      155,485         
+00873.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        5266.136                43                      28,221,483      161,628         
+00873.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           5266.136                38                      25,153,423      145,278         
+00873.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5266.136                0                       70              7               
+00873.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5266.136                0                       70              7               
+00876.M2TS      4113 (0x1011)   0x1B            AVC                                     425.091                 22,159                  1,177,441,479   6,405,323       
+00876.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           425.091                 6,876                   365,351,512     2,266,648       
+00876.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            425.091                 896                     47,620,608      279,027         
+00876.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            425.091                 640                     34,014,720      199,305         
+00876.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        425.091                 640                     34,014,720      199,305         
+00876.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           425.091                 0                       16,742          98              
+00876.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           425.091                 0                       70              7               
+00876.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            425.091                 0                       70              7               
+00876.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           425.091                 0                       70              7               
+00876.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        425.091                 0                       19,042          110             
+00876.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00876.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        425.091                 0                       70              7               
+00876.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00877.M2TS      4113 (0x1011)   0x1B            AVC                                     24.441                  23,211                  70,913,276      385,752         
+00877.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           24.441                  5,224                   15,959,432      107,396         
+00877.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            24.441                  900                     2,748,928       16,107          
+00877.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            24.441                  643                     1,963,520       11,505          
+00877.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        24.441                  643                     1,963,520       11,505          
+00877.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            24.441                  0                       70              7               
+00877.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           24.441                  0                       70              7               
+00877.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+00877.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Finding Nemo - Blu-ray™
+Disc Label: Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 41,728,860,004 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 30,035,693,568 bytes
+Length: 1:40:53.964
+Total Bitrate: 39.69 Mbps
+Video: MPEG-4 AVC Video / 24507 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Audio: German / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Turkish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Catalan / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 41.419 kbps
+Subtitle: English / 39.167 kbps
+Subtitle: German / 34.599 kbps
+Subtitle: Spanish / 37.128 kbps
+Subtitle: Portuguese / 38.852 kbps
+Subtitle: Turkish / 34.491 kbps
+Subtitle: Portuguese / 0.082 kbps
+Subtitle: Turkish / 0.073 kbps
+
+
+********************
+PLAYLIST: 00802.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      AVC     1:40:53 30,020,818,944  41,728,860,004  39.67   24.49   Dolby TrueHD 7.1 6973Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Finding Nemo - Blu-ray™
+Disc Label:     Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      41,728,860,004 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS
+Length:                 1:40:53.964 (h:m:s.ms)
+Size:                   30,020,818,944 bytes
+Total Bitrate:          39.67 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24488 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         6973 kbps       7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Dolby Digital EX Audio          German          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Spanish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Portuguese      640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Turkish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Catalan         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         41.419 kbps                     
+Presentation Graphics           English         39.167 kbps                     
+Presentation Graphics           German          34.599 kbps                     
+Presentation Graphics           Spanish         37.128 kbps                     
+Presentation Graphics           Portuguese      38.852 kbps                     
+Presentation Graphics           Turkish         34.491 kbps                     
+Presentation Graphics           Portuguese      0.082 kbps                      
+Presentation Graphics           Turkish         0.073 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     0:04:45.785     1,532,153,856   42,890          
+00883.M2TS      0:04:45.785     0:00:52.260     240,666,624     36,841          
+00873.M2TS      0:05:38.046     1:27:46.219     26,182,207,488  39,774          
+00876.M2TS      1:33:24.265     0:07:05.174     1,954,394,112   36,773          
+00877.M2TS      1:40:29.440     0:00:24.524     111,396,864     36,338          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:18.716     27,946 kbps     38,696 kbps     00:00:32.532    32,695 kbps     00:00:28.445    32,069 kbps     00:00:23.440    145,675 bytes   567,613 bytes   00:00:33.033    
+2               0:04:18.716     0:01:16.951     25,053 kbps     34,058 kbps     00:04:42.865    31,729 kbps     00:04:36.818    31,470 kbps     00:04:20.635    130,615 bytes   468,126 bytes   00:04:38.403    
+3               0:05:35.668     0:05:42.133     24,494 kbps     33,456 kbps     00:09:48.713    31,527 kbps     00:05:53.686    31,330 kbps     00:06:17.752    127,702 bytes   433,139 bytes   00:10:33.591    
+4               0:11:17.802     0:00:58.475     27,481 kbps     33,839 kbps     00:11:50.042    31,507 kbps     00:11:21.514    31,253 kbps     00:11:32.191    143,273 bytes   322,380 bytes   00:12:16.277    
+5               0:12:16.277     0:01:52.570     26,780 kbps     34,704 kbps     00:13:53.707    31,845 kbps     00:13:53.707    30,795 kbps     00:12:45.556    139,619 bytes   495,696 bytes   00:13:55.334    
+6               0:14:08.847     0:02:20.431     26,034 kbps     33,424 kbps     00:15:01.942    31,479 kbps     00:14:53.100    29,634 kbps     00:15:01.317    135,727 bytes   416,933 bytes   00:15:02.735    
+7               0:16:29.279     0:02:21.057     28,585 kbps     33,713 kbps     00:16:46.380    31,645 kbps     00:16:35.494    31,352 kbps     00:16:30.447    149,031 bytes   468,879 bytes   00:16:47.297    
+8               0:18:50.337     0:06:41.651     24,420 kbps     36,547 kbps     00:25:19.559    29,693 kbps     00:25:26.483    28,933 kbps     00:25:19.851    127,316 bytes   507,974 bytes   00:24:27.007    
+9               0:25:31.988     0:05:22.238     23,626 kbps     33,642 kbps     00:29:04.868    31,128 kbps     00:25:48.380    30,634 kbps     00:30:38.336    123,177 bytes   479,553 bytes   00:29:05.785    
+10              0:30:54.227     0:02:07.418     26,466 kbps     31,822 kbps     00:32:06.257    29,445 kbps     00:32:42.752    28,541 kbps     00:32:38.998    137,983 bytes   508,969 bytes   00:31:29.637    
+11              0:33:01.646     0:03:10.190     25,247 kbps     33,022 kbps     00:34:57.303    30,970 kbps     00:34:52.465    30,379 kbps     00:34:52.340    131,627 bytes   368,155 bytes   00:35:04.143    
+12              0:36:11.836     0:04:07.330     24,927 kbps     35,360 kbps     00:39:49.637    32,204 kbps     00:39:45.633    30,227 kbps     00:39:44.548    129,957 bytes   492,141 bytes   00:39:47.760    
+13              0:40:19.166     0:04:39.112     22,738 kbps     34,994 kbps     00:40:51.198    29,312 kbps     00:43:50.711    27,545 kbps     00:43:46.290    118,546 bytes   450,420 bytes   00:44:08.354    
+14              0:44:58.278     0:03:14.110     20,914 kbps     33,018 kbps     00:48:06.758    31,494 kbps     00:48:06.800    29,057 kbps     00:48:02.379    109,037 bytes   365,486 bytes   00:45:02.032    
+15              0:48:12.389     0:03:16.029     26,427 kbps     33,543 kbps     00:49:42.437    31,696 kbps     00:49:53.240    31,465 kbps     00:49:48.318    137,778 bytes   432,277 bytes   00:49:43.397    
+16              0:51:28.418     0:04:38.611     23,058 kbps     31,664 kbps     00:52:38.697    31,094 kbps     00:52:38.864    29,266 kbps     00:52:34.901    120,213 bytes   317,255 bytes   00:53:01.386    
+17              0:56:07.030     0:04:48.871     24,801 kbps     33,156 kbps     00:59:44.163    31,629 kbps     01:00:31.377    31,480 kbps     01:00:27.540    129,298 bytes   450,808 bytes   00:59:19.013    
+18              1:00:55.902     0:04:24.764     31,295 kbps     33,512 kbps     01:04:44.589    31,797 kbps     01:05:10.948    31,574 kbps     01:05:09.947    163,157 bytes   404,685 bytes   01:05:13.534    
+19              1:05:20.666     0:01:41.434     25,545 kbps     32,841 kbps     01:05:24.337    31,573 kbps     01:05:22.627    31,098 kbps     01:05:20.666    133,180 bytes   343,085 bytes   01:05:25.171    
+20              1:07:02.101     0:01:28.046     30,128 kbps     35,365 kbps     01:07:17.074    32,037 kbps     01:07:13.696    31,704 kbps     01:07:08.065    157,076 bytes   620,570 bytes   01:07:17.908    
+21              1:08:30.147     0:04:49.288     21,882 kbps     32,839 kbps     01:10:26.805    30,310 kbps     01:10:24.261    29,395 kbps     01:10:18.213    114,081 bytes   423,434 bytes   01:10:19.506    
+22              1:13:19.436     0:00:55.764     24,105 kbps     31,812 kbps     01:13:45.838    31,369 kbps     01:13:42.042    29,747 kbps     01:13:37.538    125,672 bytes   361,790 bytes   01:13:41.250    
+23              1:14:15.200     0:01:44.896     27,856 kbps     34,126 kbps     01:15:36.198    31,871 kbps     01:14:19.663    31,477 kbps     01:15:27.189    145,231 bytes   554,762 bytes   01:14:31.967    
+24              1:16:00.097     0:02:41.202     22,830 kbps     33,064 kbps     01:16:35.132    30,714 kbps     01:16:03.725    28,951 kbps     01:16:03.725    119,027 bytes   480,367 bytes   01:17:11.460    
+25              1:18:41.299     0:03:16.321     23,277 kbps     33,635 kbps     01:20:47.968    31,482 kbps     01:21:18.206    30,758 kbps     01:21:15.328    121,353 bytes   568,181 bytes   01:20:47.300    
+26              1:21:57.621     0:02:31.860     20,566 kbps     28,280 kbps     01:22:18.558    24,600 kbps     01:22:18.600    24,334 kbps     01:22:09.341    107,221 bytes   396,797 bytes   01:22:23.063    
+27              1:24:29.481     0:02:24.853     21,344 kbps     32,802 kbps     01:25:38.925    28,119 kbps     01:25:34.963    26,426 kbps     01:25:29.958    111,276 bytes   449,483 bytes   01:25:34.379    
+28              1:26:54.334     0:02:32.277     23,748 kbps     34,592 kbps     01:29:20.396    31,252 kbps     01:28:21.879    29,071 kbps     01:28:21.129    123,814 bytes   392,267 bytes   01:29:10.511    
+29              1:29:26.611     0:01:24.751     20,782 kbps     31,654 kbps     01:29:39.999    25,375 kbps     01:29:37.121    24,615 kbps     01:29:32.200    108,349 bytes   527,004 bytes   01:29:34.619    
+30              1:30:51.362     0:01:51.611     23,218 kbps     32,801 kbps     01:31:01.664    30,080 kbps     01:30:59.537    27,330 kbps     01:30:55.199    121,049 bytes   365,316 bytes   01:32:19.200    
+31              1:32:42.974     0:00:41.291     22,218 kbps     26,563 kbps     01:33:01.492    25,615 kbps     01:33:00.866    24,235 kbps     01:33:00.741    115,836 bytes   387,342 bytes   01:32:53.734    
+32              1:33:24.265     0:07:29.699     22,206 kbps     34,118 kbps     01:40:33.569    31,797 kbps     01:40:30.482    28,360 kbps     01:33:37.737    115,784 bytes   463,189 bytes   01:40:32.609    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     285.702                 28,153                  1,005,432,089   5,468,397       
+00801.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           285.702                 6,389                   228,152,774     1,465,063       
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            285.702                 896                     32,008,704      187,551         
+00801.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            285.702                 640                     22,863,360      133,965         
+00801.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        285.702                 640                     22,863,360      133,965         
+00801.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           285.702                 31                      1,109,123       6,399           
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           285.702                 28                      1,004,291       5,795           
+00801.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            285.702                 26                      930,458         5,334           
+00801.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           285.702                 26                      922,758         5,298           
+00801.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        285.702                 29                      1,021,147       5,849           
+00801.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           285.702                 24                      847,060         4,880           
+00801.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        285.702                 0                       70              7               
+00801.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           285.702                 0                       70              7               
+00883.M2TS      4113 (0x1011)   0x1B            AVC                                     52.177                  22,280                  145,312,441     790,471         
+00883.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           52.177                  6,632                   43,253,932      273,162         
+00883.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00883.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00883.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            52.177                  898                     5,856,256       34,314          
+00883.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            52.177                  641                     4,183,040       24,510          
+00883.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           52.177                  641                     4,183,040       24,510          
+00883.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        52.177                  641                     4,183,040       24,510          
+00883.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           52.177                  641                     4,183,040       24,510          
+00883.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           52.177                  641                     4,183,040       24,510          
+00883.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00883.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00883.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            52.177                  16                      103,950         606             
+00883.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           52.177                  23                      149,662         862             
+00883.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        52.177                  21                      139,160         806             
+00883.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           52.177                  15                      100,548         587             
+00883.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        52.177                  9                       61,541          356             
+00883.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           52.177                  8                       54,788          318             
+00873.M2TS      4113 (0x1011)   0x1B            AVC                                     5266.136                24,507                  16,131,846,660  87,748,482      
+00873.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5266.136                7,025                   4,624,376,900   29,007,269      
+00873.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            5266.136                896                     589,818,880     3,455,970       
+00873.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5266.136                46                      30,132,161      173,907         
+00873.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5266.136                43                      28,549,684      164,803         
+00873.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5266.136                38                      25,147,743      144,496         
+00873.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5266.136                41                      27,024,030      155,485         
+00873.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        5266.136                43                      28,221,483      161,628         
+00873.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           5266.136                38                      25,153,423      145,278         
+00873.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5266.136                0                       70              7               
+00873.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5266.136                0                       70              7               
+00876.M2TS      4113 (0x1011)   0x1B            AVC                                     425.091                 22,159                  1,177,441,479   6,405,323       
+00876.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           425.091                 6,876                   365,351,512     2,266,648       
+00876.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            425.091                 896                     47,620,608      279,027         
+00876.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            425.091                 640                     34,014,720      199,305         
+00876.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        425.091                 640                     34,014,720      199,305         
+00876.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           425.091                 0                       16,742          98              
+00876.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           425.091                 0                       70              7               
+00876.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            425.091                 0                       70              7               
+00876.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           425.091                 0                       70              7               
+00876.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        425.091                 0                       19,042          110             
+00876.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00876.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        425.091                 0                       70              7               
+00876.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00877.M2TS      4113 (0x1011)   0x1B            AVC                                     24.441                  23,211                  70,913,276      385,752         
+00877.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           24.441                  5,224                   15,959,432      107,396         
+00877.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            24.441                  900                     2,748,928       16,107          
+00877.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            24.441                  643                     1,963,520       11,505          
+00877.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        24.441                  643                     1,963,520       11,505          
+00877.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            24.441                  0                       70              7               
+00877.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           24.441                  0                       70              7               
+00877.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+00877.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Finding Nemo - Blu-ray™
+Disc Label: Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 41,728,860,004 bytes
+Protection: AACS
+Playlist: 00802.MPLS
+Size: 30,020,818,944 bytes
+Length: 1:40:53.964
+Total Bitrate: 39.67 Mbps
+Video: MPEG-4 AVC Video / 24488 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Audio: German / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Turkish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Catalan / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 41.419 kbps
+Subtitle: English / 39.167 kbps
+Subtitle: German / 34.599 kbps
+Subtitle: Spanish / 37.128 kbps
+Subtitle: Portuguese / 38.852 kbps
+Subtitle: Turkish / 34.491 kbps
+Subtitle: Portuguese / 0.082 kbps
+Subtitle: Turkish / 0.073 kbps
+
+
+********************
+PLAYLIST: 00803.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00803.MPLS                                                      AVC     1:40:53 30,020,843,520  41,728,860,004  39.67   24.49   Dolby TrueHD 7.1 6973Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Finding Nemo - Blu-ray™
+Disc Label:     Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      41,728,860,004 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00803.MPLS
+Length:                 1:40:53.964 (h:m:s.ms)
+Size:                   30,020,843,520 bytes
+Total Bitrate:          39.67 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24488 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         6973 kbps       7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Dolby Digital EX Audio          German          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Spanish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Portuguese      640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Turkish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Catalan         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         41.419 kbps                     
+Presentation Graphics           English         39.167 kbps                     
+Presentation Graphics           German          34.599 kbps                     
+Presentation Graphics           Spanish         37.128 kbps                     
+Presentation Graphics           Portuguese      38.852 kbps                     
+Presentation Graphics           Turkish         34.491 kbps                     
+Presentation Graphics           Portuguese      0.082 kbps                      
+Presentation Graphics           Turkish         0.073 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     0:04:45.785     1,532,153,856   42,890          
+00884.M2TS      0:04:45.785     0:00:52.260     240,691,200     36,845          
+00873.M2TS      0:05:38.046     1:27:46.219     26,182,207,488  39,774          
+00876.M2TS      1:33:24.265     0:07:05.174     1,954,394,112   36,773          
+00877.M2TS      1:40:29.440     0:00:24.524     111,396,864     36,338          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:18.716     27,946 kbps     38,696 kbps     00:00:32.532    32,695 kbps     00:00:28.445    32,069 kbps     00:00:23.440    145,675 bytes   567,613 bytes   00:00:33.033    
+2               0:04:18.716     0:01:16.951     25,053 kbps     34,058 kbps     00:04:42.865    31,729 kbps     00:04:36.818    31,470 kbps     00:04:20.635    130,616 bytes   468,126 bytes   00:04:38.403    
+3               0:05:35.668     0:05:42.133     24,495 kbps     33,456 kbps     00:09:48.713    31,527 kbps     00:05:53.686    31,330 kbps     00:06:17.752    127,704 bytes   433,139 bytes   00:10:33.591    
+4               0:11:17.802     0:00:58.475     27,481 kbps     33,839 kbps     00:11:50.042    31,507 kbps     00:11:21.514    31,253 kbps     00:11:32.191    143,273 bytes   322,380 bytes   00:12:16.277    
+5               0:12:16.277     0:01:52.570     26,780 kbps     34,704 kbps     00:13:53.707    31,845 kbps     00:13:53.707    30,795 kbps     00:12:45.556    139,619 bytes   495,696 bytes   00:13:55.334    
+6               0:14:08.847     0:02:20.431     26,034 kbps     33,424 kbps     00:15:01.942    31,479 kbps     00:14:53.100    29,634 kbps     00:15:01.317    135,727 bytes   416,933 bytes   00:15:02.735    
+7               0:16:29.279     0:02:21.057     28,585 kbps     33,713 kbps     00:16:46.380    31,645 kbps     00:16:35.494    31,352 kbps     00:16:30.447    149,031 bytes   468,879 bytes   00:16:47.297    
+8               0:18:50.337     0:06:41.651     24,420 kbps     36,547 kbps     00:25:19.559    29,693 kbps     00:25:26.483    28,933 kbps     00:25:19.851    127,316 bytes   507,974 bytes   00:24:27.007    
+9               0:25:31.988     0:05:22.238     23,626 kbps     33,642 kbps     00:29:04.868    31,128 kbps     00:25:48.380    30,634 kbps     00:30:38.336    123,177 bytes   479,553 bytes   00:29:05.785    
+10              0:30:54.227     0:02:07.418     26,466 kbps     31,822 kbps     00:32:06.257    29,445 kbps     00:32:42.752    28,541 kbps     00:32:38.998    137,983 bytes   508,969 bytes   00:31:29.637    
+11              0:33:01.646     0:03:10.190     25,247 kbps     33,022 kbps     00:34:57.303    30,970 kbps     00:34:52.465    30,379 kbps     00:34:52.340    131,627 bytes   368,155 bytes   00:35:04.143    
+12              0:36:11.836     0:04:07.330     24,927 kbps     35,360 kbps     00:39:49.637    32,204 kbps     00:39:45.633    30,227 kbps     00:39:44.548    129,957 bytes   492,141 bytes   00:39:47.760    
+13              0:40:19.166     0:04:39.112     22,738 kbps     34,994 kbps     00:40:51.198    29,312 kbps     00:43:50.711    27,545 kbps     00:43:46.290    118,546 bytes   450,420 bytes   00:44:08.354    
+14              0:44:58.278     0:03:14.110     20,914 kbps     33,018 kbps     00:48:06.758    31,494 kbps     00:48:06.800    29,057 kbps     00:48:02.379    109,037 bytes   365,486 bytes   00:45:02.032    
+15              0:48:12.389     0:03:16.029     26,427 kbps     33,543 kbps     00:49:42.437    31,696 kbps     00:49:53.240    31,465 kbps     00:49:48.318    137,778 bytes   432,277 bytes   00:49:43.397    
+16              0:51:28.418     0:04:38.611     23,058 kbps     31,664 kbps     00:52:38.697    31,094 kbps     00:52:38.864    29,266 kbps     00:52:34.901    120,213 bytes   317,255 bytes   00:53:01.386    
+17              0:56:07.030     0:04:48.871     24,801 kbps     33,156 kbps     00:59:44.163    31,629 kbps     01:00:31.377    31,480 kbps     01:00:27.540    129,298 bytes   450,808 bytes   00:59:19.013    
+18              1:00:55.902     0:04:24.764     31,295 kbps     33,512 kbps     01:04:44.589    31,797 kbps     01:05:10.948    31,574 kbps     01:05:09.947    163,157 bytes   404,685 bytes   01:05:13.534    
+19              1:05:20.666     0:01:41.434     25,545 kbps     32,841 kbps     01:05:24.337    31,573 kbps     01:05:22.627    31,098 kbps     01:05:20.666    133,180 bytes   343,085 bytes   01:05:25.171    
+20              1:07:02.101     0:01:28.046     30,128 kbps     35,365 kbps     01:07:17.074    32,037 kbps     01:07:13.696    31,704 kbps     01:07:08.065    157,076 bytes   620,570 bytes   01:07:17.908    
+21              1:08:30.147     0:04:49.288     21,882 kbps     32,839 kbps     01:10:26.805    30,310 kbps     01:10:24.261    29,395 kbps     01:10:18.213    114,081 bytes   423,434 bytes   01:10:19.506    
+22              1:13:19.436     0:00:55.764     24,105 kbps     31,812 kbps     01:13:45.838    31,369 kbps     01:13:42.042    29,747 kbps     01:13:37.538    125,672 bytes   361,790 bytes   01:13:41.250    
+23              1:14:15.200     0:01:44.896     27,856 kbps     34,126 kbps     01:15:36.198    31,871 kbps     01:14:19.663    31,477 kbps     01:15:27.189    145,231 bytes   554,762 bytes   01:14:31.967    
+24              1:16:00.097     0:02:41.202     22,830 kbps     33,064 kbps     01:16:35.132    30,714 kbps     01:16:03.725    28,951 kbps     01:16:03.725    119,027 bytes   480,367 bytes   01:17:11.460    
+25              1:18:41.299     0:03:16.321     23,277 kbps     33,635 kbps     01:20:47.968    31,482 kbps     01:21:18.206    30,758 kbps     01:21:15.328    121,353 bytes   568,181 bytes   01:20:47.300    
+26              1:21:57.621     0:02:31.860     20,566 kbps     28,280 kbps     01:22:18.558    24,600 kbps     01:22:18.600    24,334 kbps     01:22:09.341    107,221 bytes   396,797 bytes   01:22:23.063    
+27              1:24:29.481     0:02:24.853     21,344 kbps     32,802 kbps     01:25:38.925    28,119 kbps     01:25:34.963    26,426 kbps     01:25:29.958    111,276 bytes   449,483 bytes   01:25:34.379    
+28              1:26:54.334     0:02:32.277     23,748 kbps     34,592 kbps     01:29:20.396    31,252 kbps     01:28:21.879    29,071 kbps     01:28:21.129    123,814 bytes   392,267 bytes   01:29:10.511    
+29              1:29:26.611     0:01:24.751     20,782 kbps     31,654 kbps     01:29:39.999    25,375 kbps     01:29:37.121    24,615 kbps     01:29:32.200    108,349 bytes   527,004 bytes   01:29:34.619    
+30              1:30:51.362     0:01:51.611     23,218 kbps     32,801 kbps     01:31:01.664    30,080 kbps     01:30:59.537    27,330 kbps     01:30:55.199    121,049 bytes   365,316 bytes   01:32:19.200    
+31              1:32:42.974     0:00:41.291     22,218 kbps     26,563 kbps     01:33:01.492    25,615 kbps     01:33:00.866    24,235 kbps     01:33:00.741    115,836 bytes   387,342 bytes   01:32:53.734    
+32              1:33:24.265     0:07:29.699     22,206 kbps     34,118 kbps     01:40:33.569    31,797 kbps     01:40:30.482    28,360 kbps     01:33:37.737    115,784 bytes   463,189 bytes   01:40:32.609    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     285.702                 28,153                  1,005,432,089   5,468,397       
+00801.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           285.702                 6,389                   228,152,774     1,465,063       
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            285.702                 896                     32,008,704      187,551         
+00801.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            285.702                 640                     22,863,360      133,965         
+00801.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        285.702                 640                     22,863,360      133,965         
+00801.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           285.702                 31                      1,109,123       6,399           
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           285.702                 28                      1,004,291       5,795           
+00801.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            285.702                 26                      930,458         5,334           
+00801.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           285.702                 26                      922,758         5,298           
+00801.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        285.702                 29                      1,021,147       5,849           
+00801.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           285.702                 24                      847,060         4,880           
+00801.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        285.702                 0                       70              7               
+00801.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           285.702                 0                       70              7               
+00884.M2TS      4113 (0x1011)   0x1B            AVC                                     52.177                  22,283                  145,330,259     790,584         
+00884.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           52.177                  6,632                   43,253,932      273,162         
+00884.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00884.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00884.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            52.177                  898                     5,856,256       34,314          
+00884.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            52.177                  641                     4,183,040       24,510          
+00884.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           52.177                  641                     4,183,040       24,510          
+00884.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        52.177                  641                     4,183,040       24,510          
+00884.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           52.177                  641                     4,183,040       24,510          
+00884.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           52.177                  641                     4,183,040       24,510          
+00884.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00884.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00884.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            52.177                  16                      103,950         606             
+00884.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           52.177                  23                      149,662         862             
+00884.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        52.177                  21                      139,160         806             
+00884.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           52.177                  15                      100,548         587             
+00884.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        52.177                  9                       61,541          356             
+00884.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           52.177                  8                       54,788          318             
+00873.M2TS      4113 (0x1011)   0x1B            AVC                                     5266.136                24,507                  16,131,846,660  87,748,482      
+00873.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5266.136                7,025                   4,624,376,900   29,007,269      
+00873.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            5266.136                896                     589,818,880     3,455,970       
+00873.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5266.136                46                      30,132,161      173,907         
+00873.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5266.136                43                      28,549,684      164,803         
+00873.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5266.136                38                      25,147,743      144,496         
+00873.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5266.136                41                      27,024,030      155,485         
+00873.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        5266.136                43                      28,221,483      161,628         
+00873.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           5266.136                38                      25,153,423      145,278         
+00873.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5266.136                0                       70              7               
+00873.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5266.136                0                       70              7               
+00876.M2TS      4113 (0x1011)   0x1B            AVC                                     425.091                 22,159                  1,177,441,479   6,405,323       
+00876.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           425.091                 6,876                   365,351,512     2,266,648       
+00876.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            425.091                 896                     47,620,608      279,027         
+00876.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            425.091                 640                     34,014,720      199,305         
+00876.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        425.091                 640                     34,014,720      199,305         
+00876.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           425.091                 0                       16,742          98              
+00876.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           425.091                 0                       70              7               
+00876.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            425.091                 0                       70              7               
+00876.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           425.091                 0                       70              7               
+00876.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        425.091                 0                       19,042          110             
+00876.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00876.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        425.091                 0                       70              7               
+00876.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00877.M2TS      4113 (0x1011)   0x1B            AVC                                     24.441                  23,211                  70,913,276      385,752         
+00877.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           24.441                  5,224                   15,959,432      107,396         
+00877.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            24.441                  900                     2,748,928       16,107          
+00877.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            24.441                  643                     1,963,520       11,505          
+00877.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        24.441                  643                     1,963,520       11,505          
+00877.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            24.441                  0                       70              7               
+00877.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           24.441                  0                       70              7               
+00877.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+00877.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Finding Nemo - Blu-ray™
+Disc Label: Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 41,728,860,004 bytes
+Protection: AACS
+Playlist: 00803.MPLS
+Size: 30,020,843,520 bytes
+Length: 1:40:53.964
+Total Bitrate: 39.67 Mbps
+Video: MPEG-4 AVC Video / 24488 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Audio: German / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Turkish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Catalan / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 41.419 kbps
+Subtitle: English / 39.167 kbps
+Subtitle: German / 34.599 kbps
+Subtitle: Spanish / 37.128 kbps
+Subtitle: Portuguese / 38.852 kbps
+Subtitle: Turkish / 34.491 kbps
+Subtitle: Portuguese / 0.082 kbps
+Subtitle: Turkish / 0.073 kbps
+
+
+********************
+PLAYLIST: 00804.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00804.MPLS                                                      AVC     1:40:53 30,035,177,472  41,728,860,004  39.69   24.51   Dolby TrueHD 7.1 6973Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Finding Nemo - Blu-ray™
+Disc Label:     Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      41,728,860,004 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00804.MPLS
+Length:                 1:40:53.964 (h:m:s.ms)
+Size:                   30,035,177,472 bytes
+Total Bitrate:          39.69 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24506 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Dolby TrueHD Audio            English         6973 kbps       7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Dolby Digital Plus Audio      German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+* Dolby Digital EX Audio        German          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital EX Audio        Spanish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital EX Audio        Portuguese      640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital EX Audio        Turkish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital EX Audio        Catalan         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         41.419 kbps                     
+* Presentation Graphics         English         39.167 kbps                     
+* Presentation Graphics         German          34.599 kbps                     
+* Presentation Graphics         Spanish         37.128 kbps                     
+* Presentation Graphics         Portuguese      38.852 kbps                     
+* Presentation Graphics         Turkish         34.491 kbps                     
+* Presentation Graphics         Portuguese      0.082 kbps                      
+* Presentation Graphics         Turkish         0.073 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     0:04:45.785     1,532,153,856   42,890          
+00872.M2TS      0:04:45.785     0:00:52.260     255,025,152     39,039          
+00873.M2TS      0:05:38.046     1:27:46.219     26,182,207,488  39,774          
+00876.M2TS      1:33:24.265     0:07:05.174     1,954,394,112   36,773          
+00877.M2TS      1:40:29.440     0:00:24.524     111,396,864     36,338          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:18.716     27,946 kbps     38,696 kbps     00:00:32.532    32,695 kbps     00:00:28.445    32,069 kbps     00:00:23.440    145,675 bytes   567,613 bytes   00:00:33.033    
+2               0:04:18.716     0:01:16.951     26,397 kbps     34,058 kbps     00:04:42.865    31,729 kbps     00:04:36.818    31,470 kbps     00:04:20.635    137,622 bytes   468,126 bytes   00:04:38.403    
+3               0:05:35.668     0:05:42.133     24,514 kbps     33,456 kbps     00:09:48.713    31,527 kbps     00:05:53.686    31,330 kbps     00:06:17.752    127,803 bytes   433,139 bytes   00:10:33.591    
+4               0:11:17.802     0:00:58.475     27,481 kbps     33,839 kbps     00:11:50.042    31,507 kbps     00:11:21.514    31,253 kbps     00:11:32.191    143,273 bytes   322,380 bytes   00:12:16.277    
+5               0:12:16.277     0:01:52.570     26,780 kbps     34,704 kbps     00:13:53.707    31,845 kbps     00:13:53.707    30,795 kbps     00:12:45.556    139,619 bytes   495,696 bytes   00:13:55.334    
+6               0:14:08.847     0:02:20.431     26,034 kbps     33,424 kbps     00:15:01.942    31,479 kbps     00:14:53.100    29,634 kbps     00:15:01.317    135,727 bytes   416,933 bytes   00:15:02.735    
+7               0:16:29.279     0:02:21.057     28,585 kbps     33,713 kbps     00:16:46.380    31,645 kbps     00:16:35.494    31,352 kbps     00:16:30.447    149,031 bytes   468,879 bytes   00:16:47.297    
+8               0:18:50.337     0:06:41.651     24,420 kbps     36,547 kbps     00:25:19.559    29,693 kbps     00:25:26.483    28,933 kbps     00:25:19.851    127,316 bytes   507,974 bytes   00:24:27.007    
+9               0:25:31.988     0:05:22.238     23,626 kbps     33,642 kbps     00:29:04.868    31,128 kbps     00:25:48.380    30,634 kbps     00:30:38.336    123,177 bytes   479,553 bytes   00:29:05.785    
+10              0:30:54.227     0:02:07.418     26,466 kbps     31,822 kbps     00:32:06.257    29,445 kbps     00:32:42.752    28,541 kbps     00:32:38.998    137,983 bytes   508,969 bytes   00:31:29.637    
+11              0:33:01.646     0:03:10.190     25,247 kbps     33,022 kbps     00:34:57.303    30,970 kbps     00:34:52.465    30,379 kbps     00:34:52.340    131,627 bytes   368,155 bytes   00:35:04.143    
+12              0:36:11.836     0:04:07.330     24,927 kbps     35,360 kbps     00:39:49.637    32,204 kbps     00:39:45.633    30,227 kbps     00:39:44.548    129,957 bytes   492,141 bytes   00:39:47.760    
+13              0:40:19.166     0:04:39.112     22,738 kbps     34,994 kbps     00:40:51.198    29,312 kbps     00:43:50.711    27,545 kbps     00:43:46.290    118,546 bytes   450,420 bytes   00:44:08.354    
+14              0:44:58.278     0:03:14.110     20,914 kbps     33,018 kbps     00:48:06.758    31,494 kbps     00:48:06.800    29,057 kbps     00:48:02.379    109,037 bytes   365,486 bytes   00:45:02.032    
+15              0:48:12.389     0:03:16.029     26,427 kbps     33,543 kbps     00:49:42.437    31,696 kbps     00:49:53.240    31,465 kbps     00:49:48.318    137,778 bytes   432,277 bytes   00:49:43.397    
+16              0:51:28.418     0:04:38.611     23,058 kbps     31,664 kbps     00:52:38.697    31,094 kbps     00:52:38.864    29,266 kbps     00:52:34.901    120,213 bytes   317,255 bytes   00:53:01.386    
+17              0:56:07.030     0:04:48.871     24,801 kbps     33,156 kbps     00:59:44.163    31,629 kbps     01:00:31.377    31,480 kbps     01:00:27.540    129,298 bytes   450,808 bytes   00:59:19.013    
+18              1:00:55.902     0:04:24.764     31,295 kbps     33,512 kbps     01:04:44.589    31,797 kbps     01:05:10.948    31,574 kbps     01:05:09.947    163,157 bytes   404,685 bytes   01:05:13.534    
+19              1:05:20.666     0:01:41.434     25,545 kbps     32,841 kbps     01:05:24.337    31,573 kbps     01:05:22.627    31,098 kbps     01:05:20.666    133,180 bytes   343,085 bytes   01:05:25.171    
+20              1:07:02.101     0:01:28.046     30,128 kbps     35,365 kbps     01:07:17.074    32,037 kbps     01:07:13.696    31,704 kbps     01:07:08.065    157,076 bytes   620,570 bytes   01:07:17.908    
+21              1:08:30.147     0:04:49.288     21,882 kbps     32,839 kbps     01:10:26.805    30,310 kbps     01:10:24.261    29,395 kbps     01:10:18.213    114,081 bytes   423,434 bytes   01:10:19.506    
+22              1:13:19.436     0:00:55.764     24,105 kbps     31,812 kbps     01:13:45.838    31,369 kbps     01:13:42.042    29,747 kbps     01:13:37.538    125,672 bytes   361,790 bytes   01:13:41.250    
+23              1:14:15.200     0:01:44.896     27,856 kbps     34,126 kbps     01:15:36.198    31,871 kbps     01:14:19.663    31,477 kbps     01:15:27.189    145,231 bytes   554,762 bytes   01:14:31.967    
+24              1:16:00.097     0:02:41.202     22,830 kbps     33,064 kbps     01:16:35.132    30,714 kbps     01:16:03.725    28,951 kbps     01:16:03.725    119,027 bytes   480,367 bytes   01:17:11.460    
+25              1:18:41.299     0:03:16.321     23,277 kbps     33,635 kbps     01:20:47.968    31,482 kbps     01:21:18.206    30,758 kbps     01:21:15.328    121,353 bytes   568,181 bytes   01:20:47.300    
+26              1:21:57.621     0:02:31.860     20,566 kbps     28,280 kbps     01:22:18.558    24,600 kbps     01:22:18.600    24,334 kbps     01:22:09.341    107,221 bytes   396,797 bytes   01:22:23.063    
+27              1:24:29.481     0:02:24.853     21,344 kbps     32,802 kbps     01:25:38.925    28,119 kbps     01:25:34.963    26,426 kbps     01:25:29.958    111,276 bytes   449,483 bytes   01:25:34.379    
+28              1:26:54.334     0:02:32.277     23,748 kbps     34,592 kbps     01:29:20.396    31,252 kbps     01:28:21.879    29,071 kbps     01:28:21.129    123,814 bytes   392,267 bytes   01:29:10.511    
+29              1:29:26.611     0:01:24.751     20,782 kbps     31,654 kbps     01:29:39.999    25,375 kbps     01:29:37.121    24,615 kbps     01:29:32.200    108,349 bytes   527,004 bytes   01:29:34.619    
+30              1:30:51.362     0:01:51.611     23,218 kbps     32,801 kbps     01:31:01.664    30,080 kbps     01:30:59.537    27,330 kbps     01:30:55.199    121,049 bytes   365,316 bytes   01:32:19.200    
+31              1:32:42.974     0:00:41.291     22,218 kbps     26,563 kbps     01:33:01.492    25,615 kbps     01:33:00.866    24,235 kbps     01:33:00.741    115,836 bytes   387,342 bytes   01:32:53.734    
+32              1:33:24.265     0:07:29.699     22,206 kbps     34,118 kbps     01:40:33.569    31,797 kbps     01:40:30.482    28,360 kbps     01:33:37.737    115,784 bytes   463,189 bytes   01:40:32.609    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     285.702                 28,153                  1,005,432,089   5,468,397       
+00801.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           285.702                 6,389                   228,152,774     1,465,063       
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           285.702                 320                     11,431,680      71,448          
+00801.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            285.702                 896                     32,008,704      187,551         
+00801.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            285.702                 640                     22,863,360      133,965         
+00801.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        285.702                 640                     22,863,360      133,965         
+00801.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           285.702                 640                     22,863,360      133,965         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           285.702                 31                      1,109,123       6,399           
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           285.702                 28                      1,004,291       5,795           
+00801.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            285.702                 26                      930,458         5,334           
+00801.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           285.702                 26                      922,758         5,298           
+00801.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        285.702                 29                      1,021,147       5,849           
+00801.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           285.702                 24                      847,060         4,880           
+00801.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        285.702                 0                       70              7               
+00801.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           285.702                 0                       70              7               
+00872.M2TS      4113 (0x1011)   0x1B            AVC                                     52.177                  24,389                  159,066,589     865,245         
+00872.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           52.177                  6,632                   43,253,932      273,162         
+00872.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00872.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           52.177                  321                     2,091,520       13,072          
+00872.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            52.177                  898                     5,856,256       34,314          
+00872.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            52.177                  641                     4,183,040       24,510          
+00872.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           52.177                  641                     4,183,040       24,510          
+00872.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        52.177                  641                     4,183,040       24,510          
+00872.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           52.177                  641                     4,183,040       24,510          
+00872.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           52.177                  641                     4,183,040       24,510          
+00872.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00872.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           52.177                  13                      85,195          490             
+00872.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            52.177                  16                      103,950         606             
+00872.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           52.177                  23                      149,662         862             
+00872.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        52.177                  21                      139,160         806             
+00872.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           52.177                  15                      100,548         587             
+00872.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        52.177                  9                       61,541          356             
+00872.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           52.177                  8                       54,788          318             
+00873.M2TS      4113 (0x1011)   0x1B            AVC                                     5266.136                24,507                  16,131,846,660  87,748,482      
+00873.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5266.136                7,025                   4,624,376,900   29,007,269      
+00873.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            5266.136                896                     589,818,880     3,455,970       
+00873.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5266.136                46                      30,132,161      173,907         
+00873.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5266.136                43                      28,549,684      164,803         
+00873.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5266.136                38                      25,147,743      144,496         
+00873.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5266.136                41                      27,024,030      155,485         
+00873.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        5266.136                43                      28,221,483      161,628         
+00873.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           5266.136                38                      25,153,423      145,278         
+00873.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5266.136                0                       70              7               
+00873.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5266.136                0                       70              7               
+00876.M2TS      4113 (0x1011)   0x1B            AVC                                     425.091                 22,159                  1,177,441,479   6,405,323       
+00876.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           425.091                 6,876                   365,351,512     2,266,648       
+00876.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           425.091                 320                     17,007,360      106,296         
+00876.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            425.091                 896                     47,620,608      279,027         
+00876.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            425.091                 640                     34,014,720      199,305         
+00876.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        425.091                 640                     34,014,720      199,305         
+00876.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           425.091                 640                     34,014,720      199,305         
+00876.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           425.091                 0                       16,742          98              
+00876.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           425.091                 0                       70              7               
+00876.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            425.091                 0                       70              7               
+00876.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           425.091                 0                       70              7               
+00876.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        425.091                 0                       19,042          110             
+00876.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00876.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        425.091                 0                       70              7               
+00876.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           425.091                 0                       70              7               
+00877.M2TS      4113 (0x1011)   0x1B            AVC                                     24.441                  23,211                  70,913,276      385,752         
+00877.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           24.441                  5,224                   15,959,432      107,396         
+00877.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           24.441                  321                     981,760         6,136           
+00877.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            24.441                  900                     2,748,928       16,107          
+00877.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            24.441                  643                     1,963,520       11,505          
+00877.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        24.441                  643                     1,963,520       11,505          
+00877.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           24.441                  643                     1,963,520       11,505          
+00877.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           24.441                  0                       70              7               
+00877.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            24.441                  0                       70              7               
+00877.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           24.441                  0                       70              7               
+00877.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+00877.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        24.441                  0                       70              7               
+00877.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           24.441                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Finding Nemo - Blu-ray™
+Disc Label: Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 41,728,860,004 bytes
+Protection: AACS
+Playlist: 00804.MPLS
+Size: 30,035,177,472 bytes
+Length: 1:40:53.964
+Total Bitrate: 39.69 Mbps
+Video: MPEG-4 AVC Video / 24506 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  6333 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+* Audio: German / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Audio: Spanish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Audio: Portuguese / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Audio: Turkish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Audio: Catalan / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+* Subtitle: English / 41.419 kbps
+* Subtitle: English / 39.167 kbps
+* Subtitle: German / 34.599 kbps
+* Subtitle: Spanish / 37.128 kbps
+* Subtitle: Portuguese / 38.852 kbps
+* Subtitle: Turkish / 34.491 kbps
+* Subtitle: Portuguese / 0.082 kbps
+* Subtitle: Turkish / 0.073 kbps
+
+
+********************
+PLAYLIST: 00822.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00822.MPLS                                                      AVC     1:27:46 26,182,207,488  41,728,860,004  39.77   24.51   Dolby TrueHD 7.1 7025Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Finding Nemo - Blu-ray™
+Disc Label:     Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size:      41,728,860,004 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00822.MPLS
+Length:                 1:27:46.219 (h:m:s.ms)
+Size:                   26,182,207,488 bytes
+Total Bitrate:          39.77 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24506 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         7025 kbps       7.1 / 48 kHz /  6385 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Dolby Digital EX Audio          German          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Spanish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Portuguese      640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Turkish         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital EX Audio          Catalan         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         45.774 kbps                     
+Presentation Graphics           English         43.370 kbps                     
+Presentation Graphics           German          38.202 kbps                     
+Presentation Graphics           Spanish         41.053 kbps                     
+Presentation Graphics           Portuguese      42.872 kbps                     
+Presentation Graphics           Turkish         38.211 kbps                     
+Presentation Graphics           Portuguese      0.000 kbps                      
+Presentation Graphics           Turkish         0.000 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00873.M2TS      0:00:00.000     1:27:46.219     26,182,207,488  39,774          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:27:46.219     24,506 kbps     36,547 kbps     00:19:41.513    32,204 kbps     00:34:07.587    31,704 kbps     01:01:30.019    127,764 bytes   620,570 bytes   01:01:39.862    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00873.M2TS      4113 (0x1011)   0x1B            AVC                                     5266.136                24,507                  16,131,846,660  87,748,482      
+00873.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5266.136                7,025                   4,624,376,900   29,007,269      
+00873.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5266.136                320                     210,649,600     1,316,560       
+00873.M2TS      4355 (0x1103)   0x84            AC3+            deu (German)            5266.136                896                     589,818,880     3,455,970       
+00873.M2TS      4356 (0x1104)   0x81            AC3-EX          deu (German)            5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4357 (0x1105)   0x81            AC3-EX          spa (Spanish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4358 (0x1106)   0x81            AC3-EX          por (Portuguese)        5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4359 (0x1107)   0x81            AC3-EX          tur (Turkish)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4360 (0x1108)   0x81            AC3-EX          cat (Catalan)           5266.136                640                     421,299,200     2,468,550       
+00873.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5266.136                46                      30,132,161      173,907         
+00873.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5266.136                43                      28,549,684      164,803         
+00873.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5266.136                38                      25,147,743      144,496         
+00873.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5266.136                41                      27,024,030      155,485         
+00873.M2TS      4612 (0x1204)   0x90            PGS             por (Portuguese)        5266.136                43                      28,221,483      161,628         
+00873.M2TS      4613 (0x1205)   0x90            PGS             tur (Turkish)           5266.136                38                      25,153,423      145,278         
+00873.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5266.136                0                       70              7               
+00873.M2TS      4615 (0x1207)   0x90            PGS             tur (Turkish)           5266.136                0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Finding Nemo - Blu-ray™
+Disc Label: Findet.Nemo.2003.MULTi.COMPLETE.BLURAY-XORBiTANT
+Disc Size: 41,728,860,004 bytes
+Protection: AACS
+Playlist: 00822.MPLS
+Size: 26,182,207,488 bytes
+Length: 1:27:46.219
+Total Bitrate: 39.77 Mbps
+Video: MPEG-4 AVC Video / 24506 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  6385 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -31dB)
+Audio: German / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Turkish / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Audio: Catalan / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 45.774 kbps
+Subtitle: English / 43.370 kbps
+Subtitle: German / 38.202 kbps
+Subtitle: Spanish / 41.053 kbps
+Subtitle: Portuguese / 42.872 kbps
+Subtitle: Turkish / 38.211 kbps
+Subtitle: Portuguese / 0.000 kbps
+Subtitle: Turkish / 0.000 kbps
+
