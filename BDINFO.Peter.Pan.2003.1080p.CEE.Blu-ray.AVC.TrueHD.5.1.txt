@@ -1,0 +1,177 @@
+Disc Title:     Peter Pan - Blu-ray™
+Disc Label:     Peter.Pan.2003.1080p.CEE.Blu-ray.AVC.TrueHD.5.1
+Disc Size:      33,084,543,773 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:53:21 29,113,184,256  33,084,543,773  34.24   23.31   Dolby TrueHD 5.1 2236Kbps (48kHz/16-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Peter Pan - Blu-ray™
+Disc Label:     Peter.Pan.2003.1080p.CEE.Blu-ray.AVC.TrueHD.5.1
+Disc Size:      33,084,543,773 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:53:21.795 (h:m:s.ms)
+Size:                   29,113,184,256 bytes
+Total Bitrate:          34.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23314 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         2236 kbps       5.1 / 48 kHz /  1596 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby TrueHD Audio              Italian         2224 kbps       5.1 / 48 kHz /  1584 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -29dB)
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Hungarian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -30dB
+Dolby Digital Audio             Polish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         20.137 kbps                     
+Presentation Graphics           Italian         21.811 kbps                     
+Presentation Graphics           Czech           19.784 kbps                     
+Presentation Graphics           Hungarian       19.078 kbps                     
+Presentation Graphics           Polish          19.741 kbps                     
+Presentation Graphics           Arabic          10.705 kbps                     
+Presentation Graphics           Bulgarian       18.165 kbps                     
+Presentation Graphics           Croatian        18.481 kbps                     
+Presentation Graphics           Greek           21.702 kbps                     
+Presentation Graphics           Hindi           20.469 kbps                     
+Presentation Graphics           Icelandic       21.354 kbps                     
+Presentation Graphics           Romanian        19.313 kbps                     
+Presentation Graphics           Slovenian       18.722 kbps                     
+Presentation Graphics           Turkish         20.664 kbps                     
+Presentation Graphics           Russian         0.000 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00011.M2TS      0:00:00.000     1:53:21.795     29,113,184,256  34,242          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:03.071     23,562 kbps     39,536 kbps     00:02:02.372    32,084 kbps     00:02:39.909    29,769 kbps     00:00:06.881    122,828 bytes   715,519 bytes   00:02:14.050    
+2               0:06:03.071     0:08:44.941     23,935 kbps     43,157 kbps     00:12:33.085    32,940 kbps     00:07:20.273    30,730 kbps     00:07:15.268    124,786 bytes   760,731 bytes   00:06:35.186    
+3               0:14:48.012     0:05:33.249     24,251 kbps     39,408 kbps     00:16:17.142    28,938 kbps     00:16:42.001    28,173 kbps     00:16:42.001    126,433 bytes   643,109 bytes   00:16:24.233    
+4               0:20:21.261     0:06:02.236     23,887 kbps     39,669 kbps     00:21:57.566    30,660 kbps     00:25:44.709    28,093 kbps     00:25:39.746    124,538 bytes   747,875 bytes   00:22:08.660    
+5               0:26:23.498     0:06:00.735     23,829 kbps     37,029 kbps     00:27:08.835    31,914 kbps     00:27:04.831    31,298 kbps     00:26:59.451    124,232 bytes   710,931 bytes   00:27:19.471    
+6               0:32:24.233     0:07:07.468     24,681 kbps     41,555 kbps     00:33:51.446    31,775 kbps     00:33:51.404    30,651 kbps     00:33:48.276    128,678 bytes   778,410 bytes   00:34:39.619    
+7               0:39:31.702     0:06:38.439     23,816 kbps     42,840 kbps     00:44:10.064    31,706 kbps     00:40:23.379    29,069 kbps     00:40:43.023    124,168 bytes   700,691 bytes   00:40:28.342    
+8               0:46:10.142     0:06:28.429     24,521 kbps     44,664 kbps     00:48:50.844    32,206 kbps     00:50:08.964    29,665 kbps     00:48:09.511    127,839 bytes   695,780 bytes   00:46:13.228    
+9               0:52:38.572     0:07:03.339     23,170 kbps     36,079 kbps     00:57:54.304    30,133 kbps     00:57:52.302    28,341 kbps     00:53:57.567    120,800 bytes   621,912 bytes   00:59:41.911    
+10              0:59:41.911     0:05:48.681     23,966 kbps     35,757 kbps     01:03:37.980    32,064 kbps     01:03:37.980    29,548 kbps     01:03:37.980    124,949 bytes   664,959 bytes   01:03:42.652    
+11              1:05:30.593     0:06:26.469     23,867 kbps     39,077 kbps     01:10:12.791    32,299 kbps     01:05:46.692    30,527 kbps     01:10:27.973    124,431 bytes   772,909 bytes   01:10:26.055    
+12              1:11:57.062     0:08:17.121     24,401 kbps     47,408 kbps     01:16:46.435    33,701 kbps     01:13:35.452    29,538 kbps     01:13:10.636    127,215 bytes   677,766 bytes   01:17:06.330    
+13              1:20:14.184     0:04:56.170     23,691 kbps     35,106 kbps     01:21:07.946    27,221 kbps     01:24:24.017    25,863 kbps     01:24:19.429    123,512 bytes   643,163 bytes   01:23:28.962    
+14              1:25:10.355     0:06:40.358     23,674 kbps     39,058 kbps     01:29:27.070    30,231 kbps     01:29:26.944    29,759 kbps     01:29:27.028    123,427 bytes   564,369 bytes   01:29:27.111    
+15              1:31:50.713     0:08:14.702     25,163 kbps     43,934 kbps     01:32:55.861    31,014 kbps     01:32:44.642    29,377 kbps     01:32:48.020    131,189 bytes   614,333 bytes   01:36:15.770    
+16              1:40:05.416     0:13:16.378     17,707 kbps     38,150 kbps     01:40:51.003    31,211 kbps     01:46:40.102    29,940 kbps     01:41:55.359    92,325 bytes    596,966 bytes   01:41:23.160    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00011.M2TS      4113 (0x1011)   0x1B            AVC                                     6801.712                23,314                  19,822,229,961  107,825,459     
+00011.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           6801.712                2,236                   1,900,883,928   14,701,200      
+00011.M2TS      4353 (0x1101)   0x83            TrueHD          ita (Italian)           6801.712                2,224                   1,890,827,988   14,702,692      
+00011.M2TS      4354 (0x1102)   0x81            AC3             ces (Czech)             6801.712                640                     544,145,920     3,188,355       
+00011.M2TS      4355 (0x1103)   0x81            AC3             hun (Hungarian)         6801.712                640                     544,145,920     3,188,355       
+00011.M2TS      4356 (0x1104)   0x81            AC3             pol (Polish)            6801.712                640                     544,145,920     3,188,355       
+00011.M2TS      4357 (0x1105)   0x81            AC3             rus (Russian)           6801.712                640                     544,145,920     3,188,355       
+00011.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6801.712                20                      17,121,280      100,263         
+00011.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           6801.712                22                      18,544,064      107,919         
+00011.M2TS      4610 (0x1202)   0x90            PGS             ces (Czech)             6801.712                20                      16,820,959      98,535          
+00011.M2TS      4611 (0x1203)   0x90            PGS             hun (Hungarian)         6801.712                19                      16,220,496      95,248          
+00011.M2TS      4612 (0x1204)   0x90            PGS             pol (Polish)            6801.712                20                      16,784,094      98,422          
+00011.M2TS      4613 (0x1205)   0x90            PGS             ara (Arabic)            6801.712                11                      9,101,491       56,688          
+00011.M2TS      4614 (0x1206)   0x90            PGS             bul (Bulgarian)         6801.712                18                      15,444,080      91,106          
+00011.M2TS      4615 (0x1207)   0x90            PGS             hrv (Croatian)          6801.712                18                      15,713,404      92,562          
+00011.M2TS      4616 (0x1208)   0x90            PGS             ell (Greek)             6801.712                22                      18,451,746      107,260         
+00011.M2TS      4617 (0x1209)   0x90            PGS             hin (Hindi)             6801.712                20                      17,403,569      101,714         
+00011.M2TS      4618 (0x120A)   0x90            PGS             isl (Icelandic)         6801.712                21                      18,155,393      105,795         
+00011.M2TS      4619 (0x120B)   0x90            PGS             ron (Romanian)          6801.712                19                      16,420,456      96,397          
+00011.M2TS      4620 (0x120C)   0x90            PGS             slv (Slovenian)         6801.712                19                      15,917,516      93,617          
+00011.M2TS      4621 (0x120D)   0x90            PGS             tur (Turkish)           6801.712                21                      17,568,628      102,586         
+00011.M2TS      4622 (0x120E)   0x90            PGS             rus (Russian)           6801.712                0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Peter Pan - Blu-ray™
+Disc Label: Peter.Pan.2003.1080p.CEE.Blu-ray.AVC.TrueHD.5.1
+Disc Size: 33,084,543,773 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 29,113,184,256 bytes
+Length: 1:53:21.795
+Total Bitrate: 34.24 Mbps
+Video: MPEG-4 AVC Video / 23314 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  1596 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: Italian / Dolby TrueHD Audio / 5.1 / 48 kHz /  1584 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -29dB)
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -30dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 20.137 kbps
+Subtitle: Italian / 21.811 kbps
+Subtitle: Czech / 19.784 kbps
+Subtitle: Hungarian / 19.078 kbps
+Subtitle: Polish / 19.741 kbps
+Subtitle: Arabic / 10.705 kbps
+Subtitle: Bulgarian / 18.165 kbps
+Subtitle: Croatian / 18.481 kbps
+Subtitle: Greek / 21.702 kbps
+Subtitle: Hindi / 20.469 kbps
+Subtitle: Icelandic / 21.354 kbps
+Subtitle: Romanian / 19.313 kbps
+Subtitle: Slovenian / 18.722 kbps
+Subtitle: Turkish / 20.664 kbps
+Subtitle: Russian / 0.000 kbps
+

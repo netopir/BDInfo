@@ -1,0 +1,123 @@
+Disc Title:     Ozzy - Blu-ray™
+Disc Label:     Ozzy.-.Ein.Held.auf.vier.Pfoten.2016.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      23,984,601,535 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:30:58 20,486,645,760  23,984,601,535  30.03   24.08   DTS-HD Master 5.1 2048Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ozzy - Blu-ray™
+Disc Label:     Ozzy.-.Ein.Held.auf.vier.Pfoten.2016.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      23,984,601,535 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:30:58.411 (h:m:s.ms)
+Size:                   20,486,645,760 bytes
+Total Bitrate:          30.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24084 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2048 kbps       5.1 / 48 kHz /  2048 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2063 kbps       5.1 / 48 kHz /  2063 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          44.586 kbps                     
+Presentation Graphics           German          0.214 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:30:58.411     20,486,645,760  30,026          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:46.567     23,591 kbps     42,870 kbps     00:08:10.531    38,995 kbps     00:02:50.253    35,788 kbps     00:02:47.542    122,984 bytes   743,193 bytes   00:07:29.282    
+2               0:08:46.567     0:06:00.234     23,021 kbps     43,071 kbps     00:12:43.554    35,556 kbps     00:11:32.149    32,595 kbps     00:11:32.149    120,023 bytes   846,895 bytes   00:12:03.097    
+3               0:14:46.802     0:07:29.824     23,388 kbps     41,824 kbps     00:15:19.376    37,061 kbps     00:17:18.787    34,037 kbps     00:17:13.824    121,934 bytes   647,274 bytes   00:17:46.398    
+4               0:22:16.626     0:07:58.478     25,857 kbps     50,247 kbps     00:30:13.895    38,170 kbps     00:25:39.663    35,852 kbps     00:25:39.663    134,807 bytes   685,469 bytes   00:28:56.609    
+5               0:30:15.104     0:05:37.837     21,126 kbps     42,168 kbps     00:30:15.855    29,600 kbps     00:30:35.208    27,736 kbps     00:32:48.758    110,143 bytes   712,644 bytes   00:30:33.248    
+6               0:35:52.942     0:06:18.961     25,205 kbps     48,759 kbps     00:41:20.728    40,276 kbps     00:41:18.225    35,456 kbps     00:39:19.357    131,409 bytes   712,510 bytes   00:39:12.641    
+7               0:42:11.904     0:08:11.616     23,815 kbps     46,423 kbps     00:46:52.142    39,876 kbps     00:46:48.680    35,115 kbps     00:46:48.055    124,158 bytes   780,070 bytes   00:47:34.017    
+8               0:50:23.520     0:07:36.414     24,008 kbps     43,188 kbps     00:54:31.476    37,215 kbps     00:57:14.472    35,489 kbps     00:57:12.387    125,165 bytes   808,300 bytes   00:56:12.577    
+9               0:57:59.934     0:08:18.956     23,877 kbps     40,704 kbps     01:02:20.987    37,478 kbps     01:02:09.642    36,308 kbps     01:02:10.476    124,485 bytes   760,690 bytes   00:58:10.612    
+10              1:06:18.891     0:09:56.137     26,875 kbps     48,152 kbps     01:09:33.210    39,670 kbps     01:06:46.210    37,922 kbps     01:06:41.205    140,114 bytes   725,188 bytes   01:11:26.657    
+11              1:16:15.028     0:09:16.055     24,235 kbps     46,412 kbps     01:18:51.268    41,014 kbps     01:18:49.724    35,484 kbps     01:18:49.057    126,352 bytes   888,419 bytes   01:25:31.084    
+12              1:25:31.084     0:05:25.825     21,735 kbps     49,813 kbps     01:25:46.057    40,627 kbps     01:25:56.025    39,249 kbps     01:25:38.174    113,316 bytes   876,756 bytes   01:25:58.069    
+13              1:30:56.909     0:00:01.501     3,937 kbps      5,895 kbps      01:30:56.909    0 kbps          00:00:00.000    0 kbps          00:00:00.000    21,734 bytes    190,522 bytes   01:30:57.201    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5458.244                24,085                  16,432,627,041  89,384,322      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5458.244                2,048                   1,397,518,724   8,452,986       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5458.244                2,063                   1,407,744,312   8,508,570       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5458.244                45                      30,420,879      171,649         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5458.244                0                       145,800         847             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ozzy - Blu-ray™
+Disc Label: Ozzy.-.Ein.Held.auf.vier.Pfoten.2016.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 23,984,601,535 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 20,486,645,760 bytes
+Length: 1:30:58.411
+Total Bitrate: 30.03 Mbps
+Video: MPEG-4 AVC Video / 24084 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2048 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2063 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 44.586 kbps
+Subtitle: German / 0.214 kbps
+

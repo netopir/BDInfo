@@ -1,0 +1,232 @@
+Disc Label:     Ot.vinta.2012.1080p.3D.RUS.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      24,789,268,188 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:26:58 18,438,297,600  24,789,268,188  28.26   20.63   DTS-HD Master 5.1 2336Kbps (48kHz/16-bit) Dolby TrueHD 5.1 2411Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Ot.vinta.2012.1080p.3D.RUS.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      24,789,268,188 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:26:58.922 (h:m:s.ms)
+Size:                   18,438,297,600 bytes
+Total Bitrate:          28.26 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20632 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         2336 kbps       5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Russian         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+Dolby TrueHD Audio              Russian         2411 kbps       5.1 / 48 kHz /  1771 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         30.707 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     0:51:21.495     10,982,043,648  28,511          
+00006.M2TS      0:51:21.495     0:35:37.426     7,456,253,952   27,907          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:26.956     18,683 kbps     44,539 kbps     00:00:19.310    30,504 kbps     00:00:18.560    26,727 kbps     00:00:18.893    97,384 bytes    814,205 bytes   00:02:40.660    
+2               0:03:26.956     0:07:07.510     19,068 kbps     41,279 kbps     00:04:40.196    31,655 kbps     00:08:44.774    26,763 kbps     00:08:40.144    99,412 bytes    794,460 bytes   00:08:07.028    
+3               0:10:34.467     0:09:34.031     21,750 kbps     37,262 kbps     00:10:46.979    32,605 kbps     00:10:43.351    27,869 kbps     00:10:42.600    113,396 bytes   975,333 bytes   00:19:13.026    
+4               0:20:08.498     0:09:48.087     21,329 kbps     35,184 kbps     00:27:43.995    29,721 kbps     00:27:40.492    26,308 kbps     00:25:02.334    111,202 bytes   983,458 bytes   00:27:40.617    
+5               0:29:56.586     0:10:11.569     21,551 kbps     38,561 kbps     00:39:47.051    27,580 kbps     00:39:43.672    25,375 kbps     00:34:18.222    112,358 bytes   942,716 bytes   00:39:45.341    
+6               0:40:08.155     0:06:41.067     21,525 kbps     38,186 kbps     00:43:58.552    27,325 kbps     00:43:18.971    25,147 kbps     00:43:55.549    112,219 bytes   782,281 bytes   00:40:46.026    
+7               0:46:49.223     0:07:24.402     21,781 kbps     42,476 kbps     00:51:22.496    31,572 kbps     00:51:19.201    28,310 kbps     00:51:14.488    113,555 bytes   951,796 bytes   00:51:06.688    
+8               0:54:13.625     0:08:24.337     20,670 kbps     38,202 kbps     00:56:36.351    29,254 kbps     00:58:34.510    27,627 kbps     00:58:31.507    107,766 bytes   975,468 bytes   00:56:36.434    
+9               1:02:37.962     0:07:39.167     21,579 kbps     43,042 kbps     01:08:02.828    28,724 kbps     01:08:02.828    26,830 kbps     01:08:02.828    112,504 bytes   815,795 bytes   01:08:02.870    
+10              1:10:17.129     0:05:59.484     20,615 kbps     37,720 kbps     01:13:06.381    29,014 kbps     01:13:43.168    27,730 kbps     01:13:36.995    107,476 bytes   967,338 bytes   01:14:51.320    
+11              1:16:16.613     0:07:18.938     20,700 kbps     40,556 kbps     01:22:21.186    30,036 kbps     01:21:59.122    27,530 kbps     01:21:07.696    107,922 bytes   952,380 bytes   01:23:25.041    
+12              1:23:35.552     0:03:23.369     11,347 kbps     29,129 kbps     01:23:35.552    28,451 kbps     01:23:36.428    28,070 kbps     01:23:37.512    59,169 bytes    710,271 bytes   01:23:36.553    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     3081.328                20,995                  8,086,726,151   43,992,690      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           3081.328                2,285                   880,045,948     5,263,943       
+00004.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           3081.328                192                     73,953,792      481,470         
+00004.M2TS      4354 (0x1102)   0x83            TrueHD          rus (Russian)           3081.328                2,381                   917,052,918     7,279,406       
+00004.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3081.328                35                      13,319,510      77,360          
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     2137.302                20,111                  5,372,943,885   29,230,600      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           2137.302                2,411                   644,102,068     3,833,447       
+00006.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           2137.302                192                     51,296,256      333,960         
+00006.M2TS      4354 (0x1102)   0x83            TrueHD          rus (Russian)           2137.302                2,454                   655,591,518     5,325,822       
+00006.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           2137.302                25                      6,712,845       39,194          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Ot.vinta.2012.1080p.3D.RUS.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size: 24,789,268,188 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 18,438,297,600 bytes
+Length: 1:26:58.922
+Total Bitrate: 28.26 Mbps
+Video: MPEG-4 AVC Video / 20632 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Russian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+Audio: Russian / Dolby TrueHD Audio / 5.1 / 48 kHz /  1771 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Subtitle: English / 30.707 kbps
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:26:58 18,438,297,600  24,789,268,188  28.26   20.63   DTS-HD Master 5.1 2336Kbps (48kHz/16-bit) Dolby TrueHD 5.1 2411Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Ot.vinta.2012.1080p.3D.RUS.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      24,789,268,188 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:26:58.922 (h:m:s.ms)
+Size:                   18,438,297,600 bytes
+Total Bitrate:          28.26 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20632 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Russian         2336 kbps       5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Russian         192 kbps        2.0 / 48 kHz /   192 kbps / DN -31dB
+Dolby TrueHD Audio              Russian         2411 kbps       5.1 / 48 kHz /  1771 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         30.707 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     0:51:21.495     10,982,043,648  28,511          
+00006.M2TS      0:51:21.495     0:35:37.426     7,456,253,952   27,907          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:37.730     18,090 kbps     44,539 kbps     00:00:19.310    31,040 kbps     00:04:37.193    26,727 kbps     00:00:18.893    94,301 bytes    814,205 bytes   00:02:40.660    
+2               0:06:37.730     0:06:17.710     20,944 kbps     38,442 kbps     00:08:40.478    32,605 kbps     00:10:43.351    27,869 kbps     00:10:42.600    109,195 bytes   794,460 bytes   00:08:07.028    
+3               0:12:55.441     0:11:22.890     21,041 kbps     35,485 kbps     00:19:20.117    30,381 kbps     00:19:16.572    26,126 kbps     00:19:15.404    109,696 bytes   975,333 bytes   00:19:13.026    
+4               0:24:18.331     0:08:29.091     22,292 kbps     35,184 kbps     00:27:43.995    29,721 kbps     00:27:40.492    26,308 kbps     00:25:02.334    116,218 bytes   983,458 bytes   00:27:40.617    
+5               0:32:47.423     0:04:18.716     21,690 kbps     34,661 kbps     00:34:40.828    26,467 kbps     00:34:37.075    25,375 kbps     00:34:18.222    113,080 bytes   775,989 bytes   00:35:01.516    
+6               0:37:06.140     0:09:43.082     21,311 kbps     38,561 kbps     00:39:47.051    27,580 kbps     00:39:43.672    25,147 kbps     00:43:55.549    111,106 bytes   942,716 bytes   00:39:45.341    
+7               0:46:49.223     0:07:24.402     21,781 kbps     42,476 kbps     00:51:22.496    31,572 kbps     00:51:19.201    28,310 kbps     00:51:14.488    113,555 bytes   951,796 bytes   00:51:06.688    
+8               0:54:13.625     0:08:24.337     20,670 kbps     38,202 kbps     00:56:36.351    29,254 kbps     00:58:34.510    27,627 kbps     00:58:31.507    107,766 bytes   975,468 bytes   00:56:36.434    
+9               1:02:37.962     0:07:39.167     21,579 kbps     43,042 kbps     01:08:02.828    28,724 kbps     01:08:02.828    26,830 kbps     01:08:02.828    112,504 bytes   815,795 bytes   01:08:02.870    
+10              1:10:17.129     0:05:59.484     20,615 kbps     37,720 kbps     01:13:06.381    29,014 kbps     01:13:43.168    27,730 kbps     01:13:36.995    107,476 bytes   967,338 bytes   01:14:51.320    
+11              1:16:16.613     0:07:18.938     20,700 kbps     40,556 kbps     01:22:21.186    30,036 kbps     01:21:59.122    27,530 kbps     01:21:07.696    107,922 bytes   952,380 bytes   01:23:25.041    
+12              1:23:35.552     0:03:23.369     11,347 kbps     29,129 kbps     01:23:35.552    28,451 kbps     01:23:36.428    28,070 kbps     01:23:37.512    59,169 bytes    710,271 bytes   01:23:36.553    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     3081.328                20,995                  8,086,726,151   43,992,690      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           3081.328                2,285                   880,045,948     5,263,943       
+00004.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           3081.328                192                     73,953,792      481,470         
+00004.M2TS      4354 (0x1102)   0x83            TrueHD          rus (Russian)           3081.328                2,381                   917,052,918     7,279,406       
+00004.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           3081.328                35                      13,319,510      77,360          
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     2137.302                20,111                  5,372,943,885   29,230,600      
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       rus (Russian)           2137.302                2,411                   644,102,068     3,833,447       
+00006.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           2137.302                192                     51,296,256      333,960         
+00006.M2TS      4354 (0x1102)   0x83            TrueHD          rus (Russian)           2137.302                2,454                   655,591,518     5,325,822       
+00006.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           2137.302                25                      6,712,845       39,194          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Ot.vinta.2012.1080p.3D.RUS.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size: 24,789,268,188 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 18,438,297,600 bytes
+Length: 1:26:58.922
+Total Bitrate: 28.26 Mbps
+Video: MPEG-4 AVC Video / 20632 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Russian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB
+Audio: Russian / Dolby TrueHD Audio / 5.1 / 48 kHz /  1771 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Subtitle: English / 30.707 kbps
+
