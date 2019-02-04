@@ -1,0 +1,197 @@
+Disc Title:     Over the Hedge
+Disc Label:     Over.The.Hedge.2006.MULTI.COMPLETE.BLURAY-HWD
+Disc Size:      28,466,565,564 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:23:30 25,237,659,648  28,466,565,564  40.29   29.03   DTS-HD Master 5.1 1980Kbps (48kHz/24-bit) DTS 2.0 256Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Over the Hedge
+Disc Label:     Over.The.Hedge.2006.MULTI.COMPLETE.BLURAY-HWD
+Disc Size:      28,466,565,564 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:23:30.630 (h:m:s.ms)
+Size:                   25,237,659,648 bytes
+Total Bitrate:          40.29 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29028 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         1980 kbps       5.1 / 48 kHz /  1980 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Catalan         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       English         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         50.058 kbps                     
+Presentation Graphics           German          40.629 kbps                     
+Presentation Graphics           Italian         39.144 kbps                     
+Presentation Graphics           Spanish         39.652 kbps                     
+Presentation Graphics           Danish          31.600 kbps                     
+Presentation Graphics           Finnish         28.789 kbps                     
+Presentation Graphics           Norwegian       29.520 kbps                     
+Presentation Graphics           Swedish         33.200 kbps                     
+Presentation Graphics           English         83.598 kbps                     
+Presentation Graphics           German          0.346 kbps                      
+Presentation Graphics           Italian         0.375 kbps                      
+Presentation Graphics           Spanish         1.723 kbps                      
+Presentation Graphics           Catalan         4.232 kbps                      
+Presentation Graphics           Danish          0.294 kbps                      
+Presentation Graphics           Finnish         0.723 kbps                      
+Presentation Graphics           Norwegian       1.232 kbps                      
+Presentation Graphics           Swedish         1.399 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:23:30.630     25,237,659,648  40,295          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:11.334     26,523 kbps     40,208 kbps     00:00:23.356    33,464 kbps     00:00:19.352    32,716 kbps     00:00:14.347    138,254 bytes   423,505 bytes   00:00:24.024    
+2               0:04:11.334     0:03:54.359     27,776 kbps     36,038 kbps     00:07:45.298    32,465 kbps     00:07:54.724    31,282 kbps     00:06:07.825    144,810 bytes   522,711 bytes   00:07:59.395    
+3               0:08:05.693     0:03:50.271     31,572 kbps     35,044 kbps     00:09:35.074    32,364 kbps     00:08:17.413    32,076 kbps     00:09:20.393    164,603 bytes   564,834 bytes   00:09:36.033    
+4               0:11:55.965     0:02:16.511     31,249 kbps     36,120 kbps     00:12:06.726    32,710 kbps     00:12:02.763    32,224 kbps     00:11:57.758    162,920 bytes   639,678 bytes   00:12:02.805    
+5               0:14:12.476     0:05:03.845     29,961 kbps     35,177 kbps     00:15:58.165    32,505 kbps     00:14:41.213    31,960 kbps     00:17:50.611    156,202 bytes   587,292 bytes   00:14:46.802    
+6               0:19:16.321     0:05:07.473     27,961 kbps     33,893 kbps     00:22:12.331    32,100 kbps     00:24:10.907    31,866 kbps     00:20:11.543    145,774 bytes   532,044 bytes   00:23:43.088    
+7               0:24:23.795     0:03:44.474     30,219 kbps     34,356 kbps     00:26:20.412    32,328 kbps     00:25:28.151    32,039 kbps     00:27:44.579    157,549 bytes   628,116 bytes   00:26:13.113    
+8               0:28:08.269     0:03:59.197     27,415 kbps     34,668 kbps     00:29:55.335    32,084 kbps     00:28:16.444    31,870 kbps     00:28:11.731    142,932 bytes   541,988 bytes   00:29:55.376    
+9               0:32:07.467     0:02:33.736     29,783 kbps     34,022 kbps     00:32:50.969    32,193 kbps     00:32:32.450    31,984 kbps     00:32:19.270    155,277 bytes   525,763 bytes   00:33:00.103    
+10              0:34:41.204     0:05:41.132     29,132 kbps     37,082 kbps     00:36:15.214    32,320 kbps     00:39:55.434    32,025 kbps     00:38:24.677    151,883 bytes   634,969 bytes   00:35:33.297    
+11              0:40:22.336     0:04:27.100     29,544 kbps     34,744 kbps     00:41:24.565    32,338 kbps     00:41:39.121    32,039 kbps     00:44:32.252    154,027 bytes   637,798 bytes   00:41:25.316    
+12              0:44:49.436     0:04:37.443     29,306 kbps     35,733 kbps     00:44:55.526    32,515 kbps     00:44:51.522    32,079 kbps     00:45:33.939    152,787 bytes   571,764 bytes   00:45:43.699    
+13              0:49:26.880     0:04:53.209     29,675 kbps     34,635 kbps     00:50:38.910    32,119 kbps     00:52:37.612    31,954 kbps     00:51:27.626    154,711 bytes   519,319 bytes   00:51:44.267    
+14              0:54:20.090     0:03:53.441     27,955 kbps     33,390 kbps     00:55:34.331    32,004 kbps     00:57:54.596    31,186 kbps     00:56:49.614    145,746 bytes   416,166 bytes   00:55:27.824    
+15              0:58:13.531     0:05:19.902     27,655 kbps     33,693 kbps     01:02:22.905    32,010 kbps     01:00:37.550    31,614 kbps     01:00:37.175    144,180 bytes   373,463 bytes   01:01:32.480    
+16              1:03:33.434     0:06:15.917     29,529 kbps     34,846 kbps     01:04:09.554    32,130 kbps     01:04:31.325    31,927 kbps     01:04:17.270    153,951 bytes   634,594 bytes   01:04:52.263    
+17              1:09:49.351     0:06:04.781     28,504 kbps     37,025 kbps     01:13:21.647    32,519 kbps     01:12:47.404    32,160 kbps     01:12:41.440    148,607 bytes   640,587 bytes   01:12:53.035    
+18              1:15:54.132     0:07:36.497     29,753 kbps     37,915 kbps     01:16:08.188    32,561 kbps     01:19:16.668    32,176 kbps     01:19:11.621    155,134 bytes   640,901 bytes   01:17:36.860    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5010.464                29,029                  18,180,797,599  98,878,639      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5010.464                1,980                   1,240,270,732   7,517,502       
+00800.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4354 (0x1102)   0x82            DTS             ita (Italian)           5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4355 (0x1103)   0x82            DTS             spa (Spanish)           5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4356 (0x1104)   0x82            DTS             cat (Catalan)           5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4357 (0x1105)   0x82            DTS             dan (Danish)            5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4358 (0x1106)   0x82            DTS             fin (Finnish)           5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4359 (0x1107)   0x82            DTS             nor (Norwegian)         5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4360 (0x1108)   0x82            DTS             swe (Swedish)           5010.464                768                     481,020,928     2,818,482       
+00800.M2TS      4361 (0x1109)   0x82            DTS             eng (English)           5010.464                255                     159,713,980     939,494         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5010.464                50                      31,352,469      180,874         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5010.464                41                      25,447,019      146,347         
+00800.M2TS      4610 (0x1202)   0x90            PGS             ita (Italian)           5010.464                39                      24,516,934      141,250         
+00800.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5010.464                40                      24,835,219      143,497         
+00800.M2TS      4612 (0x1204)   0x90            PGS             dan (Danish)            5010.464                32                      19,791,680      115,064         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fin (Finnish)           5010.464                29                      18,031,274      105,403         
+00800.M2TS      4614 (0x1206)   0x90            PGS             nor (Norwegian)         5010.464                30                      18,488,927      108,065         
+00800.M2TS      4615 (0x1207)   0x90            PGS             swe (Swedish)           5010.464                33                      20,793,904      119,650         
+00800.M2TS      4616 (0x1208)   0x90            PGS             eng (English)           5010.464                84                      52,359,594      296,797         
+00800.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            5010.464                0                       216,493         1,288           
+00800.M2TS      4618 (0x120A)   0x90            PGS             ita (Italian)           5010.464                0                       234,982         1,396           
+00800.M2TS      4619 (0x120B)   0x90            PGS             spa (Spanish)           5010.464                2                       1,079,082       6,339           
+00800.M2TS      4620 (0x120C)   0x90            PGS             cat (Catalan)           5010.464                4                       2,650,772       15,361          
+00800.M2TS      4621 (0x120D)   0x90            PGS             dan (Danish)            5010.464                0                       183,828         1,088           
+00800.M2TS      4622 (0x120E)   0x90            PGS             fin (Finnish)           5010.464                1                       452,937         2,683           
+00800.M2TS      4623 (0x120F)   0x90            PGS             nor (Norwegian)         5010.464                1                       771,592         4,556           
+00800.M2TS      4624 (0x1210)   0x90            PGS             swe (Swedish)           5010.464                1                       876,137         5,110           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Over the Hedge
+Disc Label: Over.The.Hedge.2006.MULTI.COMPLETE.BLURAY-HWD
+Disc Size: 28,466,565,564 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 25,237,659,648 bytes
+Length: 1:23:30.630
+Total Bitrate: 40.29 Mbps
+Video: MPEG-4 AVC Video / 29028 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1980 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Catalan / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Subtitle: English / 50.058 kbps
+Subtitle: German / 40.629 kbps
+Subtitle: Italian / 39.144 kbps
+Subtitle: Spanish / 39.652 kbps
+Subtitle: Danish / 31.600 kbps
+Subtitle: Finnish / 28.789 kbps
+Subtitle: Norwegian / 29.520 kbps
+Subtitle: Swedish / 33.200 kbps
+Subtitle: English / 83.598 kbps
+Subtitle: German / 0.346 kbps
+Subtitle: Italian / 0.375 kbps
+Subtitle: Spanish / 1.723 kbps
+Subtitle: Catalan / 4.232 kbps
+Subtitle: Danish / 0.294 kbps
+Subtitle: Finnish / 0.723 kbps
+Subtitle: Norwegian / 1.232 kbps
+Subtitle: Swedish / 1.399 kbps
+

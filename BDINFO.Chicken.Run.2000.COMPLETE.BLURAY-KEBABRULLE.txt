@@ -1,0 +1,327 @@
+Disc Title:     Chicken Run
+Disc Label:     Chicken.Run.2000.COMPLETE.BLURAY-KEBABRULLE
+Disc Size:      34,942,310,613 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00612.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00612.MPLS                                                      AVC     1:24:45 26,696,361,984  34,942,310,613  41.99   33.11   DTS-HD Master 5.1 2138Kbps (48kHz/24-bit) DTS 2.0 256Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Chicken Run
+Disc Label:     Chicken.Run.2000.COMPLETE.BLURAY-KEBABRULLE
+Disc Size:      34,942,310,613 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00612.MPLS
+Length:                 1:24:45.663 (h:m:s.ms)
+Size:                   26,696,361,984 bytes
+Total Bitrate:          41.99 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        33106 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2138 kbps       5.1 / 48 kHz /  2138 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       English         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.589 kbps                     
+Presentation Graphics           Italian         33.059 kbps                     
+Presentation Graphics           Danish          25.480 kbps                     
+Presentation Graphics           Finnish         26.682 kbps                     
+Presentation Graphics           Norwegian       26.254 kbps                     
+Presentation Graphics           Swedish         26.157 kbps                     
+Presentation Graphics           English         77.334 kbps                     
+Presentation Graphics           Italian         0.527 kbps                      
+Presentation Graphics           Danish          0.569 kbps                      
+Presentation Graphics           Finnish         0.806 kbps                      
+Presentation Graphics           Norwegian       0.945 kbps                      
+Presentation Graphics           Swedish         0.817 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00246.M2TS      0:00:00.000     1:24:45.663     26,696,361,984  41,995          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:45.952     30,640 kbps     49,562 kbps     00:00:23.440    39,152 kbps     00:00:19.477    37,874 kbps     00:00:14.431    159,721 bytes   500,001 bytes   00:00:24.024    
+2               0:04:45.952     0:02:49.794     33,712 kbps     38,493 kbps     00:07:23.234    36,859 kbps     00:05:58.858    36,697 kbps     00:05:44.010    175,760 bytes   425,996 bytes   00:05:58.024    
+3               0:07:35.746     0:03:41.346     36,189 kbps     38,290 kbps     00:09:14.136    36,928 kbps     00:11:11.545    36,732 kbps     00:08:47.860    188,675 bytes   357,160 bytes   00:10:32.506    
+4               0:11:17.093     0:03:33.129     33,618 kbps     38,813 kbps     00:13:41.487    36,963 kbps     00:13:37.525    36,560 kbps     00:13:51.956    175,267 bytes   347,928 bytes   00:14:11.267    
+5               0:14:50.222     0:03:42.388     33,690 kbps     38,474 kbps     00:15:40.314    36,676 kbps     00:15:36.310    36,419 kbps     00:15:31.305    175,644 bytes   355,155 bytes   00:16:31.615    
+6               0:18:32.611     0:04:44.701     32,365 kbps     37,535 kbps     00:22:32.392    36,151 kbps     00:19:35.465    35,320 kbps     00:19:35.340    168,738 bytes   357,813 bytes   00:20:01.283    
+7               0:23:17.312     0:04:15.922     31,043 kbps     37,334 kbps     00:24:24.129    35,848 kbps     00:26:53.028    35,350 kbps     00:26:53.236    161,845 bytes   350,085 bytes   00:27:33.109    
+8               0:27:33.234     0:04:13.378     36,363 kbps     38,604 kbps     00:28:52.605    36,987 kbps     00:28:48.518    36,715 kbps     00:28:43.638    189,580 bytes   374,058 bytes   00:27:44.120    
+9               0:31:46.613     0:06:03.738     32,075 kbps     38,131 kbps     00:35:06.729    36,751 kbps     00:31:47.447    36,378 kbps     00:31:47.238    167,225 bytes   368,051 bytes   00:33:01.396    
+10              0:37:50.351     0:06:17.752     35,781 kbps     43,238 kbps     00:41:45.211    37,771 kbps     00:41:41.248    37,173 kbps     00:41:36.202    186,548 bytes   398,928 bytes   00:38:18.546    
+11              0:44:08.103     0:04:03.826     34,382 kbps     38,943 kbps     00:45:20.884    36,842 kbps     00:46:40.923    36,687 kbps     00:46:38.796    179,250 bytes   353,400 bytes   00:46:14.521    
+12              0:48:11.930     0:06:29.222     34,441 kbps     39,948 kbps     00:53:51.228    37,192 kbps     00:53:33.960    36,821 kbps     00:53:42.177    179,558 bytes   442,979 bytes   00:53:10.478    
+13              0:54:41.152     0:04:00.698     31,336 kbps     38,668 kbps     00:54:41.653    36,451 kbps     00:54:41.152    35,789 kbps     00:54:41.152    163,373 bytes   355,871 bytes   00:54:43.863    
+14              0:58:41.851     0:05:08.641     35,344 kbps     40,564 kbps     01:00:20.158    37,371 kbps     01:00:32.920    36,929 kbps     01:00:27.874    184,267 bytes   436,596 bytes   01:00:16.487    
+15              1:03:50.493     0:03:33.087     34,750 kbps     39,217 kbps     01:04:32.827    36,880 kbps     01:06:54.593    36,773 kbps     01:06:54.468    181,172 bytes   412,393 bytes   01:07:07.314    
+16              1:07:23.581     0:04:53.668     33,566 kbps     38,144 kbps     01:08:41.408    36,630 kbps     01:11:10.015    35,733 kbps     01:09:59.612    175,000 bytes   387,565 bytes   01:11:35.666    
+17              1:12:17.249     0:07:23.526     33,706 kbps     38,571 kbps     01:18:52.185    36,921 kbps     01:18:31.331    36,756 kbps     01:18:52.477    175,726 bytes   420,267 bytes   01:19:02.237    
+18              1:19:40.776     0:05:04.887     23,638 kbps     37,875 kbps     01:23:51.651    36,850 kbps     01:23:47.647    35,265 kbps     01:23:43.685    123,255 bytes   378,085 bytes   01:23:48.690    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00246.M2TS      4113 (0x1011)   0x1B            AVC                                     5085.539                33,107                  21,045,949,069  114,451,063     
+00246.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5085.539                2,138                   1,359,313,948   8,205,046       
+00246.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4354 (0x1102)   0x82            DTS             dan (Danish)            5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4355 (0x1103)   0x82            DTS             fin (Finnish)           5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4356 (0x1104)   0x82            DTS             nor (Norwegian)         5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4357 (0x1105)   0x82            DTS             swe (Swedish)           5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4358 (0x1106)   0x82            DTS             eng (English)           5085.539                255                     162,105,540     953,562         
+00246.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5085.539                47                      29,617,237      170,287         
+00246.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5085.539                33                      21,015,619      120,418         
+00246.M2TS      4610 (0x1202)   0x90            PGS             dan (Danish)            5085.539                25                      16,197,886      92,009          
+00246.M2TS      4611 (0x1203)   0x90            PGS             fin (Finnish)           5085.539                27                      16,962,124      96,454          
+00246.M2TS      4612 (0x1204)   0x90            PGS             nor (Norwegian)         5085.539                26                      16,689,765      94,850          
+00246.M2TS      4613 (0x1205)   0x90            PGS             swe (Swedish)           5085.539                26                      16,628,163      94,611          
+00246.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5085.539                77                      49,162,024      277,836         
+00246.M2TS      4615 (0x1207)   0x90            PGS             ita (Italian)           5085.539                1                       334,879         1,946           
+00246.M2TS      4616 (0x1208)   0x90            PGS             dan (Danish)            5085.539                1                       362,016         2,111           
+00246.M2TS      4617 (0x1209)   0x90            PGS             fin (Finnish)           5085.539                1                       512,563         2,987           
+00246.M2TS      4618 (0x120A)   0x90            PGS             nor (Norwegian)         5085.539                1                       600,889         3,499           
+00246.M2TS      4619 (0x120B)   0x90            PGS             swe (Swedish)           5085.539                1                       519,401         3,025           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Chicken Run
+Disc Label: Chicken.Run.2000.COMPLETE.BLURAY-KEBABRULLE
+Disc Size: 34,942,310,613 bytes
+Protection: AACS
+Playlist: 00612.MPLS
+Size: 26,696,361,984 bytes
+Length: 1:24:45.663
+Total Bitrate: 41.99 Mbps
+Video: MPEG-4 AVC Video / 33106 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2138 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Subtitle: English / 46.589 kbps
+Subtitle: Italian / 33.059 kbps
+Subtitle: Danish / 25.480 kbps
+Subtitle: Finnish / 26.682 kbps
+Subtitle: Norwegian / 26.254 kbps
+Subtitle: Swedish / 26.157 kbps
+Subtitle: English / 77.334 kbps
+Subtitle: Italian / 0.527 kbps
+Subtitle: Danish / 0.569 kbps
+Subtitle: Finnish / 0.806 kbps
+Subtitle: Norwegian / 0.945 kbps
+Subtitle: Swedish / 0.817 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:24:45 26,696,361,984  34,942,310,613  41.99   33.11   DTS-HD Master 5.1 2138Kbps (48kHz/24-bit) DTS 2.0 256Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Chicken Run
+Disc Label:     Chicken.Run.2000.COMPLETE.BLURAY-KEBABRULLE
+Disc Size:      34,942,310,613 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:24:45.663 (h:m:s.ms)
+Size:                   26,696,361,984 bytes
+Total Bitrate:          41.99 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        33106 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2138 kbps       5.1 / 48 kHz /  2138 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Danish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       English         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.589 kbps                     
+Presentation Graphics           Italian         33.059 kbps                     
+Presentation Graphics           Danish          25.480 kbps                     
+Presentation Graphics           Finnish         26.682 kbps                     
+Presentation Graphics           Norwegian       26.254 kbps                     
+Presentation Graphics           Swedish         26.157 kbps                     
+Presentation Graphics           English         77.334 kbps                     
+Presentation Graphics           Italian         0.527 kbps                      
+Presentation Graphics           Danish          0.569 kbps                      
+Presentation Graphics           Finnish         0.806 kbps                      
+Presentation Graphics           Norwegian       0.945 kbps                      
+Presentation Graphics           Swedish         0.817 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00246.M2TS      0:00:00.000     1:24:45.663     26,696,361,984  41,995          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:45.952     30,640 kbps     49,562 kbps     00:00:23.440    39,152 kbps     00:00:19.477    37,874 kbps     00:00:14.431    159,721 bytes   500,001 bytes   00:00:24.024    
+2               0:04:45.952     0:02:49.794     33,712 kbps     38,493 kbps     00:07:23.234    36,859 kbps     00:05:58.858    36,697 kbps     00:05:44.010    175,760 bytes   425,996 bytes   00:05:58.024    
+3               0:07:35.746     0:03:41.346     36,189 kbps     38,290 kbps     00:09:14.136    36,928 kbps     00:11:11.545    36,732 kbps     00:08:47.860    188,675 bytes   357,160 bytes   00:10:32.506    
+4               0:11:17.093     0:03:33.129     33,618 kbps     38,813 kbps     00:13:41.487    36,963 kbps     00:13:37.525    36,560 kbps     00:13:51.956    175,267 bytes   347,928 bytes   00:14:11.267    
+5               0:14:50.222     0:03:42.388     33,690 kbps     38,474 kbps     00:15:40.314    36,676 kbps     00:15:36.310    36,419 kbps     00:15:31.305    175,644 bytes   355,155 bytes   00:16:31.615    
+6               0:18:32.611     0:04:44.701     32,365 kbps     37,535 kbps     00:22:32.392    36,151 kbps     00:19:35.465    35,320 kbps     00:19:35.340    168,738 bytes   357,813 bytes   00:20:01.283    
+7               0:23:17.312     0:04:15.922     31,043 kbps     37,334 kbps     00:24:24.129    35,848 kbps     00:26:53.028    35,350 kbps     00:26:53.236    161,845 bytes   350,085 bytes   00:27:33.109    
+8               0:27:33.234     0:04:13.378     36,363 kbps     38,604 kbps     00:28:52.605    36,987 kbps     00:28:48.518    36,715 kbps     00:28:43.638    189,580 bytes   374,058 bytes   00:27:44.120    
+9               0:31:46.613     0:06:03.738     32,075 kbps     38,131 kbps     00:35:06.729    36,751 kbps     00:31:47.447    36,378 kbps     00:31:47.238    167,225 bytes   368,051 bytes   00:33:01.396    
+10              0:37:50.351     0:06:17.752     35,781 kbps     43,238 kbps     00:41:45.211    37,771 kbps     00:41:41.248    37,173 kbps     00:41:36.202    186,548 bytes   398,928 bytes   00:38:18.546    
+11              0:44:08.103     0:04:03.826     34,382 kbps     38,943 kbps     00:45:20.884    36,842 kbps     00:46:40.923    36,687 kbps     00:46:38.796    179,250 bytes   353,400 bytes   00:46:14.521    
+12              0:48:11.930     0:06:29.222     34,441 kbps     39,948 kbps     00:53:51.228    37,192 kbps     00:53:33.960    36,821 kbps     00:53:42.177    179,558 bytes   442,979 bytes   00:53:10.478    
+13              0:54:41.152     0:04:00.698     31,336 kbps     38,668 kbps     00:54:41.653    36,451 kbps     00:54:41.152    35,789 kbps     00:54:41.152    163,373 bytes   355,871 bytes   00:54:43.863    
+14              0:58:41.851     0:05:08.641     35,344 kbps     40,564 kbps     01:00:20.158    37,371 kbps     01:00:32.920    36,929 kbps     01:00:27.874    184,267 bytes   436,596 bytes   01:00:16.487    
+15              1:03:50.493     0:03:33.087     34,750 kbps     39,217 kbps     01:04:32.827    36,880 kbps     01:06:54.593    36,773 kbps     01:06:54.468    181,172 bytes   412,393 bytes   01:07:07.314    
+16              1:07:23.581     0:04:53.668     33,566 kbps     38,144 kbps     01:08:41.408    36,630 kbps     01:11:10.015    35,733 kbps     01:09:59.612    175,000 bytes   387,565 bytes   01:11:35.666    
+17              1:12:17.249     0:07:23.526     33,706 kbps     38,571 kbps     01:18:52.185    36,921 kbps     01:18:31.331    36,756 kbps     01:18:52.477    175,726 bytes   420,267 bytes   01:19:02.237    
+18              1:19:40.776     0:05:04.887     23,638 kbps     37,875 kbps     01:23:51.651    36,850 kbps     01:23:47.647    35,265 kbps     01:23:43.685    123,255 bytes   378,085 bytes   01:23:48.690    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00246.M2TS      4113 (0x1011)   0x1B            AVC                                     5085.539                33,107                  21,045,949,069  114,451,063     
+00246.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5085.539                2,138                   1,359,313,948   8,205,046       
+00246.M2TS      4353 (0x1101)   0x82            DTS             ita (Italian)           5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4354 (0x1102)   0x82            DTS             dan (Danish)            5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4355 (0x1103)   0x82            DTS             fin (Finnish)           5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4356 (0x1104)   0x82            DTS             nor (Norwegian)         5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4357 (0x1105)   0x82            DTS             swe (Swedish)           5085.539                768                     488,223,744     2,860,686       
+00246.M2TS      4358 (0x1106)   0x82            DTS             eng (English)           5085.539                255                     162,105,540     953,562         
+00246.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5085.539                47                      29,617,237      170,287         
+00246.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5085.539                33                      21,015,619      120,418         
+00246.M2TS      4610 (0x1202)   0x90            PGS             dan (Danish)            5085.539                25                      16,197,886      92,009          
+00246.M2TS      4611 (0x1203)   0x90            PGS             fin (Finnish)           5085.539                27                      16,962,124      96,454          
+00246.M2TS      4612 (0x1204)   0x90            PGS             nor (Norwegian)         5085.539                26                      16,689,765      94,850          
+00246.M2TS      4613 (0x1205)   0x90            PGS             swe (Swedish)           5085.539                26                      16,628,163      94,611          
+00246.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5085.539                77                      49,162,024      277,836         
+00246.M2TS      4615 (0x1207)   0x90            PGS             ita (Italian)           5085.539                1                       334,879         1,946           
+00246.M2TS      4616 (0x1208)   0x90            PGS             dan (Danish)            5085.539                1                       362,016         2,111           
+00246.M2TS      4617 (0x1209)   0x90            PGS             fin (Finnish)           5085.539                1                       512,563         2,987           
+00246.M2TS      4618 (0x120A)   0x90            PGS             nor (Norwegian)         5085.539                1                       600,889         3,499           
+00246.M2TS      4619 (0x120B)   0x90            PGS             swe (Swedish)           5085.539                1                       519,401         3,025           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Chicken Run
+Disc Label: Chicken.Run.2000.COMPLETE.BLURAY-KEBABRULLE
+Disc Size: 34,942,310,613 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 26,696,361,984 bytes
+Length: 1:24:45.663
+Total Bitrate: 41.99 Mbps
+Video: MPEG-4 AVC Video / 33106 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2138 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Subtitle: English / 46.589 kbps
+Subtitle: Italian / 33.059 kbps
+Subtitle: Danish / 25.480 kbps
+Subtitle: Finnish / 26.682 kbps
+Subtitle: Norwegian / 26.254 kbps
+Subtitle: Swedish / 26.157 kbps
+Subtitle: English / 77.334 kbps
+Subtitle: Italian / 0.527 kbps
+Subtitle: Danish / 0.569 kbps
+Subtitle: Finnish / 0.806 kbps
+Subtitle: Norwegian / 0.945 kbps
+Subtitle: Swedish / 0.817 kbps
+

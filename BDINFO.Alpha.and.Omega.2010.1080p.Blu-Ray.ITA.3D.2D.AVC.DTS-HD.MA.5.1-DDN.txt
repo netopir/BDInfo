@@ -1,0 +1,230 @@
+Disc Title:     Alpha et Omega
+Disc Label:     Alpha.and.Omega.2010.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      45,617,037,883 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:28:10 17,916,647,424  45,617,037,883  27.09   22.79   DD AC3 5.1 640Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Alpha et Omega
+Disc Label:     Alpha.and.Omega.2010.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      45,617,037,883 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:28:10.702 (h:m:s.ms)
+Size:                   17,916,647,424 bytes
+Total Bitrate:          27.09 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22792 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             English         2119 kbps       5.1 / 48 kHz /  2119 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          22.219 kbps                     
+Presentation Graphics           Italian         22.605 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     1:28:10.702     17,916,647,424  27,092          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:40.048     25,648 kbps     34,871 kbps     00:02:51.004    30,610 kbps     00:02:47.000    29,981 kbps     00:04:27.016    133,702 bytes   640,617 bytes   00:03:21.826    
+2               0:05:40.048     0:05:00.674     24,597 kbps     33,884 kbps     00:05:49.807    30,223 kbps     00:06:00.318    29,093 kbps     00:06:25.927    128,239 bytes   639,848 bytes   00:08:58.788    
+3               0:10:40.722     0:05:26.409     21,716 kbps     32,416 kbps     00:14:10.724    30,051 kbps     00:12:47.725    29,947 kbps     00:12:42.595    113,216 bytes   484,502 bytes   00:15:49.782    
+4               0:16:07.131     0:05:39.255     23,081 kbps     32,720 kbps     00:20:30.854    30,234 kbps     00:20:26.850    29,537 kbps     00:20:21.720    120,336 bytes   573,962 bytes   00:18:05.250    
+5               0:21:46.387     0:04:29.728     22,290 kbps     32,509 kbps     00:23:58.145    30,197 kbps     00:26:02.227    29,765 kbps     00:25:57.180    116,209 bytes   621,497 bytes   00:26:15.407    
+6               0:26:16.115     0:05:10.809     23,507 kbps     33,953 kbps     00:26:42.225    30,294 kbps     00:27:40.617    29,287 kbps     00:27:36.071    122,555 bytes   640,520 bytes   00:28:34.337    
+7               0:31:26.925     0:05:42.300     21,404 kbps     32,354 kbps     00:37:07.308    30,225 kbps     00:36:57.590    29,926 kbps     00:36:58.257    111,589 bytes   577,864 bytes   00:31:27.594    
+8               0:37:09.225     0:05:33.125     20,430 kbps     34,485 kbps     00:38:24.635    30,825 kbps     00:39:40.795    30,332 kbps     00:39:35.831    106,512 bytes   621,545 bytes   00:39:04.341    
+9               0:42:42.350     0:04:13.545     24,419 kbps     32,218 kbps     00:44:31.960    30,208 kbps     00:46:18.942    30,005 kbps     00:46:13.937    127,309 bytes   472,425 bytes   00:46:55.896    
+10              0:46:55.895     0:05:07.556     21,727 kbps     36,170 kbps     00:49:08.820    29,935 kbps     00:48:51.011    28,147 kbps     00:48:15.976    113,274 bytes   639,643 bytes   00:48:47.049    
+11              0:52:03.452     0:04:55.920     25,216 kbps     32,489 kbps     00:55:56.186    30,042 kbps     00:56:02.734    29,651 kbps     00:55:15.020    131,464 bytes   565,363 bytes   00:53:22.407    
+12              0:56:59.372     0:05:16.358     27,321 kbps     35,556 kbps     01:01:34.482    30,471 kbps     00:59:01.120    30,171 kbps     00:58:56.115    142,437 bytes   640,209 bytes   00:59:09.128    
+13              1:02:15.731     0:05:34.167     25,431 kbps     36,000 kbps     01:07:16.657    30,093 kbps     01:02:54.937    29,552 kbps     01:02:41.090    132,584 bytes   639,679 bytes   01:07:13.529    
+14              1:07:49.898     0:05:48.849     27,558 kbps     37,139 kbps     01:08:08.334    30,503 kbps     01:11:12.434    30,083 kbps     01:10:19.006    143,675 bytes   640,610 bytes   01:13:22.481    
+15              1:13:38.747     0:05:42.759     26,880 kbps     35,231 kbps     01:15:08.003    30,689 kbps     01:16:54.151    30,022 kbps     01:18:40.632    140,140 bytes   638,628 bytes   01:14:29.339    
+16              1:19:21.506     0:08:49.196     10,949 kbps     25,112 kbps     01:22:19.476    20,920 kbps     01:19:49.159    19,544 kbps     01:19:44.237    57,085 bytes    397,175 bytes   01:19:51.703    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x1B            AVC                                     5290.619                22,792                  15,073,030,433  81,995,008      
+00010.M2TS      4352 (0x1100)   0x81            AC3             ita (Italian)           5290.619                640                     422,999,040     2,478,510       
+00010.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5290.619                2,119                   1,401,514,620   8,450,422       
+00010.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5290.619                22                      14,694,396      86,481          
+00010.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5290.619                23                      14,949,588      86,799          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Alpha et Omega
+Disc Label: Alpha.and.Omega.2010.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.MA.5.1-DDN
+Disc Size: 45,617,037,883 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 17,916,647,424 bytes
+Length: 1:28:10.702
+Total Bitrate: 27.09 Mbps
+Video: MPEG-4 AVC Video / 22792 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2119 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: French / 22.219 kbps
+Subtitle: Italian / 22.605 kbps
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:28:10 17,916,647,424  45,617,037,883  27.09   22.79   DD AC3 5.1 640Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Alpha et Omega
+Disc Label:     Alpha.and.Omega.2010.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      45,617,037,883 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:28:10.702 (h:m:s.ms)
+Size:                   17,916,647,424 bytes
+Total Bitrate:          27.09 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22792 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             English         2119 kbps       5.1 / 48 kHz /  2119 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          22.219 kbps                     
+Presentation Graphics           Italian         22.605 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     1:28:10.702     17,916,647,424  27,092          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:40.048     25,648 kbps     34,871 kbps     00:02:51.004    30,610 kbps     00:02:47.000    29,981 kbps     00:04:27.016    133,702 bytes   640,617 bytes   00:03:21.826    
+2               0:05:40.048     0:05:00.674     24,597 kbps     33,884 kbps     00:05:49.807    30,223 kbps     00:06:00.318    29,093 kbps     00:06:25.927    128,239 bytes   639,848 bytes   00:08:58.788    
+3               0:10:40.722     0:05:26.409     21,716 kbps     32,416 kbps     00:14:10.724    30,051 kbps     00:12:47.725    29,947 kbps     00:12:42.595    113,216 bytes   484,502 bytes   00:15:49.782    
+4               0:16:07.131     0:05:39.255     23,081 kbps     32,720 kbps     00:20:30.854    30,234 kbps     00:20:26.850    29,537 kbps     00:20:21.720    120,336 bytes   573,962 bytes   00:18:05.250    
+5               0:21:46.387     0:04:29.728     22,290 kbps     32,509 kbps     00:23:58.145    30,197 kbps     00:26:02.227    29,765 kbps     00:25:57.180    116,209 bytes   621,497 bytes   00:26:15.407    
+6               0:26:16.115     0:05:10.809     23,507 kbps     33,953 kbps     00:26:42.225    30,294 kbps     00:27:40.617    29,287 kbps     00:27:36.071    122,555 bytes   640,520 bytes   00:28:34.337    
+7               0:31:26.925     0:05:42.300     21,404 kbps     32,354 kbps     00:37:07.308    30,225 kbps     00:36:57.590    29,926 kbps     00:36:58.257    111,589 bytes   577,864 bytes   00:31:27.594    
+8               0:37:09.225     0:05:33.125     20,430 kbps     34,485 kbps     00:38:24.635    30,825 kbps     00:39:40.795    30,332 kbps     00:39:35.831    106,512 bytes   621,545 bytes   00:39:04.341    
+9               0:42:42.350     0:04:13.545     24,419 kbps     32,218 kbps     00:44:31.960    30,208 kbps     00:46:18.942    30,005 kbps     00:46:13.937    127,309 bytes   472,425 bytes   00:46:55.896    
+10              0:46:55.895     0:05:07.556     21,727 kbps     36,170 kbps     00:49:08.820    29,935 kbps     00:48:51.011    28,147 kbps     00:48:15.976    113,274 bytes   639,643 bytes   00:48:47.049    
+11              0:52:03.452     0:04:55.920     25,216 kbps     32,489 kbps     00:55:56.186    30,042 kbps     00:56:02.734    29,651 kbps     00:55:15.020    131,464 bytes   565,363 bytes   00:53:22.407    
+12              0:56:59.372     0:05:16.358     27,321 kbps     35,556 kbps     01:01:34.482    30,471 kbps     00:59:01.120    30,171 kbps     00:58:56.115    142,437 bytes   640,209 bytes   00:59:09.128    
+13              1:02:15.731     0:05:34.167     25,431 kbps     36,000 kbps     01:07:16.657    30,093 kbps     01:02:54.937    29,552 kbps     01:02:41.090    132,584 bytes   639,679 bytes   01:07:13.529    
+14              1:07:49.898     0:05:48.849     27,558 kbps     37,139 kbps     01:08:08.334    30,503 kbps     01:11:12.434    30,083 kbps     01:10:19.006    143,675 bytes   640,610 bytes   01:13:22.481    
+15              1:13:38.747     0:05:42.759     26,880 kbps     35,231 kbps     01:15:08.003    30,689 kbps     01:16:54.151    30,022 kbps     01:18:40.632    140,140 bytes   638,628 bytes   01:14:29.339    
+16              1:19:21.506     0:08:49.196     10,949 kbps     25,112 kbps     01:22:19.476    20,920 kbps     01:19:49.159    19,544 kbps     01:19:44.237    57,085 bytes    397,175 bytes   01:19:51.703    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x1B            AVC                                     5290.619                22,792                  15,073,030,433  81,995,008      
+00010.M2TS      4352 (0x1100)   0x81            AC3             ita (Italian)           5290.619                640                     422,999,040     2,478,510       
+00010.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5290.619                2,119                   1,401,514,620   8,450,422       
+00010.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5290.619                22                      14,694,396      86,481          
+00010.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5290.619                23                      14,949,588      86,799          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Alpha et Omega
+Disc Label: Alpha.and.Omega.2010.1080p.Blu-Ray.ITA.3D.2D.AVC.DTS-HD.MA.5.1-DDN
+Disc Size: 45,617,037,883 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 17,916,647,424 bytes
+Length: 1:28:10.702
+Total Bitrate: 27.09 Mbps
+Video: MPEG-4 AVC Video / 22792 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2119 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: French / 22.219 kbps
+Subtitle: Italian / 22.605 kbps
+

@@ -1,0 +1,145 @@
+Disc Title:     Dr. Seuss' The Grinch
+Disc Label:     The.Grinch.2018.BluRay.1080p.AVC.Atmos.TrueHD.7.1-9011
+Disc Size:      42,572,188,959 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:25:49 26,787,569,664  42,572,188,959  41.62   32.15   Dolby Atmos 7.1 4737Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Dr. Seuss' The Grinch
+Disc Label:     The.Grinch.2018.BluRay.1080p.AVC.Atmos.TrueHD.7.1-9011
+Disc Size:      42,572,188,959 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:25:49.144 (h:m:s.ms)
+Size:                   26,787,569,664 bytes
+Total Bitrate:          41.62 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32154 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         4737 kbps       7.1 / 48 kHz /  4289 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Plus Audio        French          768 kbps        7.1 / 48 kHz /   768 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -24dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         39.257 kbps                     
+Presentation Graphics           Spanish         28.694 kbps                     
+Presentation Graphics           French          28.490 kbps                     
+Presentation Graphics           Spanish         0.395 kbps                      
+Presentation Graphics           French          0.724 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:25:49.144     26,787,569,664  41,619          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:40.298     32,186 kbps     39,542 kbps     00:00:39.289    35,795 kbps     00:00:35.285    35,281 kbps     00:00:30.280    167,783 bytes   398,946 bytes   00:03:54.317    
+2               0:05:40.298     0:04:55.628     33,129 kbps     37,376 kbps     00:07:35.788    35,433 kbps     00:07:31.742    35,036 kbps     00:10:04.270    172,720 bytes   448,200 bytes   00:07:24.402    
+3               0:10:35.926     0:03:38.176     31,413 kbps     37,313 kbps     00:12:47.850    35,110 kbps     00:13:05.993    34,762 kbps     00:13:20.424    163,773 bytes   407,987 bytes   00:14:14.103    
+4               0:14:14.103     0:03:31.002     32,759 kbps     37,615 kbps     00:16:24.858    35,277 kbps     00:16:20.729    34,924 kbps     00:16:41.417    170,792 bytes   434,651 bytes   00:16:51.427    
+5               0:17:45.105     0:04:34.190     31,704 kbps     40,736 kbps     00:19:08.522    35,388 kbps     00:19:04.518    34,816 kbps     00:21:05.180    165,292 bytes   393,783 bytes   00:19:58.363    
+6               0:22:19.296     0:04:09.040     33,245 kbps     37,169 kbps     00:23:18.897    35,211 kbps     00:22:31.767    34,983 kbps     00:22:26.762    173,322 bytes   401,896 bytes   00:23:17.312    
+7               0:26:28.336     0:04:16.756     31,952 kbps     37,192 kbps     00:26:33.300    35,207 kbps     00:28:11.481    34,921 kbps     00:28:06.559    166,582 bytes   398,341 bytes   00:27:43.119    
+8               0:30:45.093     0:04:01.491     31,549 kbps     38,679 kbps     00:33:11.948    35,541 kbps     00:33:07.944    34,818 kbps     00:34:12.842    164,482 bytes   389,522 bytes   00:30:53.059    
+9               0:34:46.584     0:03:50.605     31,355 kbps     36,551 kbps     00:35:04.727    35,073 kbps     00:35:12.276    34,454 kbps     00:36:58.174    163,471 bytes   426,140 bytes   00:35:16.489    
+10              0:38:37.189     0:06:03.404     33,294 kbps     36,873 kbps     00:39:25.446    35,231 kbps     00:39:18.898    35,000 kbps     00:39:13.851    173,580 bytes   488,869 bytes   00:39:23.861    
+11              0:44:40.594     0:02:47.083     32,317 kbps     37,511 kbps     00:47:15.916    34,995 kbps     00:45:09.373    34,708 kbps     00:45:06.912    168,487 bytes   399,457 bytes   00:46:28.202    
+12              0:47:27.678     0:05:09.809     32,296 kbps     36,939 kbps     00:51:55.362    35,016 kbps     00:51:37.803    34,714 kbps     00:49:17.079    168,376 bytes   415,461 bytes   00:51:38.970    
+13              0:52:37.487     0:03:55.693     31,895 kbps     36,946 kbps     00:53:00.468    35,276 kbps     00:52:56.464    35,058 kbps     00:52:51.459    166,283 bytes   558,922 bytes   00:53:01.386    
+14              0:56:33.181     0:04:31.813     30,976 kbps     40,699 kbps     01:00:11.274    35,367 kbps     01:00:33.421    34,948 kbps     01:00:47.185    161,496 bytes   460,382 bytes   01:00:19.741    
+15              1:01:04.994     0:04:29.644     31,111 kbps     37,126 kbps     01:01:13.169    35,252 kbps     01:01:09.040    34,824 kbps     01:05:24.086    162,201 bytes   358,101 bytes   01:05:34.096    
+16              1:05:34.639     0:01:48.817     32,028 kbps     36,076 kbps     01:06:12.593    34,979 kbps     01:06:38.202    34,113 kbps     01:06:10.675    166,980 bytes   382,453 bytes   01:05:35.640    
+17              1:07:23.456     0:04:51.457     31,866 kbps     37,538 kbps     01:10:33.646    35,323 kbps     01:10:29.725    34,946 kbps     01:10:45.157    166,135 bytes   427,297 bytes   01:10:57.836    
+18              1:12:14.913     0:01:57.867     32,302 kbps     36,752 kbps     01:12:51.116    34,973 kbps     01:13:12.763    34,835 kbps     01:13:08.342    168,407 bytes   441,146 bytes   01:14:12.781    
+19              1:14:12.781     0:03:55.526     33,438 kbps     39,128 kbps     01:15:41.286    35,518 kbps     01:15:37.241    35,101 kbps     01:15:32.236    174,332 bytes   434,882 bytes   01:14:14.783    
+20              1:18:08.308     0:07:40.835     31,986 kbps     39,556 kbps     01:25:46.766    35,292 kbps     01:18:25.742    35,031 kbps     01:18:20.737    166,774 bytes   458,684 bytes   01:25:47.475    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5148.977                32,155                  20,695,600,750  112,547,722     
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5148.977                4,737                   3,048,683,176   20,318,749      
+00800.M2TS      4353 (0x1101)   0x81            AC3             spa (Spanish)           5148.977                640                     411,934,720     2,413,680       
+00800.M2TS      4354 (0x1102)   0x84            AC3+            fra (French)            5148.977                768                     494,318,592     2,896,398       
+00800.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           5148.977                192                     123,580,416     804,560         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5148.977                39                      25,267,584      146,406         
+00800.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5148.977                29                      18,468,890      107,664         
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5148.977                28                      18,337,391      106,620         
+00800.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5148.977                0                       254,353         1,502           
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            5148.977                1                       466,126         2,747           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Dr. Seuss' The Grinch
+Disc Label: The.Grinch.2018.BluRay.1080p.AVC.Atmos.TrueHD.7.1-9011
+Disc Size: 42,572,188,959 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 26,787,569,664 bytes
+Length: 1:25:49.144
+Total Bitrate: 41.62 Mbps
+Video: MPEG-4 AVC Video / 32154 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4289 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -24dB / Dolby Surround
+Subtitle: English / 39.257 kbps
+Subtitle: Spanish / 28.694 kbps
+Subtitle: French / 28.490 kbps
+Subtitle: Spanish / 0.395 kbps
+Subtitle: French / 0.724 kbps
+
