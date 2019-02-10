@@ -1,0 +1,167 @@
+Disc Title:     The Emperor's New Groove - Blu-ray™
+Disc Label:     Ein.Koenigreich.fuer.ein.Lama.2000.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      26,525,095,216 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     1:18:25 24,253,796,352  26,525,095,216  41.24   26.97   DTS-HD Master 5.1 4369Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Emperor's New Groove - Blu-ray™
+Disc Label:     Ein.Koenigreich.fuer.ein.Lama.2000.MULTi.COMPLETE.BLURAY-iND
+Disc Size:      26,525,095,216 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 1:18:25.200 (h:m:s.ms)
+Size:                   24,253,796,352 bytes
+Total Bitrate:          41.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26965 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4369 kbps       5.1 / 48 kHz /  4369 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD High-Res Audio           French          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         87.962 kbps                     
+Presentation Graphics           Dutch           58.301 kbps                     
+Presentation Graphics           German          55.052 kbps                     
+Presentation Graphics           Spanish         59.517 kbps                     
+Presentation Graphics           French          51.251 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00045.M2TS      0:00:00.000     1:18:24.700     24,251,179,008  41,237          
+00002.M2TS      1:18:24.700     0:00:00.500     2,617,344       41,836          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:24.250     25,801 kbps     31,665 kbps     00:01:19.913    28,382 kbps     00:01:07.233    28,156 kbps     00:01:10.737    134,447 bytes   428,072 bytes   00:00:01.376    
+2               0:01:24.250     0:02:33.069     27,427 kbps     32,274 kbps     00:02:25.019    28,672 kbps     00:01:27.337    28,162 kbps     00:03:45.600    142,992 bytes   483,525 bytes   00:03:22.410    
+3               0:03:57.320     0:00:30.196     27,735 kbps     32,091 kbps     00:04:01.532    28,467 kbps     00:04:02.158    27,996 kbps     00:04:04.827    144,596 bytes   514,629 bytes   00:04:04.077    
+4               0:04:27.517     0:01:01.978     27,680 kbps     31,216 kbps     00:05:21.154    28,283 kbps     00:05:17.150    28,048 kbps     00:05:12.145    144,312 bytes   424,065 bytes   00:05:21.904    
+5               0:05:29.495     0:02:38.992     27,687 kbps     31,478 kbps     00:06:11.704    28,535 kbps     00:06:07.700    28,030 kbps     00:07:53.973    144,350 bytes   459,337 bytes   00:08:08.488    
+6               0:08:08.488     0:02:27.647     27,664 kbps     31,357 kbps     00:09:30.987    28,516 kbps     00:10:27.543    28,042 kbps     00:09:21.852    144,229 bytes   438,536 bytes   00:08:17.997    
+7               0:10:36.135     0:00:54.304     27,674 kbps     30,870 kbps     00:11:27.520    28,202 kbps     00:11:15.841    27,924 kbps     00:11:18.552    144,278 bytes   420,851 bytes   00:10:43.142    
+8               0:11:30.439     0:01:20.205     24,092 kbps     33,425 kbps     00:12:46.140    28,857 kbps     00:12:42.136    28,222 kbps     00:12:37.047    125,603 bytes   511,147 bytes   00:12:06.767    
+9               0:12:50.644     0:04:19.384     27,682 kbps     31,707 kbps     00:16:58.684    28,563 kbps     00:16:54.722    28,031 kbps     00:15:05.112    144,320 bytes   486,753 bytes   00:15:40.230    
+10              0:17:10.029     0:03:01.389     27,693 kbps     33,266 kbps     00:19:34.047    28,666 kbps     00:19:02.349    28,164 kbps     00:18:56.635    144,379 bytes   486,815 bytes   00:17:14.199    
+11              0:20:11.418     0:03:17.071     27,705 kbps     31,297 kbps     00:20:22.888    28,643 kbps     00:20:18.842    28,108 kbps     00:20:13.795    144,440 bytes   422,882 bytes   00:21:50.017    
+12              0:23:28.490     0:03:38.468     27,665 kbps     31,242 kbps     00:24:50.447    28,389 kbps     00:24:10.365    28,027 kbps     00:24:41.479    144,234 bytes   476,842 bytes   00:27:06.958    
+13              0:27:06.958     0:02:05.708     27,690 kbps     31,541 kbps     00:28:24.911    28,412 kbps     00:28:12.148    28,070 kbps     00:27:46.706    144,362 bytes   478,258 bytes   00:27:56.675    
+14              0:29:12.667     0:04:50.289     27,687 kbps     31,864 kbps     00:29:45.116    28,524 kbps     00:31:55.830    28,165 kbps     00:29:35.982    144,348 bytes   410,494 bytes   00:33:29.382    
+15              0:34:02.957     0:01:46.564     27,693 kbps     31,014 kbps     00:35:08.856    28,401 kbps     00:35:33.548    28,079 kbps     00:35:22.912    144,380 bytes   455,863 bytes   00:34:28.274    
+16              0:35:49.522     0:00:40.790     27,081 kbps     30,659 kbps     00:36:08.207    28,143 kbps     00:36:03.953    27,939 kbps     00:35:58.990    141,189 bytes   381,932 bytes   00:35:50.982    
+17              0:36:30.313     0:01:52.821     27,642 kbps     30,772 kbps     00:37:51.477    28,297 kbps     00:36:31.272    28,072 kbps     00:38:06.784    144,114 bytes   475,377 bytes   00:37:38.130    
+18              0:38:23.134     0:05:31.247     27,701 kbps     32,333 kbps     00:40:27.174    28,672 kbps     00:40:23.129    28,209 kbps     00:40:18.124    144,422 bytes   478,439 bytes   00:39:15.227    
+19              0:43:54.381     0:02:37.949     27,620 kbps     31,183 kbps     00:45:24.638    28,489 kbps     00:45:19.341    28,027 kbps     00:45:14.336    143,999 bytes   485,301 bytes   00:46:03.927    
+20              0:46:32.331     0:06:33.226     27,712 kbps     31,240 kbps     00:46:37.461    28,508 kbps     00:46:33.749    28,120 kbps     00:50:56.219    144,478 bytes   444,549 bytes   00:51:16.323    
+21              0:53:05.557     0:01:03.354     27,702 kbps     30,509 kbps     00:53:14.024    27,989 kbps     00:54:03.907    27,859 kbps     00:53:18.028    144,424 bytes   357,873 bytes   00:53:11.563    
+22              0:54:08.912     0:00:57.390     27,691 kbps     30,682 kbps     00:54:59.421    28,377 kbps     00:54:55.375    28,041 kbps     00:54:50.412    144,368 bytes   398,409 bytes   00:55:04.676    
+23              0:55:06.303     0:02:18.888     27,688 kbps     31,414 kbps     00:55:19.107    28,354 kbps     00:55:15.020    28,047 kbps     00:56:33.973    144,352 bytes   513,994 bytes   00:55:21.985    
+24              0:57:25.191     0:03:16.362     24,908 kbps     31,111 kbps     00:58:59.077    28,475 kbps     00:58:55.073    28,034 kbps     00:58:49.984    129,857 bytes   451,739 bytes   01:00:38.801    
+25              1:00:41.554     0:01:02.979     27,494 kbps     31,988 kbps     01:01:42.740    28,619 kbps     01:01:38.695    28,102 kbps     01:01:14.170    143,340 bytes   632,923 bytes   01:01:43.449    
+26              1:01:44.534     0:08:10.364     27,699 kbps     32,838 kbps     01:02:11.436    28,911 kbps     01:02:07.390    28,305 kbps     01:02:02.427    144,409 bytes   497,222 bytes   01:06:37.743    
+27              1:09:54.899     0:02:21.933     27,190 kbps     32,401 kbps     01:11:54.101    28,523 kbps     01:11:50.139    28,095 kbps     01:11:46.593    141,755 bytes   504,765 bytes   01:11:44.883    
+28              1:12:16.832     0:06:08.368     21,553 kbps     31,884 kbps     01:18:16.900    28,033 kbps     01:17:51.625    27,877 kbps     01:17:51.583    112,381 bytes   389,431 bytes   01:18:17.651    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00045.M2TS      4113 (0x1011)   0x1B            AVC                                     4704.533                26,965                  15,856,982,334  86,245,263      
+00045.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4704.533                4,370                   2,569,656,288   14,700,884      
+00045.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           4704.533                321                     188,629,760     1,178,936       
+00045.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             4704.533                642                     377,259,520     2,210,505       
+00045.M2TS      4355 (0x1103)   0x85            DTS-HD HR       deu (German)            4704.533                2,051                   1,206,051,528   7,073,616       
+00045.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           4704.533                642                     377,259,520     2,210,505       
+00045.M2TS      4357 (0x1105)   0x85            DTS-HD HR       fra (French)            4704.533                2,051                   1,206,051,528   7,073,616       
+00045.M2TS      4358 (0x1106)   0x81            AC3             nld (Dutch)             4704.533                642                     377,259,520     2,210,505       
+00045.M2TS      4359 (0x1107)   0x81            AC3             spa (Spanish)           4704.533                642                     377,259,520     2,210,505       
+00045.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4704.533                88                      51,734,716      292,663         
+00045.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             4704.533                58                      34,289,692      192,644         
+00045.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            4704.533                55                      32,378,856      182,466         
+00045.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           4704.533                60                      35,005,187      197,604         
+00045.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            4704.533                51                      30,143,340      170,506         
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     0.375                   53,334                  2,502,493       13,608          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Emperor's New Groove - Blu-ray™
+Disc Label: Ein.Koenigreich.fuer.ein.Lama.2000.MULTi.COMPLETE.BLURAY-iND
+Disc Size: 26,525,095,216 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 24,253,796,352 bytes
+Length: 1:18:25.200
+Total Bitrate: 41.24 Mbps
+Video: MPEG-4 AVC Video / 26965 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4369 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: French / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 87.962 kbps
+Subtitle: Dutch / 58.301 kbps
+Subtitle: German / 55.052 kbps
+Subtitle: Spanish / 59.517 kbps
+Subtitle: French / 51.251 kbps
+

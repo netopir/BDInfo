@@ -1,6 +1,5 @@
-Disc Title:     Madagascar 3 Europe’s Most Wanted
 Disc Label:     Madagascar.3.Europe's.Most.Wanted.2012.CEE.Blu-ray.1080p.AVC.TrueHD.7.1
-Disc Size:      43,041,879,260 bytes
+Disc Size:      41,539,082,967 bytes
 Protection:     AACS
 Extras:         BD-Java
 BDInfo:         0.7.5.5
@@ -27,16 +26,15 @@ PLAYLIST: 00000.MPLS
                                                                                                                 Total   Video                                             
 Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
 -----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
-00000.MPLS                                                      AVC     1:33:24 30,636,920,832  43,041,879,260  43.73   27.02   Dolby TrueHD 7.1 5213Kbps (48kHz/24-bit)  DD AC3 5.1 640Kbps
+00000.MPLS                                                      AVC     1:33:24 31,002,329,088  41,539,082,967  44.26   27.02   Dolby TrueHD 7.1 5213Kbps (48kHz/24-bit)  
 [/code]
 
 [code]
 
 DISC INFO:
 
-Disc Title:     Madagascar 3 Europe’s Most Wanted
 Disc Label:     Madagascar.3.Europe's.Most.Wanted.2012.CEE.Blu-ray.1080p.AVC.TrueHD.7.1
-Disc Size:      43,041,879,260 bytes
+Disc Size:      41,539,082,967 bytes
 Protection:     AACS
 Extras:         BD-Java
 BDInfo:         0.7.5.5
@@ -45,8 +43,8 @@ PLAYLIST REPORT:
 
 Name:                   00000.MPLS
 Length:                 1:33:24.181 (h:m:s.ms)
-Size:                   30,636,920,832 bytes
-Total Bitrate:          43.73 Mbps
+Size:                   31,002,329,088 bytes
+Total Bitrate:          44.26 Mbps
 
 VIDEO:
 
@@ -60,42 +58,43 @@ AUDIO:
 Codec                           Language        Bitrate         Description     
 -----                           --------        -------         -----------     
 Dolby TrueHD Audio              English         5213 kbps       7.1 / 48 kHz /  4573 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
-Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
-Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
-Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
 Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
 Dolby Digital Plus Audio        English         224 kbps        2.0 / 48 kHz /   224 kbps
-Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
-Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
-Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Polish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Slovak          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Serbian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
 
 SUBTITLES:
 
 Codec                           Language        Bitrate         Description     
 -----                           --------        -------         -----------     
 Presentation Graphics           English         25.124 kbps                     
-Presentation Graphics           German          47.379 kbps                     
+Presentation Graphics           Czech           41.793 kbps                     
 Presentation Graphics           English         44.821 kbps                     
-Presentation Graphics           French          36.114 kbps                     
-Presentation Graphics           Italian         42.343 kbps                     
-Presentation Graphics           Dutch           38.029 kbps                     
-Presentation Graphics           Dutch           42.498 kbps                     
+Presentation Graphics           Hebrew          29.600 kbps                     
+Presentation Graphics           Croatian        37.871 kbps                     
+Presentation Graphics           Polish          44.431 kbps                     
+Presentation Graphics           Slovenian       31.747 kbps                     
+Presentation Graphics           Slovak          40.485 kbps                     
 Presentation Graphics           English         71.144 kbps                     
-Presentation Graphics           English         56.746 kbps                     
-Presentation Graphics           German          60.288 kbps                     
-Presentation Graphics           French          62.856 kbps                     
-Presentation Graphics           Italian         66.994 kbps                     
-Presentation Graphics           German          0.686 kbps                      
-Presentation Graphics           French          0.668 kbps                      
-Presentation Graphics           Italian         0.639 kbps                      
-Presentation Graphics           Dutch           0.624 kbps                      
-Presentation Graphics           Dutch           0.472 kbps                      
+Presentation Graphics           Czech           0.618 kbps                      
+Presentation Graphics           Hebrew          0.404 kbps                      
+Presentation Graphics           Croatian        0.785 kbps                      
+Presentation Graphics           Polish          0.723 kbps                      
+Presentation Graphics           Slovenian       0.693 kbps                      
+Presentation Graphics           Slovak          0.667 kbps                      
+Presentation Graphics           Serbian         39.879 kbps                     
+Presentation Graphics           Serbian         0.684 kbps                      
 
 FILES:
 
 Name            Time In         Length          Size            Total Bitrate   
 ----            -------         ------          ----            -------------   
-01118.M2TS      0:00:00.000     1:33:24.181     30,636,920,832  43,734          
+01118.M2TS      0:00:00.000     1:33:24.181     31,002,329,088  44,256          
 
 CHAPTERS:
 
@@ -124,30 +123,31 @@ File            PID             Type            Codec           Language        
 ----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
 01118.M2TS      4113 (0x1011)   0x1B            AVC                                     5604.015                27,023                  18,929,623,341  102,957,006     
 01118.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5604.015                5,213                   3,651,861,940   23,943,229      
-01118.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5604.015                640                     448,335,360     2,626,965       
-01118.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            5604.015                640                     448,335,360     2,626,965       
-01118.M2TS      4355 (0x1103)   0x81            AC3             nld (Dutch)             5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4353 (0x1101)   0x81            AC3             ces (Czech)             5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4354 (0x1102)   0x81            AC3             heb (Hebrew)            5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4355 (0x1103)   0x81            AC3             slv (Slovenian)         5604.015                640                     448,335,360     2,626,965       
 01118.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           5604.015                224                     156,917,376     875,655         
-01118.M2TS      4357 (0x1105)   0x81            AC3             ita (Italian)           5604.015                640                     448,335,360     2,626,965       
-01118.M2TS      4358 (0x1106)   0x81            AC3             nld (Dutch)             5604.015                640                     448,335,360     2,626,965       
-01118.M2TS      4359 (0x1107)   0x81            AC3             eng (English)           5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4357 (0x1105)   0x81            AC3             hrv (Croatian)          5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4358 (0x1106)   0x81            AC3             pol (Polish)            5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4359 (0x1107)   0x81            AC3             slk (Slovak)            5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           5604.015                640                     448,335,360     2,626,965       
 01118.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5604.015                25                      17,599,862      108,872         
-01118.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5604.015                47                      33,190,315      188,481         
+01118.M2TS      4609 (0x1201)   0x90            PGS             ces (Czech)             5604.015                42                      29,277,235      167,298         
 01118.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5604.015                45                      31,398,243      178,577         
-01118.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5604.015                36                      25,298,654      144,710         
-01118.M2TS      4612 (0x1204)   0x90            PGS             ita (Italian)           5604.015                42                      29,661,990      168,938         
-01118.M2TS      4613 (0x1205)   0x90            PGS             nld (Dutch)             5604.015                38                      26,639,879      152,310         
-01118.M2TS      4614 (0x1206)   0x90            PGS             nld (Dutch)             5604.015                42                      29,770,624      169,561         
-01118.M2TS      4615 (0x1207)   0x90            PGS             eng (English)           5604.015                71                      49,837,834      279,127         
-01118.M2TS      4616 (0x1208)   0x90            PGS             eng (English)           5604.015                57                      39,752,049      225,647         
-01118.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            5604.015                60                      42,233,143      237,694         
-01118.M2TS      4618 (0x120A)   0x90            PGS             fra (French)            5604.015                63                      44,031,887      247,393         
-01118.M2TS      4619 (0x120B)   0x90            PGS             ita (Italian)           5604.015                67                      46,930,974      263,235         
-01118.M2TS      4620 (0x120C)   0x90            PGS             deu (German)            5604.015                1                       480,542         2,790           
-01118.M2TS      4621 (0x120D)   0x90            PGS             fra (French)            5604.015                1                       468,296         2,700           
-01118.M2TS      4622 (0x120E)   0x90            PGS             ita (Italian)           5604.015                1                       447,957         2,597           
-01118.M2TS      4623 (0x120F)   0x90            PGS             nld (Dutch)             5604.015                1                       436,934         2,539           
-01118.M2TS      4624 (0x1210)   0x90            PGS             nld (Dutch)             5604.015                0                       330,474         1,926           
+01118.M2TS      4611 (0x1203)   0x90            PGS             heb (Hebrew)            5604.015                30                      20,735,167      120,614         
+01118.M2TS      4612 (0x1204)   0x90            PGS             hrv (Croatian)          5604.015                38                      26,529,786      152,020         
+01118.M2TS      4613 (0x1205)   0x90            PGS             pol (Polish)            5604.015                44                      31,124,595      177,302         
+01118.M2TS      4614 (0x1206)   0x90            PGS             slv (Slovenian)         5604.015                32                      22,239,371      128,563         
+01118.M2TS      4615 (0x1207)   0x90            PGS             slk (Slovak)            5604.015                40                      28,360,858      162,267         
+01118.M2TS      4616 (0x1208)   0x90            PGS             eng (English)           5604.015                71                      49,838,050      279,129         
+01118.M2TS      4617 (0x1209)   0x90            PGS             ces (Czech)             5604.015                1                       432,582         2,519           
+01118.M2TS      4618 (0x120A)   0x90            PGS             heb (Hebrew)            5604.015                0                       283,205         1,741           
+01118.M2TS      4619 (0x120B)   0x90            PGS             hrv (Croatian)          5604.015                1                       549,793         3,184           
+01118.M2TS      4620 (0x120C)   0x90            PGS             pol (Polish)            5604.015                1                       506,480         2,934           
+01118.M2TS      4621 (0x120D)   0x90            PGS             slv (Slovenian)         5604.015                1                       485,115         2,820           
+01118.M2TS      4622 (0x120E)   0x90            PGS             slk (Slovak)            5604.015                1                       467,303         2,725           
+01118.M2TS      4623 (0x120F)   0x90            PGS             srp (Serbian)           5604.015                40                      27,935,941      159,918         
+01118.M2TS      4624 (0x1210)   0x90            PGS             srp (Serbian)           5604.015                1                       479,290         2,796           
 01118.M2TS      6656 (0x1A00)   0xA1            AC3+            eng (English)           5604.015                224                     156,917,376     875,655         
 01118.M2TS      6912 (0x1B00)   0x1B            AVC                                     5604.015                3,271                   2,291,471,814   12,529,478      
 
@@ -156,40 +156,40 @@ File            PID             Type            Codec           Language        
 
 QUICK SUMMARY:
 
-Disc Title: Madagascar 3 Europe’s Most Wanted
 Disc Label: Madagascar.3.Europe's.Most.Wanted.2012.CEE.Blu-ray.1080p.AVC.TrueHD.7.1
-Disc Size: 43,041,879,260 bytes
+Disc Size: 41,539,082,967 bytes
 Protection: AACS
 Playlist: 00000.MPLS
-Size: 30,636,920,832 bytes
+Size: 31,002,329,088 bytes
 Length: 1:33:24.181
-Total Bitrate: 43.73 Mbps
+Total Bitrate: 44.26 Mbps
 Video: MPEG-4 AVC Video / 27022 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
 Video: MPEG-4 AVC Video / 3271 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
 Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  4573 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
-Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
-Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
-Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
 Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
 Audio: English / Dolby Digital Plus Audio / 2.0 / 48 kHz /   224 kbps
-Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
-Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
-Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Slovak / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
 Subtitle: English / 25.124 kbps
-Subtitle: German / 47.379 kbps
+Subtitle: Czech / 41.793 kbps
 Subtitle: English / 44.821 kbps
-Subtitle: French / 36.114 kbps
-Subtitle: Italian / 42.343 kbps
-Subtitle: Dutch / 38.029 kbps
-Subtitle: Dutch / 42.498 kbps
+Subtitle: Hebrew / 29.600 kbps
+Subtitle: Croatian / 37.871 kbps
+Subtitle: Polish / 44.431 kbps
+Subtitle: Slovenian / 31.747 kbps
+Subtitle: Slovak / 40.485 kbps
 Subtitle: English / 71.144 kbps
-Subtitle: English / 56.746 kbps
-Subtitle: German / 60.288 kbps
-Subtitle: French / 62.856 kbps
-Subtitle: Italian / 66.994 kbps
-Subtitle: German / 0.686 kbps
-Subtitle: French / 0.668 kbps
-Subtitle: Italian / 0.639 kbps
-Subtitle: Dutch / 0.624 kbps
-Subtitle: Dutch / 0.472 kbps
+Subtitle: Czech / 0.618 kbps
+Subtitle: Hebrew / 0.404 kbps
+Subtitle: Croatian / 0.785 kbps
+Subtitle: Polish / 0.723 kbps
+Subtitle: Slovenian / 0.693 kbps
+Subtitle: Slovak / 0.667 kbps
+Subtitle: Serbian / 39.879 kbps
+Subtitle: Serbian / 0.684 kbps
 
