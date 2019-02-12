@@ -1,0 +1,250 @@
+Disc Label:     Monster.House.2006.EUR.BluRay.MPEG-2.LPCM.5.1-Razzau
+Disc Size:      24,799,548,974 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00059.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00059.MPLS                                                      MPEG-2  1:30:38 19,167,160,320  24,799,548,974  28.20   19.15   DD AC3 5.1 448Kbps                        LPCM 5.1 4608Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Monster.House.2006.EUR.BluRay.MPEG-2.LPCM.5.1-Razzau
+Disc Size:      24,799,548,974 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00059.MPLS
+Length:                 1:30:38.432 (h:m:s.ms)
+Size:                   19,167,160,320 bytes
+Total Bitrate:          28.20 Mbps
+
+Angle 1 Length:         0:07:48.301 (h:m:s.ms) / 1:30:38.432 (h:m:s.ms)
+Angle 1 Size:           1,607,165,952 bytes / 19,180,609,536 bytes
+Angle 1 Total Bitrate:  27.46 Mbps / 28.21 Mbps
+
+All Angles Length:      1:38:26.734 (h:m:s.ms)
+All Angles Size:        20,774,326,272 bytes
+All Angles Bitrate:     28.14 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            19150 kbps          1080p / 23.976 fps / 16:9
+MPEG-2 Video (1)        1639 (19036) kbps   1080p / 23.976 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+LPCM Audio                      English         4608 kbps       5.1 / 48 kHz /  4608 kbps / 16-bit
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -29dB
+Dolby Digital Audio             Czech           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Hungarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -29dB
+Dolby Digital Audio             Polish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -28dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -30dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         42.335 kbps                     
+Presentation Graphics           English         38.931 kbps                     
+Presentation Graphics           Dutch           41.789 kbps                     
+Presentation Graphics           Arabic          22.035 kbps                     
+Presentation Graphics           Czech           41.676 kbps                     
+Presentation Graphics           Danish          39.096 kbps                     
+Presentation Graphics           Finnish         35.349 kbps                     
+Presentation Graphics           Hebrew          33.659 kbps                     
+Presentation Graphics           Hindi           39.620 kbps                     
+Presentation Graphics           Hungarian       36.208 kbps                     
+Presentation Graphics           Norwegian       42.604 kbps                     
+Presentation Graphics           Polish          37.639 kbps                     
+Presentation Graphics           Swedish         39.484 kbps                     
+Presentation Graphics           Turkish         44.556 kbps                     
+Presentation Graphics           English         111.021 kbps                    
+Presentation Graphics           Dutch           98.390 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00092.M2TS      0:00:00.000     1:22:50.131     17,573,443,584  28,286          
+00093.M2TS      1:22:50.131     0:07:48.301     1,593,716,736   27,226          
+00094.M2TS (1)  1:22:50.131     0:07:48.301     1,607,165,952   27,455          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:23.620     16,166 kbps     35,400 kbps     00:01:45.897    29,084 kbps     00:01:45.063    27,377 kbps     00:02:02.997    84,265 bytes    519,135 bytes   00:03:07.604    
+2               0:03:23.620     0:03:11.399     18,145 kbps     35,484 kbps     00:04:14.254    22,840 kbps     00:06:28.429    22,024 kbps     00:06:25.009    94,598 bytes    531,605 bytes   00:05:34.250    
+3               0:06:35.019     0:03:52.357     18,972 kbps     34,288 kbps     00:09:32.321    27,203 kbps     00:09:30.444    24,131 kbps     00:09:30.444    98,913 bytes    508,254 bytes   00:07:14.600    
+4               0:10:27.376     0:03:08.897     17,475 kbps     34,421 kbps     00:10:30.588    26,268 kbps     00:10:29.253    21,337 kbps     00:10:29.003    91,108 bytes    506,567 bytes   00:10:51.942    
+5               0:13:36.273     0:03:09.480     16,111 kbps     23,974 kbps     00:16:43.669    20,794 kbps     00:16:39.748    18,668 kbps     00:16:35.744    83,994 bytes    458,015 bytes   00:14:16.021    
+6               0:16:45.754     0:03:38.468     15,968 kbps     25,583 kbps     00:17:34.720    21,145 kbps     00:17:30.841    20,354 kbps     00:17:25.711    83,249 bytes    419,603 bytes   00:16:48.799    
+7               0:20:24.223     0:03:35.465     16,006 kbps     22,619 kbps     00:22:49.076    20,575 kbps     00:21:07.474    18,845 kbps     00:21:42.426    83,446 bytes    412,897 bytes   00:22:20.756    
+8               0:23:59.688     0:02:36.865     16,917 kbps     27,134 kbps     00:26:04.354    22,033 kbps     00:26:04.062    20,936 kbps     00:26:03.561    88,195 bytes    567,780 bytes   00:26:36.261    
+9               0:26:36.553     0:03:34.297     16,735 kbps     27,236 kbps     00:27:40.283    21,604 kbps     00:28:44.681    20,101 kbps     00:28:45.557    87,250 bytes    551,289 bytes   00:27:01.369    
+10              0:30:10.850     0:02:53.423     19,744 kbps     32,776 kbps     00:31:36.978    26,201 kbps     00:31:34.475    24,528 kbps     00:31:43.568    102,937 bytes   568,660 bytes   00:31:55.413    
+11              0:33:04.273     0:02:59.053     18,621 kbps     24,096 kbps     00:35:39.095    21,139 kbps     00:35:37.009    20,040 kbps     00:34:23.394    97,081 bytes    448,881 bytes   00:34:05.918    
+12              0:36:03.327     0:03:14.068     18,370 kbps     29,196 kbps     00:38:31.642    21,559 kbps     00:37:47.848    20,701 kbps     00:37:43.302    95,774 bytes    452,936 bytes   00:38:32.435    
+13              0:39:17.396     0:03:13.985     18,433 kbps     30,023 kbps     00:41:03.752    25,512 kbps     00:41:00.749    22,784 kbps     00:40:55.786    96,102 bytes    564,438 bytes   00:40:39.937    
+14              0:42:31.382     0:03:49.646     19,052 kbps     32,809 kbps     00:45:24.304    23,371 kbps     00:42:49.275    22,686 kbps     00:42:50.693    99,331 bytes    565,938 bytes   00:46:14.897    
+15              0:46:21.028     0:03:29.792     18,384 kbps     31,885 kbps     00:49:26.713    24,815 kbps     00:49:22.751    22,600 kbps     00:49:25.295    95,846 bytes    564,649 bytes   00:49:00.312    
+16              0:49:50.821     0:03:50.647     17,365 kbps     29,716 kbps     00:50:15.220    26,525 kbps     00:50:12.968    25,582 kbps     00:50:12.968    90,532 bytes    502,519 bytes   00:50:25.522    
+17              0:53:41.468     0:03:04.434     18,209 kbps     32,667 kbps     00:55:26.072    23,515 kbps     00:55:26.072    21,324 kbps     00:54:24.177    94,936 bytes    476,024 bytes   00:54:20.674    
+18              0:56:45.902     0:03:37.508     19,843 kbps     37,149 kbps     01:00:12.859    30,323 kbps     01:00:08.855    27,935 kbps     01:00:09.731    103,452 bytes   420,727 bytes   01:00:18.781    
+19              1:00:23.411     0:03:14.110     18,892 kbps     31,129 kbps     01:01:54.127    25,473 kbps     01:01:53.710    24,557 kbps     01:01:48.162    98,494 bytes    408,542 bytes   01:02:50.308    
+20              1:03:37.522     0:02:03.832     18,837 kbps     28,605 kbps     01:05:22.418    24,019 kbps     01:05:30.176    23,340 kbps     01:05:22.543    98,205 bytes    439,783 bytes   01:04:40.293    
+21              1:05:41.354     0:02:54.090     22,742 kbps     37,079 kbps     01:07:41.057    34,156 kbps     01:07:34.842    33,615 kbps     01:07:32.590    118,564 bytes   499,454 bytes   01:07:39.597    
+22              1:08:35.444     0:03:21.117     23,607 kbps     34,059 kbps     01:11:53.183    30,658 kbps     01:11:49.305    30,103 kbps     01:11:40.671    123,078 bytes   459,505 bytes   01:10:47.660    
+23              1:11:56.562     0:01:05.899     26,902 kbps     37,087 kbps     01:12:49.323    32,963 kbps     01:12:45.319    31,786 kbps     01:12:41.982    140,256 bytes   420,210 bytes   01:12:48.781    
+24              1:13:02.461     0:02:47.417     26,094 kbps     37,029 kbps     01:14:27.087    32,835 kbps     01:14:35.804    31,377 kbps     01:14:35.971    136,044 bytes   456,993 bytes   01:13:55.597    
+25              1:15:49.878     0:01:05.899     29,155 kbps     40,161 kbps     01:16:45.309    34,884 kbps     01:16:45.809    33,573 kbps     01:16:40.804    152,000 bytes   594,144 bytes   01:16:48.270    
+26              1:16:55.777     0:00:32.490     21,889 kbps     26,973 kbps     01:16:59.197    24,360 kbps     01:16:56.737    23,443 kbps     01:16:57.487    114,117 bytes   379,750 bytes   01:16:59.531    
+27              1:17:28.268     0:03:21.993     22,726 kbps     31,460 kbps     01:19:34.394    28,616 kbps     01:19:41.026    28,015 kbps     01:19:34.394    118,483 bytes   418,520 bytes   01:19:44.946    
+28              1:20:50.262     0:09:48.170     19,658 kbps     34,585 kbps     01:22:18.767    31,084 kbps     01:22:16.932    29,467 kbps     01:22:10.967    102,495 bytes   491,749 bytes   01:22:22.854    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00092.M2TS      4113 (0x1011)   0x02            MPEG-2                                  4969.965                19,183                  11,917,053,405  64,835,731      
+00092.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           4969.965                448                     278,328,064     1,553,170       
+00092.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           4969.965                4,615                   2,866,773,868   15,904,432      
+00092.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           4969.965                192                     119,283,456     776,585         
+00092.M2TS      4355 (0x1103)   0x81            AC3             ces (Czech)             4969.965                448                     278,328,064     1,553,170       
+00092.M2TS      4356 (0x1104)   0x81            AC3             hun (Hungarian)         4969.965                448                     278,328,064     1,553,170       
+00092.M2TS      4357 (0x1105)   0x81            AC3             pol (Polish)            4969.965                448                     278,328,064     1,553,170       
+00092.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           4969.965                192                     119,283,456     776,585         
+00092.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4969.965                45                      28,218,751      159,585         
+00092.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           4969.965                42                      25,843,250      150,345         
+00092.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             4969.965                45                      27,821,490      157,339         
+00092.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            4969.965                24                      14,660,122      85,996          
+00092.M2TS      4612 (0x1204)   0x90            PGS             ces (Czech)             4969.965                45                      27,744,510      157,142         
+00092.M2TS      4613 (0x1205)   0x90            PGS             dan (Danish)            4969.965                42                      26,091,847      146,980         
+00092.M2TS      4614 (0x1206)   0x90            PGS             fin (Finnish)           4969.965                38                      23,527,765      133,649         
+00092.M2TS      4615 (0x1207)   0x90            PGS             heb (Hebrew)            4969.965                36                      22,431,151      128,164         
+00092.M2TS      4616 (0x1208)   0x90            PGS             hin (Hindi)             4969.965                42                      26,388,956      149,752         
+00092.M2TS      4617 (0x1209)   0x90            PGS             hun (Hungarian)         4969.965                39                      24,097,548      137,083         
+00092.M2TS      4618 (0x120A)   0x90            PGS             nor (Norwegian)         4969.965                46                      28,401,922      160,646         
+00092.M2TS      4619 (0x120B)   0x90            PGS             pol (Polish)            4969.965                40                      25,050,480      142,462         
+00092.M2TS      4620 (0x120C)   0x90            PGS             swe (Swedish)           4969.965                42                      26,314,000      147,861         
+00092.M2TS      4621 (0x120D)   0x90            PGS             tur (Turkish)           4969.965                48                      29,684,618      167,326         
+00092.M2TS      4622 (0x120E)   0x90            PGS             eng (English)           4969.965                119                     74,074,094      412,551         
+00092.M2TS      4623 (0x120F)   0x90            PGS             nld (Dutch)             4969.965                106                     65,681,927      366,051         
+00093.M2TS      4113 (0x1011)   0x02            MPEG-2                                  468.218                 18,819                  1,101,431,344   5,992,548       
+00093.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           468.218                 448                     26,225,920      146,350         
+00093.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           468.218                 4,615                   270,118,324     1,498,576       
+00093.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           468.218                 192                     11,239,680      73,175          
+00093.M2TS      4355 (0x1103)   0x81            AC3             ces (Czech)             468.218                 448                     26,225,920      146,350         
+00093.M2TS      4356 (0x1104)   0x81            AC3             hun (Hungarian)         468.218                 448                     26,225,920      146,350         
+00093.M2TS      4357 (0x1105)   0x81            AC3             pol (Polish)            468.218                 448                     26,225,920      146,350         
+00093.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           468.218                 192                     11,239,680      73,175          
+00093.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           468.218                 10                      560,998         3,199           
+00093.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           468.218                 11                      622,317         3,675           
+00093.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             468.218                 10                      586,585         3,337           
+00093.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            468.218                 5                       319,303         1,896           
+00093.M2TS      4612 (0x1204)   0x90            PGS             ces (Czech)             468.218                 10                      586,840         3,347           
+00093.M2TS      4613 (0x1205)   0x90            PGS             dan (Danish)            468.218                 8                       486,073         2,759           
+00093.M2TS      4614 (0x1206)   0x90            PGS             fin (Finnish)           468.218                 9                       502,833         2,866           
+00093.M2TS      4615 (0x1207)   0x90            PGS             heb (Hebrew)            468.218                 8                       450,611         2,604           
+00093.M2TS      4616 (0x1208)   0x90            PGS             hin (Hindi)             468.218                 9                       544,699         3,121           
+00093.M2TS      4617 (0x1209)   0x90            PGS             hun (Hungarian)         468.218                 9                       517,050         2,957           
+00093.M2TS      4618 (0x120A)   0x90            PGS             nor (Norwegian)         468.218                 10                      560,706         3,203           
+00093.M2TS      4619 (0x120B)   0x90            PGS             pol (Polish)            468.218                 9                       536,767         3,079           
+00093.M2TS      4620 (0x120C)   0x90            PGS             swe (Swedish)           468.218                 9                       527,219         3,009           
+00093.M2TS      4621 (0x120D)   0x90            PGS             tur (Turkish)           468.218                 10                      604,909         3,434           
+00093.M2TS      4622 (0x120E)   0x90            PGS             eng (English)           468.218                 24                      1,398,545       7,829           
+00093.M2TS      4623 (0x120F)   0x90            PGS             nld (Dutch)             468.218                 21                      1,203,871       6,742           
+00094.M2TS (1)  4113 (0x1011)   0x02            MPEG-2                                  468.218                 19,039                  1,114,323,359   6,062,621       
+00094.M2TS (1)  4352 (0x1100)   0x81            AC3             eng (English)           468.218                 448                     26,225,920      146,350         
+00094.M2TS (1)  4353 (0x1101)   0x80            LPCM            eng (English)           468.218                 4,615                   270,118,324     1,498,576       
+00094.M2TS (1)  4354 (0x1102)   0x81            AC3             eng (English)           468.218                 192                     11,239,680      73,175          
+00094.M2TS (1)  4355 (0x1103)   0x81            AC3             ces (Czech)             468.218                 448                     26,225,920      146,350         
+00094.M2TS (1)  4356 (0x1104)   0x81            AC3             hun (Hungarian)         468.218                 448                     26,225,920      146,350         
+00094.M2TS (1)  4357 (0x1105)   0x81            AC3             pol (Polish)            468.218                 448                     26,225,920      146,350         
+00094.M2TS (1)  4358 (0x1106)   0x81            AC3             eng (English)           468.218                 192                     11,239,680      73,175          
+00094.M2TS (1)  4608 (0x1200)   0x90            PGS             eng (English)           468.218                 10                      560,998         3,199           
+00094.M2TS (1)  4609 (0x1201)   0x90            PGS             eng (English)           468.218                 11                      617,824         3,644           
+00094.M2TS (1)  4610 (0x1202)   0x90            PGS             nld (Dutch)             468.218                 10                      586,585         3,337           
+00094.M2TS (1)  4611 (0x1203)   0x90            PGS             ara (Arabic)            468.218                 5                       319,303         1,896           
+00094.M2TS (1)  4612 (0x1204)   0x90            PGS             ces (Czech)             468.218                 10                      586,840         3,347           
+00094.M2TS (1)  4613 (0x1205)   0x90            PGS             dan (Danish)            468.218                 8                       486,073         2,759           
+00094.M2TS (1)  4614 (0x1206)   0x90            PGS             fin (Finnish)           468.218                 9                       502,833         2,866           
+00094.M2TS (1)  4615 (0x1207)   0x90            PGS             heb (Hebrew)            468.218                 8                       450,611         2,604           
+00094.M2TS (1)  4616 (0x1208)   0x90            PGS             hin (Hindi)             468.218                 9                       544,699         3,121           
+00094.M2TS (1)  4617 (0x1209)   0x90            PGS             hun (Hungarian)         468.218                 9                       517,050         2,957           
+00094.M2TS (1)  4618 (0x120A)   0x90            PGS             nor (Norwegian)         468.218                 10                      560,706         3,203           
+00094.M2TS (1)  4619 (0x120B)   0x90            PGS             pol (Polish)            468.218                 9                       536,767         3,079           
+00094.M2TS (1)  4620 (0x120C)   0x90            PGS             swe (Swedish)           468.218                 9                       527,219         3,009           
+00094.M2TS (1)  4621 (0x120D)   0x90            PGS             tur (Turkish)           468.218                 10                      604,909         3,434           
+00094.M2TS (1)  4622 (0x120E)   0x90            PGS             eng (English)           468.218                 24                      1,398,545       7,829           
+00094.M2TS (1)  4623 (0x120F)   0x90            PGS             nld (Dutch)             468.218                 21                      1,203,871       6,742           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Monster.House.2006.EUR.BluRay.MPEG-2.LPCM.5.1-Razzau
+Disc Size: 24,799,548,974 bytes
+Protection: AACS
+Playlist: 00059.MPLS
+Size: 19,167,160,320 bytes
+Length: 1:30:38.432
+Total Bitrate: 28.20 Mbps
+Video: MPEG-2 Video / 19150 kbps / 1080p / 23.976 fps / 16:9
+Video: MPEG-2 Video (1) / 1639 (19036) kbps / 1080p / 23.976 fps / 16:9
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: English / LPCM Audio / 5.1 / 48 kHz /  4608 kbps / 16-bit
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -29dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -29dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -28dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -30dB / Dolby Surround
+Subtitle: English / 42.335 kbps
+Subtitle: English / 38.931 kbps
+Subtitle: Dutch / 41.789 kbps
+Subtitle: Arabic / 22.035 kbps
+Subtitle: Czech / 41.676 kbps
+Subtitle: Danish / 39.096 kbps
+Subtitle: Finnish / 35.349 kbps
+Subtitle: Hebrew / 33.659 kbps
+Subtitle: Hindi / 39.620 kbps
+Subtitle: Hungarian / 36.208 kbps
+Subtitle: Norwegian / 42.604 kbps
+Subtitle: Polish / 37.639 kbps
+Subtitle: Swedish / 39.484 kbps
+Subtitle: Turkish / 44.556 kbps
+Subtitle: English / 111.021 kbps
+Subtitle: Dutch / 98.390 kbps
+
