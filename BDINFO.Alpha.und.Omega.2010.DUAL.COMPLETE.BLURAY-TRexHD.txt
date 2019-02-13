@@ -1,0 +1,122 @@
+Disc Label:     Alpha.und.Omega.2010.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      24,538,955,728 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:27:56 16,693,733,376  24,538,955,728  25.31   20.00   DTS-HD Master 5.1 2042Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Alpha.und.Omega.2010.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      24,538,955,728 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:27:56.312 (h:m:s.ms)
+Size:                   16,693,733,376 bytes
+Total Bitrate:          25.31 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19996 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2042 kbps       5.1 / 48 kHz /  2042 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+DTS-HD Master Audio             English         1836 kbps       5.1 / 48 kHz /  1836 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.033 kbps                      
+Presentation Graphics           German          25.981 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:27:55.311     16,693,714,944  25,316          
+00000.M2TS      1:27:55.311     0:00:01.000     18,432          147             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:27.035     25,351 kbps     46,482 kbps     00:00:55.513    39,737 kbps     00:00:52.969    35,023 kbps     00:00:47.630    132,151 bytes   881,491 bytes   00:02:58.052    
+2               0:05:27.035     0:07:01.587     20,959 kbps     44,616 kbps     00:08:26.797    40,363 kbps     00:08:26.797    34,336 kbps     00:06:49.492    109,272 bytes   981,559 bytes   00:08:46.567    
+3               0:12:28.622     0:09:04.752     21,651 kbps     47,023 kbps     00:17:42.227    38,098 kbps     00:16:33.283    33,661 kbps     00:16:28.737    112,878 bytes   976,880 bytes   00:16:36.745    
+4               0:21:33.375     0:04:14.379     21,007 kbps     47,804 kbps     00:24:23.253    39,181 kbps     00:24:22.252    35,403 kbps     00:24:22.085    109,521 bytes   809,262 bytes   00:24:38.435    
+5               0:25:47.754     0:07:34.328     20,326 kbps     60,217 kbps     00:27:05.248    37,295 kbps     00:30:01.299    34,117 kbps     00:30:28.660    105,972 bytes   982,681 bytes   00:28:47.392    
+6               0:33:22.083     0:06:32.266     21,315 kbps     52,531 kbps     00:37:50.685    40,038 kbps     00:39:05.217    34,028 kbps     00:36:41.324    111,127 bytes   973,007 bytes   00:39:43.672    
+7               0:39:54.350     0:06:46.155     20,147 kbps     41,711 kbps     00:44:09.355    38,187 kbps     00:44:06.060    37,048 kbps     00:44:01.430    105,036 bytes   748,548 bytes   00:42:27.503    
+8               0:46:40.506     0:08:48.361     19,628 kbps     59,553 kbps     00:55:10.932    35,704 kbps     00:55:07.929    30,324 kbps     00:54:16.419    102,329 bytes   955,980 bytes   00:55:23.987    
+9               0:55:28.867     0:05:45.845     22,284 kbps     41,851 kbps     00:59:01.704    38,002 kbps     00:59:58.303    35,329 kbps     00:59:54.632    116,176 bytes   855,145 bytes   00:55:43.173    
+10              1:01:14.712     0:05:07.765     17,417 kbps     36,375 kbps     01:03:36.270    27,862 kbps     01:02:06.597    25,854 kbps     01:02:05.930    90,802 bytes    624,079 bytes   01:02:04.720    
+11              1:06:22.478     0:11:19.178     20,584 kbps     46,106 kbps     01:14:35.596    40,654 kbps     01:11:19.441    35,228 kbps     01:09:59.695    107,317 bytes   938,869 bytes   01:14:59.745    
+12              1:17:41.657     0:10:13.654     13,109 kbps     42,263 kbps     01:18:38.463    33,740 kbps     01:18:30.414    32,760 kbps     01:18:25.409    68,346 bytes    800,577 bytes   01:17:42.157    
+13              1:27:55.311     0:00:01.001     57 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    313 bytes       317 bytes       01:27:56.270    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5275.228                20,000                  13,188,258,779  71,749,369      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5275.228                2,043                   1,346,891,276   7,831,486       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5275.228                1,836                   1,210,614,700   7,089,259       
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5275.228                0                       21,939          127             
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5275.228                26                      17,135,544      99,363          
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     0.876                   88                      9,613           60              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Alpha.und.Omega.2010.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size: 24,538,955,728 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 16,693,733,376 bytes
+Length: 1:27:56.312
+Total Bitrate: 25.31 Mbps
+Video: MPEG-4 AVC Video / 19996 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2042 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1836 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 0.033 kbps
+Subtitle: German / 25.981 kbps
+
