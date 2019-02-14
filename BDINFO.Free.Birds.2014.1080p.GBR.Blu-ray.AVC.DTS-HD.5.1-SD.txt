@@ -1,0 +1,235 @@
+Disc Title:     Free Birds
+Disc Label:     Free.Birds.2014.1080p.GBR.Blu-ray.AVC.DTS-HD.5.1-SD
+Disc Size:      29,716,830,589 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00014.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00014.MPLS                                                      AVC     1:31:03 25,391,689,728  29,716,830,589  37.18   28.99   DTS-HD Master 5.1 3930Kbps (48kHz/24-bit) LPCM 2.0 2304Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Free Birds
+Disc Label:     Free.Birds.2014.1080p.GBR.Blu-ray.AVC.DTS-HD.5.1-SD
+Disc Size:      29,716,830,589 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00014.MPLS
+Length:                 1:31:03.458 (h:m:s.ms)
+Size:                   25,391,689,728 bytes
+Total Bitrate:          37.18 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28989 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3930 kbps       5.1 / 48 kHz /  3930 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+LPCM Audio                      English         2304 kbps       2.0 / 48 kHz /  2304 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         53.252 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00015.M2TS      0:00:00.000     1:31:03.458     25,391,689,728  37,180          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:32.850     29,655 kbps     37,944 kbps     00:04:33.064    32,415 kbps     00:04:29.185    31,823 kbps     00:00:16.850    154,591 bytes   640,239 bytes   00:02:05.542    
+2               0:06:32.850     0:02:38.700     29,503 kbps     38,707 kbps     00:07:13.808    32,568 kbps     00:08:20.333    31,579 kbps     00:06:36.104    153,814 bytes   639,411 bytes   00:08:55.701    
+3               0:09:11.551     0:04:04.786     27,703 kbps     41,300 kbps     00:12:19.572    31,891 kbps     00:09:23.813    30,724 kbps     00:12:15.401    144,431 bytes   630,690 bytes   00:12:22.074    
+4               0:13:16.337     0:04:35.149     27,714 kbps     41,847 kbps     00:13:57.711    33,185 kbps     00:13:53.707    30,994 kbps     00:17:31.800    144,490 bytes   591,533 bytes   00:15:35.351    
+5               0:17:51.487     0:04:43.616     29,761 kbps     36,558 kbps     00:22:17.919    32,264 kbps     00:22:13.915    31,774 kbps     00:22:08.910    155,160 bytes   555,294 bytes   00:18:20.057    
+6               0:22:35.103     0:01:29.005     31,053 kbps     50,618 kbps     00:24:00.730    35,066 kbps     00:23:56.726    32,948 kbps     00:23:51.721    161,895 bytes   631,172 bytes   00:24:01.523    
+7               0:24:04.109     0:06:52.912     30,631 kbps     44,250 kbps     00:28:52.188    32,932 kbps     00:28:48.184    32,493 kbps     00:28:43.179    159,697 bytes   640,391 bytes   00:27:26.269    
+8               0:30:57.021     0:02:43.705     30,618 kbps     36,609 kbps     00:33:32.760    32,417 kbps     00:33:28.756    31,832 kbps     00:33:23.835    159,629 bytes   638,852 bytes   00:33:32.802    
+9               0:33:40.727     0:06:48.699     30,052 kbps     38,480 kbps     00:38:37.148    32,606 kbps     00:38:33.144    32,003 kbps     00:38:28.139    156,679 bytes   638,776 bytes   00:40:15.162    
+10              0:40:29.426     0:08:28.049     30,345 kbps     38,521 kbps     00:43:09.253    32,560 kbps     00:42:46.146    31,940 kbps     00:42:41.141    158,203 bytes   640,820 bytes   00:48:51.678    
+11              0:48:57.476     0:05:17.942     29,449 kbps     40,722 kbps     00:53:40.634    32,349 kbps     00:53:22.741    31,776 kbps     00:53:17.736    153,534 bytes   640,606 bytes   00:49:08.403    
+12              0:54:15.418     0:04:43.116     26,427 kbps     37,689 kbps     00:54:49.786    31,697 kbps     00:58:24.292    31,364 kbps     00:58:25.126    137,777 bytes   585,810 bytes   00:58:09.027    
+13              0:58:58.535     0:02:45.915     28,354 kbps     36,717 kbps     00:58:58.993    31,953 kbps     00:59:42.412    31,583 kbps     00:59:03.998    147,827 bytes   572,086 bytes   00:59:26.521    
+14              1:01:44.450     0:05:52.810     29,868 kbps     38,255 kbps     01:05:24.670    32,630 kbps     01:05:20.666    31,745 kbps     01:06:43.916    155,718 bytes   628,352 bytes   01:03:43.277    
+15              1:07:37.261     0:02:58.469     27,920 kbps     34,897 kbps     01:09:11.021    31,859 kbps     01:10:30.726    31,276 kbps     01:08:11.170    145,563 bytes   629,900 bytes   01:10:35.731    
+16              1:10:35.731     0:03:45.725     30,237 kbps     36,439 kbps     01:13:31.240    32,344 kbps     01:13:27.236    31,827 kbps     01:13:30.239    157,643 bytes   638,900 bytes   01:13:33.992    
+17              1:14:21.457     0:02:21.766     29,442 kbps     35,825 kbps     01:15:21.934    32,097 kbps     01:15:17.971    31,572 kbps     01:15:24.853    153,497 bytes   513,378 bytes   01:14:30.883    
+18              1:16:43.223     0:04:27.892     30,411 kbps     37,153 kbps     01:18:29.788    32,336 kbps     01:18:25.784    31,666 kbps     01:19:58.835    158,551 bytes   637,024 bytes   01:20:00.629    
+19              1:21:11.116     0:02:46.332     30,799 kbps     39,076 kbps     01:22:51.716    32,963 kbps     01:22:47.629    32,131 kbps     01:22:42.624    160,573 bytes   638,318 bytes   01:21:48.194    
+20              1:23:57.449     0:07:06.008     22,859 kbps     36,842 kbps     01:25:24.536    32,410 kbps     01:25:20.532    31,736 kbps     01:25:15.568    119,190 bytes   639,183 bytes   01:25:35.672    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00015.M2TS      4113 (0x1011)   0x1B            AVC                                     5463.375                28,989                  19,797,555,882  107,673,377     
+00015.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5463.375                3,930                   2,683,827,396   15,442,337      
+00015.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           5463.375                2,310                   1,577,847,248   8,741,536       
+00015.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5463.375                53                      36,367,172      208,082         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Free Birds
+Disc Label: Free.Birds.2014.1080p.GBR.Blu-ray.AVC.DTS-HD.5.1-SD
+Disc Size: 29,716,830,589 bytes
+Protection: AACS
+Playlist: 00014.MPLS
+Size: 25,391,689,728 bytes
+Length: 1:31:03.458
+Total Bitrate: 37.18 Mbps
+Video: MPEG-4 AVC Video / 28989 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3930 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / LPCM Audio / 2.0 / 48 kHz /  2304 kbps / 24-bit
+Subtitle: English / 53.252 kbps
+
+
+********************
+PLAYLIST: 00026.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00026.MPLS                                                      AVC     1:31:03 25,391,689,728  29,716,830,589  37.18   28.99   DTS-HD Master 5.1 3930Kbps (48kHz/24-bit) LPCM 2.0 2304Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Free Birds
+Disc Label:     Free.Birds.2014.1080p.GBR.Blu-ray.AVC.DTS-HD.5.1-SD
+Disc Size:      29,716,830,589 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00026.MPLS
+Length:                 1:31:03.458 (h:m:s.ms)
+Size:                   25,391,689,728 bytes
+Total Bitrate:          37.18 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28989 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3930 kbps       5.1 / 48 kHz /  3930 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+LPCM Audio                      English         2304 kbps       2.0 / 48 kHz /  2304 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         53.252 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00015.M2TS      0:00:00.000     1:31:03.458     25,391,689,728  37,180          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:32.850     29,655 kbps     37,944 kbps     00:04:33.064    32,415 kbps     00:04:29.185    31,823 kbps     00:00:16.850    154,591 bytes   640,239 bytes   00:02:05.542    
+2               0:06:32.850     0:02:38.700     29,503 kbps     38,707 kbps     00:07:13.808    32,568 kbps     00:08:20.333    31,579 kbps     00:06:36.104    153,814 bytes   639,411 bytes   00:08:55.701    
+3               0:09:11.551     0:04:04.786     27,703 kbps     41,300 kbps     00:12:19.572    31,891 kbps     00:09:23.813    30,724 kbps     00:12:15.401    144,431 bytes   630,690 bytes   00:12:22.074    
+4               0:13:16.337     0:04:35.149     27,714 kbps     41,847 kbps     00:13:57.711    33,185 kbps     00:13:53.707    30,994 kbps     00:17:31.800    144,490 bytes   591,533 bytes   00:15:35.351    
+5               0:17:51.487     0:04:43.616     29,761 kbps     36,558 kbps     00:22:17.919    32,264 kbps     00:22:13.915    31,774 kbps     00:22:08.910    155,160 bytes   555,294 bytes   00:18:20.057    
+6               0:22:35.103     0:01:29.005     31,053 kbps     50,618 kbps     00:24:00.730    35,066 kbps     00:23:56.726    32,948 kbps     00:23:51.721    161,895 bytes   631,172 bytes   00:24:01.523    
+7               0:24:04.109     0:06:52.912     30,631 kbps     44,250 kbps     00:28:52.188    32,932 kbps     00:28:48.184    32,493 kbps     00:28:43.179    159,697 bytes   640,391 bytes   00:27:26.269    
+8               0:30:57.021     0:02:43.705     30,618 kbps     36,609 kbps     00:33:32.760    32,417 kbps     00:33:28.756    31,832 kbps     00:33:23.835    159,629 bytes   638,852 bytes   00:33:32.802    
+9               0:33:40.727     0:06:48.699     30,052 kbps     38,480 kbps     00:38:37.148    32,606 kbps     00:38:33.144    32,003 kbps     00:38:28.139    156,679 bytes   638,776 bytes   00:40:15.162    
+10              0:40:29.426     0:08:28.049     30,345 kbps     38,521 kbps     00:43:09.253    32,560 kbps     00:42:46.146    31,940 kbps     00:42:41.141    158,203 bytes   640,820 bytes   00:48:51.678    
+11              0:48:57.476     0:05:17.942     29,449 kbps     40,722 kbps     00:53:40.634    32,349 kbps     00:53:22.741    31,776 kbps     00:53:17.736    153,534 bytes   640,606 bytes   00:49:08.403    
+12              0:54:15.418     0:04:43.116     26,427 kbps     37,689 kbps     00:54:49.786    31,697 kbps     00:58:24.292    31,364 kbps     00:58:25.126    137,777 bytes   585,810 bytes   00:58:09.027    
+13              0:58:58.535     0:02:45.915     28,354 kbps     36,717 kbps     00:58:58.993    31,953 kbps     00:59:42.412    31,583 kbps     00:59:03.998    147,827 bytes   572,086 bytes   00:59:26.521    
+14              1:01:44.450     0:05:52.810     29,868 kbps     38,255 kbps     01:05:24.670    32,630 kbps     01:05:20.666    31,745 kbps     01:06:43.916    155,718 bytes   628,352 bytes   01:03:43.277    
+15              1:07:37.261     0:02:58.469     27,920 kbps     34,897 kbps     01:09:11.021    31,859 kbps     01:10:30.726    31,276 kbps     01:08:11.170    145,563 bytes   629,900 bytes   01:10:35.731    
+16              1:10:35.731     0:03:45.725     30,237 kbps     36,439 kbps     01:13:31.240    32,344 kbps     01:13:27.236    31,827 kbps     01:13:30.239    157,643 bytes   638,900 bytes   01:13:33.992    
+17              1:14:21.457     0:02:21.766     29,442 kbps     35,825 kbps     01:15:21.934    32,097 kbps     01:15:17.971    31,572 kbps     01:15:24.853    153,497 bytes   513,378 bytes   01:14:30.883    
+18              1:16:43.223     0:04:27.892     30,411 kbps     37,153 kbps     01:18:29.788    32,336 kbps     01:18:25.784    31,666 kbps     01:19:58.835    158,551 bytes   637,024 bytes   01:20:00.629    
+19              1:21:11.116     0:02:46.332     30,799 kbps     39,076 kbps     01:22:51.716    32,963 kbps     01:22:47.629    32,131 kbps     01:22:42.624    160,573 bytes   638,318 bytes   01:21:48.194    
+20              1:23:57.449     0:07:06.008     22,859 kbps     36,842 kbps     01:25:24.536    32,410 kbps     01:25:20.532    31,736 kbps     01:25:15.568    119,190 bytes   639,183 bytes   01:25:35.672    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00015.M2TS      4113 (0x1011)   0x1B            AVC                                     5463.375                28,989                  19,797,555,882  107,673,377     
+00015.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5463.375                3,930                   2,683,827,396   15,442,337      
+00015.M2TS      4353 (0x1101)   0x80            LPCM            eng (English)           5463.375                2,310                   1,577,847,248   8,741,536       
+00015.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5463.375                53                      36,367,172      208,082         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Free Birds
+Disc Label: Free.Birds.2014.1080p.GBR.Blu-ray.AVC.DTS-HD.5.1-SD
+Disc Size: 29,716,830,589 bytes
+Protection: AACS
+Playlist: 00026.MPLS
+Size: 25,391,689,728 bytes
+Length: 1:31:03.458
+Total Bitrate: 37.18 Mbps
+Video: MPEG-4 AVC Video / 28989 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3930 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / LPCM Audio / 2.0 / 48 kHz /  2304 kbps / 24-bit
+Subtitle: English / 53.252 kbps
+
