@@ -1,0 +1,122 @@
+Disc Title:     BLU-RAY 3D
+Disc Label:     Saving.Santa.2013.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      24,379,948,689 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00465.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00465.MPLS                                                      AVC     1:23:59 16,437,798,912  24,379,948,689  26.10   22.19   DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     BLU-RAY 3D
+Disc Label:     Saving.Santa.2013.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      24,379,948,689 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00465.MPLS
+Length:                 1:23:59.034 (h:m:s.ms)
+Size:                   16,437,798,912 bytes
+Total Bitrate:          26.10 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22189 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Russian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+DTS-HD Master Audio             English         2024 kbps       5.1 / 48 kHz /  2024 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          0.145 kbps                      
+Presentation Graphics           French          34.966 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:23:59.034     16,437,798,912  26,097          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:35.593     22,498 kbps     43,918 kbps     00:03:46.434    34,734 kbps     00:10:28.127    30,674 kbps     00:01:24.375    117,287 bytes   752,636 bytes   00:00:00.083    
+2               0:10:35.593     0:04:55.336     24,651 kbps     45,279 kbps     00:14:59.857    34,934 kbps     00:13:51.580    31,087 kbps     00:13:46.492    128,517 bytes   722,464 bytes   00:14:58.147    
+3               0:15:30.930     0:05:38.796     23,226 kbps     40,375 kbps     00:16:18.268    33,419 kbps     00:20:56.254    29,670 kbps     00:16:35.953    121,089 bytes   676,791 bytes   00:15:46.278    
+4               0:21:09.726     0:08:54.575     24,060 kbps     41,653 kbps     00:24:24.546    33,295 kbps     00:24:39.227    29,834 kbps     00:24:35.724    125,438 bytes   684,040 bytes   00:24:42.272    
+5               0:30:04.302     0:07:29.407     21,626 kbps     41,487 kbps     00:35:22.328    32,473 kbps     00:36:51.876    29,906 kbps     00:36:51.876    112,747 bytes   821,780 bytes   00:32:29.989    
+6               0:37:33.709     0:06:40.274     20,655 kbps     43,681 kbps     00:43:22.808    30,910 kbps     00:40:06.278    29,010 kbps     00:40:27.425    107,686 bytes   624,581 bytes   00:42:38.556    
+7               0:44:13.984     0:07:07.301     22,002 kbps     43,119 kbps     00:49:57.202    34,431 kbps     00:51:01.641    29,435 kbps     00:51:01.683    114,708 bytes   836,216 bytes   00:45:16.380    
+8               0:51:21.286     0:06:50.076     22,538 kbps     49,272 kbps     00:56:54.369    33,936 kbps     00:53:24.951    31,224 kbps     00:55:23.945    117,503 bytes   883,406 bytes   00:53:05.932    
+9               0:58:11.362     0:07:36.789     22,544 kbps     48,902 kbps     01:05:23.836    33,743 kbps     01:00:06.769    29,134 kbps     01:00:02.849    117,537 bytes   700,503 bytes   01:05:21.125    
+10              1:05:48.152     0:07:04.590     25,296 kbps     42,533 kbps     01:06:06.504    32,481 kbps     01:11:44.174    31,079 kbps     01:10:14.210    131,881 bytes   708,963 bytes   01:08:46.455    
+11              1:12:52.743     0:07:01.879     21,745 kbps     41,872 kbps     01:19:35.729    34,471 kbps     01:16:48.937    32,126 kbps     01:16:43.932    113,368 bytes   639,311 bytes   01:17:23.096    
+12              1:19:54.623     0:04:04.410     10,871 kbps     25,368 kbps     01:23:37.721    22,729 kbps     01:23:35.510    19,480 kbps     01:23:32.549    56,688 bytes    301,674 bytes   01:23:38.596    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5038.867                22,190                  13,976,281,861  76,028,545      
+00000.M2TS      4352 (0x1100)   0x81            AC3             rus (Russian)           5038.867                448                     282,145,024     1,574,470       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5038.867                2,024                   1,275,019,988   7,713,523       
+00000.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5038.867                0                       91,166          535             
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5038.867                35                      22,024,352      127,614         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: BLU-RAY 3D
+Disc Label: Saving.Santa.2013.Blu-ray.3D.1080p.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size: 24,379,948,689 bytes
+Protection: AACS
+Playlist: 00465.MPLS
+Size: 16,437,798,912 bytes
+Length: 1:23:59.034
+Total Bitrate: 26.10 Mbps
+Video: MPEG-4 AVC Video / 22189 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2024 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: French / 0.145 kbps
+Subtitle: French / 34.966 kbps
+

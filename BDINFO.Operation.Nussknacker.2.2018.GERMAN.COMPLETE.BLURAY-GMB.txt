@@ -1,0 +1,204 @@
+Disc Title:     OPERATION NUSSKNACKER 2
+Disc Label:     Operation.Nussknacker.2.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      21,812,631,491 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:30:55 20,524,910,592  21,812,631,491  30.10   26.30   DTS-HD Master 5.1 2156Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     OPERATION NUSSKNACKER 2
+Disc Label:     Operation.Nussknacker.2.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      21,812,631,491 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:30:55.041 (h:m:s.ms)
+Size:                   20,524,910,592 bytes
+Total Bitrate:          30.10 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26301 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             French          2156 kbps       5.1 / 48 kHz /  2156 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          69.588 kbps                     
+Presentation Graphics           French          0.653 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:30:55.041     20,524,910,592  30,100          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:30:55.041     26,301 kbps     48,428 kbps     00:08:52.083    35,696 kbps     00:21:13.458    34,438 kbps     00:27:17.749    136,988 bytes   1,055,348 bytes 01:19:49.083    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5454.958                26,302                  17,934,414,894  97,545,900      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       fra (French)            5454.958                2,156                   1,469,829,696   8,843,802       
+00005.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5454.958                70                      47,450,348      265,939         
+00005.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5454.958                1                       445,029         2,533           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: OPERATION NUSSKNACKER 2
+Disc Label: Operation.Nussknacker.2.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size: 21,812,631,491 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 20,524,910,592 bytes
+Length: 1:30:55.041
+Total Bitrate: 30.10 Mbps
+Video: MPEG-4 AVC Video / 26301 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  2156 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: French / 69.588 kbps
+Subtitle: French / 0.653 kbps
+
+
+********************
+PLAYLIST: 01004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01004.MPLS                                                      AVC     1:30:55 20,524,910,592  21,812,631,491  30.10   26.30   DTS-HD Master 5.1 2156Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     OPERATION NUSSKNACKER 2
+Disc Label:     Operation.Nussknacker.2.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size:      21,812,631,491 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01004.MPLS
+Length:                 1:30:55.041 (h:m:s.ms)
+Size:                   20,524,910,592 bytes
+Total Bitrate:          30.10 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26301 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             French          2156 kbps       5.1 / 48 kHz /  2156 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          69.588 kbps                     
+Presentation Graphics           French          0.653 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:30:55.041     20,524,910,592  30,100          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:01.375     26,998 kbps     48,428 kbps     00:08:52.083    35,364 kbps     00:06:17.208    34,129 kbps     00:03:36.125    140,605 bytes   1,049,092 bytes 00:03:54.750    
+2               0:11:01.375     0:11:41.541     30,719 kbps     46,890 kbps     00:17:29.291    35,696 kbps     00:21:13.458    34,334 kbps     00:11:38.875    159,997 bytes   1,027,664 bytes 00:16:09.375    
+3               0:22:42.916     0:11:57.875     29,806 kbps     46,148 kbps     00:32:06.749    35,592 kbps     00:32:16.750    34,438 kbps     00:27:17.749    155,241 bytes   1,028,378 bytes 00:27:21.875    
+4               0:34:40.791     0:09:34.875     29,290 kbps     47,688 kbps     00:43:02.583    35,378 kbps     00:43:02.583    34,221 kbps     00:40:30.208    152,553 bytes   924,165 bytes   00:43:07.416    
+5               0:44:15.666     0:12:35.083     24,401 kbps     45,349 kbps     00:55:36.875    35,341 kbps     00:46:14.125    34,108 kbps     00:56:02.291    127,091 bytes   609,751 bytes   00:56:12.166    
+6               0:56:50.750     0:10:22.875     27,104 kbps     46,204 kbps     00:59:47.541    35,315 kbps     01:04:24.541    34,150 kbps     01:01:39.541    141,169 bytes   674,190 bytes   00:58:11.041    
+7               1:07:13.625     0:11:27.250     29,895 kbps     46,418 kbps     01:11:14.166    35,626 kbps     01:12:11.541    34,435 kbps     01:07:52.541    155,701 bytes   790,078 bytes   01:13:34.500    
+8               1:18:40.875     0:12:14.166     13,594 kbps     47,585 kbps     01:20:29.291    35,358 kbps     01:18:46.750    34,398 kbps     01:18:46.083    70,812 bytes    1,055,348 bytes 01:19:49.083    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5454.958                26,302                  17,934,414,894  97,545,900      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       fra (French)            5454.958                2,156                   1,469,829,696   8,843,802       
+00005.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5454.958                70                      47,450,348      265,939         
+00005.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5454.958                1                       445,029         2,533           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: OPERATION NUSSKNACKER 2
+Disc Label: Operation.Nussknacker.2.2018.GERMAN.COMPLETE.BLURAY-GMB
+Disc Size: 21,812,631,491 bytes
+Protection: AACS
+Playlist: 01004.MPLS
+Size: 20,524,910,592 bytes
+Length: 1:30:55.041
+Total Bitrate: 30.10 Mbps
+Video: MPEG-4 AVC Video / 26301 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  2156 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: French / 69.588 kbps
+Subtitle: French / 0.653 kbps
+

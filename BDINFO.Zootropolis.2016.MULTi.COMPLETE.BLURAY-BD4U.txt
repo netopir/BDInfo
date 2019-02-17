@@ -1,0 +1,150 @@
+Disc Title:     Zootropolis - Blu-ray™
+Disc Label:     Zootropolis.2016.MULTi.COMPLETE.BLURAY-BD4U
+Disc Size:      39,788,287,631 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:48:32 27,682,295,808  39,788,287,631  34.00   24.03   DTS 5.1 1509Kbps (48kHz/24-bit)           
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Zootropolis - Blu-ray™
+Disc Label:     Zootropolis.2016.MULTi.COMPLETE.BLURAY-BD4U
+Disc Size:      39,788,287,631 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:48:32.631 (h:m:s.ms)
+Size:                   27,682,295,808 bytes
+Total Bitrate:          34.00 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24026 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       English         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Danish          1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Norwegian       1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Finnish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Swedish         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         52.336 kbps                     
+Presentation Graphics           Danish          36.712 kbps                     
+Presentation Graphics           Norwegian       38.783 kbps                     
+Presentation Graphics           Finnish         36.467 kbps                     
+Presentation Graphics           Swedish         34.456 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00300.M2TS      0:00:00.000     1:48:32.631     27,682,295,808  34,004          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:59.559     21,422 kbps     50,446 kbps     00:00:48.256    33,218 kbps     00:00:15.390    32,438 kbps     00:00:23.523    111,607 bytes   569,342 bytes   00:00:49.049    
+2               0:00:59.559     0:04:50.540     24,523 kbps     35,032 kbps     00:01:22.665    30,939 kbps     00:01:22.665    29,893 kbps     00:01:18.453    127,854 bytes   548,253 bytes   00:03:11.149    
+3               0:05:50.099     0:04:15.463     24,592 kbps     47,618 kbps     00:07:15.101    34,025 kbps     00:06:51.035    32,685 kbps     00:06:48.116    128,213 bytes   568,329 bytes   00:07:18.396    
+4               0:10:05.563     0:04:25.974     24,172 kbps     35,781 kbps     00:11:55.089    33,818 kbps     00:11:52.336    31,694 kbps     00:11:48.374    126,024 bytes   518,296 bytes   00:10:22.246    
+5               0:14:31.537     0:03:52.482     23,991 kbps     29,802 kbps     00:16:53.595    27,215 kbps     00:16:52.428    25,636 kbps     00:16:52.428    125,078 bytes   433,248 bytes   00:17:20.914    
+6               0:18:24.019     0:07:39.333     24,333 kbps     35,439 kbps     00:24:27.507    32,226 kbps     00:24:26.298    29,282 kbps     00:24:26.256    126,860 bytes   401,298 bytes   00:24:19.916    
+7               0:26:03.353     0:04:54.085     23,459 kbps     36,611 kbps     00:28:47.267    35,097 kbps     00:28:45.974    33,311 kbps     00:28:42.512    122,304 bytes   450,136 bytes   00:28:48.268    
+8               0:30:57.438     0:06:09.660     24,033 kbps     27,707 kbps     00:36:45.369    26,488 kbps     00:33:25.545    25,987 kbps     00:33:24.043    125,297 bytes   347,277 bytes   00:37:07.099    
+9               0:37:07.099     0:03:36.341     23,363 kbps     36,603 kbps     00:38:30.182    31,990 kbps     00:38:45.156    30,057 kbps     00:38:45.156    121,803 bytes   520,374 bytes   00:40:01.941    
+10              0:40:43.440     0:03:48.311     24,552 kbps     29,307 kbps     00:41:29.320    27,663 kbps     00:41:28.360    26,681 kbps     00:44:19.323    128,004 bytes   384,656 bytes   00:40:45.067    
+11              0:44:31.752     0:07:08.678     24,240 kbps     35,866 kbps     00:50:38.827    33,520 kbps     00:50:35.490    30,895 kbps     00:50:35.490    126,377 bytes   379,750 bytes   00:48:08.594    
+12              0:51:40.430     0:03:59.948     24,740 kbps     36,523 kbps     00:53:36.379    33,478 kbps     00:53:44.721    31,731 kbps     00:53:41.218    128,982 bytes   381,706 bytes   00:52:42.742    
+13              0:55:40.378     0:05:07.890     22,925 kbps     36,400 kbps     00:58:48.066    33,122 kbps     00:58:44.062    30,566 kbps     00:58:39.057    119,519 bytes   431,607 bytes   00:58:48.983    
+14              1:00:48.269     0:02:49.586     24,854 kbps     35,630 kbps     01:03:06.657    30,926 kbps     01:03:05.031    28,750 kbps     01:00:54.567    129,575 bytes   406,256 bytes   01:03:07.658    
+15              1:03:37.855     0:05:41.966     23,644 kbps     36,611 kbps     01:08:09.877    34,597 kbps     01:08:25.267    32,799 kbps     01:08:20.971    123,269 bytes   347,368 bytes   01:09:19.822    
+16              1:09:19.822     0:04:19.342     24,025 kbps     36,387 kbps     01:10:33.520    30,467 kbps     01:10:32.228    27,674 kbps     01:10:29.850    125,257 bytes   356,930 bytes   01:10:32.311    
+17              1:13:39.164     0:03:28.207     24,129 kbps     37,857 kbps     01:17:05.912    29,667 kbps     01:14:48.984    27,611 kbps     01:15:36.406    125,798 bytes   411,429 bytes   01:13:58.934    
+18              1:17:07.372     0:04:44.993     23,649 kbps     37,449 kbps     01:19:30.182    32,043 kbps     01:20:03.507    30,686 kbps     01:20:01.588    123,296 bytes   520,283 bytes   01:20:01.630    
+19              1:21:52.365     0:06:26.803     25,050 kbps     41,654 kbps     01:27:05.303    36,023 kbps     01:27:01.299    34,679 kbps     01:26:57.670    130,599 bytes   462,090 bytes   01:27:05.970    
+20              1:28:19.168     0:04:24.264     22,894 kbps     33,935 kbps     01:30:45.940    28,909 kbps     01:31:55.301    27,465 kbps     01:31:50.546    119,359 bytes   440,081 bytes   01:30:27.588    
+21              1:32:43.432     0:03:28.708     23,881 kbps     33,645 kbps     01:34:03.512    30,147 kbps     01:34:00.301    27,667 kbps     01:35:49.368    124,505 bytes   606,935 bytes   01:34:01.010    
+22              1:36:12.141     0:12:20.489     23,980 kbps     36,215 kbps     01:39:48.565    34,377 kbps     01:39:47.189    30,413 kbps     01:39:46.647    125,028 bytes   531,405 bytes   01:42:23.095    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00300.M2TS      4113 (0x1011)   0x1B            AVC                                     6512.464                24,026                  19,558,880,887  106,389,443     
+00300.M2TS      4352 (0x1100)   0x82            DTS             eng (English)           6512.464                1,509                   1,228,446,720   7,326,720       
+00300.M2TS      4353 (0x1101)   0x82            DTS             dan (Danish)            6512.464                1,509                   1,228,446,720   7,326,720       
+00300.M2TS      4354 (0x1102)   0x82            DTS             nor (Norwegian)         6512.464                1,509                   1,228,446,720   7,326,720       
+00300.M2TS      4355 (0x1103)   0x82            DTS             fin (Finnish)           6512.464                1,509                   1,228,446,720   7,326,720       
+00300.M2TS      4356 (0x1104)   0x82            DTS             swe (Swedish)           6512.464                1,509                   1,228,446,720   7,326,720       
+00300.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6512.464                52                      42,605,370      247,522         
+00300.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            6512.464                37                      29,886,319      171,759         
+00300.M2TS      4610 (0x1202)   0x90            PGS             nor (Norwegian)         6512.464                39                      31,572,288      183,663         
+00300.M2TS      4611 (0x1203)   0x90            PGS             fin (Finnish)           6512.464                36                      29,687,381      173,549         
+00300.M2TS      4612 (0x1204)   0x90            PGS             swe (Swedish)           6512.464                34                      28,050,161      160,893         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Zootropolis - Blu-ray™
+Disc Label: Zootropolis.2016.MULTi.COMPLETE.BLURAY-BD4U
+Disc Size: 39,788,287,631 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 27,682,295,808 bytes
+Length: 1:48:32.631
+Total Bitrate: 34.00 Mbps
+Video: MPEG-4 AVC Video / 24026 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Danish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Finnish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Swedish / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Subtitle: English / 52.336 kbps
+Subtitle: Danish / 36.712 kbps
+Subtitle: Norwegian / 38.783 kbps
+Subtitle: Finnish / 36.467 kbps
+Subtitle: Swedish / 34.456 kbps
+
