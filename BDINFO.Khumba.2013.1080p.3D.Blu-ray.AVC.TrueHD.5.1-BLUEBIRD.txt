@@ -1,0 +1,122 @@
+Disc Title:     Khumba - Blu-ray™
+Disc Label:     Khumba.2013.1080p.3D.Blu-ray.AVC.TrueHD.5.1-BLUEBIRD
+Disc Size:      38,890,017,044 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:25:18 19,163,424,768  38,890,017,044  29.95   24.82   Dolby TrueHD 5.1 2275Kbps (48kHz/16-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Khumba - Blu-ray™
+Disc Label:     Khumba.2013.1080p.3D.Blu-ray.AVC.TrueHD.5.1-BLUEBIRD
+Disc Size:      38,890,017,044 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:25:18.113 (h:m:s.ms)
+Size:                   19,163,424,768 bytes
+Total Bitrate:          29.95 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24818 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         2275 kbps       5.1 / 48 kHz /  1635 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             Russian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         35.138 kbps                     
+Presentation Graphics           Spanish         32.637 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:25:18.113     19,163,424,768  29,954          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:02.880     26,249 kbps     37,326 kbps     00:02:38.157    31,517 kbps     00:03:44.432    30,974 kbps     00:05:08.891    136,838 bytes   638,717 bytes   00:02:02.789    
+2               0:07:02.880     0:07:30.741     26,996 kbps     36,916 kbps     00:12:06.267    31,795 kbps     00:10:01.517    31,036 kbps     00:10:00.099    140,743 bytes   640,796 bytes   00:10:34.008    
+3               0:14:33.622     0:09:30.861     24,233 kbps     34,694 kbps     00:16:09.927    31,285 kbps     00:18:05.709    30,677 kbps     00:16:47.006    126,338 bytes   633,910 bytes   00:19:37.092    
+4               0:24:04.484     0:06:47.448     24,662 kbps     33,883 kbps     00:30:32.038    31,157 kbps     00:30:46.928    30,816 kbps     00:30:40.088    128,574 bytes   562,588 bytes   00:30:51.933    
+5               0:30:51.933     0:07:10.555     25,695 kbps     35,747 kbps     00:32:26.778    31,610 kbps     00:32:45.171    31,037 kbps     00:35:51.566    133,964 bytes   638,132 bytes   00:31:23.214    
+6               0:38:02.488     0:07:16.018     24,708 kbps     35,960 kbps     00:41:53.385    31,193 kbps     00:38:13.457    30,933 kbps     00:38:13.457    128,817 bytes   639,512 bytes   00:38:48.367    
+7               0:45:18.507     0:05:37.837     24,691 kbps     36,043 kbps     00:50:17.180    31,252 kbps     00:46:20.527    30,935 kbps     00:46:15.397    128,727 bytes   630,547 bytes   00:47:35.435    
+8               0:50:56.344     0:04:30.520     24,783 kbps     34,357 kbps     00:53:03.263    31,279 kbps     00:54:52.622    30,969 kbps     00:52:54.254    129,205 bytes   636,856 bytes   00:54:44.906    
+9               0:55:26.865     0:04:43.992     24,549 kbps     34,344 kbps     00:59:09.629    31,048 kbps     00:56:55.078    30,219 kbps     00:56:49.989    127,988 bytes   599,362 bytes   00:58:07.567    
+10              1:00:10.857     0:08:51.447     24,726 kbps     34,282 kbps     01:02:10.435    31,351 kbps     01:08:47.915    30,743 kbps     01:08:43.160    128,911 bytes   636,961 bytes   01:02:12.437    
+11              1:09:02.304     0:10:10.484     27,598 kbps     35,696 kbps     01:18:38.004    31,806 kbps     01:18:23.782    31,245 kbps     01:18:18.777    143,885 bytes   636,615 bytes   01:18:29.663    
+12              1:19:12.789     0:06:05.323     16,499 kbps     35,917 kbps     01:20:48.552    31,975 kbps     01:20:44.381    31,339 kbps     01:20:39.376    86,026 bytes    631,660 bytes   01:20:48.927    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     5117.946                24,819                  15,877,575,768  86,363,051      
+00004.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5117.946                2,275                   1,455,593,238   11,422,671      
+00004.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           5117.946                448                     286,605,312     1,599,360       
+00004.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5117.946                35                      22,480,203      131,384         
+00004.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5117.946                33                      20,880,195      121,666         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Khumba - Blu-ray™
+Disc Label: Khumba.2013.1080p.3D.Blu-ray.AVC.TrueHD.5.1-BLUEBIRD
+Disc Size: 38,890,017,044 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 19,163,424,768 bytes
+Length: 1:25:18.113
+Total Bitrate: 29.95 Mbps
+Video: MPEG-4 AVC Video / 24818 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  1635 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Subtitle: English / 35.138 kbps
+Subtitle: Spanish / 32.637 kbps
+

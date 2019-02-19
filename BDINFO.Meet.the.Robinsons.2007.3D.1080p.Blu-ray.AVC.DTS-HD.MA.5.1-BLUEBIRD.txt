@@ -1,0 +1,375 @@
+Disc Title:     Meet the Robinsons - Blu-ray 3D™
+Disc Label:     Meet.the.Robinsons.2007.3D.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      39,006,104,389 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:35:06 24,710,983,680  39,006,104,389  34.64   23.71   DTS-HD Master 5.1 3778Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Meet the Robinsons - Blu-ray 3D™
+Disc Label:     Meet.the.Robinsons.2007.3D.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      39,006,104,389 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:35:06.617 (h:m:s.ms)
+Size:                   24,710,983,680 bytes
+Total Bitrate:          34.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3778 kbps       5.1 / 48 kHz /  3778 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Chinese         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Korean          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Portuguese      640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Thai            640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Chinese         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         42.094 kbps                     
+Presentation Graphics           English         46.658 kbps                     
+Presentation Graphics           Chinese         24.470 kbps                     
+Presentation Graphics           Chinese         28.054 kbps                     
+Presentation Graphics           Korean          15.628 kbps                     
+Presentation Graphics           Chinese         30.232 kbps                     
+Presentation Graphics           Chinese         27.684 kbps                     
+Presentation Graphics           Spanish         41.166 kbps                     
+Presentation Graphics           Portuguese      43.384 kbps                     
+Presentation Graphics           Russian         41.680 kbps                     
+Presentation Graphics           Thai            30.906 kbps                     
+Presentation Graphics           Vietnamese      43.938 kbps                     
+Presentation Graphics           Indonesian      29.092 kbps                     
+Presentation Graphics           Malay           36.016 kbps                     
+Presentation Graphics           Hindi           34.468 kbps                     
+Presentation Graphics           Chinese         0.751 kbps                      
+Presentation Graphics           Korean          0.432 kbps                      
+Presentation Graphics           Chinese         0.994 kbps                      
+Presentation Graphics           Spanish         1.756 kbps                      
+Presentation Graphics           Portuguese      1.759 kbps                      
+Presentation Graphics           Russian         1.725 kbps                      
+Presentation Graphics           Thai            1.193 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00272.M2TS      0:00:00.000     1:35:06.617     24,710,983,680  34,642          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:35:06.617     23,713 kbps     37,275 kbps     01:05:13.451    29,931 kbps     01:34:59.568    28,873 kbps     01:29:24.442    123,627 bytes   640,673 bytes   01:23:24.541    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00272.M2TS      4113 (0x1011)   0x1B            AVC                                     5706.534                23,713                  16,914,920,419  92,010,375      
+00272.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5706.534                3,778                   2,694,881,060   15,536,811      
+00272.M2TS      4353 (0x1101)   0x81            AC3             zho (Chinese)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4354 (0x1102)   0x81            AC3             kor (Korean)            5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4356 (0x1104)   0x81            AC3             por (Portuguese)        5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4357 (0x1105)   0x81            AC3             rus (Russian)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4358 (0x1106)   0x81            AC3             tha (Thai)              5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4359 (0x1107)   0x81            AC3             zho (Chinese)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5706.534                42                      30,026,955      172,561         
+00272.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5706.534                47                      33,282,620      191,714         
+00272.M2TS      4610 (0x1202)   0x90            PGS             zho (Chinese)           5706.534                24                      17,455,062      104,358         
+00272.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5706.534                28                      20,011,732      119,784         
+00272.M2TS      4612 (0x1204)   0x90            PGS             kor (Korean)            5706.534                16                      11,148,081      68,773          
+00272.M2TS      4613 (0x1205)   0x90            PGS             zho (Chinese)           5706.534                30                      21,565,497      127,416         
+00272.M2TS      4614 (0x1206)   0x90            PGS             zho (Chinese)           5706.534                28                      19,747,747      118,397         
+00272.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           5706.534                41                      29,365,033      169,414         
+00272.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5706.534                43                      30,946,816      177,987         
+00272.M2TS      4617 (0x1209)   0x90            PGS             rus (Russian)           5706.534                42                      29,731,384      171,387         
+00272.M2TS      4618 (0x120A)   0x90            PGS             tha (Thai)              5706.534                31                      22,046,264      129,496         
+00272.M2TS      4619 (0x120B)   0x90            PGS             vie (Vietnamese)        5706.534                44                      31,342,504      180,041         
+00272.M2TS      4620 (0x120C)   0x90            PGS             ind (Indonesian)        5706.534                29                      20,752,349      120,658         
+00272.M2TS      4621 (0x120D)   0x90            PGS             msa (Malay)             5706.534                36                      25,691,449      147,734         
+00272.M2TS      4622 (0x120E)   0x90            PGS             hin (Hindi)             5706.534                34                      24,587,317      143,437         
+00272.M2TS      4623 (0x120F)   0x90            PGS             zho (Chinese)           5706.534                1                       535,987         3,253           
+00272.M2TS      4624 (0x1210)   0x90            PGS             kor (Korean)            5706.534                0                       308,221         1,960           
+00272.M2TS      4625 (0x1211)   0x90            PGS             zho (Chinese)           5706.534                1                       709,328         4,304           
+00272.M2TS      4626 (0x1212)   0x90            PGS             spa (Spanish)           5706.534                2                       1,252,333       7,232           
+00272.M2TS      4627 (0x1213)   0x90            PGS             por (Portuguese)        5706.534                2                       1,254,560       7,240           
+00272.M2TS      4628 (0x1214)   0x90            PGS             rus (Russian)           5706.534                2                       1,230,208       7,072           
+00272.M2TS      4629 (0x1215)   0x90            PGS             tha (Thai)              5706.534                1                       850,961         5,048           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Meet the Robinsons - Blu-ray 3D™
+Disc Label: Meet.the.Robinsons.2007.3D.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size: 39,006,104,389 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 24,710,983,680 bytes
+Length: 1:35:06.617
+Total Bitrate: 34.64 Mbps
+Video: MPEG-4 AVC Video / 23713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3778 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 42.094 kbps
+Subtitle: English / 46.658 kbps
+Subtitle: Chinese / 24.470 kbps
+Subtitle: Chinese / 28.054 kbps
+Subtitle: Korean / 15.628 kbps
+Subtitle: Chinese / 30.232 kbps
+Subtitle: Chinese / 27.684 kbps
+Subtitle: Spanish / 41.166 kbps
+Subtitle: Portuguese / 43.384 kbps
+Subtitle: Russian / 41.680 kbps
+Subtitle: Thai / 30.906 kbps
+Subtitle: Vietnamese / 43.938 kbps
+Subtitle: Indonesian / 29.092 kbps
+Subtitle: Malay / 36.016 kbps
+Subtitle: Hindi / 34.468 kbps
+Subtitle: Chinese / 0.751 kbps
+Subtitle: Korean / 0.432 kbps
+Subtitle: Chinese / 0.994 kbps
+Subtitle: Spanish / 1.756 kbps
+Subtitle: Portuguese / 1.759 kbps
+Subtitle: Russian / 1.725 kbps
+Subtitle: Thai / 1.193 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:35:06 24,710,983,680  39,006,104,389  34.64   23.71   DTS-HD Master 5.1 3778Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Meet the Robinsons - Blu-ray 3D™
+Disc Label:     Meet.the.Robinsons.2007.3D.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size:      39,006,104,389 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:35:06.617 (h:m:s.ms)
+Size:                   24,710,983,680 bytes
+Total Bitrate:          34.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3778 kbps       5.1 / 48 kHz /  3778 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Chinese         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Korean          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Portuguese      640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Thai            640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Chinese         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         42.094 kbps                     
+Presentation Graphics           English         46.658 kbps                     
+Presentation Graphics           Chinese         24.470 kbps                     
+Presentation Graphics           Chinese         28.054 kbps                     
+Presentation Graphics           Korean          15.628 kbps                     
+Presentation Graphics           Chinese         30.232 kbps                     
+Presentation Graphics           Chinese         27.684 kbps                     
+Presentation Graphics           Spanish         41.166 kbps                     
+Presentation Graphics           Portuguese      43.384 kbps                     
+Presentation Graphics           Russian         41.680 kbps                     
+Presentation Graphics           Thai            30.906 kbps                     
+Presentation Graphics           Vietnamese      43.938 kbps                     
+Presentation Graphics           Indonesian      29.092 kbps                     
+Presentation Graphics           Malay           36.016 kbps                     
+Presentation Graphics           Hindi           34.468 kbps                     
+Presentation Graphics           Chinese         0.751 kbps                      
+Presentation Graphics           Korean          0.432 kbps                      
+Presentation Graphics           Chinese         0.994 kbps                      
+Presentation Graphics           Spanish         1.756 kbps                      
+Presentation Graphics           Portuguese      1.759 kbps                      
+Presentation Graphics           Russian         1.725 kbps                      
+Presentation Graphics           Thai            1.193 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00272.M2TS      0:00:00.000     1:35:06.617     24,710,983,680  34,642          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:55.308     23,375 kbps     31,834 kbps     00:06:05.948    28,649 kbps     00:07:31.325    28,339 kbps     00:00:16.141    121,856 bytes   640,346 bytes   00:07:10.096    
+2               0:07:55.308     0:01:36.763     24,016 kbps     35,112 kbps     00:08:06.819    28,431 kbps     00:09:00.122    27,305 kbps     00:09:00.122    125,207 bytes   638,125 bytes   00:08:09.322    
+3               0:09:32.071     0:09:05.002     23,680 kbps     32,254 kbps     00:15:50.908    28,728 kbps     00:16:24.608    28,267 kbps     00:11:18.969    123,457 bytes   638,681 bytes   00:15:53.869    
+4               0:18:37.074     0:02:50.503     23,486 kbps     31,930 kbps     00:19:47.019    28,815 kbps     00:18:38.575    26,911 kbps     00:21:06.890    122,444 bytes   638,343 bytes   00:19:52.858    
+5               0:21:27.577     0:01:25.460     25,943 kbps     30,834 kbps     00:22:16.585    28,761 kbps     00:22:12.581    28,208 kbps     00:22:07.576    135,255 bytes   471,526 bytes   00:22:17.586    
+6               0:22:53.038     0:02:24.686     24,204 kbps     31,639 kbps     00:24:25.797    28,989 kbps     00:24:21.751    28,741 kbps     00:24:16.788    126,188 bytes   640,103 bytes   00:24:32.179    
+7               0:25:17.724     0:04:35.400     22,614 kbps     32,307 kbps     00:25:22.312    28,309 kbps     00:29:47.243    27,821 kbps     00:28:01.012    117,898 bytes   640,022 bytes   00:25:23.730    
+8               0:29:53.124     0:09:05.878     23,608 kbps     35,006 kbps     00:31:42.775    29,034 kbps     00:31:45.904    28,490 kbps     00:30:03.718    123,083 bytes   640,593 bytes   00:31:38.855    
+9               0:38:59.003     0:02:40.285     23,742 kbps     31,960 kbps     00:41:29.403    28,462 kbps     00:41:29.487    28,049 kbps     00:39:37.375    123,781 bytes   638,686 bytes   00:40:47.653    
+10              0:41:39.288     0:02:47.834     24,706 kbps     33,898 kbps     00:43:20.389    28,606 kbps     00:44:10.814    28,026 kbps     00:43:31.650    128,804 bytes   639,465 bytes   00:43:21.015    
+11              0:44:27.122     0:01:24.584     24,471 kbps     34,496 kbps     00:44:50.979    28,315 kbps     00:44:42.596    27,692 kbps     00:44:39.218    127,580 bytes   634,165 bytes   00:44:27.998    
+12              0:45:51.707     0:02:47.959     21,989 kbps     31,048 kbps     00:48:27.070    28,130 kbps     00:45:52.082    27,054 kbps     00:45:51.707    114,638 bytes   638,650 bytes   00:48:36.663    
+13              0:48:39.666     0:04:20.426     23,768 kbps     33,561 kbps     00:49:46.858    28,733 kbps     00:49:38.892    28,434 kbps     00:49:33.887    123,916 bytes   640,452 bytes   00:50:58.388    
+14              0:53:00.093     0:04:29.644     24,210 kbps     35,154 kbps     00:56:58.665    28,722 kbps     00:57:09.676    27,477 kbps     00:56:45.235    126,218 bytes   637,789 bytes   00:56:59.624    
+15              0:57:29.737     0:04:44.158     23,189 kbps     31,858 kbps     00:59:41.828    28,604 kbps     00:58:23.917    27,265 kbps     00:57:56.264    120,898 bytes   639,421 bytes   01:00:16.988    
+16              1:02:13.896     0:06:25.301     24,415 kbps     37,275 kbps     01:05:13.451    28,993 kbps     01:03:37.897    28,335 kbps     01:03:32.892    127,290 bytes   640,122 bytes   01:05:29.926    
+17              1:08:39.198     0:06:51.452     24,302 kbps     33,095 kbps     01:09:49.476    28,548 kbps     01:10:24.970    28,119 kbps     01:09:40.342    126,702 bytes   640,483 bytes   01:15:22.809    
+18              1:15:30.651     0:07:39.041     23,700 kbps     32,742 kbps     01:22:57.973    28,873 kbps     01:15:34.571    28,448 kbps     01:20:53.223    123,560 bytes   639,780 bytes   01:18:18.902    
+19              1:23:09.693     0:04:40.363     23,160 kbps     32,213 kbps     01:27:27.867    29,101 kbps     01:27:23.863    28,574 kbps     01:27:18.858    120,748 bytes   640,673 bytes   01:23:24.541    
+20              1:27:50.056     0:07:16.561     23,684 kbps     36,392 kbps     01:35:03.572    29,931 kbps     01:34:59.568    28,873 kbps     01:29:24.442    123,488 bytes   631,239 bytes   01:35:04.532    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00272.M2TS      4113 (0x1011)   0x1B            AVC                                     5706.534                23,713                  16,914,920,419  92,010,375      
+00272.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5706.534                3,778                   2,694,881,060   15,536,811      
+00272.M2TS      4353 (0x1101)   0x81            AC3             zho (Chinese)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4354 (0x1102)   0x81            AC3             kor (Korean)            5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4356 (0x1104)   0x81            AC3             por (Portuguese)        5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4357 (0x1105)   0x81            AC3             rus (Russian)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4358 (0x1106)   0x81            AC3             tha (Thai)              5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4359 (0x1107)   0x81            AC3             zho (Chinese)           5706.534                640                     456,529,920     2,674,980       
+00272.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5706.534                42                      30,026,955      172,561         
+00272.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5706.534                47                      33,282,620      191,714         
+00272.M2TS      4610 (0x1202)   0x90            PGS             zho (Chinese)           5706.534                24                      17,455,062      104,358         
+00272.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5706.534                28                      20,011,732      119,784         
+00272.M2TS      4612 (0x1204)   0x90            PGS             kor (Korean)            5706.534                16                      11,148,081      68,773          
+00272.M2TS      4613 (0x1205)   0x90            PGS             zho (Chinese)           5706.534                30                      21,565,497      127,416         
+00272.M2TS      4614 (0x1206)   0x90            PGS             zho (Chinese)           5706.534                28                      19,747,747      118,397         
+00272.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           5706.534                41                      29,365,033      169,414         
+00272.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5706.534                43                      30,946,816      177,987         
+00272.M2TS      4617 (0x1209)   0x90            PGS             rus (Russian)           5706.534                42                      29,731,384      171,387         
+00272.M2TS      4618 (0x120A)   0x90            PGS             tha (Thai)              5706.534                31                      22,046,264      129,496         
+00272.M2TS      4619 (0x120B)   0x90            PGS             vie (Vietnamese)        5706.534                44                      31,342,504      180,041         
+00272.M2TS      4620 (0x120C)   0x90            PGS             ind (Indonesian)        5706.534                29                      20,752,349      120,658         
+00272.M2TS      4621 (0x120D)   0x90            PGS             msa (Malay)             5706.534                36                      25,691,449      147,734         
+00272.M2TS      4622 (0x120E)   0x90            PGS             hin (Hindi)             5706.534                34                      24,587,317      143,437         
+00272.M2TS      4623 (0x120F)   0x90            PGS             zho (Chinese)           5706.534                1                       535,987         3,253           
+00272.M2TS      4624 (0x1210)   0x90            PGS             kor (Korean)            5706.534                0                       308,221         1,960           
+00272.M2TS      4625 (0x1211)   0x90            PGS             zho (Chinese)           5706.534                1                       709,328         4,304           
+00272.M2TS      4626 (0x1212)   0x90            PGS             spa (Spanish)           5706.534                2                       1,252,333       7,232           
+00272.M2TS      4627 (0x1213)   0x90            PGS             por (Portuguese)        5706.534                2                       1,254,560       7,240           
+00272.M2TS      4628 (0x1214)   0x90            PGS             rus (Russian)           5706.534                2                       1,230,208       7,072           
+00272.M2TS      4629 (0x1215)   0x90            PGS             tha (Thai)              5706.534                1                       850,961         5,048           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Meet the Robinsons - Blu-ray 3D™
+Disc Label: Meet.the.Robinsons.2007.3D.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-BLUEBIRD
+Disc Size: 39,006,104,389 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 24,710,983,680 bytes
+Length: 1:35:06.617
+Total Bitrate: 34.64 Mbps
+Video: MPEG-4 AVC Video / 23713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3778 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Korean / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Chinese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 42.094 kbps
+Subtitle: English / 46.658 kbps
+Subtitle: Chinese / 24.470 kbps
+Subtitle: Chinese / 28.054 kbps
+Subtitle: Korean / 15.628 kbps
+Subtitle: Chinese / 30.232 kbps
+Subtitle: Chinese / 27.684 kbps
+Subtitle: Spanish / 41.166 kbps
+Subtitle: Portuguese / 43.384 kbps
+Subtitle: Russian / 41.680 kbps
+Subtitle: Thai / 30.906 kbps
+Subtitle: Vietnamese / 43.938 kbps
+Subtitle: Indonesian / 29.092 kbps
+Subtitle: Malay / 36.016 kbps
+Subtitle: Hindi / 34.468 kbps
+Subtitle: Chinese / 0.751 kbps
+Subtitle: Korean / 0.432 kbps
+Subtitle: Chinese / 0.994 kbps
+Subtitle: Spanish / 1.756 kbps
+Subtitle: Portuguese / 1.759 kbps
+Subtitle: Russian / 1.725 kbps
+Subtitle: Thai / 1.193 kbps
+
