@@ -1,0 +1,173 @@
+Disc Title:     Shrek Forever After SE
+Disc Label:     Shrek.Forever.After.4.2010.ITA.1080p.BluRay.AVC.TrueHD.7.1
+Disc Size:      39,002,175,736 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00061.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00061.MPLS                                                      AVC     1:33:10 25,052,196,864  39,002,175,736  35.85   22.02   Dolby TrueHD 7.1 3719Kbps (48kHz/16-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Shrek Forever After SE
+Disc Label:     Shrek.Forever.After.4.2010.ITA.1080p.BluRay.AVC.TrueHD.7.1
+Disc Size:      39,002,175,736 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00061.MPLS
+Length:                 1:33:10.543 (h:m:s.ms)
+Size:                   25,052,196,864 bytes
+Total Bitrate:          35.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22021 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        3006 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3719 kbps       7.1 / 48 kHz /  3079 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             Catalan         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -22dB
+Dolby Digital Plus Audio        English         224 kbps        2.0 / 48 kHz /   224 kbps
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         44.209 kbps                     
+Presentation Graphics           Catalan         43.899 kbps                     
+Presentation Graphics           Spanish         43.806 kbps                     
+Presentation Graphics           Italian         43.914 kbps                     
+Presentation Graphics           English         81.092 kbps                     
+Presentation Graphics           Spanish         72.894 kbps                     
+Presentation Graphics           Italian         69.685 kbps                     
+Presentation Graphics           German          45.143 kbps                     
+Presentation Graphics           Turkish         41.806 kbps                     
+Presentation Graphics           German          75.785 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     1:33:10.543     25,052,196,864  35,849          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:47.787     22,080 kbps     36,454 kbps     00:00:31.948    31,979 kbps     00:00:27.944    31,437 kbps     00:00:22.939    115,097 bytes   499,181 bytes   00:04:47.787    
+2               0:04:47.787     0:03:52.148     21,556 kbps     36,706 kbps     00:04:53.209    30,569 kbps     00:05:21.237    28,867 kbps     00:05:21.112    112,386 bytes   640,419 bytes   00:06:59.794    
+3               0:08:39.936     0:06:11.788     22,148 kbps     34,713 kbps     00:08:58.287    31,346 kbps     00:08:54.283    31,048 kbps     00:08:49.362    115,470 bytes   631,563 bytes   00:14:35.332    
+4               0:14:51.724     0:04:59.465     21,603 kbps     33,582 kbps     00:19:42.472    31,060 kbps     00:15:47.863    30,677 kbps     00:19:33.380    112,630 bytes   529,233 bytes   00:15:29.803    
+5               0:19:51.190     0:04:52.125     24,113 kbps     33,984 kbps     00:22:07.159    30,988 kbps     00:22:13.081    30,495 kbps     00:22:09.036    125,715 bytes   635,263 bytes   00:22:08.160    
+6               0:24:43.315     0:08:39.018     22,241 kbps     32,989 kbps     00:26:23.164    31,125 kbps     00:26:57.949    28,496 kbps     00:26:57.157    115,956 bytes   592,783 bytes   00:25:26.900    
+7               0:33:22.333     0:07:49.135     21,298 kbps     32,946 kbps     00:33:42.645    30,614 kbps     00:33:38.641    27,796 kbps     00:34:52.215    111,039 bytes   638,869 bytes   00:34:21.392    
+8               0:41:11.469     0:03:39.802     22,627 kbps     32,562 kbps     00:41:15.431    31,031 kbps     00:41:12.303    27,909 kbps     00:41:11.469    117,965 bytes   410,499 bytes   00:41:16.390    
+9               0:44:51.271     0:03:41.179     22,184 kbps     32,044 kbps     00:47:23.590    28,891 kbps     00:47:20.212    26,222 kbps     00:47:18.460    115,658 bytes   457,709 bytes   00:46:56.230    
+10              0:48:32.451     0:02:59.178     21,104 kbps     27,700 kbps     00:49:57.369    25,262 kbps     00:49:57.369    24,018 kbps     00:49:56.994    110,027 bytes   394,747 bytes   00:48:48.133    
+11              0:51:31.630     0:01:30.757     21,432 kbps     27,284 kbps     00:51:41.515    25,200 kbps     00:51:39.012    24,332 kbps     00:52:27.060    111,734 bytes   411,183 bytes   00:51:53.819    
+12              0:53:02.387     0:05:23.573     22,248 kbps     31,492 kbps     00:56:10.950    27,307 kbps     00:55:58.271    26,371 kbps     00:55:55.685    115,990 bytes   398,115 bytes   00:55:02.799    
+13              0:58:25.960     0:04:47.787     22,330 kbps     31,652 kbps     00:59:05.667    30,893 kbps     00:59:03.081    28,592 kbps     00:58:59.410    116,418 bytes   443,596 bytes   01:02:24.741    
+14              1:03:13.748     0:02:35.113     19,485 kbps     29,611 kbps     01:04:32.076    27,277 kbps     01:04:28.072    25,070 kbps     01:04:22.942    101,586 bytes   426,270 bytes   01:03:51.160    
+15              1:05:48.861     0:06:45.613     20,783 kbps     32,691 kbps     01:07:13.195    31,257 kbps     01:07:23.831    31,049 kbps     01:07:18.826    108,353 bytes   520,536 bytes   01:06:25.940    
+16              1:12:34.475     0:07:25.945     22,603 kbps     32,969 kbps     01:19:54.206    30,967 kbps     01:19:51.953    30,404 kbps     01:19:47.073    117,842 bytes   483,459 bytes   01:12:45.611    
+17              1:20:00.420     0:03:13.401     24,000 kbps     32,889 kbps     01:22:11.092    29,968 kbps     01:23:06.564    28,111 kbps     01:23:01.643    125,123 bytes   566,869 bytes   01:22:27.317    
+18              1:23:13.822     0:09:56.721     21,892 kbps     32,348 kbps     01:25:46.266    31,073 kbps     01:25:44.139    29,573 kbps     01:31:58.221    114,144 bytes   574,785 bytes   01:32:05.645    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x1B            AVC                                     5590.376                22,022                  15,388,809,261  83,712,948      
+00010.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5590.376                3,719                   2,598,849,580   17,958,846      
+00010.M2TS      4353 (0x1101)   0x81            AC3             cat (Catalan)           5590.376                640                     447,244,800     2,620,575       
+00010.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5590.376                640                     447,244,800     2,620,575       
+00010.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           5590.376                640                     447,244,800     2,620,575       
+00010.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           5590.376                224                     156,535,680     873,525         
+00010.M2TS      4357 (0x1105)   0x81            AC3             ita (Italian)           5590.376                640                     447,244,800     2,620,575       
+00010.M2TS      4358 (0x1106)   0x81            AC3             tur (Turkish)           5590.376                640                     447,244,800     2,620,575       
+00010.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5590.376                44                      30,894,198      175,020         
+00010.M2TS      4609 (0x1201)   0x90            PGS             cat (Catalan)           5590.376                44                      30,677,713      173,829         
+00010.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5590.376                44                      30,612,314      173,799         
+00010.M2TS      4611 (0x1203)   0x90            PGS             ita (Italian)           5590.376                44                      30,687,830      173,828         
+00010.M2TS      4612 (0x1204)   0x90            PGS             eng (English)           5590.376                81                      56,668,847      318,035         
+00010.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           5590.376                73                      50,939,962      286,913         
+00010.M2TS      4614 (0x1206)   0x90            PGS             ita (Italian)           5590.376                70                      48,697,391      274,601         
+00010.M2TS      4615 (0x1207)   0x90            PGS             deu (German)            5590.376                45                      31,546,875      178,472         
+00010.M2TS      4616 (0x1208)   0x90            PGS             tur (Turkish)           5590.376                42                      29,214,878      166,378         
+00010.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            5590.376                76                      52,960,124      297,795         
+00010.M2TS      6656 (0x1A00)   0xA1            AC3+            eng (English)           5590.376                224                     156,535,680     873,525         
+00010.M2TS      6912 (0x1B00)   0x1B            AVC                                     5590.376                3,006                   2,100,314,447   11,492,994      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Shrek Forever After SE
+Disc Label: Shrek.Forever.After.4.2010.ITA.1080p.BluRay.AVC.TrueHD.7.1
+Disc Size: 39,002,175,736 bytes
+Protection: AACS
+Playlist: 00061.MPLS
+Size: 25,052,196,864 bytes
+Length: 1:33:10.543
+Total Bitrate: 35.85 Mbps
+Video: MPEG-4 AVC Video / 22021 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video / 3006 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  3079 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: Catalan / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -22dB
+Audio: English / Dolby Digital Plus Audio / 2.0 / 48 kHz /   224 kbps
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 44.209 kbps
+Subtitle: Catalan / 43.899 kbps
+Subtitle: Spanish / 43.806 kbps
+Subtitle: Italian / 43.914 kbps
+Subtitle: English / 81.092 kbps
+Subtitle: Spanish / 72.894 kbps
+Subtitle: Italian / 69.685 kbps
+Subtitle: German / 45.143 kbps
+Subtitle: Turkish / 41.806 kbps
+Subtitle: German / 75.785 kbps
+

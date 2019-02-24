@@ -1,0 +1,125 @@
+Disc Title:     Astro Boy Blu-ray™
+Disc Label:     Astro.Boy.2009.1080p.BluRay.AVC.DTS-HD.MA.5.1-PLRVRTX
+Disc Size:      37,397,716,478 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:33:48 27,919,097,856  37,397,716,478  39.68   29.59   DTS-HD Master 5.1 3957Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Astro Boy Blu-ray™
+Disc Label:     Astro.Boy.2009.1080p.BluRay.AVC.DTS-HD.MA.5.1-PLRVRTX
+Disc Size:      37,397,716,478 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:33:48.623 (h:m:s.ms)
+Size:                   27,919,097,856 bytes
+Total Bitrate:          39.68 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29586 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3957 kbps       5.1 / 48 kHz /  3957 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             French          3920 kbps       5.1 / 48 kHz /  3920 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         33.871 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:33:48.623     27,919,097,856  39,682          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:26.492     29,356 kbps     48,753 kbps     00:01:26.544    36,763 kbps     00:01:22.540    35,692 kbps     00:01:17.535    153,032 bytes   566,388 bytes   00:01:34.594    
+2               0:05:26.492     0:07:14.016     30,392 kbps     38,541 kbps     00:11:50.167    34,918 kbps     00:11:35.945    34,656 kbps     00:11:35.945    158,450 bytes   480,501 bytes   00:06:54.205    
+3               0:12:40.509     0:05:01.092     29,752 kbps     41,231 kbps     00:15:54.495    36,140 kbps     00:15:50.491    34,499 kbps     00:15:49.323    155,115 bytes   697,200 bytes   00:12:42.428    
+4               0:17:41.602     0:04:59.549     30,451 kbps     37,578 kbps     00:20:35.317    35,079 kbps     00:19:23.620    34,622 kbps     00:18:53.757    158,757 bytes   567,410 bytes   00:20:33.357    
+5               0:22:41.151     0:04:15.338     30,168 kbps     37,761 kbps     00:26:36.928    35,296 kbps     00:25:49.130    34,961 kbps     00:25:45.877    157,282 bytes   486,066 bytes   00:25:42.290    
+6               0:26:56.489     0:02:33.903     29,403 kbps     36,357 kbps     00:27:20.138    34,434 kbps     00:28:15.902    32,412 kbps     00:28:13.942    153,295 bytes   407,869 bytes   00:27:18.553    
+7               0:29:30.393     0:04:04.369     29,202 kbps     37,009 kbps     00:30:34.165    34,389 kbps     00:30:12.602    33,088 kbps     00:31:08.324    152,247 bytes   448,307 bytes   00:30:34.999    
+8               0:33:34.762     0:03:50.021     31,031 kbps     38,195 kbps     00:33:57.326    35,123 kbps     00:33:38.224    34,850 kbps     00:33:36.347    161,780 bytes   795,383 bytes   00:34:55.510    
+9               0:37:24.784     0:04:49.455     29,682 kbps     40,830 kbps     00:40:17.748    35,559 kbps     00:40:13.786    33,981 kbps     00:40:12.660    154,749 bytes   920,809 bytes   00:40:18.707    
+10              0:42:14.240     0:05:32.081     29,164 kbps     39,448 kbps     00:43:51.629    35,551 kbps     00:46:31.288    34,426 kbps     00:46:26.283    152,047 bytes   727,939 bytes   00:42:49.525    
+11              0:47:46.321     0:04:32.730     31,493 kbps     43,770 kbps     00:48:35.746    35,663 kbps     00:49:06.026    35,238 kbps     00:49:01.021    164,188 bytes   899,743 bytes   00:48:38.040    
+12              0:52:19.052     0:05:05.305     28,542 kbps     38,204 kbps     00:52:41.867    34,970 kbps     00:52:32.649    34,556 kbps     00:52:28.562    148,805 bytes   933,607 bytes   00:52:40.907    
+13              0:57:24.357     0:02:50.253     31,222 kbps     39,623 kbps     00:59:33.528    35,526 kbps     00:58:23.875    34,850 kbps     00:58:44.395    162,780 bytes   691,382 bytes   00:58:29.881    
+14              1:00:14.611     0:06:34.394     32,255 kbps     39,790 kbps     01:03:32.517    35,553 kbps     01:00:59.864    35,073 kbps     01:00:54.067    168,164 bytes   789,180 bytes   01:04:21.941    
+15              1:06:49.005     0:06:11.954     27,857 kbps     37,198 kbps     01:12:54.370    34,415 kbps     01:12:42.775    33,270 kbps     01:12:38.103    145,233 bytes   539,267 bytes   01:12:32.848    
+16              1:13:00.959     0:05:19.068     32,218 kbps     38,992 kbps     01:17:21.345    35,596 kbps     01:18:12.688    35,087 kbps     01:18:07.724    167,969 bytes   734,163 bytes   01:18:19.069    
+17              1:18:20.028     0:03:55.318     34,238 kbps     39,145 kbps     01:21:27.549    35,597 kbps     01:18:37.254    35,092 kbps     01:21:39.686    178,501 bytes   773,956 bytes   01:18:42.175    
+18              1:22:15.347     0:11:33.275     24,315 kbps     39,353 kbps     01:23:18.576    35,684 kbps     01:23:16.366    35,165 kbps     01:23:49.065    126,773 bytes   776,344 bytes   01:23:21.371    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5628.456                29,587                  20,816,055,406  113,208,334     
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5628.456                3,958                   2,784,378,464   16,008,620      
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       fra (French)            5628.456                3,920                   2,758,088,820   15,867,560      
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5628.456                34                      23,830,917      138,854         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Astro Boy Blu-ray™
+Disc Label: Astro.Boy.2009.1080p.BluRay.AVC.DTS-HD.MA.5.1-PLRVRTX
+Disc Size: 37,397,716,478 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 27,919,097,856 bytes
+Length: 1:33:48.623
+Total Bitrate: 39.68 Mbps
+Video: MPEG-4 AVC Video / 29586 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3957 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  3920 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: English / 33.871 kbps
+

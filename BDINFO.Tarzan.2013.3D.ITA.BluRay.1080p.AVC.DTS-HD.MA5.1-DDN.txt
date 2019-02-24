@@ -1,0 +1,121 @@
+Disc Title:     Tarzan - Blu-ray™
+Disc Label:     Tarzan.2013.3D.ITA.BluRay.1080p.AVC.DTS-HD.MA5.1-DDN
+Disc Size:      31,646,360,394 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00006.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00006.MPLS                                                      AVC     1:34:51 20,924,485,632  31,646,360,394  29.41   23.04   DTS-HD Master 5.1 2229Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Tarzan - Blu-ray™
+Disc Label:     Tarzan.2013.3D.ITA.BluRay.1080p.AVC.DTS-HD.MA5.1-DDN
+Disc Size:      31,646,360,394 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00006.MPLS
+Length:                 1:34:51.727 (h:m:s.ms)
+Size:                   20,924,485,632 bytes
+Total Bitrate:          29.41 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23037 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2229 kbps       5.1 / 48 kHz /  2229 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2371 kbps       5.1 / 48 kHz /  2371 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         18.934 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00014.M2TS      0:00:00.000     1:34:51.727     20,924,485,632  29,410          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:25.283     22,983 kbps     49,418 kbps     00:00:03.920    32,608 kbps     00:00:02.585    28,115 kbps     00:00:02.544    119,805 bytes   796,981 bytes   00:02:30.900    
+2               0:05:25.283     0:08:30.384     24,165 kbps     39,303 kbps     00:10:23.247    31,187 kbps     00:10:57.114    29,341 kbps     00:11:44.745    125,987 bytes   883,795 bytes   00:09:48.838    
+3               0:13:55.668     0:05:45.845     24,082 kbps     38,946 kbps     00:14:04.718    31,828 kbps     00:14:38.711    28,989 kbps     00:14:34.248    125,552 bytes   944,152 bytes   00:19:17.447    
+4               0:19:41.513     0:06:51.744     24,466 kbps     35,952 kbps     00:23:56.351    29,999 kbps     00:20:33.857    29,232 kbps     00:23:35.831    127,554 bytes   841,028 bytes   00:23:57.185    
+5               0:26:33.258     0:04:55.461     24,233 kbps     34,582 kbps     00:30:39.379    30,506 kbps     00:27:22.515    28,741 kbps     00:28:24.703    126,338 bytes   949,576 bytes   00:28:21.950    
+6               0:31:28.720     0:05:15.773     24,564 kbps     38,585 kbps     00:32:22.774    31,498 kbps     00:33:01.521    29,609 kbps     00:34:24.353    128,067 bytes   892,658 bytes   00:33:23.710    
+7               0:36:44.493     0:05:48.181     24,902 kbps     37,331 kbps     00:39:46.592    32,586 kbps     00:40:45.818    29,900 kbps     00:39:46.592    129,829 bytes   854,953 bytes   00:37:43.552    
+8               0:42:32.675     0:04:30.687     24,388 kbps     36,206 kbps     00:44:56.110    31,535 kbps     00:43:35.696    30,213 kbps     00:43:32.109    127,147 bytes   741,559 bytes   00:44:56.193    
+9               0:47:03.362     0:05:24.490     24,831 kbps     37,886 kbps     00:48:15.267    31,818 kbps     00:48:12.556    29,631 kbps     00:48:07.718    129,456 bytes   880,817 bytes   00:49:52.531    
+10              0:52:27.853     0:04:38.569     25,264 kbps     36,932 kbps     00:55:42.088    31,242 kbps     00:55:39.127    29,571 kbps     00:55:36.249    131,715 bytes   816,913 bytes   00:55:30.285    
+11              0:57:06.422     0:08:49.529     25,085 kbps     39,610 kbps     01:02:37.503    30,825 kbps     01:02:33.541    30,122 kbps     01:05:07.612    130,783 bytes   791,023 bytes   00:57:53.553    
+12              1:05:55.952     0:04:43.992     24,366 kbps     34,608 kbps     01:06:04.752    30,770 kbps     01:06:02.667    29,056 kbps     01:05:56.702    127,031 bytes   807,949 bytes   01:10:39.944    
+13              1:10:39.944     0:04:52.041     23,748 kbps     37,409 kbps     01:13:55.806    31,900 kbps     01:12:13.871    29,557 kbps     01:12:09.366    123,814 bytes   957,404 bytes   01:14:18.412    
+14              1:15:31.985     0:05:52.351     25,164 kbps     38,094 kbps     01:18:14.523    31,673 kbps     01:15:31.985    29,846 kbps     01:15:31.985    131,192 bytes   924,931 bytes   01:15:47.626    
+15              1:21:24.337     0:04:30.228     24,364 kbps     36,374 kbps     01:23:22.455    30,399 kbps     01:22:10.842    28,944 kbps     01:21:38.560    127,020 bytes   794,194 bytes   01:25:46.307    
+16              1:25:54.566     0:08:57.161     9,375 kbps      41,348 kbps     01:28:07.156    31,639 kbps     01:28:07.156    29,709 kbps     01:28:04.112    48,880 bytes    889,645 bytes   01:25:59.571    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00014.M2TS      4113 (0x1011)   0x1B            AVC                                     5691.561                23,038                  16,390,004,389  89,155,828      
+00014.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5691.561                2,229                   1,586,051,052   9,504,166       
+00014.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5691.561                2,371                   1,686,977,768   10,053,858      
+00014.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5691.561                19                      13,471,215      77,150          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Tarzan - Blu-ray™
+Disc Label: Tarzan.2013.3D.ITA.BluRay.1080p.AVC.DTS-HD.MA5.1-DDN
+Disc Size: 31,646,360,394 bytes
+Protection: AACS
+Playlist: 00006.MPLS
+Size: 20,924,485,632 bytes
+Length: 1:34:51.727
+Total Bitrate: 29.41 Mbps
+Video: MPEG-4 AVC Video / 23037 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2229 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2371 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Italian / 18.934 kbps
+
