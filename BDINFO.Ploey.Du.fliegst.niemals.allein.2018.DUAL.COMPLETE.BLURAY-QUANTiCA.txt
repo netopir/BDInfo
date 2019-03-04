@@ -1,0 +1,120 @@
+Disc Title:     Ploey
+Disc Label:     Ploey.Du.fliegst.niemals.allein.2018.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size:      21,414,560,438 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:22:42 19,262,287,872  21,414,560,438  31.05   25.00   DTS-HD Master 5.1 2047Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ploey
+Disc Label:     Ploey.Du.fliegst.niemals.allein.2018.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size:      21,414,560,438 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:22:42.833 (h:m:s.ms)
+Size:                   19,262,287,872 bytes
+Total Bitrate:          31.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25000 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2047 kbps       5.1 / 48 kHz /  2047 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2152 kbps       5.1 / 48 kHz /  2152 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.040 kbps                      
+Presentation Graphics           German          22.391 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00008.M2TS      0:00:00.000     1:22:42.833     19,262,287,872  31,050          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:48.750     25,104 kbps     59,181 kbps     00:04:04.999    40,487 kbps     00:01:28.458    37,828 kbps     00:05:02.166    130,736 bytes   793,294 bytes   00:05:47.166    
+2               0:05:48.750     0:07:46.375     27,976 kbps     56,484 kbps     00:07:40.833    40,595 kbps     00:07:40.208    37,682 kbps     00:07:39.916    145,706 bytes   730,951 bytes   00:08:38.250    
+3               0:13:35.125     0:06:33.666     31,902 kbps     62,362 kbps     00:16:45.791    40,675 kbps     00:15:32.375    37,746 kbps     00:17:22.791    166,154 bytes   945,238 bytes   00:15:46.625    
+4               0:20:08.791     0:05:58.416     26,518 kbps     48,076 kbps     00:23:21.083    40,634 kbps     00:23:19.750    37,838 kbps     00:23:19.750    138,115 bytes   690,036 bytes   00:25:55.125    
+5               0:26:07.208     0:06:36.500     26,256 kbps     49,437 kbps     00:26:15.499    40,518 kbps     00:26:13.750    37,837 kbps     00:26:13.749    136,751 bytes   693,377 bytes   00:26:15.541    
+6               0:32:43.708     0:06:59.041     23,846 kbps     54,399 kbps     00:39:25.625    39,209 kbps     00:39:24.541    33,767 kbps     00:34:47.625    124,196 bytes   827,817 bytes   00:39:36.875    
+7               0:39:42.750     0:07:38.833     21,915 kbps     58,043 kbps     00:44:09.291    40,455 kbps     00:44:05.833    37,687 kbps     00:44:08.833    114,141 bytes   708,790 bytes   00:44:09.875    
+8               0:47:21.583     0:08:06.875     25,206 kbps     58,958 kbps     00:50:38.375    40,449 kbps     00:49:31.666    37,675 kbps     00:49:32.041    131,282 bytes   736,828 bytes   00:50:39.333    
+9               0:55:28.458     0:07:43.749     23,369 kbps     52,065 kbps     00:58:29.833    40,441 kbps     00:59:18.000    37,797 kbps     00:59:17.625    121,712 bytes   629,472 bytes   00:59:35.208    
+10              1:03:12.208     0:05:59.083     24,327 kbps     57,723 kbps     01:03:40.458    40,391 kbps     01:03:40.291    36,402 kbps     01:03:24.125    126,703 bytes   713,067 bytes   01:05:04.291    
+11              1:09:11.291     0:06:20.416     29,315 kbps     62,058 kbps     01:11:34.041    40,572 kbps     01:13:17.916    37,818 kbps     01:13:17.791    152,682 bytes   950,756 bytes   01:13:05.166    
+12              1:15:31.708     0:07:11.125     15,661 kbps     55,323 kbps     01:18:00.250    40,542 kbps     01:17:59.500    37,709 kbps     01:17:59.625    81,576 bytes    883,131 bytes   01:16:21.458    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00008.M2TS      4113 (0x1011)   0x1B            AVC                                     4962.750                25,001                  15,509,048,758  84,357,884      
+00008.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4962.750                2,047                   1,269,901,152   7,690,134       
+00008.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4962.750                2,152                   1,335,129,352   8,029,262       
+00008.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4962.750                0                       24,655          141             
+00008.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4962.750                22                      13,890,614      80,701          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ploey
+Disc Label: Ploey.Du.fliegst.niemals.allein.2018.DUAL.COMPLETE.BLURAY-QUANTiCA
+Disc Size: 21,414,560,438 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 19,262,287,872 bytes
+Length: 1:22:42.833
+Total Bitrate: 31.05 Mbps
+Video: MPEG-4 AVC Video / 25000 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2047 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2152 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.040 kbps
+Subtitle: German / 22.391 kbps
+
