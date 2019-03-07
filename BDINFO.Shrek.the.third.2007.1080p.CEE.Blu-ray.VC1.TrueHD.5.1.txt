@@ -1,0 +1,311 @@
+Disc Title:     Shrek the Third
+Disc Label:     Shrek.the.third.2007.1080p.CEE.Blu-ray.VC1.TrueHD.5.1
+Disc Size:      33,377,972,723 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      VC-1    1:32:46 23,274,215,424  33,377,972,723  33.45   20.64   Dolby TrueHD 5.1 3989Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Shrek the Third
+Disc Label:     Shrek.the.third.2007.1080p.CEE.Blu-ray.VC1.TrueHD.5.1
+Disc Size:      33,377,972,723 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:32:46.102 (h:m:s.ms)
+Size:                   23,274,215,424 bytes
+Total Bitrate:          33.45 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              20643 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+VC-1 Video              1920 kbps           480p / 23.976 fps / 16:9 / Advanced Profile 2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3989 kbps       5.1 / 48 kHz /  3349 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             Arabic          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Icelandic       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Ukrainian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Arabic          15.384 kbps                     
+Presentation Graphics           Czech           29.078 kbps                     
+Presentation Graphics           English         33.314 kbps                     
+Presentation Graphics           Croatian        25.258 kbps                     
+Presentation Graphics           Icelandic       30.030 kbps                     
+Presentation Graphics           Russian         31.663 kbps                     
+Presentation Graphics           Ukrainian       30.390 kbps                     
+Presentation Graphics           English         26.660 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:32:46.102     23,274,215,424  33,451          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:21.910     18,480 kbps     36,486 kbps     00:00:03.461    28,077 kbps     00:00:55.013    27,750 kbps     00:00:54.846    96,328 bytes    649,863 bytes   00:02:25.478    
+2               0:03:21.910     0:06:11.120     21,180 kbps     46,671 kbps     00:05:25.742    35,933 kbps     00:05:21.696    30,606 kbps     00:09:02.875    110,425 bytes   740,060 bytes   00:06:51.994    
+3               0:09:33.030     0:04:16.339     18,274 kbps     36,697 kbps     00:13:43.697    31,750 kbps     00:11:26.352    26,735 kbps     00:13:07.995    95,273 bytes    705,398 bytes   00:13:15.503    
+4               0:13:49.370     0:03:39.969     15,491 kbps     30,113 kbps     00:14:04.260    26,629 kbps     00:14:00.339    26,355 kbps     00:13:55.334    80,763 bytes    577,080 bytes   00:13:59.171    
+5               0:17:29.339     0:07:44.547     21,994 kbps     39,851 kbps     00:20:40.572    31,291 kbps     00:20:39.279    28,657 kbps     00:22:54.998    114,666 bytes   849,833 bytes   00:21:15.482    
+6               0:25:13.887     0:07:00.211     22,969 kbps     46,540 kbps     00:25:51.216    35,743 kbps     00:25:49.172    30,562 kbps     00:25:47.420    119,752 bytes   1,050,878 bytes 00:28:15.402    
+7               0:32:14.098     0:06:19.629     21,711 kbps     37,273 kbps     00:35:08.231    31,112 kbps     00:34:21.517    29,909 kbps     00:34:19.348    113,193 bytes   821,340 bytes   00:36:53.920    
+8               0:38:33.728     0:02:41.286     23,359 kbps     33,534 kbps     00:40:49.905    28,121 kbps     00:40:27.007    26,696 kbps     00:40:22.420    121,785 bytes   709,910 bytes   00:38:44.030    
+9               0:41:15.014     0:07:58.561     21,137 kbps     44,022 kbps     00:46:32.414    30,952 kbps     00:46:31.163    28,431 kbps     00:42:43.727    110,201 bytes   1,018,160 bytes 00:43:32.651    
+10              0:49:13.575     0:02:39.659     20,056 kbps     43,796 kbps     00:50:41.121    28,077 kbps     00:50:37.367    26,129 kbps     00:50:39.369    104,561 bytes   804,924 bytes   00:50:41.663    
+11              0:51:53.235     0:04:55.920     24,979 kbps     36,645 kbps     00:56:06.488    30,811 kbps     00:56:03.401    28,435 kbps     00:56:03.526    130,227 bytes   958,655 bytes   00:54:28.223    
+12              0:56:49.155     0:02:33.153     23,653 kbps     44,590 kbps     00:57:55.013    33,586 kbps     00:57:51.509    29,686 kbps     00:57:46.504    123,315 bytes   916,550 bytes   00:58:14.782    
+13              0:59:22.308     0:04:05.954     21,228 kbps     37,844 kbps     01:02:28.035    30,100 kbps     01:02:24.365    26,750 kbps     01:00:00.305    110,675 bytes   787,019 bytes   01:00:04.517    
+14              1:03:28.262     0:03:38.009     19,261 kbps     44,192 kbps     01:05:50.196    27,118 kbps     01:05:46.192    26,356 kbps     01:06:17.264    100,418 bytes   854,010 bytes   01:07:06.272    
+15              1:07:06.272     0:03:22.911     23,840 kbps     43,845 kbps     01:08:22.431    34,262 kbps     01:08:20.763    31,059 kbps     01:08:14.673    124,293 bytes   930,379 bytes   01:08:01.660    
+16              1:10:29.183     0:09:13.094     21,179 kbps     41,476 kbps     01:17:43.116    33,756 kbps     01:17:39.112    29,107 kbps     01:17:34.066    110,418 bytes   755,239 bytes   01:17:31.063    
+17              1:19:42.277     0:02:40.493     21,037 kbps     33,996 kbps     01:20:09.638    29,068 kbps     01:20:05.801    25,466 kbps     01:21:24.629    109,680 bytes   782,569 bytes   01:20:40.794    
+18              1:22:22.771     0:10:23.331     15,496 kbps     39,953 kbps     01:32:35.091    29,625 kbps     01:31:16.137    28,945 kbps     01:31:11.299    80,797 bytes    717,122 bytes   01:31:17.889    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0xEA            VC-1                                    5565.977                20,644                  14,362,781,270  78,139,001      
+00002.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5565.977                3,990                   2,775,697,206   18,942,620      
+00002.M2TS      4353 (0x1101)   0x81            AC3             ara (Arabic)            5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4354 (0x1102)   0x81            AC3             ces (Czech)             5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4355 (0x1103)   0x81            AC3             hrv (Croatian)          5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4356 (0x1104)   0x81            AC3             isl (Icelandic)         5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4357 (0x1105)   0x81            AC3             rus (Russian)           5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4358 (0x1106)   0x81            AC3             ukr (Ukrainian)         5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4608 (0x1200)   0x90            PGS             ara (Arabic)            5565.977                15                      10,703,685      65,732          
+00002.M2TS      4609 (0x1201)   0x90            PGS             ces (Czech)             5565.977                29                      20,231,564      117,168         
+00002.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5565.977                33                      23,178,817      133,434         
+00002.M2TS      4611 (0x1203)   0x90            PGS             hrv (Croatian)          5565.977                25                      17,573,707      102,629         
+00002.M2TS      4612 (0x1204)   0x90            PGS             isl (Icelandic)         5565.977                30                      20,893,911      120,952         
+00002.M2TS      4613 (0x1205)   0x90            PGS             rus (Russian)           5565.977                32                      22,030,212      127,308         
+00002.M2TS      4614 (0x1206)   0x90            PGS             ukr (Ukrainian)         5565.977                30                      21,144,551      122,394         
+00002.M2TS      4615 (0x1207)   0x90            PGS             eng (English)           5565.977                27                      18,549,144      114,807         
+00002.M2TS      6912 (0x1B00)   0xEA            VC-1                                    5565.977                1,920                   1,335,995,627   7,333,404       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Shrek the Third
+Disc Label: Shrek.the.third.2007.1080p.CEE.Blu-ray.VC1.TrueHD.5.1
+Disc Size: 33,377,972,723 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 23,274,215,424 bytes
+Length: 1:32:46.102
+Total Bitrate: 33.45 Mbps
+Video: VC-1 Video / 20643 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Video: VC-1 Video / 1920 kbps / 480p / 23.976 fps / 16:9 / Advanced Profile 2
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  3349 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: Arabic / 15.384 kbps
+Subtitle: Czech / 29.078 kbps
+Subtitle: English / 33.314 kbps
+Subtitle: Croatian / 25.258 kbps
+Subtitle: Icelandic / 30.030 kbps
+Subtitle: Russian / 31.663 kbps
+Subtitle: Ukrainian / 30.390 kbps
+Subtitle: English / 26.660 kbps
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      VC-1    1:32:46 23,274,215,424  33,377,972,723  33.45   20.64   Dolby TrueHD 5.1 3989Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Shrek the Third
+Disc Label:     Shrek.the.third.2007.1080p.CEE.Blu-ray.VC1.TrueHD.5.1
+Disc Size:      33,377,972,723 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:32:46.102 (h:m:s.ms)
+Size:                   23,274,215,424 bytes
+Total Bitrate:          33.45 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              20643 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+* VC-1 Video            1920 kbps           480p / 23.976 fps / 16:9 / Advanced Profile 2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3989 kbps       5.1 / 48 kHz /  3349 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             Arabic          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Icelandic       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Russian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Ukrainian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         Arabic          15.384 kbps                     
+* Presentation Graphics         Czech           29.078 kbps                     
+* Presentation Graphics         English         33.314 kbps                     
+* Presentation Graphics         Croatian        25.258 kbps                     
+* Presentation Graphics         Icelandic       30.030 kbps                     
+* Presentation Graphics         Russian         31.663 kbps                     
+* Presentation Graphics         Ukrainian       30.390 kbps                     
+* Presentation Graphics         English         26.660 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:32:46.102     23,274,215,424  33,451          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:21.910     18,480 kbps     36,486 kbps     00:00:03.461    28,077 kbps     00:00:55.013    27,750 kbps     00:00:54.846    96,328 bytes    649,863 bytes   00:02:25.478    
+2               0:03:21.910     0:06:11.120     21,180 kbps     46,671 kbps     00:05:25.742    35,933 kbps     00:05:21.696    30,606 kbps     00:09:02.875    110,425 bytes   740,060 bytes   00:06:51.994    
+3               0:09:33.030     0:04:16.339     18,274 kbps     36,697 kbps     00:13:43.697    31,750 kbps     00:11:26.352    26,735 kbps     00:13:07.995    95,273 bytes    705,398 bytes   00:13:15.503    
+4               0:13:49.370     0:03:39.969     15,491 kbps     30,113 kbps     00:14:04.260    26,629 kbps     00:14:00.339    26,355 kbps     00:13:55.334    80,763 bytes    577,080 bytes   00:13:59.171    
+5               0:17:29.339     0:07:44.547     21,994 kbps     39,851 kbps     00:20:40.572    31,291 kbps     00:20:39.279    28,657 kbps     00:22:54.998    114,666 bytes   849,833 bytes   00:21:15.482    
+6               0:25:13.887     0:07:00.211     22,969 kbps     46,540 kbps     00:25:51.216    35,743 kbps     00:25:49.172    30,562 kbps     00:25:47.420    119,752 bytes   1,050,878 bytes 00:28:15.402    
+7               0:32:14.098     0:06:19.629     21,711 kbps     37,273 kbps     00:35:08.231    31,112 kbps     00:34:21.517    29,909 kbps     00:34:19.348    113,193 bytes   821,340 bytes   00:36:53.920    
+8               0:38:33.728     0:02:41.286     23,359 kbps     33,534 kbps     00:40:49.905    28,121 kbps     00:40:27.007    26,696 kbps     00:40:22.420    121,785 bytes   709,910 bytes   00:38:44.030    
+9               0:41:15.014     0:07:58.561     21,137 kbps     44,022 kbps     00:46:32.414    30,952 kbps     00:46:31.163    28,431 kbps     00:42:43.727    110,201 bytes   1,018,160 bytes 00:43:32.651    
+10              0:49:13.575     0:02:39.659     20,056 kbps     43,796 kbps     00:50:41.121    28,077 kbps     00:50:37.367    26,129 kbps     00:50:39.369    104,561 bytes   804,924 bytes   00:50:41.663    
+11              0:51:53.235     0:04:55.920     24,979 kbps     36,645 kbps     00:56:06.488    30,811 kbps     00:56:03.401    28,435 kbps     00:56:03.526    130,227 bytes   958,655 bytes   00:54:28.223    
+12              0:56:49.155     0:02:33.153     23,653 kbps     44,590 kbps     00:57:55.013    33,586 kbps     00:57:51.509    29,686 kbps     00:57:46.504    123,315 bytes   916,550 bytes   00:58:14.782    
+13              0:59:22.308     0:04:05.954     21,228 kbps     37,844 kbps     01:02:28.035    30,100 kbps     01:02:24.365    26,750 kbps     01:00:00.305    110,675 bytes   787,019 bytes   01:00:04.517    
+14              1:03:28.262     0:03:38.009     19,261 kbps     44,192 kbps     01:05:50.196    27,118 kbps     01:05:46.192    26,356 kbps     01:06:17.264    100,418 bytes   854,010 bytes   01:07:06.272    
+15              1:07:06.272     0:03:22.911     23,840 kbps     43,845 kbps     01:08:22.431    34,262 kbps     01:08:20.763    31,059 kbps     01:08:14.673    124,293 bytes   930,379 bytes   01:08:01.660    
+16              1:10:29.183     0:09:13.094     21,179 kbps     41,476 kbps     01:17:43.116    33,756 kbps     01:17:39.112    29,107 kbps     01:17:34.066    110,418 bytes   755,239 bytes   01:17:31.063    
+17              1:19:42.277     0:02:40.493     21,037 kbps     33,996 kbps     01:20:09.638    29,068 kbps     01:20:05.801    25,466 kbps     01:21:24.629    109,680 bytes   782,569 bytes   01:20:40.794    
+18              1:22:22.771     0:10:23.331     15,496 kbps     39,953 kbps     01:32:35.091    29,625 kbps     01:31:16.137    28,945 kbps     01:31:11.299    80,797 bytes    717,122 bytes   01:31:17.889    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0xEA            VC-1                                    5565.977                20,644                  14,362,781,270  78,139,001      
+00002.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5565.977                3,990                   2,775,697,206   18,942,620      
+00002.M2TS      4353 (0x1101)   0x81            AC3             ara (Arabic)            5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4354 (0x1102)   0x81            AC3             ces (Czech)             5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4355 (0x1103)   0x81            AC3             hrv (Croatian)          5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4356 (0x1104)   0x81            AC3             isl (Icelandic)         5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4357 (0x1105)   0x81            AC3             rus (Russian)           5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4358 (0x1106)   0x81            AC3             ukr (Ukrainian)         5565.977                640                     445,288,960     2,609,115       
+00002.M2TS      4608 (0x1200)   0x90            PGS             ara (Arabic)            5565.977                15                      10,703,685      65,732          
+00002.M2TS      4609 (0x1201)   0x90            PGS             ces (Czech)             5565.977                29                      20,231,564      117,168         
+00002.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5565.977                33                      23,178,817      133,434         
+00002.M2TS      4611 (0x1203)   0x90            PGS             hrv (Croatian)          5565.977                25                      17,573,707      102,629         
+00002.M2TS      4612 (0x1204)   0x90            PGS             isl (Icelandic)         5565.977                30                      20,893,911      120,952         
+00002.M2TS      4613 (0x1205)   0x90            PGS             rus (Russian)           5565.977                32                      22,030,212      127,308         
+00002.M2TS      4614 (0x1206)   0x90            PGS             ukr (Ukrainian)         5565.977                30                      21,144,551      122,394         
+00002.M2TS      4615 (0x1207)   0x90            PGS             eng (English)           5565.977                27                      18,549,144      114,807         
+00002.M2TS      6912 (0x1B00)   0xEA            VC-1                                    5565.977                1,920                   1,335,995,627   7,333,404       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Shrek the Third
+Disc Label: Shrek.the.third.2007.1080p.CEE.Blu-ray.VC1.TrueHD.5.1
+Disc Size: 33,377,972,723 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 23,274,215,424 bytes
+Length: 1:32:46.102
+Total Bitrate: 33.45 Mbps
+Video: VC-1 Video / 20643 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+* Video: VC-1 Video / 1920 kbps / 480p / 23.976 fps / 16:9 / Advanced Profile 2
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  3349 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Subtitle: Arabic / 15.384 kbps
+* Subtitle: Czech / 29.078 kbps
+* Subtitle: English / 33.314 kbps
+* Subtitle: Croatian / 25.258 kbps
+* Subtitle: Icelandic / 30.030 kbps
+* Subtitle: Russian / 31.663 kbps
+* Subtitle: Ukrainian / 30.390 kbps
+* Subtitle: English / 26.660 kbps
+

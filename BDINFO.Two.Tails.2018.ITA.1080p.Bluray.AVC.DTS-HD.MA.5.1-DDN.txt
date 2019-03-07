@@ -1,0 +1,118 @@
+Disc Label:     Two.Tails.2018.ITA.1080p.Bluray.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      24,619,876,287 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:14:43 23,701,702,656  24,619,876,287  42.29   32.00   DTS-HD Master 5.1 3956Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Two.Tails.2018.ITA.1080p.Bluray.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      24,619,876,287 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:14:43.333 (h:m:s.ms)
+Size:                   23,701,702,656 bytes
+Total Bitrate:          42.29 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        31995 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         3956 kbps       5.1 / 48 kHz /  3956 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4031 kbps       5.1 / 48 kHz /  4031 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         0.056 kbps                      
+Presentation Graphics           Italian         17.839 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:14:43.333     23,701,702,656  42,293          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:20.041     17,258 kbps     33,271 kbps     00:00:03.749    29,142 kbps     00:00:00.041    22,508 kbps     00:00:00.041    89,698 bytes    415,669 bytes   00:00:20.041    
+2               0:00:20.041     0:06:06.750     30,418 kbps     44,109 kbps     00:04:17.499    35,662 kbps     00:04:13.541    34,628 kbps     00:04:08.499    158,427 bytes   635,312 bytes   00:06:25.958    
+3               0:06:26.791     0:05:31.291     33,389 kbps     41,208 kbps     00:06:44.416    34,896 kbps     00:06:27.958    34,248 kbps     00:11:37.958    173,901 bytes   639,497 bytes   00:07:03.625    
+4               0:11:58.083     0:06:47.291     33,110 kbps     40,341 kbps     00:15:39.583    35,051 kbps     00:18:37.208    34,431 kbps     00:18:20.958    172,447 bytes   640,406 bytes   00:12:29.666    
+5               0:18:45.375     0:07:42.250     33,469 kbps     46,094 kbps     00:25:57.041    36,293 kbps     00:25:53.083    34,814 kbps     00:25:48.124    174,318 bytes   639,714 bytes   00:21:31.833    
+6               0:26:27.625     0:07:05.833     33,090 kbps     45,611 kbps     00:30:11.833    35,851 kbps     00:32:51.833    34,732 kbps     00:32:46.791    172,346 bytes   640,551 bytes   00:26:59.125    
+7               0:33:33.458     0:08:19.625     30,395 kbps     42,809 kbps     00:38:12.791    34,677 kbps     00:36:47.958    34,168 kbps     00:39:40.333    158,308 bytes   640,817 bytes   00:36:38.208    
+8               0:41:53.083     0:07:19.583     32,780 kbps     42,127 kbps     00:43:13.958    34,986 kbps     00:44:53.416    34,396 kbps     00:44:48.375    170,730 bytes   639,308 bytes   00:42:50.166    
+9               0:49:12.666     0:04:41.291     31,859 kbps     42,819 kbps     00:52:50.916    35,426 kbps     00:52:46.958    34,449 kbps     00:52:41.916    165,931 bytes   589,001 bytes   00:50:44.916    
+10              0:53:53.958     0:04:53.458     32,228 kbps     40,033 kbps     00:57:39.291    34,820 kbps     00:54:39.208    34,217 kbps     00:58:32.083    167,852 bytes   598,174 bytes   00:55:47.458    
+11              0:58:47.416     0:07:18.666     30,042 kbps     41,043 kbps     01:02:11.833    35,110 kbps     01:02:07.916    34,255 kbps     01:01:18.458    156,467 bytes   634,848 bytes   00:59:06.291    
+12              1:06:06.083     0:05:26.041     32,508 kbps     39,590 kbps     01:08:12.208    34,969 kbps     01:08:08.291    34,433 kbps     01:08:03.208    169,313 bytes   640,914 bytes   01:07:18.000    
+13              1:11:32.125     0:03:11.208     31,601 kbps     50,351 kbps     01:14:29.250    36,552 kbps     01:14:25.291    34,827 kbps     01:14:20.250    164,625 bytes   637,092 bytes   01:14:30.125    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4483.167                31,996                  17,930,636,473  97,511,942      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           4483.167                3,956                   2,217,053,288   12,748,693      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4483.167                4,031                   2,259,141,996   12,977,688      
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           4483.167                0                       31,653          186             
+00002.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           4483.167                18                      9,997,188       57,624          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Two.Tails.2018.ITA.1080p.Bluray.AVC.DTS-HD.MA.5.1-DDN
+Disc Size: 24,619,876,287 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 23,701,702,656 bytes
+Length: 1:14:43.333
+Total Bitrate: 42.29 Mbps
+Video: MPEG-4 AVC Video / 31995 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  3956 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4031 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 0.056 kbps
+Subtitle: Italian / 17.839 kbps
+
