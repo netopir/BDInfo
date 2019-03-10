@@ -1,0 +1,105 @@
+Disc Title:     Sammy 2
+Disc Label:     Sammy's.Adventures.2.2012.1080p.3D.Blu-ray.AVC.DTS-HDMA.5.1-BLUEBIRD
+Disc Size:      24,102,832,485 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:32:50 16,623,366,144  24,102,832,485  23.87   20.00   DTS-HD Master 5.1 2119Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Sammy 2
+Disc Label:     Sammy's.Adventures.2.2012.1080p.3D.Blu-ray.AVC.DTS-HDMA.5.1-BLUEBIRD
+Disc Size:      24,102,832,485 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:32:50.815 (h:m:s.ms)
+Size:                   16,623,366,144 bytes
+Total Bitrate:          23.87 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2119 kbps       5.1 / 48 kHz /  2119 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Russian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:32:50.815     16,623,366,144  23,872          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:12:10.563     20,476 kbps     50,592 kbps     00:05:37.879    37,932 kbps     00:10:01.892    32,390 kbps     00:05:37.086    106,745 bytes   962,952 bytes   00:07:48.134    
+2               0:12:10.563     0:09:38.953     21,397 kbps     43,151 kbps     00:17:34.845    37,250 kbps     00:17:34.845    33,866 kbps     00:16:20.437    111,556 bytes   813,896 bytes   00:20:58.548    
+3               0:21:49.516     0:13:04.116     21,071 kbps     42,808 kbps     00:27:31.483    37,221 kbps     00:27:29.481    35,143 kbps     00:27:27.145    109,853 bytes   933,830 bytes   00:27:32.484    
+4               0:34:53.633     0:11:01.494     14,872 kbps     37,804 kbps     00:43:07.835    29,956 kbps     00:37:09.143    28,583 kbps     00:37:06.098    77,535 bytes    646,087 bytes   00:36:51.125    
+5               0:45:55.127     0:11:28.979     19,923 kbps     42,853 kbps     00:52:22.430    38,479 kbps     00:52:22.180    32,667 kbps     00:52:20.262    103,871 bytes   795,381 bytes   00:52:25.267    
+6               0:57:24.107     0:10:28.169     22,200 kbps     48,584 kbps     01:00:51.022    37,810 kbps     01:03:39.190    33,192 kbps     00:57:24.566    115,741 bytes   909,732 bytes   01:05:42.980    
+7               1:07:52.276     0:12:18.779     22,203 kbps     46,867 kbps     01:09:42.845    36,556 kbps     01:14:07.401    33,591 kbps     01:14:03.397    115,757 bytes   921,423 bytes   01:10:23.385    
+8               1:20:11.056     0:12:39.759     17,946 kbps     41,876 kbps     01:28:40.815    37,478 kbps     01:28:40.732    33,202 kbps     01:28:40.481    93,569 bytes    741,174 bytes   01:28:45.737    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     5570.648                20,001                  13,927,084,192  75,768,606      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5570.648                2,119                   1,475,281,636   8,883,944       
+00004.M2TS      4353 (0x1101)   0x81            AC3             rus (Russian)           5570.648                448                     311,956,736     1,740,830       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Sammy 2
+Disc Label: Sammy's.Adventures.2.2012.1080p.3D.Blu-ray.AVC.DTS-HDMA.5.1-BLUEBIRD
+Disc Size: 24,102,832,485 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 16,623,366,144 bytes
+Length: 1:32:50.815
+Total Bitrate: 23.87 Mbps
+Video: MPEG-4 AVC Video / 20000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2119 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+
