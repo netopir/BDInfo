@@ -1,0 +1,176 @@
+Disc Title:     Shark Tale
+Disc Label:     Shark.Tale.2004.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-MuDBuG
+Disc Size:      33,055,675,240 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:30:10 28,037,756,928  33,055,675,240  41.45   32.00   DTS-HD Master 5.1 1903Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Shark Tale
+Disc Label:     Shark.Tale.2004.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-MuDBuG
+Disc Size:      33,055,675,240 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:30:10.780 (h:m:s.ms)
+Size:                   28,037,756,928 bytes
+Total Bitrate:          41.45 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32004 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         1903 kbps       5.1 / 48 kHz /  1903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Japanese        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         57.992 kbps                     
+Presentation Graphics           French          34.639 kbps                     
+Presentation Graphics           Spanish         40.499 kbps                     
+Presentation Graphics           Japanese        28.422 kbps                     
+Presentation Graphics           Dutch           31.733 kbps                     
+Presentation Graphics           Portuguese      37.749 kbps                     
+Presentation Graphics           English         70.926 kbps                     
+Presentation Graphics           French          0.136 kbps                      
+Presentation Graphics           Spanish         0.566 kbps                      
+Presentation Graphics           Dutch           0.590 kbps                      
+Presentation Graphics           Dutch           0.347 kbps                      
+Presentation Graphics           Portuguese      0.601 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:30:10.780     28,037,756,928  41,455          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:39.070     32,354 kbps     43,146 kbps     00:00:23.356    34,865 kbps     00:00:19.352    33,923 kbps     00:00:14.347    168,653 bytes   490,912 bytes   00:00:24.024    
+2               0:04:39.070     0:04:22.887     32,663 kbps     36,782 kbps     00:06:51.285    33,526 kbps     00:06:47.323    33,090 kbps     00:06:42.276    170,292 bytes   520,917 bytes   00:05:13.938    
+3               0:09:01.958     0:06:18.795     31,512 kbps     35,567 kbps     00:13:14.043    33,271 kbps     00:14:16.355    33,073 kbps     00:13:05.910    164,289 bytes   509,719 bytes   00:13:15.920    
+4               0:15:20.753     0:05:32.373     31,989 kbps     39,973 kbps     00:16:49.299    34,210 kbps     00:16:45.295    33,519 kbps     00:16:40.290    166,774 bytes   431,656 bytes   00:20:18.425    
+5               0:20:53.126     0:05:37.295     32,024 kbps     38,624 kbps     00:26:28.169    33,631 kbps     00:26:24.165    33,277 kbps     00:26:19.160    166,958 bytes   640,367 bytes   00:26:29.087    
+6               0:26:30.422     0:05:05.763     31,950 kbps     37,398 kbps     00:27:07.125    33,602 kbps     00:28:16.277    33,200 kbps     00:28:11.314    166,573 bytes   485,212 bytes   00:29:31.561    
+7               0:31:36.185     0:04:53.334     32,730 kbps     40,099 kbps     00:33:53.406    34,428 kbps     00:33:49.402    33,544 kbps     00:33:44.313    170,638 bytes   496,257 bytes   00:33:54.198    
+8               0:36:29.520     0:04:35.024     31,448 kbps     37,657 kbps     00:36:33.482    33,492 kbps     00:36:29.562    33,102 kbps     00:40:40.062    163,956 bytes   440,854 bytes   00:38:06.742    
+9               0:41:04.545     0:07:41.419     31,594 kbps     36,602 kbps     00:45:22.010    33,421 kbps     00:46:18.567    33,018 kbps     00:46:13.562    164,715 bytes   421,112 bytes   00:43:25.936    
+10              0:48:45.964     0:05:20.611     32,080 kbps     35,771 kbps     00:50:29.067    33,411 kbps     00:50:25.147    33,040 kbps     00:50:20.058    167,251 bytes   449,228 bytes   00:54:06.576    
+11              0:54:06.576     0:04:48.454     32,579 kbps     37,083 kbps     00:54:10.747    33,413 kbps     00:54:18.213    33,116 kbps     00:54:13.250    169,851 bytes   525,937 bytes   00:54:07.327    
+12              0:58:55.031     0:05:50.558     30,828 kbps     34,971 kbps     01:00:02.599    33,095 kbps     01:02:48.890    32,931 kbps     01:00:31.794    160,725 bytes   409,699 bytes   01:01:53.501    
+13              1:04:45.590     0:02:28.982     32,289 kbps     34,969 kbps     01:05:30.760    33,218 kbps     01:05:26.839    33,003 kbps     01:06:26.857    168,342 bytes   421,706 bytes   01:05:31.719    
+14              1:07:14.572     0:03:53.983     32,220 kbps     36,058 kbps     01:11:02.466    33,196 kbps     01:07:39.680    32,959 kbps     01:07:20.453    167,981 bytes   400,998 bytes   01:07:25.833    
+15              1:11:08.555     0:03:45.725     32,332 kbps     36,324 kbps     01:13:00.000    33,224 kbps     01:14:40.350    32,989 kbps     01:12:38.645    168,563 bytes   464,830 bytes   01:14:52.070    
+16              1:14:54.281     0:03:48.603     32,664 kbps     35,731 kbps     01:15:33.028    33,407 kbps     01:15:28.982    33,076 kbps     01:15:24.019    170,295 bytes   459,152 bytes   01:15:47.876    
+17              1:18:42.884     0:02:17.637     32,649 kbps     34,976 kbps     01:20:33.578    33,309 kbps     01:20:29.699    33,058 kbps     01:20:24.736    170,215 bytes   417,046 bytes   01:20:32.452    
+18              1:21:00.522     0:09:10.258     31,777 kbps     40,270 kbps     01:21:23.461    33,806 kbps     01:29:58.142    33,281 kbps     01:29:53.137    165,683 bytes   637,047 bytes   01:22:03.043    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5410.614                32,005                  21,645,864,062  117,716,720     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5410.614                1,903                   1,287,201,840   7,839,734       
+00800.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5410.614                768                     519,435,264     3,043,566       
+00800.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           5410.614                768                     519,435,264     3,043,566       
+00800.M2TS      4355 (0x1103)   0x82            DTS             jpn (Japanese)          5410.614                768                     519,435,264     3,043,566       
+00800.M2TS      4356 (0x1104)   0x82            DTS             nld (Dutch)             5410.614                768                     519,435,264     3,043,566       
+00800.M2TS      4357 (0x1105)   0x82            DTS             nld (Dutch)             5410.614                768                     519,435,264     3,043,566       
+00800.M2TS      4358 (0x1106)   0x82            DTS             por (Portuguese)        5410.614                768                     519,435,264     3,043,566       
+00800.M2TS      4359 (0x1107)   0x81            AC3             eng (English)           5410.614                192                     129,858,816     845,435         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5410.614                58                      39,222,756      227,205         
+00800.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5410.614                35                      23,427,677      135,570         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5410.614                41                      27,391,296      157,514         
+00800.M2TS      4611 (0x1203)   0x90            PGS             jpn (Japanese)          5410.614                28                      19,223,187      113,329         
+00800.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5410.614                32                      21,462,853      122,837         
+00800.M2TS      4613 (0x1205)   0x90            PGS             por (Portuguese)        5410.614                38                      25,531,236      147,094         
+00800.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5410.614                71                      47,970,450      272,929         
+00800.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            5410.614                0                       92,145          564             
+00800.M2TS      4616 (0x1208)   0x90            PGS             spa (Spanish)           5410.614                1                       383,147         2,262           
+00800.M2TS      4617 (0x1209)   0x90            PGS             nld (Dutch)             5410.614                1                       399,064         2,337           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5410.614                0                       234,578         1,380           
+00800.M2TS      4619 (0x120B)   0x90            PGS             por (Portuguese)        5410.614                1                       406,562         2,384           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Shark Tale
+Disc Label: Shark.Tale.2004.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-MuDBuG
+Disc Size: 33,055,675,240 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 28,037,756,928 bytes
+Length: 1:30:10.780
+Total Bitrate: 41.45 Mbps
+Video: MPEG-4 AVC Video / 32004 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1903 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Japanese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 57.992 kbps
+Subtitle: French / 34.639 kbps
+Subtitle: Spanish / 40.499 kbps
+Subtitle: Japanese / 28.422 kbps
+Subtitle: Dutch / 31.733 kbps
+Subtitle: Portuguese / 37.749 kbps
+Subtitle: English / 70.926 kbps
+Subtitle: French / 0.136 kbps
+Subtitle: Spanish / 0.566 kbps
+Subtitle: Dutch / 0.590 kbps
+Subtitle: Dutch / 0.347 kbps
+Subtitle: Portuguese / 0.601 kbps
+

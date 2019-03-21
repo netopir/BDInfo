@@ -1,0 +1,124 @@
+Disc Label:     The.LEGO.Ninjago.Movie.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      36,380,889,395 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     1:41:26 25,521,192,960  36,380,889,395  33.54   21.28   Dolby Atmos 7.1 4371Kbps (48kHz/24-bit)   DTS-HD Master 5.1 2304Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.LEGO.Ninjago.Movie.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      36,380,889,395 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 1:41:26.622 (h:m:s.ms)
+Size:                   25,521,192,960 bytes
+Total Bitrate:          33.54 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21275 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         4371 kbps       7.1 / 48 kHz /  3923 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   448 kbps / DN -27dB)
+DTS-HD Master Audio             English         2304 kbps       5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2302 kbps       5.1 / 48 kHz /  2302 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         51.281 kbps                     
+Presentation Graphics           German          55.537 kbps                     
+Presentation Graphics           German          0.415 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00042.M2TS      0:00:00.000     1:41:26.622     25,521,192,960  33,544          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:44.745     21,522 kbps     28,655 kbps     00:04:06.079    27,104 kbps     00:04:02.116    26,604 kbps     00:03:58.905    112,197 bytes   388,842 bytes   00:05:12.645    
+2               0:11:44.745     0:11:47.706     21,421 kbps     28,410 kbps     00:18:21.600    26,981 kbps     00:18:17.596    26,638 kbps     00:20:58.548    111,678 bytes   322,176 bytes   00:16:13.472    
+3               0:23:32.452     0:07:37.331     21,225 kbps     26,922 kbps     00:23:48.635    24,409 kbps     00:23:44.464    23,953 kbps     00:23:39.626    110,659 bytes   336,530 bytes   00:23:38.083    
+4               0:31:09.784     0:09:43.583     21,692 kbps     28,909 kbps     00:33:41.728    25,612 kbps     00:32:32.533    24,790 kbps     00:33:03.773    113,093 bytes   318,087 bytes   00:37:58.109    
+5               0:40:53.367     0:12:55.024     21,501 kbps     27,670 kbps     00:46:11.852    24,417 kbps     00:45:47.035    23,094 kbps     00:45:43.699    112,094 bytes   341,966 bytes   00:50:01.415    
+6               0:53:48.391     0:09:17.139     20,981 kbps     26,544 kbps     01:02:47.305    24,380 kbps     01:02:47.305    23,827 kbps     01:02:45.178    109,386 bytes   340,935 bytes   00:54:31.142    
+7               1:03:05.531     0:13:02.156     20,340 kbps     24,502 kbps     01:14:58.660    22,885 kbps     01:14:54.698    22,590 kbps     01:13:15.224    106,045 bytes   334,500 bytes   01:11:16.730    
+8               1:16:07.688     0:09:05.920     21,607 kbps     27,566 kbps     01:24:42.368    24,223 kbps     01:24:32.400    23,771 kbps     01:24:33.318    112,651 bytes   308,929 bytes   01:22:51.216    
+9               1:25:13.608     0:06:57.291     21,093 kbps     26,988 kbps     01:31:03.416    25,342 kbps     01:31:00.329    24,282 kbps     01:30:54.907    109,968 bytes   300,789 bytes   01:31:04.417    
+10              1:32:10.900     0:09:15.721     21,488 kbps     28,747 kbps     01:35:24.552    25,150 kbps     01:32:13.569    25,004 kbps     01:32:15.488    112,039 bytes   640,780 bytes   01:40:52.046    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00042.M2TS      4113 (0x1011)   0x1B            AVC                                     6086.455                21,276                  16,186,841,035  88,057,229      
+00042.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           6086.455                4,371                   3,325,596,518   22,273,056      
+00042.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6086.455                2,304                   1,753,075,260   10,490,935      
+00042.M2TS      4354 (0x1102)   0x86            DTS-HD MA       deu (German)            6086.455                2,302                   1,751,049,516   10,475,666      
+00042.M2TS      4355 (0x1103)   0x81            AC3             eng (English)           6086.455                192                     146,077,440     951,025         
+00042.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6086.455                51                      39,015,748      225,732         
+00042.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6086.455                56                      42,253,954      243,431         
+00042.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            6086.455                0                       316,006         1,869           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.LEGO.Ninjago.Movie.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 36,380,889,395 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 25,521,192,960 bytes
+Length: 1:41:26.622
+Total Bitrate: 33.54 Mbps
+Video: MPEG-4 AVC Video / 21275 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  3923 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   448 kbps / DN -27dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2302 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 51.281 kbps
+Subtitle: German / 55.537 kbps
+Subtitle: German / 0.415 kbps
+

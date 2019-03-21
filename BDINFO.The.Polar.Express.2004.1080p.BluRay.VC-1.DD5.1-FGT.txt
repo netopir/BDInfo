@@ -1,0 +1,201 @@
+Disc Label:     The.Polar.Express.2004.1080p.BluRay.VC-1.DD5.1-FGT
+Disc Size:      20,398,067,446 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      VC-1    1:39:56 16,406,452,224  20,398,067,446  21.89   13.73   DD AC3 5.1 640Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Polar.Express.2004.1080p.BluRay.VC-1.DD5.1-FGT
+Disc Size:      20,398,067,446 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:39:56.532 (h:m:s.ms)
+Size:                   16,406,452,224 bytes
+Total Bitrate:          21.89 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              13731 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Danish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Finnish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Norwegian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         19.497 kbps                     
+Presentation Graphics           French          15.166 kbps                     
+Presentation Graphics           German          23.233 kbps                     
+Presentation Graphics           German          26.028 kbps                     
+Presentation Graphics           Italian         20.346 kbps                     
+Presentation Graphics           Italian         23.391 kbps                     
+Presentation Graphics           Spanish         18.509 kbps                     
+Presentation Graphics           Dutch           15.703 kbps                     
+Presentation Graphics           Danish          14.541 kbps                     
+Presentation Graphics           Finnish         15.982 kbps                     
+Presentation Graphics           Norwegian       15.222 kbps                     
+Presentation Graphics           Portuguese      18.813 kbps                     
+Presentation Graphics           Swedish         15.389 kbps                     
+Presentation Graphics           French          0.251 kbps                      
+Presentation Graphics           German          0.349 kbps                      
+Presentation Graphics           Italian         0.375 kbps                      
+Presentation Graphics           Spanish         0.262 kbps                      
+Presentation Graphics           Dutch           0.212 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:39:56.532     16,406,452,224  21,888          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:07.473     8,914 kbps      23,156 kbps     00:00:38.997    22,188 kbps     00:00:36.077    20,719 kbps     00:00:33.742    46,844 bytes    356,740 bytes   00:04:08.998    
+2               0:05:07.473     0:04:39.445     13,365 kbps     24,229 kbps     00:08:39.101    22,251 kbps     00:08:25.087    20,250 kbps     00:09:15.513    69,678 bytes    298,687 bytes   00:06:32.642    
+3               0:09:46.919     0:05:29.495     11,257 kbps     29,628 kbps     00:14:05.886    21,614 kbps     00:11:58.759    18,223 kbps     00:11:54.088    58,686 bytes    406,289 bytes   00:11:59.969    
+4               0:15:16.415     0:03:03.349     16,327 kbps     29,458 kbps     00:17:03.063    25,672 kbps     00:16:59.435    23,282 kbps     00:17:07.234    85,119 bytes    405,826 bytes   00:15:54.870    
+5               0:18:19.765     0:04:48.454     14,072 kbps     30,788 kbps     00:20:44.117    23,562 kbps     00:18:56.385    22,184 kbps     00:18:56.385    73,367 bytes    355,910 bytes   00:19:06.979    
+6               0:23:08.220     0:04:59.299     15,447 kbps     26,835 kbps     00:27:32.609    24,778 kbps     00:24:51.823    24,024 kbps     00:27:24.893    80,534 bytes    253,551 bytes   00:24:58.497    
+7               0:28:07.519     0:05:36.169     16,232 kbps     34,272 kbps     00:30:50.306    25,271 kbps     00:29:01.489    23,771 kbps     00:29:35.315    84,709 bytes    443,208 bytes   00:33:43.438    
+8               0:33:43.688     0:01:41.601     15,497 kbps     27,203 kbps     00:34:54.091    23,356 kbps     00:33:44.147    19,629 kbps     00:33:43.688    80,794 bytes    436,592 bytes   00:33:44.188    
+9               0:35:25.289     0:06:12.038     17,153 kbps     35,634 kbps     00:37:21.072    25,156 kbps     00:36:00.616    23,879 kbps     00:40:42.982    89,429 bytes    423,120 bytes   00:36:03.744    
+10              0:41:37.328     0:03:07.687     12,997 kbps     24,098 kbps     00:43:10.629    21,109 kbps     00:43:06.792    18,184 kbps     00:43:06.792    67,758 bytes    382,683 bytes   00:43:08.335    
+11              0:44:45.015     0:02:21.141     13,741 kbps     34,631 kbps     00:46:17.149    24,408 kbps     00:46:16.565    23,554 kbps     00:46:16.523    71,637 bytes    297,433 bytes   00:47:04.488    
+12              0:47:06.156     0:02:12.465     14,010 kbps     23,675 kbps     00:47:17.125    19,278 kbps     00:47:17.125    17,312 kbps     00:47:17.125    73,043 bytes    381,871 bytes   00:48:03.297    
+13              0:49:18.622     0:04:07.246     15,145 kbps     29,557 kbps     00:52:11.336    25,114 kbps     00:51:53.527    23,783 kbps     00:51:52.067    79,454 bytes    542,998 bytes   00:49:54.741    
+14              0:53:25.869     0:03:52.565     12,325 kbps     28,934 kbps     00:56:29.135    24,682 kbps     00:54:44.864    22,942 kbps     00:54:40.151    64,259 bytes    478,068 bytes   00:56:17.707    
+15              0:57:18.435     0:03:50.563     14,447 kbps     27,971 kbps     00:58:10.653    22,389 kbps     00:58:10.278    20,867 kbps     00:58:09.694    75,318 bytes    440,986 bytes   00:58:32.509    
+16              1:01:08.998     0:04:46.786     13,894 kbps     36,871 kbps     01:05:29.967    25,742 kbps     01:05:03.149    23,496 kbps     01:05:00.479    72,435 bytes    626,308 bytes   01:05:22.752    
+17              1:05:55.785     0:03:59.405     16,599 kbps     32,324 kbps     01:09:46.307    24,939 kbps     01:09:25.870    24,266 kbps     01:09:24.660    86,539 bytes    480,102 bytes   01:09:48.684    
+18              1:09:55.191     0:03:01.014     13,496 kbps     29,037 kbps     01:10:57.795    24,544 kbps     01:10:47.910    20,913 kbps     01:10:49.161    70,360 bytes    417,799 bytes   01:10:52.331    
+19              1:12:56.205     0:03:32.045     13,554 kbps     28,141 kbps     01:15:31.193    24,422 kbps     01:15:30.609    20,248 kbps     01:15:28.482    70,662 bytes    507,994 bytes   01:14:34.803    
+20              1:16:28.250     0:03:09.689     17,505 kbps     35,012 kbps     01:18:34.251    25,049 kbps     01:18:39.881    23,593 kbps     01:19:22.132    91,262 bytes    448,708 bytes   01:18:44.219    
+21              1:19:37.939     0:02:13.466     12,223 kbps     30,322 kbps     01:20:05.967    19,981 kbps     01:20:38.458    17,002 kbps     01:20:34.162    63,724 bytes    583,937 bytes   01:20:16.311    
+22              1:21:51.406     0:05:18.651     14,229 kbps     33,583 kbps     01:23:31.131    25,290 kbps     01:23:30.380    24,112 kbps     01:25:20.907    74,184 bytes    493,600 bytes   01:23:41.099    
+23              1:27:10.058     0:04:11.084     12,428 kbps     23,901 kbps     01:30:34.804    20,327 kbps     01:30:34.804    18,967 kbps     01:30:34.804    64,892 bytes    479,021 bytes   01:30:36.013    
+24              1:31:21.142     0:08:35.389     9,715 kbps      21,497 kbps     01:32:06.562    17,194 kbps     01:32:03.935    16,450 kbps     01:32:03.643    50,717 bytes    523,581 bytes   01:39:53.737    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0xEA            VC-1                                    5996.407                13,731                  10,292,293,349  56,022,558      
+00000.M2TS      4352 (0x1100)   0x81            AC3             eng (English)           5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4358 (0x1106)   0x81            AC3             dan (Danish)            5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4359 (0x1107)   0x81            AC3             fin (Finnish)           5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4360 (0x1108)   0x81            AC3             nor (Norwegian)         5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4361 (0x1109)   0x81            AC3             swe (Swedish)           5996.407                640                     479,723,520     2,810,880       
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5996.407                19                      14,614,649      84,640          
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5996.407                15                      11,368,113      66,332          
+00000.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5996.407                23                      17,414,509      100,007         
+00000.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5996.407                26                      19,509,981      112,181         
+00000.M2TS      4612 (0x1204)   0x90            PGS             ita (Italian)           5996.407                20                      15,250,778      88,209          
+00000.M2TS      4613 (0x1205)   0x90            PGS             ita (Italian)           5996.407                23                      17,533,465      101,473         
+00000.M2TS      4614 (0x1206)   0x90            PGS             spa (Spanish)           5996.407                19                      13,873,438      80,670          
+00000.M2TS      4615 (0x1207)   0x90            PGS             nld (Dutch)             5996.407                16                      11,770,543      68,345          
+00000.M2TS      4616 (0x1208)   0x90            PGS             dan (Danish)            5996.407                15                      10,899,820      62,547          
+00000.M2TS      4617 (0x1209)   0x90            PGS             fin (Finnish)           5996.407                16                      11,979,395      69,548          
+00000.M2TS      4618 (0x120A)   0x90            PGS             nor (Norwegian)         5996.407                15                      11,409,950      65,649          
+00000.M2TS      4619 (0x120B)   0x90            PGS             por (Portuguese)        5996.407                19                      14,101,966      81,824          
+00000.M2TS      4620 (0x120C)   0x90            PGS             swe (Swedish)           5996.407                15                      11,535,105      66,333          
+00000.M2TS      4621 (0x120D)   0x90            PGS             fra (French)            5996.407                0                       188,430         1,132           
+00000.M2TS      4622 (0x120E)   0x90            PGS             deu (German)            5996.407                0                       261,268         1,541           
+00000.M2TS      4623 (0x120F)   0x90            PGS             ita (Italian)           5996.407                0                       280,881         1,646           
+00000.M2TS      4624 (0x1210)   0x90            PGS             spa (Spanish)           5996.407                0                       196,684         1,169           
+00000.M2TS      4625 (0x1211)   0x90            PGS             nld (Dutch)             5996.407                0                       158,741         955             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Polar.Express.2004.1080p.BluRay.VC-1.DD5.1-FGT
+Disc Size: 20,398,067,446 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 16,406,452,224 bytes
+Length: 1:39:56.532
+Total Bitrate: 21.89 Mbps
+Video: VC-1 Video / 13731 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 19.497 kbps
+Subtitle: French / 15.166 kbps
+Subtitle: German / 23.233 kbps
+Subtitle: German / 26.028 kbps
+Subtitle: Italian / 20.346 kbps
+Subtitle: Italian / 23.391 kbps
+Subtitle: Spanish / 18.509 kbps
+Subtitle: Dutch / 15.703 kbps
+Subtitle: Danish / 14.541 kbps
+Subtitle: Finnish / 15.982 kbps
+Subtitle: Norwegian / 15.222 kbps
+Subtitle: Portuguese / 18.813 kbps
+Subtitle: Swedish / 15.389 kbps
+Subtitle: French / 0.251 kbps
+Subtitle: German / 0.349 kbps
+Subtitle: Italian / 0.375 kbps
+Subtitle: Spanish / 0.262 kbps
+Subtitle: Dutch / 0.212 kbps
+

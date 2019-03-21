@@ -1,0 +1,564 @@
+Disc Title:     Flushed Away
+Disc Label:     Flushed.Away.2006.COMPLETE.BLURAY-PCH
+Disc Size:      31,332,744,493 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00612.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00612.MPLS                                                      AVC     1:25:02 26,816,815,104  31,332,744,493  42.05   31.16   DTS-HD Master 5.1 2032Kbps (48kHz/24-bit) DTS 2.0 256Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Flushed Away
+Disc Label:     Flushed.Away.2006.COMPLETE.BLURAY-PCH
+Disc Size:      31,332,744,493 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00612.MPLS
+Length:                 1:25:02.305 (h:m:s.ms)
+Size:                   26,816,815,104 bytes
+Total Bitrate:          42.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        31163 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2032 kbps       5.1 / 48 kHz /  2032 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Catalan         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Japanese        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       English         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         57.862 kbps                     
+Presentation Graphics           French          32.473 kbps                     
+Presentation Graphics           Spanish         34.518 kbps                     
+Presentation Graphics           Catalan         34.513 kbps                     
+Presentation Graphics           Spanish         37.462 kbps                     
+Presentation Graphics           Japanese        23.998 kbps                     
+Presentation Graphics           German          41.581 kbps                     
+Presentation Graphics           Italian         38.520 kbps                     
+Presentation Graphics           Portuguese      36.534 kbps                     
+Presentation Graphics           English         88.380 kbps                     
+Presentation Graphics           French          0.239 kbps                      
+Presentation Graphics           Spanish         0.537 kbps                      
+Presentation Graphics           Catalan         0.550 kbps                      
+Presentation Graphics           Spanish         0.780 kbps                      
+Presentation Graphics           Japanese        0.439 kbps                      
+Presentation Graphics           German          0.508 kbps                      
+Presentation Graphics           Italian         0.820 kbps                      
+Presentation Graphics           Portuguese      0.513 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00246.M2TS      0:00:00.000     1:25:02.305     26,816,815,104  42,047          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:16.130     30,883 kbps     41,814 kbps     00:00:23.356    35,884 kbps     00:00:19.352    35,228 kbps     00:00:14.347    160,981 bytes   600,358 bytes   00:01:08.026    
+2               0:04:16.130     0:03:31.586     29,246 kbps     36,666 kbps     00:07:43.045    34,675 kbps     00:06:37.980    33,877 kbps     00:06:39.982    152,477 bytes   509,583 bytes   00:06:44.779    
+3               0:07:47.717     0:03:35.465     31,121 kbps     37,162 kbps     00:09:38.828    34,905 kbps     00:09:15.012    34,302 kbps     00:09:25.439    162,251 bytes   495,551 bytes   00:10:56.197    
+4               0:11:23.182     0:02:44.831     33,796 kbps     39,019 kbps     00:11:26.560    34,920 kbps     00:13:14.168    34,702 kbps     00:11:39.532    176,196 bytes   636,916 bytes   00:11:28.145    
+5               0:14:08.013     0:05:21.571     30,923 kbps     37,884 kbps     00:16:32.408    34,982 kbps     00:16:32.533    34,346 kbps     00:18:58.053    161,216 bytes   587,572 bytes   00:16:38.038    
+6               0:19:29.585     0:05:06.597     32,466 kbps     37,625 kbps     00:20:24.056    34,972 kbps     00:22:43.320    34,494 kbps     00:24:04.818    169,263 bytes   514,365 bytes   00:23:14.518    
+7               0:24:36.183     0:03:29.626     32,345 kbps     39,706 kbps     00:27:26.269    34,945 kbps     00:27:16.259    34,742 kbps     00:27:17.260    168,630 bytes   546,834 bytes   00:26:35.844    
+8               0:28:05.809     0:03:19.824     31,747 kbps     38,607 kbps     00:31:05.113    35,129 kbps     00:28:50.311    34,623 kbps     00:28:45.348    165,516 bytes   439,417 bytes   00:28:35.588    
+9               0:31:25.633     0:06:10.036     31,919 kbps     37,998 kbps     00:34:46.542    34,939 kbps     00:34:42.789    34,590 kbps     00:35:05.144    166,411 bytes   505,779 bytes   00:32:58.059    
+10              0:37:35.670     0:05:32.665     30,763 kbps     36,834 kbps     00:42:38.806    34,778 kbps     00:42:06.106    34,017 kbps     00:42:14.490    160,383 bytes   521,363 bytes   00:37:39.632    
+11              0:43:08.335     0:04:06.621     33,645 kbps     39,263 kbps     00:44:46.433    35,193 kbps     00:44:42.471    34,719 kbps     00:44:37.424    175,408 bytes   524,034 bytes   00:45:17.172    
+12              0:47:14.957     0:05:50.600     31,574 kbps     39,777 kbps     00:49:04.775    35,531 kbps     00:49:05.275    34,487 kbps     00:49:29.174    164,614 bytes   609,256 bytes   00:49:09.112    
+13              0:53:05.557     0:05:07.181     33,329 kbps     38,302 kbps     00:53:39.841    34,834 kbps     00:57:16.516    34,578 kbps     00:54:47.742    173,760 bytes   458,467 bytes   00:53:39.883    
+14              0:58:12.739     0:06:10.411     30,719 kbps     38,428 kbps     00:58:59.994    34,848 kbps     00:58:40.350    34,500 kbps     00:58:17.785    160,157 bytes   546,079 bytes   00:58:42.810    
+15              1:04:23.150     0:03:25.580     31,782 kbps     37,937 kbps     01:05:23.336    35,065 kbps     01:06:04.710    34,745 kbps     01:05:59.705    165,698 bytes   559,513 bytes   01:05:57.745    
+16              1:07:48.731     0:03:29.584     32,760 kbps     38,647 kbps     01:08:30.189    35,228 kbps     01:09:58.652    34,601 kbps     01:10:09.205    170,797 bytes   489,321 bytes   01:11:04.009    
+17              1:11:18.315     0:05:17.400     32,508 kbps     40,090 kbps     01:15:35.989    35,104 kbps     01:13:27.528    34,658 kbps     01:13:25.359    169,480 bytes   633,756 bytes   01:15:38.200    
+18              1:16:35.716     0:08:26.589     25,382 kbps     34,833 kbps     01:16:53.191    32,458 kbps     01:16:48.895    30,264 kbps     01:16:48.854    132,339 bytes   505,552 bytes   01:16:52.691    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00246.M2TS      4113 (0x1011)   0x1B            AVC                                     5102.139                31,164                  19,875,156,168  108,088,433     
+00246.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5102.139                2,032                   1,295,811,100   7,834,727       
+00246.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4355 (0x1103)   0x82            DTS             cat (Catalan)           5102.139                255                     162,636,280     956,684         
+00246.M2TS      4356 (0x1104)   0x82            DTS             spa (Spanish)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4357 (0x1105)   0x82            DTS             jpn (Japanese)          5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4358 (0x1106)   0x82            DTS             deu (German)            5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4359 (0x1107)   0x82            DTS             ita (Italian)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4360 (0x1108)   0x82            DTS             por (Portuguese)        5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4361 (0x1109)   0x82            DTS             eng (English)           5102.139                255                     162,636,280     956,684         
+00246.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5102.139                58                      36,903,438      211,523         
+00246.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5102.139                32                      20,710,878      119,741         
+00246.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5102.139                35                      22,014,993      126,771         
+00246.M2TS      4611 (0x1203)   0x90            PGS             cat (Catalan)           5102.139                35                      22,012,209      127,001         
+00246.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           5102.139                37                      23,892,813      136,877         
+00246.M2TS      4613 (0x1205)   0x90            PGS             jpn (Japanese)          5102.139                24                      15,305,798      90,304          
+00246.M2TS      4614 (0x1206)   0x90            PGS             deu (German)            5102.139                42                      26,519,633      151,547         
+00246.M2TS      4615 (0x1207)   0x90            PGS             ita (Italian)           5102.139                39                      24,567,547      140,962         
+00246.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5102.139                37                      23,301,193      133,732         
+00246.M2TS      4617 (0x1209)   0x90            PGS             eng (English)           5102.139                88                      56,367,923      318,466         
+00246.M2TS      4618 (0x120A)   0x90            PGS             fra (French)            5102.139                0                       152,375         874             
+00246.M2TS      4619 (0x120B)   0x90            PGS             spa (Spanish)           5102.139                1                       342,715         1,969           
+00246.M2TS      4620 (0x120C)   0x90            PGS             cat (Catalan)           5102.139                1                       350,512         2,010           
+00246.M2TS      4621 (0x120D)   0x90            PGS             spa (Spanish)           5102.139                1                       497,196         2,843           
+00246.M2TS      4622 (0x120E)   0x90            PGS             jpn (Japanese)          5102.139                0                       279,706         1,665           
+00246.M2TS      4623 (0x120F)   0x90            PGS             deu (German)            5102.139                1                       324,050         1,864           
+00246.M2TS      4624 (0x1210)   0x90            PGS             ita (Italian)           5102.139                1                       522,688         3,029           
+00246.M2TS      4625 (0x1211)   0x90            PGS             por (Portuguese)        5102.139                1                       327,100         1,879           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Flushed Away
+Disc Label: Flushed.Away.2006.COMPLETE.BLURAY-PCH
+Disc Size: 31,332,744,493 bytes
+Protection: AACS
+Playlist: 00612.MPLS
+Size: 26,816,815,104 bytes
+Length: 1:25:02.305
+Total Bitrate: 42.05 Mbps
+Video: MPEG-4 AVC Video / 31163 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2032 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Catalan / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Japanese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Subtitle: English / 57.862 kbps
+Subtitle: French / 32.473 kbps
+Subtitle: Spanish / 34.518 kbps
+Subtitle: Catalan / 34.513 kbps
+Subtitle: Spanish / 37.462 kbps
+Subtitle: Japanese / 23.998 kbps
+Subtitle: German / 41.581 kbps
+Subtitle: Italian / 38.520 kbps
+Subtitle: Portuguese / 36.534 kbps
+Subtitle: English / 88.380 kbps
+Subtitle: French / 0.239 kbps
+Subtitle: Spanish / 0.537 kbps
+Subtitle: Catalan / 0.550 kbps
+Subtitle: Spanish / 0.780 kbps
+Subtitle: Japanese / 0.439 kbps
+Subtitle: German / 0.508 kbps
+Subtitle: Italian / 0.820 kbps
+Subtitle: Portuguese / 0.513 kbps
+
+
+********************
+PLAYLIST: 01118.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01118.MPLS                                                      AVC     1:25:02 26,816,815,104  31,332,744,493  42.05   31.16   DTS-HD Master 5.1 2032Kbps (48kHz/24-bit) DTS 2.0 256Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Flushed Away
+Disc Label:     Flushed.Away.2006.COMPLETE.BLURAY-PCH
+Disc Size:      31,332,744,493 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01118.MPLS
+Length:                 1:25:02.305 (h:m:s.ms)
+Size:                   26,816,815,104 bytes
+Total Bitrate:          42.05 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        31163 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2032 kbps       5.1 / 48 kHz /  2032 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Catalan         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Japanese        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       English         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         57.862 kbps                     
+Presentation Graphics           French          32.473 kbps                     
+Presentation Graphics           Spanish         34.518 kbps                     
+Presentation Graphics           Catalan         34.513 kbps                     
+Presentation Graphics           Spanish         37.462 kbps                     
+Presentation Graphics           Japanese        23.998 kbps                     
+Presentation Graphics           German          41.581 kbps                     
+Presentation Graphics           Italian         38.520 kbps                     
+Presentation Graphics           Portuguese      36.534 kbps                     
+* Presentation Graphics         English         88.380 kbps                     
+Presentation Graphics           French          0.239 kbps                      
+Presentation Graphics           Spanish         0.537 kbps                      
+Presentation Graphics           Catalan         0.550 kbps                      
+Presentation Graphics           Spanish         0.780 kbps                      
+Presentation Graphics           Japanese        0.439 kbps                      
+Presentation Graphics           German          0.508 kbps                      
+Presentation Graphics           Italian         0.820 kbps                      
+Presentation Graphics           Portuguese      0.513 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00246.M2TS      0:00:00.000     1:25:02.305     26,816,815,104  42,047          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:16.130     30,883 kbps     41,814 kbps     00:00:23.356    35,884 kbps     00:00:19.352    35,228 kbps     00:00:14.347    160,981 bytes   600,358 bytes   00:01:08.026    
+2               0:04:16.130     0:03:31.586     29,246 kbps     36,666 kbps     00:07:43.045    34,675 kbps     00:06:37.980    33,877 kbps     00:06:39.982    152,477 bytes   509,583 bytes   00:06:44.779    
+3               0:07:47.717     0:03:35.465     31,121 kbps     37,162 kbps     00:09:38.828    34,905 kbps     00:09:15.012    34,302 kbps     00:09:25.439    162,251 bytes   495,551 bytes   00:10:56.197    
+4               0:11:23.182     0:02:44.831     33,796 kbps     39,019 kbps     00:11:26.560    34,920 kbps     00:13:14.168    34,702 kbps     00:11:39.532    176,196 bytes   636,916 bytes   00:11:28.145    
+5               0:14:08.013     0:05:21.571     30,923 kbps     37,884 kbps     00:16:32.408    34,982 kbps     00:16:32.533    34,346 kbps     00:18:58.053    161,216 bytes   587,572 bytes   00:16:38.038    
+6               0:19:29.585     0:05:06.597     32,466 kbps     37,625 kbps     00:20:24.056    34,972 kbps     00:22:43.320    34,494 kbps     00:24:04.818    169,263 bytes   514,365 bytes   00:23:14.518    
+7               0:24:36.183     0:03:29.626     32,345 kbps     39,706 kbps     00:27:26.269    34,945 kbps     00:27:16.259    34,742 kbps     00:27:17.260    168,630 bytes   546,834 bytes   00:26:35.844    
+8               0:28:05.809     0:03:19.824     31,747 kbps     38,607 kbps     00:31:05.113    35,129 kbps     00:28:50.311    34,623 kbps     00:28:45.348    165,516 bytes   439,417 bytes   00:28:35.588    
+9               0:31:25.633     0:06:10.036     31,919 kbps     37,998 kbps     00:34:46.542    34,939 kbps     00:34:42.789    34,590 kbps     00:35:05.144    166,411 bytes   505,779 bytes   00:32:58.059    
+10              0:37:35.670     0:05:32.665     30,763 kbps     36,834 kbps     00:42:38.806    34,778 kbps     00:42:06.106    34,017 kbps     00:42:14.490    160,383 bytes   521,363 bytes   00:37:39.632    
+11              0:43:08.335     0:04:06.621     33,645 kbps     39,263 kbps     00:44:46.433    35,193 kbps     00:44:42.471    34,719 kbps     00:44:37.424    175,408 bytes   524,034 bytes   00:45:17.172    
+12              0:47:14.957     0:05:50.600     31,574 kbps     39,777 kbps     00:49:04.775    35,531 kbps     00:49:05.275    34,487 kbps     00:49:29.174    164,614 bytes   609,256 bytes   00:49:09.112    
+13              0:53:05.557     0:05:07.181     33,329 kbps     38,302 kbps     00:53:39.841    34,834 kbps     00:57:16.516    34,578 kbps     00:54:47.742    173,760 bytes   458,467 bytes   00:53:39.883    
+14              0:58:12.739     0:06:10.411     30,719 kbps     38,428 kbps     00:58:59.994    34,848 kbps     00:58:40.350    34,500 kbps     00:58:17.785    160,157 bytes   546,079 bytes   00:58:42.810    
+15              1:04:23.150     0:03:25.580     31,782 kbps     37,937 kbps     01:05:23.336    35,065 kbps     01:06:04.710    34,745 kbps     01:05:59.705    165,698 bytes   559,513 bytes   01:05:57.745    
+16              1:07:48.731     0:03:29.584     32,760 kbps     38,647 kbps     01:08:30.189    35,228 kbps     01:09:58.652    34,601 kbps     01:10:09.205    170,797 bytes   489,321 bytes   01:11:04.009    
+17              1:11:18.315     0:05:17.400     32,508 kbps     40,090 kbps     01:15:35.989    35,104 kbps     01:13:27.528    34,658 kbps     01:13:25.359    169,480 bytes   633,756 bytes   01:15:38.200    
+18              1:16:35.716     0:08:26.589     25,382 kbps     34,833 kbps     01:16:53.191    32,458 kbps     01:16:48.895    30,264 kbps     01:16:48.854    132,339 bytes   505,552 bytes   01:16:52.691    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00246.M2TS      4113 (0x1011)   0x1B            AVC                                     5102.139                31,164                  19,875,156,168  108,088,433     
+00246.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5102.139                2,032                   1,295,811,100   7,834,727       
+00246.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4355 (0x1103)   0x82            DTS             cat (Catalan)           5102.139                255                     162,636,280     956,684         
+00246.M2TS      4356 (0x1104)   0x82            DTS             spa (Spanish)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4357 (0x1105)   0x82            DTS             jpn (Japanese)          5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4358 (0x1106)   0x82            DTS             deu (German)            5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4359 (0x1107)   0x82            DTS             ita (Italian)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4360 (0x1108)   0x82            DTS             por (Portuguese)        5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4361 (0x1109)   0x82            DTS             eng (English)           5102.139                255                     162,636,280     956,684         
+00246.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5102.139                58                      36,903,438      211,523         
+00246.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5102.139                32                      20,710,878      119,741         
+00246.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5102.139                35                      22,014,993      126,771         
+00246.M2TS      4611 (0x1203)   0x90            PGS             cat (Catalan)           5102.139                35                      22,012,209      127,001         
+00246.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           5102.139                37                      23,892,813      136,877         
+00246.M2TS      4613 (0x1205)   0x90            PGS             jpn (Japanese)          5102.139                24                      15,305,798      90,304          
+00246.M2TS      4614 (0x1206)   0x90            PGS             deu (German)            5102.139                42                      26,519,633      151,547         
+00246.M2TS      4615 (0x1207)   0x90            PGS             ita (Italian)           5102.139                39                      24,567,547      140,962         
+00246.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5102.139                37                      23,301,193      133,732         
+00246.M2TS      4617 (0x1209)   0x90            PGS             eng (English)           5102.139                88                      56,367,923      318,466         
+00246.M2TS      4618 (0x120A)   0x90            PGS             fra (French)            5102.139                0                       152,375         874             
+00246.M2TS      4619 (0x120B)   0x90            PGS             spa (Spanish)           5102.139                1                       342,715         1,969           
+00246.M2TS      4620 (0x120C)   0x90            PGS             cat (Catalan)           5102.139                1                       350,512         2,010           
+00246.M2TS      4621 (0x120D)   0x90            PGS             spa (Spanish)           5102.139                1                       497,196         2,843           
+00246.M2TS      4622 (0x120E)   0x90            PGS             jpn (Japanese)          5102.139                0                       279,706         1,665           
+00246.M2TS      4623 (0x120F)   0x90            PGS             deu (German)            5102.139                1                       324,050         1,864           
+00246.M2TS      4624 (0x1210)   0x90            PGS             ita (Italian)           5102.139                1                       522,688         3,029           
+00246.M2TS      4625 (0x1211)   0x90            PGS             por (Portuguese)        5102.139                1                       327,100         1,879           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Flushed Away
+Disc Label: Flushed.Away.2006.COMPLETE.BLURAY-PCH
+Disc Size: 31,332,744,493 bytes
+Protection: AACS
+Playlist: 01118.MPLS
+Size: 26,816,815,104 bytes
+Length: 1:25:02.305
+Total Bitrate: 42.05 Mbps
+Video: MPEG-4 AVC Video / 31163 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2032 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Catalan / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Japanese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Subtitle: English / 57.862 kbps
+Subtitle: French / 32.473 kbps
+Subtitle: Spanish / 34.518 kbps
+Subtitle: Catalan / 34.513 kbps
+Subtitle: Spanish / 37.462 kbps
+Subtitle: Japanese / 23.998 kbps
+Subtitle: German / 41.581 kbps
+Subtitle: Italian / 38.520 kbps
+Subtitle: Portuguese / 36.534 kbps
+* Subtitle: English / 88.380 kbps
+Subtitle: French / 0.239 kbps
+Subtitle: Spanish / 0.537 kbps
+Subtitle: Catalan / 0.550 kbps
+Subtitle: Spanish / 0.780 kbps
+Subtitle: Japanese / 0.439 kbps
+Subtitle: German / 0.508 kbps
+Subtitle: Italian / 0.820 kbps
+Subtitle: Portuguese / 0.513 kbps
+
+
+********************
+PLAYLIST: 01119.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01119.MPLS                                                      AVC     1:25:02 26,816,815,104  31,332,744,493  42.05   31.16   DTS-HD Master 5.1 2032Kbps (48kHz/24-bit) DTS 2.0 256Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Flushed Away
+Disc Label:     Flushed.Away.2006.COMPLETE.BLURAY-PCH
+Disc Size:      31,332,744,493 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01119.MPLS
+Length:                 1:25:02.305 (h:m:s.ms)
+Size:                   26,816,815,104 bytes
+Total Bitrate:          42.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        31163 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2032 kbps       5.1 / 48 kHz /  2032 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Catalan         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Japanese        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       English         256 kbps        2.0 / 48 kHz /   256 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         57.862 kbps                     
+Presentation Graphics           French          32.473 kbps                     
+Presentation Graphics           Spanish         34.518 kbps                     
+Presentation Graphics           Catalan         34.513 kbps                     
+Presentation Graphics           Spanish         37.462 kbps                     
+Presentation Graphics           Japanese        23.998 kbps                     
+Presentation Graphics           German          41.581 kbps                     
+Presentation Graphics           Italian         38.520 kbps                     
+Presentation Graphics           Portuguese      36.534 kbps                     
+Presentation Graphics           English         88.380 kbps                     
+Presentation Graphics           French          0.239 kbps                      
+Presentation Graphics           Spanish         0.537 kbps                      
+Presentation Graphics           Catalan         0.550 kbps                      
+Presentation Graphics           Spanish         0.780 kbps                      
+Presentation Graphics           Japanese        0.439 kbps                      
+Presentation Graphics           German          0.508 kbps                      
+Presentation Graphics           Italian         0.820 kbps                      
+Presentation Graphics           Portuguese      0.513 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00246.M2TS      0:00:00.000     1:25:02.305     26,816,815,104  42,047          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:16.130     30,883 kbps     41,814 kbps     00:00:23.356    35,884 kbps     00:00:19.352    35,228 kbps     00:00:14.347    160,981 bytes   600,358 bytes   00:01:08.026    
+2               0:04:16.130     0:03:31.586     29,246 kbps     36,666 kbps     00:07:43.045    34,675 kbps     00:06:37.980    33,877 kbps     00:06:39.982    152,477 bytes   509,583 bytes   00:06:44.779    
+3               0:07:47.717     0:03:35.465     31,121 kbps     37,162 kbps     00:09:38.828    34,905 kbps     00:09:15.012    34,302 kbps     00:09:25.439    162,251 bytes   495,551 bytes   00:10:56.197    
+4               0:11:23.182     0:02:44.831     33,796 kbps     39,019 kbps     00:11:26.560    34,920 kbps     00:13:14.168    34,702 kbps     00:11:39.532    176,196 bytes   636,916 bytes   00:11:28.145    
+5               0:14:08.013     0:05:21.571     30,923 kbps     37,884 kbps     00:16:32.408    34,982 kbps     00:16:32.533    34,346 kbps     00:18:58.053    161,216 bytes   587,572 bytes   00:16:38.038    
+6               0:19:29.585     0:05:06.597     32,466 kbps     37,625 kbps     00:20:24.056    34,972 kbps     00:22:43.320    34,494 kbps     00:24:04.818    169,263 bytes   514,365 bytes   00:23:14.518    
+7               0:24:36.183     0:03:29.626     32,345 kbps     39,706 kbps     00:27:26.269    34,945 kbps     00:27:16.259    34,742 kbps     00:27:17.260    168,630 bytes   546,834 bytes   00:26:35.844    
+8               0:28:05.809     0:03:19.824     31,747 kbps     38,607 kbps     00:31:05.113    35,129 kbps     00:28:50.311    34,623 kbps     00:28:45.348    165,516 bytes   439,417 bytes   00:28:35.588    
+9               0:31:25.633     0:06:10.036     31,919 kbps     37,998 kbps     00:34:46.542    34,939 kbps     00:34:42.789    34,590 kbps     00:35:05.144    166,411 bytes   505,779 bytes   00:32:58.059    
+10              0:37:35.670     0:05:32.665     30,763 kbps     36,834 kbps     00:42:38.806    34,778 kbps     00:42:06.106    34,017 kbps     00:42:14.490    160,383 bytes   521,363 bytes   00:37:39.632    
+11              0:43:08.335     0:04:06.621     33,645 kbps     39,263 kbps     00:44:46.433    35,193 kbps     00:44:42.471    34,719 kbps     00:44:37.424    175,408 bytes   524,034 bytes   00:45:17.172    
+12              0:47:14.957     0:05:50.600     31,574 kbps     39,777 kbps     00:49:04.775    35,531 kbps     00:49:05.275    34,487 kbps     00:49:29.174    164,614 bytes   609,256 bytes   00:49:09.112    
+13              0:53:05.557     0:05:07.181     33,329 kbps     38,302 kbps     00:53:39.841    34,834 kbps     00:57:16.516    34,578 kbps     00:54:47.742    173,760 bytes   458,467 bytes   00:53:39.883    
+14              0:58:12.739     0:06:10.411     30,719 kbps     38,428 kbps     00:58:59.994    34,848 kbps     00:58:40.350    34,500 kbps     00:58:17.785    160,157 bytes   546,079 bytes   00:58:42.810    
+15              1:04:23.150     0:03:25.580     31,782 kbps     37,937 kbps     01:05:23.336    35,065 kbps     01:06:04.710    34,745 kbps     01:05:59.705    165,698 bytes   559,513 bytes   01:05:57.745    
+16              1:07:48.731     0:03:29.584     32,760 kbps     38,647 kbps     01:08:30.189    35,228 kbps     01:09:58.652    34,601 kbps     01:10:09.205    170,797 bytes   489,321 bytes   01:11:04.009    
+17              1:11:18.315     0:05:17.400     32,508 kbps     40,090 kbps     01:15:35.989    35,104 kbps     01:13:27.528    34,658 kbps     01:13:25.359    169,480 bytes   633,756 bytes   01:15:38.200    
+18              1:16:35.716     0:08:26.589     25,382 kbps     34,833 kbps     01:16:53.191    32,458 kbps     01:16:48.895    30,264 kbps     01:16:48.854    132,339 bytes   505,552 bytes   01:16:52.691    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00246.M2TS      4113 (0x1011)   0x1B            AVC                                     5102.139                31,164                  19,875,156,168  108,088,433     
+00246.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5102.139                2,032                   1,295,811,100   7,834,727       
+00246.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4355 (0x1103)   0x82            DTS             cat (Catalan)           5102.139                255                     162,636,280     956,684         
+00246.M2TS      4356 (0x1104)   0x82            DTS             spa (Spanish)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4357 (0x1105)   0x82            DTS             jpn (Japanese)          5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4358 (0x1106)   0x82            DTS             deu (German)            5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4359 (0x1107)   0x82            DTS             ita (Italian)           5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4360 (0x1108)   0x82            DTS             por (Portuguese)        5102.139                768                     489,822,208     2,870,052       
+00246.M2TS      4361 (0x1109)   0x82            DTS             eng (English)           5102.139                255                     162,636,280     956,684         
+00246.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5102.139                58                      36,903,438      211,523         
+00246.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5102.139                32                      20,710,878      119,741         
+00246.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5102.139                35                      22,014,993      126,771         
+00246.M2TS      4611 (0x1203)   0x90            PGS             cat (Catalan)           5102.139                35                      22,012,209      127,001         
+00246.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           5102.139                37                      23,892,813      136,877         
+00246.M2TS      4613 (0x1205)   0x90            PGS             jpn (Japanese)          5102.139                24                      15,305,798      90,304          
+00246.M2TS      4614 (0x1206)   0x90            PGS             deu (German)            5102.139                42                      26,519,633      151,547         
+00246.M2TS      4615 (0x1207)   0x90            PGS             ita (Italian)           5102.139                39                      24,567,547      140,962         
+00246.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5102.139                37                      23,301,193      133,732         
+00246.M2TS      4617 (0x1209)   0x90            PGS             eng (English)           5102.139                88                      56,367,923      318,466         
+00246.M2TS      4618 (0x120A)   0x90            PGS             fra (French)            5102.139                0                       152,375         874             
+00246.M2TS      4619 (0x120B)   0x90            PGS             spa (Spanish)           5102.139                1                       342,715         1,969           
+00246.M2TS      4620 (0x120C)   0x90            PGS             cat (Catalan)           5102.139                1                       350,512         2,010           
+00246.M2TS      4621 (0x120D)   0x90            PGS             spa (Spanish)           5102.139                1                       497,196         2,843           
+00246.M2TS      4622 (0x120E)   0x90            PGS             jpn (Japanese)          5102.139                0                       279,706         1,665           
+00246.M2TS      4623 (0x120F)   0x90            PGS             deu (German)            5102.139                1                       324,050         1,864           
+00246.M2TS      4624 (0x1210)   0x90            PGS             ita (Italian)           5102.139                1                       522,688         3,029           
+00246.M2TS      4625 (0x1211)   0x90            PGS             por (Portuguese)        5102.139                1                       327,100         1,879           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Flushed Away
+Disc Label: Flushed.Away.2006.COMPLETE.BLURAY-PCH
+Disc Size: 31,332,744,493 bytes
+Protection: AACS
+Playlist: 01119.MPLS
+Size: 26,816,815,104 bytes
+Length: 1:25:02.305
+Total Bitrate: 42.05 Mbps
+Video: MPEG-4 AVC Video / 31163 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2032 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Catalan / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Japanese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS Audio / 2.0 / 48 kHz /   256 kbps / 24-bit
+Subtitle: English / 57.862 kbps
+Subtitle: French / 32.473 kbps
+Subtitle: Spanish / 34.518 kbps
+Subtitle: Catalan / 34.513 kbps
+Subtitle: Spanish / 37.462 kbps
+Subtitle: Japanese / 23.998 kbps
+Subtitle: German / 41.581 kbps
+Subtitle: Italian / 38.520 kbps
+Subtitle: Portuguese / 36.534 kbps
+Subtitle: English / 88.380 kbps
+Subtitle: French / 0.239 kbps
+Subtitle: Spanish / 0.537 kbps
+Subtitle: Catalan / 0.550 kbps
+Subtitle: Spanish / 0.780 kbps
+Subtitle: Japanese / 0.439 kbps
+Subtitle: German / 0.508 kbps
+Subtitle: Italian / 0.820 kbps
+Subtitle: Portuguese / 0.513 kbps
+
