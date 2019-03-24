@@ -1,0 +1,127 @@
+Disc Title:     Tarzan
+Disc Label:     Tarzan.2014.1080p.NLD.Blu-ray.AVC.DTS-HD.MA.5.1-RVL
+Disc Size:      24,453,648,258 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:34:11 23,254,751,616  24,453,648,258  32.92   23.50   DTS-HD Master 5.1 4418Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Tarzan
+Disc Label:     Tarzan.2014.1080p.NLD.Blu-ray.AVC.DTS-HD.MA.5.1-RVL
+Disc Size:      24,453,648,258 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:34:11.646 (h:m:s.ms)
+Size:                   23,254,751,616 bytes
+Total Bitrate:          32.92 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23503 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4418 kbps       5.1 / 48 kHz /  4418 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Dutch           1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Dutch           1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           12.741 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00015.M2TS      0:00:00.000     0:00:02.001     1,462,272       5,843           
+00001.M2TS      0:00:02.001     1:34:09.644     23,253,289,344  32,927          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:42.795     29,810 kbps     61,112 kbps     00:05:28.327    40,602 kbps     00:05:41.924    37,774 kbps     00:00:15.974    155,402 bytes   861,960 bytes   00:02:09.379    
+2               0:07:42.795     0:07:12.432     21,742 kbps     46,951 kbps     00:14:19.817    40,669 kbps     00:14:18.190    37,841 kbps     00:14:18.190    113,355 bytes   794,167 bytes   00:13:06.118    
+3               0:14:55.227     0:09:03.542     27,441 kbps     59,871 kbps     00:23:35.789    40,681 kbps     00:22:45.530    37,843 kbps     00:21:09.309    143,064 bytes   970,342 bytes   00:23:36.665    
+4               0:23:58.770     0:07:09.720     28,547 kbps     59,596 kbps     00:30:18.858    40,626 kbps     00:30:06.179    37,832 kbps     00:29:11.499    148,832 bytes   801,432 bytes   00:28:35.880    
+5               0:31:08.491     0:09:18.849     23,929 kbps     49,081 kbps     00:34:20.933    40,574 kbps     00:36:11.961    37,763 kbps     00:36:11.836    124,756 bytes   715,017 bytes   00:33:34.137    
+6               0:40:27.341     0:07:40.084     22,357 kbps     56,018 kbps     00:44:56.527    40,634 kbps     00:40:48.195    37,833 kbps     00:44:55.693    116,560 bytes   730,100 bytes   00:45:01.448    
+7               0:48:07.426     0:07:59.020     26,107 kbps     57,305 kbps     00:51:25.916    40,642 kbps     00:51:25.707    37,554 kbps     00:51:25.707    136,111 bytes   729,845 bytes   00:53:38.882    
+8               0:56:06.446     0:07:55.308     26,933 kbps     62,910 kbps     00:58:07.400    40,666 kbps     00:58:40.517    37,845 kbps     00:56:15.830    140,418 bytes   760,535 bytes   00:57:06.548    
+9               1:04:01.754     0:07:40.042     26,579 kbps     59,116 kbps     01:09:10.312    40,633 kbps     01:09:10.312    37,794 kbps     01:07:58.657    138,569 bytes   963,292 bytes   01:09:35.462    
+10              1:11:41.797     0:06:03.237     19,138 kbps     42,775 kbps     01:14:08.235    34,942 kbps     01:12:24.381    32,378 kbps     01:12:20.252    99,777 bytes    679,831 bytes   01:14:00.144    
+11              1:17:45.035     0:16:26.610     14,497 kbps     58,200 kbps     01:26:50.413    40,641 kbps     01:26:17.922    37,760 kbps     01:27:12.185    75,582 bytes    925,289 bytes   01:25:48.560    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00015.M2TS      4113 (0x1011)   0x1B            AVC                                     1.877                   88                      20,636          128             
+00015.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           1.877                   1,683                   394,800         2,444           
+00015.M2TS      4353 (0x1101)   0x86            DTS-HD MA       nld (Dutch)             1.877                   1,683                   394,800         2,444           
+00015.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             1.877                   1,683                   394,800         2,444           
+00015.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             1.877                   33                      7,842           50              
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5679.549                23,473                  16,664,576,522  90,648,007      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5679.549                4,408                   3,129,679,800   17,894,370      
+00001.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5679.549                1,509                   1,071,329,640   6,389,640       
+00001.M2TS      4354 (0x1102)   0x82            DTS             nld (Dutch)             5679.549                1,509                   1,071,329,640   6,389,640       
+00001.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5679.549                13                      8,993,205       51,449          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Tarzan
+Disc Label: Tarzan.2014.1080p.NLD.Blu-ray.AVC.DTS-HD.MA.5.1-RVL
+Disc Size: 24,453,648,258 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 23,254,751,616 bytes
+Length: 1:34:11.646
+Total Bitrate: 32.92 Mbps
+Video: MPEG-4 AVC Video / 23503 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4418 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Subtitle: Dutch / 12.741 kbps
+

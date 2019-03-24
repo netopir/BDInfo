@@ -1,0 +1,276 @@
+Disc Title:     PLANET 51
+Disc Label:     Planet.51.2009.1080p.NLD.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size:      24,765,451,335 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00010.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00010.MPLS                                                      AVC     1:30:34 20,797,513,728  24,765,451,335  30.61   21.77   DTS-HD Master 5.1 2224Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     PLANET 51
+Disc Label:     Planet.51.2009.1080p.NLD.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size:      24,765,451,335 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00010.MPLS
+Length:                 1:30:34.702 (h:m:s.ms)
+Size:                   20,797,513,728 bytes
+Total Bitrate:          30.61 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21775 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2224 kbps       5.1 / 48 kHz /  2224 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       French          1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Dutch           1509 kbps       5.1 / 48 kHz /  1509 kbps / 16-bit
+DTS Audio                       Dutch           1509 kbps       5.1 / 48 kHz /  1509 kbps / 16-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          30.035 kbps                     
+Presentation Graphics           Dutch           31.415 kbps                     
+Presentation Graphics           Dutch           31.527 kbps                     
+Presentation Graphics           Undetermined    0.020 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00011.M2TS      0:00:00.000     0:04:21.000     1,212,647,424   37,169          
+00012.M2TS      0:04:21.000     1:26:05.952     19,572,946,944  30,311          
+00013.M2TS      1:30:26.952     0:00:05.791     11,108,352      15,344          
+00025.M2TS      1:30:32.743     0:00:01.958     811,008         3,244           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:28.125     24,109 kbps     42,751 kbps     00:01:13.166    36,953 kbps     00:01:12.000    34,071 kbps     00:00:43.458    125,556 bytes   609,818 bytes   00:04:26.041    
+2               0:08:28.125     0:08:39.708     22,912 kbps     49,413 kbps     00:12:44.374    38,188 kbps     00:12:44.124    34,198 kbps     00:12:39.749    119,324 bytes   650,383 bytes   00:09:07.791    
+3               0:17:07.833     0:08:38.291     20,638 kbps     48,667 kbps     00:20:03.916    36,046 kbps     00:20:03.416    30,231 kbps     00:22:20.916    107,489 bytes   484,225 bytes   00:19:56.666    
+4               0:25:46.125     0:05:55.958     21,275 kbps     38,678 kbps     00:27:44.874    33,781 kbps     00:27:42.749    33,223 kbps     00:27:43.291    110,809 bytes   718,556 bytes   00:28:41.416    
+5               0:31:42.083     0:05:50.791     21,888 kbps     41,210 kbps     00:36:22.124    37,481 kbps     00:36:22.124    35,213 kbps     00:36:21.333    113,999 bytes   562,064 bytes   00:33:51.541    
+6               0:37:32.875     0:09:08.583     20,818 kbps     37,737 kbps     00:43:20.083    31,378 kbps     00:45:27.624    28,939 kbps     00:40:55.458    108,428 bytes   524,426 bytes   00:40:45.916    
+7               0:46:41.458     0:07:38.583     22,086 kbps     51,602 kbps     00:47:38.791    32,145 kbps     00:49:29.208    31,007 kbps     00:47:45.749    115,030 bytes   491,222 bytes   00:50:20.624    
+8               0:54:20.041     0:09:36.000     21,324 kbps     51,587 kbps     00:58:23.916    32,890 kbps     01:00:14.499    29,962 kbps     01:00:38.166    111,061 bytes   484,927 bytes   01:01:27.749    
+9               1:03:56.041     0:05:06.416     20,938 kbps     43,099 kbps     01:08:32.916    36,069 kbps     01:08:29.541    32,902 kbps     01:08:24.708    109,054 bytes   530,665 bytes   01:06:07.333    
+10              1:09:02.458     0:10:25.333     21,990 kbps     46,788 kbps     01:19:25.583    34,733 kbps     01:10:27.333    32,004 kbps     01:17:41.749    114,529 bytes   638,260 bytes   01:10:38.749    
+11              1:19:27.791     0:04:31.875     20,616 kbps     37,615 kbps     01:23:39.249    31,743 kbps     01:19:37.541    28,984 kbps     01:23:30.458    107,377 bytes   460,113 bytes   01:23:19.999    
+12              1:23:59.666     0:06:27.285     22,059 kbps     36,959 kbps     01:26:03.499    32,481 kbps     01:26:01.791    29,166 kbps     01:25:57.791    114,901 bytes   625,553 bytes   01:25:47.583    
+13              1:30:26.952     0:00:07.750     11,507 kbps     18,513 kbps     01:30:30.410    15,426 kbps     01:30:27.827    0 kbps          00:00:00.000    59,934 bytes    312,931 bytes   01:30:31.452    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00011.M2TS      4113 (0x1011)   0x1B            AVC                                     260.917                 27,823                  907,451,123     4,935,494       
+00011.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           260.917                 2,491                   81,240,136      482,462         
+00011.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            260.917                 1,510                   49,256,097      293,628         
+00011.M2TS      4354 (0x1102)   0x82            DTS             nld (Dutch)             260.917                 1,510                   49,256,097      293,628         
+00011.M2TS      4355 (0x1103)   0x82            DTS             nld (Dutch)             260.917                 1,510                   49,256,097      293,628         
+00011.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            260.917                 14                      447,968         2,573           
+00011.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             260.917                 15                      496,678         2,839           
+00011.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             260.917                 15                      485,469         2,777           
+00011.M2TS      4611 (0x1203)   0x90            PGS             und (Undetermined)      260.917                 0                       6,762           44              
+00012.M2TS      4113 (0x1011)   0x1B            AVC                                     5165.792                21,486                  13,873,776,844  75,473,320      
+00012.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5165.792                2,214                   1,429,697,368   8,573,091       
+00012.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5165.792                1,510                   974,914,017     5,811,708       
+00012.M2TS      4354 (0x1102)   0x82            DTS             nld (Dutch)             5165.792                1,510                   974,914,017     5,811,708       
+00012.M2TS      4355 (0x1103)   0x82            DTS             nld (Dutch)             5165.792                1,510                   974,914,017     5,811,708       
+00012.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5165.792                31                      19,956,113      114,062         
+00012.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5165.792                32                      20,845,044      118,907         
+00012.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5165.792                32                      20,932,416      119,378         
+00012.M2TS      4611 (0x1203)   0x90            PGS             und (Undetermined)      5165.792                0                       6,762           44              
+00013.M2TS      4113 (0x1011)   0x1B            AVC                                     5.625                   15,065                  10,592,562      57,651          
+00025.M2TS      4113 (0x1011)   0x1B            AVC                                     1.833                   3,328                   762,781         4,175           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: PLANET 51
+Disc Label: Planet.51.2009.1080p.NLD.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size: 24,765,451,335 bytes
+Protection: AACS
+Playlist: 00010.MPLS
+Size: 20,797,513,728 bytes
+Length: 1:30:34.702
+Total Bitrate: 30.61 Mbps
+Video: MPEG-4 AVC Video / 21775 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2224 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 16-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 16-bit
+Subtitle: French / 30.035 kbps
+Subtitle: Dutch / 31.415 kbps
+Subtitle: Dutch / 31.527 kbps
+Subtitle: Undetermined / 0.020 kbps
+
+
+********************
+PLAYLIST: 00009.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00009.MPLS                                                      AVC     1:30:28 20,525,740,032  24,765,451,335  30.25   21.42   DTS-HD Master 5.1 2226Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     PLANET 51
+Disc Label:     Planet.51.2009.1080p.NLD.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size:      24,765,451,335 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00009.MPLS
+Length:                 1:30:28.902 (h:m:s.ms)
+Size:                   20,525,740,032 bytes
+Total Bitrate:          30.25 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21415 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2226 kbps       5.1 / 48 kHz /  2226 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       French          1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+DTS Audio                       Dutch           1509 kbps       5.1 / 48 kHz /  1509 kbps / 16-bit
+DTS Audio                       Dutch           1509 kbps       5.1 / 48 kHz /  1509 kbps / 16-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          30.067 kbps                     
+Presentation Graphics           Dutch           31.449 kbps                     
+Presentation Graphics           Dutch           31.561 kbps                     
+Presentation Graphics           Undetermined    0.020 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     0:04:20.991     951,982,080     29,180          
+00012.M2TS      0:04:20.991     1:26:05.952     19,572,946,944  30,311          
+00025.M2TS      1:30:26.944     0:00:01.958     811,008         3,244           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:28.117     20,186 kbps     37,011 kbps     00:02:36.791    31,222 kbps     00:01:11.291    28,304 kbps     00:01:08.583    105,124 bytes   609,818 bytes   00:04:26.033    
+2               0:08:28.117     0:08:39.708     22,912 kbps     49,413 kbps     00:12:44.366    38,188 kbps     00:12:44.116    34,198 kbps     00:12:39.741    119,324 bytes   650,383 bytes   00:09:07.783    
+3               0:17:07.825     0:08:38.291     20,638 kbps     48,667 kbps     00:20:03.908    36,046 kbps     00:20:03.408    30,231 kbps     00:22:20.908    107,489 bytes   484,225 bytes   00:19:56.658    
+4               0:25:46.117     0:05:55.958     21,275 kbps     38,678 kbps     00:27:44.866    33,781 kbps     00:27:42.741    33,223 kbps     00:27:43.283    110,809 bytes   718,556 bytes   00:28:41.408    
+5               0:31:42.075     0:05:50.791     21,888 kbps     41,210 kbps     00:36:22.116    37,481 kbps     00:36:22.116    35,213 kbps     00:36:21.325    113,999 bytes   562,064 bytes   00:33:51.533    
+6               0:37:32.867     0:09:08.583     20,818 kbps     37,737 kbps     00:43:20.075    31,378 kbps     00:45:27.616    28,939 kbps     00:40:55.450    108,428 bytes   524,426 bytes   00:40:45.908    
+7               0:46:41.450     0:07:38.583     22,086 kbps     51,602 kbps     00:47:38.783    32,145 kbps     00:49:29.200    31,007 kbps     00:47:45.741    115,030 bytes   491,222 bytes   00:50:20.616    
+8               0:54:20.033     0:09:36.000     21,324 kbps     51,587 kbps     00:58:23.908    32,890 kbps     01:00:14.491    29,962 kbps     01:00:38.158    111,061 bytes   484,927 bytes   01:01:27.741    
+9               1:03:56.033     0:05:06.416     20,938 kbps     43,099 kbps     01:08:32.908    36,069 kbps     01:08:29.533    32,902 kbps     01:08:24.700    109,054 bytes   530,665 bytes   01:06:07.325    
+10              1:09:02.450     0:10:25.333     21,990 kbps     46,788 kbps     01:19:25.575    34,733 kbps     01:10:27.325    32,004 kbps     01:17:41.741    114,529 bytes   638,260 bytes   01:10:38.741    
+11              1:19:27.783     0:04:31.875     20,616 kbps     37,615 kbps     01:23:39.241    31,743 kbps     01:19:37.533    28,984 kbps     01:23:30.450    107,377 bytes   460,113 bytes   01:23:19.991    
+12              1:23:59.658     0:06:29.243     21,959 kbps     36,959 kbps     01:26:03.491    32,481 kbps     01:26:01.783    29,166 kbps     01:25:57.783    114,382 bytes   625,553 bytes   01:25:47.575    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x1B            AVC                                     260.917                 20,183                  658,256,022     3,581,155       
+00010.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           260.917                 2,491                   81,240,136      482,461         
+00010.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            260.917                 1,510                   49,256,097      293,628         
+00010.M2TS      4354 (0x1102)   0x82            DTS             nld (Dutch)             260.917                 1,510                   49,256,097      293,628         
+00010.M2TS      4355 (0x1103)   0x82            DTS             nld (Dutch)             260.917                 1,510                   49,256,097      293,628         
+00010.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            260.917                 14                      447,968         2,573           
+00010.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             260.917                 15                      496,678         2,839           
+00010.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             260.917                 15                      485,469         2,777           
+00010.M2TS      4611 (0x1203)   0x90            PGS             und (Undetermined)      260.917                 0                       6,762           44              
+00012.M2TS      4113 (0x1011)   0x1B            AVC                                     5165.792                21,486                  13,873,776,844  75,473,320      
+00012.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5165.792                2,214                   1,429,697,368   8,573,091       
+00012.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5165.792                1,510                   974,914,017     5,811,708       
+00012.M2TS      4354 (0x1102)   0x82            DTS             nld (Dutch)             5165.792                1,510                   974,914,017     5,811,708       
+00012.M2TS      4355 (0x1103)   0x82            DTS             nld (Dutch)             5165.792                1,510                   974,914,017     5,811,708       
+00012.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5165.792                31                      19,956,113      114,062         
+00012.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5165.792                32                      20,845,044      118,907         
+00012.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5165.792                32                      20,932,416      119,378         
+00012.M2TS      4611 (0x1203)   0x90            PGS             und (Undetermined)      5165.792                0                       6,762           44              
+00025.M2TS      4113 (0x1011)   0x1B            AVC                                     1.833                   3,328                   762,781         4,175           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: PLANET 51
+Disc Label: Planet.51.2009.1080p.NLD.Blu-Ray.AVC.DTS-HD.MA5.1
+Disc Size: 24,765,451,335 bytes
+Protection: AACS
+Playlist: 00009.MPLS
+Size: 20,525,740,032 bytes
+Length: 1:30:28.902
+Total Bitrate: 30.25 Mbps
+Video: MPEG-4 AVC Video / 21415 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2226 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 16-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 16-bit
+Subtitle: French / 30.067 kbps
+Subtitle: Dutch / 31.449 kbps
+Subtitle: Dutch / 31.561 kbps
+Subtitle: Undetermined / 0.020 kbps
+

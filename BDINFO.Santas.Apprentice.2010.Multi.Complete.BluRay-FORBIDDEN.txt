@@ -1,0 +1,120 @@
+Disc Title:     Nicolas, der kleine Weihnachtsmann
+Disc Label:     Santas.Apprentice.2010.Multi.Complete.BluRay-FORBIDDEN
+Disc Size:      20,223,197,963 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00007.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00007.MPLS                                                      AVC     1:18:36 18,592,923,648  20,223,197,963  31.54   21.97   DTS-HD Master 5.1 3904Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Nicolas, der kleine Weihnachtsmann
+Disc Label:     Santas.Apprentice.2010.Multi.Complete.BluRay-FORBIDDEN
+Disc Size:      20,223,197,963 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00007.MPLS
+Length:                 1:18:36.000 (h:m:s.ms)
+Size:                   18,592,923,648 bytes
+Total Bitrate:          31.54 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21967 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3904 kbps       5.1 / 48 kHz /  3904 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3825 kbps       5.1 / 48 kHz /  3825 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00011.M2TS      0:00:00.000     1:18:26.400     18,577,121,280  31,578          
+00013.M2TS      1:18:26.400     0:00:08.600     15,298,560      14,231          
+00007.M2TS      1:18:35.000     0:00:01.000     503,808         4,030           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:42.840     21,801 kbps     36,274 kbps     00:01:30.880    32,359 kbps     00:00:33.239    32,086 kbps     00:00:28.199    108,996 bytes   640,805 bytes   00:03:48.560    
+2               0:10:42.840     0:07:51.279     21,120 kbps     36,262 kbps     00:17:25.279    32,256 kbps     00:11:24.639    31,601 kbps     00:11:21.520    105,600 bytes   634,977 bytes   00:10:46.840    
+3               0:18:34.120     0:06:40.479     20,120 kbps     35,440 kbps     00:21:54.720    32,416 kbps     00:22:27.319    32,044 kbps     00:22:22.360    100,599 bytes   637,801 bytes   00:22:58.120    
+4               0:25:14.599     0:05:54.360     24,744 kbps     34,827 kbps     00:25:52.599    32,162 kbps     00:27:59.639    31,384 kbps     00:27:58.320    123,720 bytes   639,619 bytes   00:29:47.560    
+5               0:31:08.959     0:06:00.600     21,018 kbps     37,362 kbps     00:31:41.599    32,409 kbps     00:31:49.560    30,506 kbps     00:34:58.720    105,089 bytes   595,274 bytes   00:31:52.560    
+6               0:37:09.560     0:06:14.679     22,499 kbps     39,610 kbps     00:42:46.520    32,164 kbps     00:42:03.160    31,064 kbps     00:42:18.640    112,496 bytes   640,233 bytes   00:41:55.760    
+7               0:43:24.239     0:04:52.800     23,440 kbps     35,380 kbps     00:45:41.959    32,104 kbps     00:45:47.800    31,806 kbps     00:45:46.960    117,202 bytes   638,095 bytes   00:43:25.239    
+8               0:48:17.040     0:04:13.319     24,218 kbps     35,522 kbps     00:48:47.880    32,485 kbps     00:48:40.160    31,655 kbps     00:48:35.080    121,090 bytes   592,814 bytes   00:51:32.239    
+9               0:52:30.360     0:05:52.279     22,130 kbps     35,201 kbps     00:56:15.400    32,278 kbps     00:54:39.000    31,439 kbps     00:56:31.840    110,651 bytes   634,951 bytes   00:56:17.200    
+10              0:58:22.639     0:04:00.639     19,175 kbps     35,248 kbps     01:01:57.840    31,397 kbps     01:01:55.599    30,176 kbps     01:01:52.320    95,877 bytes    637,641 bytes   01:01:45.800    
+11              1:02:23.279     0:09:10.600     23,205 kbps     36,674 kbps     01:10:54.760    32,669 kbps     01:10:50.840    32,138 kbps     01:10:45.720    116,025 bytes   640,164 bytes   01:10:00.440    
+12              1:11:33.880     0:06:52.519     20,662 kbps     35,181 kbps     01:11:53.840    32,259 kbps     01:13:59.880    32,011 kbps     01:13:54.800    103,311 bytes   547,945 bytes   01:12:50.120    
+13              1:18:26.400     0:00:09.600     8,947 kbps      13,220 kbps     01:18:33.320    10,604 kbps     01:18:29.320    0 kbps          00:00:00.000    44,925 bytes    210,612 bytes   01:18:27.400    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00011.M2TS      4113 (0x1011)   0x1B            AVC                                     4706.240                21,995                  12,938,962,606  70,389,144      
+00011.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4706.240                3,909                   2,299,670,680   13,231,911      
+00011.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4706.240                3,829                   2,252,808,652   12,977,087      
+00013.M2TS      4113 (0x1011)   0x1B            AVC                                     8.440                   10,165                  10,723,928      58,405          
+00013.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            8.440                   1,589                   1,676,480       10,478          
+00013.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           8.440                   1,589                   1,676,480       10,478          
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     0.840                   136                     14,241          97              
+00007.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            0.840                   1,862                   195,520         1,222           
+00007.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           0.840                   1,862                   195,520         1,222           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Nicolas, der kleine Weihnachtsmann
+Disc Label: Santas.Apprentice.2010.Multi.Complete.BluRay-FORBIDDEN
+Disc Size: 20,223,197,963 bytes
+Protection: AACS
+Playlist: 00007.MPLS
+Size: 18,592,923,648 bytes
+Length: 1:18:36.000
+Total Bitrate: 31.54 Mbps
+Video: MPEG-4 AVC Video / 21967 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3904 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3825 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+

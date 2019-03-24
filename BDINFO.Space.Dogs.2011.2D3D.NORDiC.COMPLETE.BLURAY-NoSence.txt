@@ -1,0 +1,118 @@
+Disc Title:     Space Dogs
+Disc Label:     Space.Dogs.2011.2D3D.NORDiC.COMPLETE.BLURAY-NoSence
+Disc Size:      31,887,532,381 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:28:13 23,844,710,400  31,887,532,381  36.03   22.89   DTS-HD Master 5.1 2063Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Space Dogs
+Disc Label:     Space.Dogs.2011.2D3D.NORDiC.COMPLETE.BLURAY-NoSence
+Disc Size:      31,887,532,381 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:28:13.705 (h:m:s.ms)
+Size:                   23,844,710,400 bytes
+Total Bitrate:          36.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22892 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Swedish         2063 kbps       5.1 / 48 kHz /  2063 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+DTS-HD Master Audio             Danish          2060 kbps       5.1 / 48 kHz /  2060 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+DTS-HD Master Audio             Norwegian       2073 kbps       5.1 / 48 kHz /  2073 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+DTS-HD Master Audio             Finnish         2077 kbps       5.1 / 48 kHz /  2077 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+DTS-HD Master Audio             English         2153 kbps       5.1 / 48 kHz /  2153 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     1:28:13.288     23,844,698,112  36,038          
+00003.M2TS      1:28:13.288     0:00:00.417     12,288          236             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:17.176     24,014 kbps     37,200 kbps     00:00:33.366    29,889 kbps     00:01:52.445    27,966 kbps     00:04:53.876    125,191 bytes   626,083 bytes   00:00:33.408    
+2               0:11:17.176     0:10:32.131     24,743 kbps     33,458 kbps     00:12:14.567    29,923 kbps     00:16:28.028    28,264 kbps     00:21:32.291    128,997 bytes   595,046 bytes   00:12:17.570    
+3               0:21:49.308     0:12:42.178     23,938 kbps     34,152 kbps     00:22:49.785    29,180 kbps     00:27:47.832    27,829 kbps     00:29:40.487    124,803 bytes   503,943 bytes   00:28:11.398    
+4               0:34:31.486     0:11:18.135     22,423 kbps     33,478 kbps     00:37:23.407    29,258 kbps     00:42:37.137    26,580 kbps     00:37:22.949    116,905 bytes   363,976 bytes   00:34:42.288    
+5               0:45:49.621     0:11:30.981     22,447 kbps     34,869 kbps     00:47:06.740    29,937 kbps     00:46:13.353    27,147 kbps     00:45:51.915    117,031 bytes   419,450 bytes   00:55:46.885    
+6               0:57:20.603     0:10:36.385     24,299 kbps     35,601 kbps     01:05:40.603    29,541 kbps     01:07:48.063    28,222 kbps     01:07:46.270    126,681 bytes   551,480 bytes   01:01:09.374    
+7               1:07:56.989     0:13:13.667     23,784 kbps     34,554 kbps     01:15:47.292    29,966 kbps     01:17:56.963    28,830 kbps     01:17:52.250    123,999 bytes   622,797 bytes   01:16:18.740    
+8               1:21:10.657     0:07:03.047     14,129 kbps     26,634 kbps     01:22:52.759    25,408 kbps     01:22:49.005    24,157 kbps     01:22:44.000    73,670 bytes    282,510 bytes   01:23:29.796    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x1B            AVC                                     5293.205                22,894                  15,147,687,191  82,398,651      
+00009.M2TS      4352 (0x1100)   0x86            DTS-HD MA       swe (Swedish)           5293.205                2,063                   1,365,151,016   8,244,059       
+00009.M2TS      4353 (0x1101)   0x86            DTS-HD MA       dan (Danish)            5293.205                2,060                   1,363,149,964   8,233,272       
+00009.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nor (Norwegian)         5293.205                2,073                   1,371,884,984   8,278,282       
+00009.M2TS      4355 (0x1103)   0x86            DTS-HD MA       fin (Finnish)           5293.205                2,077                   1,374,130,456   8,292,876       
+00009.M2TS      4356 (0x1104)   0x86            DTS-HD MA       eng (English)           5293.205                2,153                   1,424,760,512   8,566,640       
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     0.250                   171                     5,352           32              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Space Dogs
+Disc Label: Space.Dogs.2011.2D3D.NORDiC.COMPLETE.BLURAY-NoSence
+Disc Size: 31,887,532,381 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 23,844,710,400 bytes
+Length: 1:28:13.705
+Total Bitrate: 36.03 Mbps
+Video: MPEG-4 AVC Video / 22892 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Swedish / DTS-HD Master Audio / 5.1 / 48 kHz /  2063 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+Audio: Danish / DTS-HD Master Audio / 5.1 / 48 kHz /  2060 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+Audio: Norwegian / DTS-HD Master Audio / 5.1 / 48 kHz /  2073 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+Audio: Finnish / DTS-HD Master Audio / 5.1 / 48 kHz /  2077 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2153 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+

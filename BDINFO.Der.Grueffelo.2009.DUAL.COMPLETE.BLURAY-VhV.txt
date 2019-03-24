@@ -1,0 +1,191 @@
+Disc Title:     Der Grüffelo
+Disc Label:     Der.Grueffelo.2009.DUAL.COMPLETE.BLURAY-VhV
+Disc Size:      11,110,149,495 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     0:28:24 8,677,582,848   11,110,149,495  40.72   29.98   DTS-HD Master 5.1 4340Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der Grüffelo
+Disc Label:     Der.Grueffelo.2009.DUAL.COMPLETE.BLURAY-VhV
+Disc Size:      11,110,149,495 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 0:28:24.744 (h:m:s.ms)
+Size:                   8,677,582,848 bytes
+Total Bitrate:          40.72 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29976 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4340 kbps       5.1 / 48 kHz /  4340 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4181 kbps       5.1 / 48 kHz /  4181 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     0:28:24.744     8,677,582,848   40,722          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:40.905     29,864 kbps     38,120 kbps     00:01:30.840    36,909 kbps     00:00:38.079    36,858 kbps     00:00:38.079    155,676 bytes   506,615 bytes   00:04:11.960    
+2               0:04:40.905     0:03:55.151     29,868 kbps     38,182 kbps     00:06:14.082    34,063 kbps     00:08:15.578    33,071 kbps     00:05:57.065    155,718 bytes   521,764 bytes   00:05:23.740    
+3               0:08:36.057     0:04:00.323     31,622 kbps     38,840 kbps     00:08:59.038    36,547 kbps     00:08:58.663    35,717 kbps     00:08:55.618    164,864 bytes   459,619 bytes   00:10:56.197    
+4               0:12:36.380     0:05:05.638     29,761 kbps     37,476 kbps     00:13:50.079    33,314 kbps     00:16:48.924    32,850 kbps     00:16:43.919    155,161 bytes   508,391 bytes   00:14:40.087    
+5               0:17:42.019     0:06:18.753     30,449 kbps     39,061 kbps     00:21:57.482    35,037 kbps     00:19:42.639    34,066 kbps     00:19:05.519    158,749 bytes   633,550 bytes   00:19:35.883    
+6               0:24:00.772     0:04:23.972     28,259 kbps     37,440 kbps     00:27:28.063    36,898 kbps     00:27:28.063    36,482 kbps     00:27:24.392    147,355 bytes   505,283 bytes   00:26:00.684    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     1704.578                29,979                  6,387,608,330   34,739,034      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            1704.578                4,341                   924,865,740     5,293,062       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           1704.578                4,182                   891,044,444     5,106,489       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der Grüffelo
+Disc Label: Der.Grueffelo.2009.DUAL.COMPLETE.BLURAY-VhV
+Disc Size: 11,110,149,495 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 8,677,582,848 bytes
+Length: 0:28:24.744
+Total Bitrate: 40.72 Mbps
+Video: MPEG-4 AVC Video / 29976 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4340 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4181 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00602.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00602.MPLS                                                      AVC     0:28:24 8,677,582,848   11,110,149,495  40.72   29.98   DTS-HD Master 5.1 4340Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der Grüffelo
+Disc Label:     Der.Grueffelo.2009.DUAL.COMPLETE.BLURAY-VhV
+Disc Size:      11,110,149,495 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00602.MPLS
+Length:                 0:28:24.744 (h:m:s.ms)
+Size:                   8,677,582,848 bytes
+Total Bitrate:          40.72 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29976 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4340 kbps       5.1 / 48 kHz /  4340 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4181 kbps       5.1 / 48 kHz /  4181 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     0:28:24.744     8,677,582,848   40,722          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:40.905     29,864 kbps     38,120 kbps     00:01:30.840    36,909 kbps     00:00:38.079    36,858 kbps     00:00:38.079    155,676 bytes   506,615 bytes   00:04:11.960    
+2               0:04:40.905     0:03:55.151     29,868 kbps     38,182 kbps     00:06:14.082    34,063 kbps     00:08:15.578    33,071 kbps     00:05:57.065    155,718 bytes   521,764 bytes   00:05:23.740    
+3               0:08:36.057     0:04:00.323     31,622 kbps     38,840 kbps     00:08:59.038    36,547 kbps     00:08:58.663    35,717 kbps     00:08:55.618    164,864 bytes   459,619 bytes   00:10:56.197    
+4               0:12:36.380     0:05:05.638     29,761 kbps     37,476 kbps     00:13:50.079    33,314 kbps     00:16:48.924    32,850 kbps     00:16:43.919    155,161 bytes   508,391 bytes   00:14:40.087    
+5               0:17:42.019     0:06:18.753     30,449 kbps     39,061 kbps     00:21:57.482    35,037 kbps     00:19:42.639    34,066 kbps     00:19:05.519    158,749 bytes   633,550 bytes   00:19:35.883    
+6               0:24:00.772     0:04:23.972     28,259 kbps     37,440 kbps     00:27:28.063    36,898 kbps     00:27:28.063    36,482 kbps     00:27:24.392    147,355 bytes   505,283 bytes   00:26:00.684    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     1704.578                29,979                  6,387,608,330   34,739,034      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            1704.578                4,341                   924,865,740     5,293,062       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           1704.578                4,182                   891,044,444     5,106,489       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der Grüffelo
+Disc Label: Der.Grueffelo.2009.DUAL.COMPLETE.BLURAY-VhV
+Disc Size: 11,110,149,495 bytes
+Protection: AACS
+Playlist: 00602.MPLS
+Size: 8,677,582,848 bytes
+Length: 0:28:24.744
+Total Bitrate: 40.72 Mbps
+Video: MPEG-4 AVC Video / 29976 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4340 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4181 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
