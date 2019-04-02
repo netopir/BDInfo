@@ -1,0 +1,271 @@
+Disc Title:     Frankenweenie - Blu-ray 3D™
+Disc Label:     Frankenweenie.2012.3D.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size:      38,791,216,896 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:26:56 26,266,484,736  38,791,216,896  40.28   29.97   DTS-HD Master 7.1 4976Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Frankenweenie - Blu-ray 3D™
+Disc Label:     Frankenweenie.2012.3D.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size:      38,791,216,896 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:26:56.878 (h:m:s.ms)
+Size:                   26,266,484,736 bytes
+Total Bitrate:          40.28 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29975 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4976 kbps       7.1 / 48 kHz /  4976 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+DTS-HD High-Res Audio           French          2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         25.971 kbps                     
+Presentation Graphics           English         17.495 kbps                     
+Presentation Graphics           French          18.126 kbps                     
+Presentation Graphics           Spanish         15.859 kbps                     
+Presentation Graphics           French          0.663 kbps                      
+Presentation Graphics           Spanish         0.275 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:26:56.878     26,266,484,736  40,279          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:25.325     29,920 kbps     37,331 kbps     00:04:04.786    31,781 kbps     00:04:38.236    31,235 kbps     00:04:33.314    155,972 bytes   639,382 bytes   00:05:05.179    
+2               0:05:25.325     0:05:51.893     29,760 kbps     34,420 kbps     00:09:10.091    31,559 kbps     00:10:23.581    31,120 kbps     00:10:18.576    155,153 bytes   639,498 bytes   00:08:26.797    
+3               0:11:17.218     0:04:14.796     29,976 kbps     35,027 kbps     00:15:28.302    31,499 kbps     00:15:24.298    31,176 kbps     00:14:37.835    156,279 bytes   637,725 bytes   00:14:52.892    
+4               0:15:32.014     0:03:56.277     30,427 kbps     37,514 kbps     00:18:08.670    32,050 kbps     00:18:04.625    31,566 kbps     00:17:59.661    158,630 bytes   629,934 bytes   00:18:52.047    
+5               0:19:28.292     0:06:41.025     29,874 kbps     41,981 kbps     00:21:11.979    32,424 kbps     00:25:16.556    31,402 kbps     00:25:11.551    155,751 bytes   639,272 bytes   00:21:14.064    
+6               0:26:09.317     0:05:50.475     29,864 kbps     38,248 kbps     00:31:24.966    32,014 kbps     00:31:21.045    31,166 kbps     00:30:29.410    155,697 bytes   638,528 bytes   00:30:40.588    
+7               0:31:59.792     0:03:52.732     29,997 kbps     35,531 kbps     00:33:15.201    31,802 kbps     00:32:52.345    31,246 kbps     00:33:06.192    156,388 bytes   640,678 bytes   00:33:23.418    
+8               0:35:52.525     0:05:19.652     30,103 kbps     35,685 kbps     00:40:04.777    31,596 kbps     00:40:00.731    31,237 kbps     00:39:55.851    156,944 bytes   637,509 bytes   00:38:16.752    
+9               0:41:12.178     0:05:32.206     29,686 kbps     34,734 kbps     00:42:38.639    31,454 kbps     00:42:34.843    31,161 kbps     00:42:29.713    154,771 bytes   640,523 bytes   00:46:06.638    
+10              0:46:44.384     0:03:28.958     30,408 kbps     34,333 kbps     00:50:12.342    31,487 kbps     00:50:02.207    31,156 kbps     00:47:05.572    158,533 bytes   627,269 bytes   00:49:06.276    
+11              0:50:13.343     0:05:11.519     30,198 kbps     36,286 kbps     00:55:14.936    31,536 kbps     00:54:42.696    31,099 kbps     00:53:38.965    157,438 bytes   633,132 bytes   00:50:28.525    
+12              0:55:24.863     0:08:22.335     29,840 kbps     40,223 kbps     01:02:28.077    32,087 kbps     00:59:48.084    31,337 kbps     00:59:39.659    155,571 bytes   639,593 bytes   00:57:09.384    
+13              1:03:47.198     0:05:38.796     29,974 kbps     36,709 kbps     01:05:40.770    31,580 kbps     01:07:56.322    31,190 kbps     01:07:51.317    156,271 bytes   636,149 bytes   01:07:19.869    
+14              1:09:25.995     0:07:18.938     30,283 kbps     34,296 kbps     01:11:03.509    31,699 kbps     01:16:35.674    31,199 kbps     01:16:30.669    157,883 bytes   602,647 bytes   01:11:48.804    
+15              1:16:44.933     0:03:23.870     29,448 kbps     35,289 kbps     01:20:04.049    32,020 kbps     01:20:00.086    31,439 kbps     01:19:55.081    153,530 bytes   638,959 bytes   01:19:20.505    
+16              1:20:08.804     0:06:48.074     29,963 kbps     38,150 kbps     01:26:54.542    31,516 kbps     01:22:47.253    31,113 kbps     01:24:28.396    156,228 bytes   640,558 bytes   01:23:54.029    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5216.795                29,975                  19,546,828,966  106,308,402     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5216.795                4,976                   3,244,932,652   18,448,921      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5216.795                320                     208,675,840     1,304,224       
+00800.M2TS      4354 (0x1102)   0x85            DTS-HD HR       fra (French)            5216.795                2,046                   1,334,218,424   7,825,328       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           5216.795                640                     417,351,680     2,445,420       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5216.795                26                      16,935,785      99,069          
+00800.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5216.795                17                      11,408,896      66,310          
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5216.795                18                      11,820,134      68,762          
+00800.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5216.795                16                      10,341,547      59,955          
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            5216.795                1                       432,395         2,526           
+00800.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           5216.795                0                       179,462         1,046           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Frankenweenie - Blu-ray 3D™
+Disc Label: Frankenweenie.2012.3D.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size: 38,791,216,896 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 26,266,484,736 bytes
+Length: 1:26:56.878
+Total Bitrate: 40.28 Mbps
+Video: MPEG-4 AVC Video / 29975 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4976 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: French / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 25.971 kbps
+Subtitle: English / 17.495 kbps
+Subtitle: French / 18.126 kbps
+Subtitle: Spanish / 15.859 kbps
+Subtitle: French / 0.663 kbps
+Subtitle: Spanish / 0.275 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:26:56 26,266,484,736  38,791,216,896  40.28   29.97   DTS-HD Master 7.1 4976Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Frankenweenie - Blu-ray 3D™
+Disc Label:     Frankenweenie.2012.3D.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size:      38,791,216,896 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:26:56.878 (h:m:s.ms)
+Size:                   26,266,484,736 bytes
+Total Bitrate:          40.28 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29975 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         4976 kbps       7.1 / 48 kHz /  4976 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* DTS-HD High-Res Audio         French          2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Dolby Digital Audio           Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         25.971 kbps                     
+* Presentation Graphics         English         17.495 kbps                     
+* Presentation Graphics         French          18.126 kbps                     
+* Presentation Graphics         Spanish         15.859 kbps                     
+* Presentation Graphics         French          0.663 kbps                      
+* Presentation Graphics         Spanish         0.275 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:26:56.878     26,266,484,736  40,279          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:25.325     29,920 kbps     37,331 kbps     00:04:04.786    31,781 kbps     00:04:38.236    31,235 kbps     00:04:33.314    155,972 bytes   639,382 bytes   00:05:05.179    
+2               0:05:25.325     0:05:51.893     29,760 kbps     34,420 kbps     00:09:10.091    31,559 kbps     00:10:23.581    31,120 kbps     00:10:18.576    155,153 bytes   639,498 bytes   00:08:26.797    
+3               0:11:17.218     0:04:14.796     29,976 kbps     35,027 kbps     00:15:28.302    31,499 kbps     00:15:24.298    31,176 kbps     00:14:37.835    156,279 bytes   637,725 bytes   00:14:52.892    
+4               0:15:32.014     0:03:56.277     30,427 kbps     37,514 kbps     00:18:08.670    32,050 kbps     00:18:04.625    31,566 kbps     00:17:59.661    158,630 bytes   629,934 bytes   00:18:52.047    
+5               0:19:28.292     0:06:41.025     29,874 kbps     41,981 kbps     00:21:11.979    32,424 kbps     00:25:16.556    31,402 kbps     00:25:11.551    155,751 bytes   639,272 bytes   00:21:14.064    
+6               0:26:09.317     0:05:50.475     29,864 kbps     38,248 kbps     00:31:24.966    32,014 kbps     00:31:21.045    31,166 kbps     00:30:29.410    155,697 bytes   638,528 bytes   00:30:40.588    
+7               0:31:59.792     0:03:52.732     29,997 kbps     35,531 kbps     00:33:15.201    31,802 kbps     00:32:52.345    31,246 kbps     00:33:06.192    156,388 bytes   640,678 bytes   00:33:23.418    
+8               0:35:52.525     0:05:19.652     30,103 kbps     35,685 kbps     00:40:04.777    31,596 kbps     00:40:00.731    31,237 kbps     00:39:55.851    156,944 bytes   637,509 bytes   00:38:16.752    
+9               0:41:12.178     0:05:32.206     29,686 kbps     34,734 kbps     00:42:38.639    31,454 kbps     00:42:34.843    31,161 kbps     00:42:29.713    154,771 bytes   640,523 bytes   00:46:06.638    
+10              0:46:44.384     0:03:28.958     30,408 kbps     34,333 kbps     00:50:12.342    31,487 kbps     00:50:02.207    31,156 kbps     00:47:05.572    158,533 bytes   627,269 bytes   00:49:06.276    
+11              0:50:13.343     0:05:11.519     30,198 kbps     36,286 kbps     00:55:14.936    31,536 kbps     00:54:42.696    31,099 kbps     00:53:38.965    157,438 bytes   633,132 bytes   00:50:28.525    
+12              0:55:24.863     0:08:22.335     29,840 kbps     40,223 kbps     01:02:28.077    32,087 kbps     00:59:48.084    31,337 kbps     00:59:39.659    155,571 bytes   639,593 bytes   00:57:09.384    
+13              1:03:47.198     0:05:38.796     29,974 kbps     36,709 kbps     01:05:40.770    31,580 kbps     01:07:56.322    31,190 kbps     01:07:51.317    156,271 bytes   636,149 bytes   01:07:19.869    
+14              1:09:25.995     0:07:18.938     30,283 kbps     34,296 kbps     01:11:03.509    31,699 kbps     01:16:35.674    31,199 kbps     01:16:30.669    157,883 bytes   602,647 bytes   01:11:48.804    
+15              1:16:44.933     0:03:23.870     29,448 kbps     35,289 kbps     01:20:04.049    32,020 kbps     01:20:00.086    31,439 kbps     01:19:55.081    153,530 bytes   638,959 bytes   01:19:20.505    
+16              1:20:08.804     0:06:48.074     29,963 kbps     38,150 kbps     01:26:54.542    31,516 kbps     01:22:47.253    31,113 kbps     01:24:28.396    156,228 bytes   640,558 bytes   01:23:54.029    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5216.795                29,975                  19,546,828,966  106,308,402     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5216.795                4,976                   3,244,932,652   18,448,921      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5216.795                320                     208,675,840     1,304,224       
+00800.M2TS      4354 (0x1102)   0x85            DTS-HD HR       fra (French)            5216.795                2,046                   1,334,218,424   7,825,328       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           5216.795                640                     417,351,680     2,445,420       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5216.795                26                      16,935,785      99,069          
+00800.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5216.795                17                      11,408,896      66,310          
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5216.795                18                      11,820,134      68,762          
+00800.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           5216.795                16                      10,341,547      59,955          
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            5216.795                1                       432,395         2,526           
+00800.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           5216.795                0                       179,462         1,046           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Frankenweenie - Blu-ray 3D™
+Disc Label: Frankenweenie.2012.3D.BluRay.1080p.AVC.DTS-HD.MA7.1-CHDBits
+Disc Size: 38,791,216,896 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 26,266,484,736 bytes
+Length: 1:26:56.878
+Total Bitrate: 40.28 Mbps
+Video: MPEG-4 AVC Video / 29975 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4976 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Audio: French / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Subtitle: English / 25.971 kbps
+* Subtitle: English / 17.495 kbps
+* Subtitle: French / 18.126 kbps
+* Subtitle: Spanish / 15.859 kbps
+* Subtitle: French / 0.663 kbps
+* Subtitle: Spanish / 0.275 kbps
+

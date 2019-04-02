@@ -1,0 +1,106 @@
+Disc Title:     Mila und Ruslan - Mutiger als erlaubt
+Disc Label:     Mila.und.Ruslan.Mutiger.als.erlaubt.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      19,552,430,929 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:31:09 17,654,360,064  19,552,430,929  25.82   19.99   DTS-HD Master 5.1 2134Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Mila und Ruslan - Mutiger als erlaubt
+Disc Label:     Mila.und.Ruslan.Mutiger.als.erlaubt.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      19,552,430,929 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:31:09.333 (h:m:s.ms)
+Size:                   17,654,360,064 bytes
+Total Bitrate:          25.82 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19988 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2134 kbps       5.1 / 48 kHz /  2134 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2097 kbps       5.1 / 48 kHz /  2097 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     1:31:09.333     17,654,360,064  25,823          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:29.625     21,762 kbps     62,362 kbps     00:01:13.124    40,653 kbps     00:01:28.750    36,375 kbps     00:01:26.666    113,338 bytes   734,393 bytes   00:03:53.500    
+2               0:11:29.625     0:09:30.875     18,145 kbps     36,907 kbps     00:19:54.208    31,205 kbps     00:19:54.166    27,606 kbps     00:19:52.083    94,505 bytes    613,272 bytes   00:12:51.666    
+3               0:21:00.500     0:08:47.000     26,277 kbps     51,068 kbps     00:29:40.874    40,565 kbps     00:28:32.375    37,834 kbps     00:23:49.625    136,857 bytes   756,309 bytes   00:28:23.958    
+4               0:29:47.500     0:07:31.708     20,796 kbps     52,148 kbps     00:32:14.624    39,304 kbps     00:31:08.750    37,311 kbps     00:31:08.374    108,313 bytes   660,648 bytes   00:33:56.958    
+5               0:37:19.208     0:14:16.541     23,145 kbps     61,851 kbps     00:44:05.666    40,628 kbps     00:46:02.791    37,808 kbps     00:43:06.083    120,549 bytes   871,381 bytes   00:47:13.666    
+6               0:51:35.750     0:12:53.333     18,553 kbps     51,876 kbps     00:52:33.416    40,292 kbps     00:52:32.041    36,848 kbps     00:52:31.416    96,631 bytes    815,273 bytes   00:53:13.166    
+7               1:04:29.083     0:08:27.333     17,118 kbps     54,361 kbps     01:04:42.708    33,433 kbps     01:09:55.083    30,028 kbps     01:12:35.250    89,155 bytes    672,362 bytes   01:09:57.750    
+8               1:12:56.416     0:10:52.875     19,118 kbps     62,284 kbps     01:23:22.041    40,650 kbps     01:23:33.458    36,162 kbps     01:23:32.833    99,571 bytes    947,157 bytes   01:23:22.875    
+9               1:23:49.291     0:07:20.041     12,220 kbps     54,060 kbps     01:23:51.083    40,371 kbps     01:23:50.625    37,771 kbps     01:23:50.250    63,650 bytes    671,590 bytes   01:24:08.291    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x1B            AVC                                     5469.250                19,989                  13,665,451,934  74,345,224      
+00009.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5469.250                2,134                   1,458,793,656   8,778,082       
+00009.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5469.250                2,098                   1,433,978,472   8,643,227       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Mila und Ruslan - Mutiger als erlaubt
+Disc Label: Mila.und.Ruslan.Mutiger.als.erlaubt.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 19,552,430,929 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 17,654,360,064 bytes
+Length: 1:31:09.333
+Total Bitrate: 25.82 Mbps
+Video: MPEG-4 AVC Video / 19988 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2134 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2097 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+

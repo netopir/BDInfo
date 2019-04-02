@@ -1,0 +1,495 @@
+Disc Title:     Bee Movie
+Disc Label:     Bee.Movie.2007.BluRay.1080p.AVC.TrueHD.5.1-RVL
+Disc Size:      49,311,622,292 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:30:40 29,267,005,440  49,311,622,292  43.03   26.96   Dolby TrueHD 5.1 3836Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bee Movie
+Disc Label:     Bee.Movie.2007.BluRay.1080p.AVC.TrueHD.5.1-RVL
+Disc Size:      49,311,622,292 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:30:40.852 (h:m:s.ms)
+Size:                   29,267,005,440 bytes
+Total Bitrate:          43.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26961 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        5000 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3836 kbps       5.1 / 48 kHz /  3196 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.673 kbps                     
+Presentation Graphics           Dutch           39.246 kbps                     
+Presentation Graphics           French          38.267 kbps                     
+Presentation Graphics           German          51.815 kbps                     
+Presentation Graphics           Italian         46.286 kbps                     
+Presentation Graphics           Spanish         47.479 kbps                     
+Presentation Graphics           English         56.487 kbps                     
+Presentation Graphics           Dutch           49.826 kbps                     
+Presentation Graphics           French          54.727 kbps                     
+Presentation Graphics           German          56.056 kbps                     
+Presentation Graphics           Italian         53.507 kbps                     
+Presentation Graphics           Spanish         53.243 kbps                     
+Presentation Graphics           English         16.689 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00244.M2TS      0:00:00.000     1:30:40.852     29,267,005,440  43,033          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:18.438     27,444 kbps     34,616 kbps     00:06:28.971    30,167 kbps     00:06:33.851    29,654 kbps     00:06:20.004    143,069 bytes   612,103 bytes   00:06:29.972    
+2               0:07:18.438     0:02:21.391     28,724 kbps     34,202 kbps     00:07:24.569    29,911 kbps     00:07:51.429    29,520 kbps     00:08:35.431    149,753 bytes   623,567 bytes   00:09:39.829    
+3               0:09:39.829     0:02:33.736     26,708 kbps     33,214 kbps     00:11:01.410    29,934 kbps     00:10:57.323    29,594 kbps     00:10:52.193    139,241 bytes   576,625 bytes   00:09:40.830    
+4               0:12:13.566     0:07:39.959     28,013 kbps     42,202 kbps     00:16:28.946    31,369 kbps     00:16:24.942    30,031 kbps     00:16:19.937    146,048 bytes   739,806 bytes   00:16:29.822    
+5               0:19:53.525     0:07:31.909     26,698 kbps     33,478 kbps     00:20:32.814    29,858 kbps     00:24:31.469    29,668 kbps     00:20:23.805    139,193 bytes   626,211 bytes   00:27:18.803    
+6               0:27:25.435     0:04:12.377     28,065 kbps     33,205 kbps     00:30:46.219    29,972 kbps     00:30:27.158    29,549 kbps     00:28:03.556    146,317 bytes   641,364 bytes   00:30:47.220    
+7               0:31:37.812     0:09:58.014     27,081 kbps     39,440 kbps     00:38:30.099    30,333 kbps     00:40:03.359    29,634 kbps     00:40:32.721    141,187 bytes   798,566 bytes   00:40:08.322    
+8               0:41:35.826     0:03:24.203     27,537 kbps     32,042 kbps     00:44:01.055    29,878 kbps     00:43:56.967    29,533 kbps     00:42:24.667    143,564 bytes   526,409 bytes   00:44:01.930    
+9               0:45:00.030     0:05:50.516     26,181 kbps     32,611 kbps     00:45:07.746    29,875 kbps     00:45:38.193    29,563 kbps     00:45:31.812    136,497 bytes   601,882 bytes   00:45:08.622    
+10              0:50:50.547     0:04:38.027     24,115 kbps     31,534 kbps     00:53:56.608    29,071 kbps     00:52:44.327    27,879 kbps     00:53:04.556    125,722 bytes   485,626 bytes   00:52:41.116    
+11              0:55:28.575     0:03:54.567     26,351 kbps     33,488 kbps     00:56:38.603    29,547 kbps     00:58:54.405    29,125 kbps     00:58:11.279    137,382 bytes   674,079 bytes   00:59:14.801    
+12              0:59:23.142     0:05:31.581     26,464 kbps     35,437 kbps     01:02:36.878    30,055 kbps     01:02:39.338    29,497 kbps     01:02:34.542    137,971 bytes   619,198 bytes   01:02:43.384    
+13              1:04:54.724     0:04:14.295     25,933 kbps     34,959 kbps     01:06:18.224    30,370 kbps     01:06:14.220    29,575 kbps     01:07:01.767    135,203 bytes   752,016 bytes   01:07:19.118    
+14              1:09:09.019     0:08:43.064     26,434 kbps     36,181 kbps     01:09:30.499    30,146 kbps     01:09:34.295    29,692 kbps     01:09:31.041    137,816 bytes   798,606 bytes   01:14:00.185    
+15              1:17:52.084     0:04:34.732     26,406 kbps     40,160 kbps     01:19:58.794    30,083 kbps     01:19:54.790    29,498 kbps     01:19:49.785    137,670 bytes   650,408 bytes   01:21:55.285    
+16              1:22:26.816     0:08:14.035     28,599 kbps     34,168 kbps     01:22:45.669    30,180 kbps     01:23:58.324    29,529 kbps     01:22:36.660    149,116 bytes   542,671 bytes   01:30:36.222    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00244.M2TS      4113 (0x1011)   0x1B            AVC                                     5440.769                26,962                  18,336,689,526  99,732,124      
+00244.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5440.769                3,836                   2,608,797,452   17,909,787      
+00244.M2TS      4353 (0x1101)   0x81            AC3             nld (Dutch)             5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4356 (0x1104)   0x81            AC3             ita (Italian)           5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4357 (0x1105)   0x81            AC3             spa (Spanish)           5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           5440.769                192                     130,580,736     850,135         
+00244.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5440.769                47                      31,742,522      181,109         
+00244.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5440.769                39                      26,691,637      153,224         
+00244.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5440.769                38                      26,025,900      149,731         
+00244.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5440.769                52                      35,239,689      200,614         
+00244.M2TS      4612 (0x1204)   0x90            PGS             ita (Italian)           5440.769                46                      31,479,597      180,086         
+00244.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           5440.769                47                      32,291,094      184,391         
+00244.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5440.769                56                      38,417,453      217,314         
+00244.M2TS      4615 (0x1207)   0x90            PGS             nld (Dutch)             5440.769                50                      33,887,196      192,683         
+00244.M2TS      4616 (0x1208)   0x90            PGS             fra (French)            5440.769                55                      37,220,362      211,179         
+00244.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            5440.769                56                      38,124,137      215,861         
+00244.M2TS      4618 (0x120A)   0x90            PGS             ita (Italian)           5440.769                54                      36,390,147      206,391         
+00244.M2TS      4619 (0x120B)   0x90            PGS             spa (Spanish)           5440.769                53                      36,211,163      205,655         
+00244.M2TS      4620 (0x120C)   0x90            PGS             eng (English)           5440.769                17                      11,350,303      87,399          
+00244.M2TS      6912 (0x1B00)   0x1B            AVC                                     5440.769                5,000                   3,400,489,434   18,562,429      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bee Movie
+Disc Label: Bee.Movie.2007.BluRay.1080p.AVC.TrueHD.5.1-RVL
+Disc Size: 49,311,622,292 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 29,267,005,440 bytes
+Length: 1:30:40.852
+Total Bitrate: 43.03 Mbps
+Video: MPEG-4 AVC Video / 26961 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video / 5000 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  3196 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 46.673 kbps
+Subtitle: Dutch / 39.246 kbps
+Subtitle: French / 38.267 kbps
+Subtitle: German / 51.815 kbps
+Subtitle: Italian / 46.286 kbps
+Subtitle: Spanish / 47.479 kbps
+Subtitle: English / 56.487 kbps
+Subtitle: Dutch / 49.826 kbps
+Subtitle: French / 54.727 kbps
+Subtitle: German / 56.056 kbps
+Subtitle: Italian / 53.507 kbps
+Subtitle: Spanish / 53.243 kbps
+Subtitle: English / 16.689 kbps
+
+
+********************
+PLAYLIST: 00495.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00495.MPLS                                                      AVC     1:30:40 29,267,005,440  49,311,622,292  43.03   26.96   Dolby TrueHD 5.1 3836Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bee Movie
+Disc Label:     Bee.Movie.2007.BluRay.1080p.AVC.TrueHD.5.1-RVL
+Disc Size:      49,311,622,292 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00495.MPLS
+Length:                 1:30:40.852 (h:m:s.ms)
+Size:                   29,267,005,440 bytes
+Total Bitrate:          43.03 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26961 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* MPEG-4 AVC Video      5000 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3836 kbps       5.1 / 48 kHz /  3196 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.673 kbps                     
+Presentation Graphics           Dutch           39.246 kbps                     
+Presentation Graphics           French          38.267 kbps                     
+Presentation Graphics           German          51.815 kbps                     
+Presentation Graphics           Italian         46.286 kbps                     
+Presentation Graphics           Spanish         47.479 kbps                     
+Presentation Graphics           English         56.487 kbps                     
+Presentation Graphics           Dutch           49.826 kbps                     
+Presentation Graphics           French          54.727 kbps                     
+Presentation Graphics           German          56.056 kbps                     
+Presentation Graphics           Italian         53.507 kbps                     
+Presentation Graphics           Spanish         53.243 kbps                     
+Presentation Graphics           English         16.689 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00244.M2TS      0:00:00.000     1:30:40.852     29,267,005,440  43,033          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:18.438     27,444 kbps     34,616 kbps     00:06:28.971    30,167 kbps     00:06:33.851    29,654 kbps     00:06:20.004    143,069 bytes   612,103 bytes   00:06:29.972    
+2               0:07:18.438     0:02:21.391     28,724 kbps     34,202 kbps     00:07:24.569    29,911 kbps     00:07:51.429    29,520 kbps     00:08:35.431    149,753 bytes   623,567 bytes   00:09:39.829    
+3               0:09:39.829     0:02:33.736     26,708 kbps     33,214 kbps     00:11:01.410    29,934 kbps     00:10:57.323    29,594 kbps     00:10:52.193    139,241 bytes   576,625 bytes   00:09:40.830    
+4               0:12:13.566     0:07:39.959     28,013 kbps     42,202 kbps     00:16:28.946    31,369 kbps     00:16:24.942    30,031 kbps     00:16:19.937    146,048 bytes   739,806 bytes   00:16:29.822    
+5               0:19:53.525     0:07:31.909     26,698 kbps     33,478 kbps     00:20:32.814    29,858 kbps     00:24:31.469    29,668 kbps     00:20:23.805    139,193 bytes   626,211 bytes   00:27:18.803    
+6               0:27:25.435     0:04:12.377     28,065 kbps     33,205 kbps     00:30:46.219    29,972 kbps     00:30:27.158    29,549 kbps     00:28:03.556    146,317 bytes   641,364 bytes   00:30:47.220    
+7               0:31:37.812     0:09:58.014     27,081 kbps     39,440 kbps     00:38:30.099    30,333 kbps     00:40:03.359    29,634 kbps     00:40:32.721    141,187 bytes   798,566 bytes   00:40:08.322    
+8               0:41:35.826     0:03:24.203     27,537 kbps     32,042 kbps     00:44:01.055    29,878 kbps     00:43:56.967    29,533 kbps     00:42:24.667    143,564 bytes   526,409 bytes   00:44:01.930    
+9               0:45:00.030     0:05:50.516     26,181 kbps     32,611 kbps     00:45:07.746    29,875 kbps     00:45:38.193    29,563 kbps     00:45:31.812    136,497 bytes   601,882 bytes   00:45:08.622    
+10              0:50:50.547     0:04:38.027     24,115 kbps     31,534 kbps     00:53:56.608    29,071 kbps     00:52:44.327    27,879 kbps     00:53:04.556    125,722 bytes   485,626 bytes   00:52:41.116    
+11              0:55:28.575     0:03:54.567     26,351 kbps     33,488 kbps     00:56:38.603    29,547 kbps     00:58:54.405    29,125 kbps     00:58:11.279    137,382 bytes   674,079 bytes   00:59:14.801    
+12              0:59:23.142     0:05:31.581     26,464 kbps     35,437 kbps     01:02:36.878    30,055 kbps     01:02:39.338    29,497 kbps     01:02:34.542    137,971 bytes   619,198 bytes   01:02:43.384    
+13              1:04:54.724     0:04:14.295     25,933 kbps     34,959 kbps     01:06:18.224    30,370 kbps     01:06:14.220    29,575 kbps     01:07:01.767    135,203 bytes   752,016 bytes   01:07:19.118    
+14              1:09:09.019     0:08:43.064     26,434 kbps     36,181 kbps     01:09:30.499    30,146 kbps     01:09:34.295    29,692 kbps     01:09:31.041    137,816 bytes   798,606 bytes   01:14:00.185    
+15              1:17:52.084     0:04:34.732     26,406 kbps     40,160 kbps     01:19:58.794    30,083 kbps     01:19:54.790    29,498 kbps     01:19:49.785    137,670 bytes   650,408 bytes   01:21:55.285    
+16              1:22:26.816     0:08:14.035     28,599 kbps     34,168 kbps     01:22:45.669    30,180 kbps     01:23:58.324    29,529 kbps     01:22:36.660    149,116 bytes   542,671 bytes   01:30:36.222    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00244.M2TS      4113 (0x1011)   0x1B            AVC                                     5440.769                26,962                  18,336,689,526  99,732,124      
+00244.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5440.769                3,836                   2,608,797,452   17,909,787      
+00244.M2TS      4353 (0x1101)   0x81            AC3             nld (Dutch)             5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4356 (0x1104)   0x81            AC3             ita (Italian)           5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4357 (0x1105)   0x81            AC3             spa (Spanish)           5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           5440.769                192                     130,580,736     850,135         
+00244.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5440.769                47                      31,742,522      181,109         
+00244.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5440.769                39                      26,691,637      153,224         
+00244.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5440.769                38                      26,025,900      149,731         
+00244.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5440.769                52                      35,239,689      200,614         
+00244.M2TS      4612 (0x1204)   0x90            PGS             ita (Italian)           5440.769                46                      31,479,597      180,086         
+00244.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           5440.769                47                      32,291,094      184,391         
+00244.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5440.769                56                      38,417,453      217,314         
+00244.M2TS      4615 (0x1207)   0x90            PGS             nld (Dutch)             5440.769                50                      33,887,196      192,683         
+00244.M2TS      4616 (0x1208)   0x90            PGS             fra (French)            5440.769                55                      37,220,362      211,179         
+00244.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            5440.769                56                      38,124,137      215,861         
+00244.M2TS      4618 (0x120A)   0x90            PGS             ita (Italian)           5440.769                54                      36,390,147      206,391         
+00244.M2TS      4619 (0x120B)   0x90            PGS             spa (Spanish)           5440.769                53                      36,211,163      205,655         
+00244.M2TS      4620 (0x120C)   0x90            PGS             eng (English)           5440.769                17                      11,350,303      87,399          
+00244.M2TS      6912 (0x1B00)   0x1B            AVC                                     5440.769                5,000                   3,400,489,434   18,562,429      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bee Movie
+Disc Label: Bee.Movie.2007.BluRay.1080p.AVC.TrueHD.5.1-RVL
+Disc Size: 49,311,622,292 bytes
+Protection: AACS
+Playlist: 00495.MPLS
+Size: 29,267,005,440 bytes
+Length: 1:30:40.852
+Total Bitrate: 43.03 Mbps
+Video: MPEG-4 AVC Video / 26961 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Video: MPEG-4 AVC Video / 5000 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  3196 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 46.673 kbps
+Subtitle: Dutch / 39.246 kbps
+Subtitle: French / 38.267 kbps
+Subtitle: German / 51.815 kbps
+Subtitle: Italian / 46.286 kbps
+Subtitle: Spanish / 47.479 kbps
+Subtitle: English / 56.487 kbps
+Subtitle: Dutch / 49.826 kbps
+Subtitle: French / 54.727 kbps
+Subtitle: German / 56.056 kbps
+Subtitle: Italian / 53.507 kbps
+Subtitle: Spanish / 53.243 kbps
+Subtitle: English / 16.689 kbps
+
+
+********************
+PLAYLIST: 00496.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00496.MPLS                                                      AVC     1:30:40 29,267,005,440  49,311,622,292  43.03   26.96   Dolby TrueHD 5.1 3836Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bee Movie
+Disc Label:     Bee.Movie.2007.BluRay.1080p.AVC.TrueHD.5.1-RVL
+Disc Size:      49,311,622,292 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00496.MPLS
+Length:                 1:30:40.852 (h:m:s.ms)
+Size:                   29,267,005,440 bytes
+Total Bitrate:          43.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26961 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        5000 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         3836 kbps       5.1 / 48 kHz /  3196 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.673 kbps                     
+Presentation Graphics           Dutch           39.246 kbps                     
+Presentation Graphics           French          38.267 kbps                     
+Presentation Graphics           German          51.815 kbps                     
+Presentation Graphics           Italian         46.286 kbps                     
+Presentation Graphics           Spanish         47.479 kbps                     
+Presentation Graphics           English         56.487 kbps                     
+Presentation Graphics           Dutch           49.826 kbps                     
+Presentation Graphics           French          54.727 kbps                     
+Presentation Graphics           German          56.056 kbps                     
+Presentation Graphics           Italian         53.507 kbps                     
+Presentation Graphics           Spanish         53.243 kbps                     
+Presentation Graphics           English         16.689 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00244.M2TS      0:00:00.000     1:30:40.852     29,267,005,440  43,033          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:18.438     27,444 kbps     34,616 kbps     00:06:28.971    30,167 kbps     00:06:33.851    29,654 kbps     00:06:20.004    143,069 bytes   612,103 bytes   00:06:29.972    
+2               0:07:18.438     0:02:21.391     28,724 kbps     34,202 kbps     00:07:24.569    29,911 kbps     00:07:51.429    29,520 kbps     00:08:35.431    149,753 bytes   623,567 bytes   00:09:39.829    
+3               0:09:39.829     0:02:33.736     26,708 kbps     33,214 kbps     00:11:01.410    29,934 kbps     00:10:57.323    29,594 kbps     00:10:52.193    139,241 bytes   576,625 bytes   00:09:40.830    
+4               0:12:13.566     0:07:39.959     28,013 kbps     42,202 kbps     00:16:28.946    31,369 kbps     00:16:24.942    30,031 kbps     00:16:19.937    146,048 bytes   739,806 bytes   00:16:29.822    
+5               0:19:53.525     0:07:31.909     26,698 kbps     33,478 kbps     00:20:32.814    29,858 kbps     00:24:31.469    29,668 kbps     00:20:23.805    139,193 bytes   626,211 bytes   00:27:18.803    
+6               0:27:25.435     0:04:12.377     28,065 kbps     33,205 kbps     00:30:46.219    29,972 kbps     00:30:27.158    29,549 kbps     00:28:03.556    146,317 bytes   641,364 bytes   00:30:47.220    
+7               0:31:37.812     0:09:58.014     27,081 kbps     39,440 kbps     00:38:30.099    30,333 kbps     00:40:03.359    29,634 kbps     00:40:32.721    141,187 bytes   798,566 bytes   00:40:08.322    
+8               0:41:35.826     0:03:24.203     27,537 kbps     32,042 kbps     00:44:01.055    29,878 kbps     00:43:56.967    29,533 kbps     00:42:24.667    143,564 bytes   526,409 bytes   00:44:01.930    
+9               0:45:00.030     0:05:50.516     26,181 kbps     32,611 kbps     00:45:07.746    29,875 kbps     00:45:38.193    29,563 kbps     00:45:31.812    136,497 bytes   601,882 bytes   00:45:08.622    
+10              0:50:50.547     0:04:38.027     24,115 kbps     31,534 kbps     00:53:56.608    29,071 kbps     00:52:44.327    27,879 kbps     00:53:04.556    125,722 bytes   485,626 bytes   00:52:41.116    
+11              0:55:28.575     0:03:54.567     26,351 kbps     33,488 kbps     00:56:38.603    29,547 kbps     00:58:54.405    29,125 kbps     00:58:11.279    137,382 bytes   674,079 bytes   00:59:14.801    
+12              0:59:23.142     0:05:31.581     26,464 kbps     35,437 kbps     01:02:36.878    30,055 kbps     01:02:39.338    29,497 kbps     01:02:34.542    137,971 bytes   619,198 bytes   01:02:43.384    
+13              1:04:54.724     0:04:14.295     25,933 kbps     34,959 kbps     01:06:18.224    30,370 kbps     01:06:14.220    29,575 kbps     01:07:01.767    135,203 bytes   752,016 bytes   01:07:19.118    
+14              1:09:09.019     0:08:43.064     26,434 kbps     36,181 kbps     01:09:30.499    30,146 kbps     01:09:34.295    29,692 kbps     01:09:31.041    137,816 bytes   798,606 bytes   01:14:00.185    
+15              1:17:52.084     0:04:34.732     26,406 kbps     40,160 kbps     01:19:58.794    30,083 kbps     01:19:54.790    29,498 kbps     01:19:49.785    137,670 bytes   650,408 bytes   01:21:55.285    
+16              1:22:26.816     0:08:14.035     28,599 kbps     34,168 kbps     01:22:45.669    30,180 kbps     01:23:58.324    29,529 kbps     01:22:36.660    149,116 bytes   542,671 bytes   01:30:36.222    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00244.M2TS      4113 (0x1011)   0x1B            AVC                                     5440.769                26,962                  18,336,689,526  99,732,124      
+00244.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5440.769                3,836                   2,608,797,452   17,909,787      
+00244.M2TS      4353 (0x1101)   0x81            AC3             nld (Dutch)             5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4356 (0x1104)   0x81            AC3             ita (Italian)           5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4357 (0x1105)   0x81            AC3             spa (Spanish)           5440.769                640                     435,269,120     2,550,405       
+00244.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           5440.769                192                     130,580,736     850,135         
+00244.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5440.769                47                      31,742,522      181,109         
+00244.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5440.769                39                      26,691,637      153,224         
+00244.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5440.769                38                      26,025,900      149,731         
+00244.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5440.769                52                      35,239,689      200,614         
+00244.M2TS      4612 (0x1204)   0x90            PGS             ita (Italian)           5440.769                46                      31,479,597      180,086         
+00244.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           5440.769                47                      32,291,094      184,391         
+00244.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5440.769                56                      38,417,453      217,314         
+00244.M2TS      4615 (0x1207)   0x90            PGS             nld (Dutch)             5440.769                50                      33,887,196      192,683         
+00244.M2TS      4616 (0x1208)   0x90            PGS             fra (French)            5440.769                55                      37,220,362      211,179         
+00244.M2TS      4617 (0x1209)   0x90            PGS             deu (German)            5440.769                56                      38,124,137      215,861         
+00244.M2TS      4618 (0x120A)   0x90            PGS             ita (Italian)           5440.769                54                      36,390,147      206,391         
+00244.M2TS      4619 (0x120B)   0x90            PGS             spa (Spanish)           5440.769                53                      36,211,163      205,655         
+00244.M2TS      4620 (0x120C)   0x90            PGS             eng (English)           5440.769                17                      11,350,303      87,399          
+00244.M2TS      6912 (0x1B00)   0x1B            AVC                                     5440.769                5,000                   3,400,489,434   18,562,429      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bee Movie
+Disc Label: Bee.Movie.2007.BluRay.1080p.AVC.TrueHD.5.1-RVL
+Disc Size: 49,311,622,292 bytes
+Protection: AACS
+Playlist: 00496.MPLS
+Size: 29,267,005,440 bytes
+Length: 1:30:40.852
+Total Bitrate: 43.03 Mbps
+Video: MPEG-4 AVC Video / 26961 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video / 5000 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  3196 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 46.673 kbps
+Subtitle: Dutch / 39.246 kbps
+Subtitle: French / 38.267 kbps
+Subtitle: German / 51.815 kbps
+Subtitle: Italian / 46.286 kbps
+Subtitle: Spanish / 47.479 kbps
+Subtitle: English / 56.487 kbps
+Subtitle: Dutch / 49.826 kbps
+Subtitle: French / 54.727 kbps
+Subtitle: German / 56.056 kbps
+Subtitle: Italian / 53.507 kbps
+Subtitle: Spanish / 53.243 kbps
+Subtitle: English / 16.689 kbps
+

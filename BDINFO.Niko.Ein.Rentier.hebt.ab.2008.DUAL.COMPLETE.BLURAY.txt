@@ -1,0 +1,195 @@
+Disc Title:     Niko - Ein Rentier hebt ab
+Disc Label:     Niko.Ein.Rentier.hebt.ab.2008.DUAL.COMPLETE.BLURAY
+Disc Size:      22,718,434,251 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:19:14 18,567,069,696  22,718,434,251  31.24   24.98   DTS-HD Master 5.1 2296Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Niko - Ein Rentier hebt ab
+Disc Label:     Niko.Ein.Rentier.hebt.ab.2008.DUAL.COMPLETE.BLURAY
+Disc Size:      22,718,434,251 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:19:14.583 (h:m:s.ms)
+Size:                   18,567,069,696 bytes
+Total Bitrate:          31.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24984 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2296 kbps       5.1 / 48 kHz /  2296 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2128 kbps       5.1 / 48 kHz /  2128 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:19:14.583     18,567,069,696  31,241          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:03.496     24,943 kbps     40,119 kbps     00:00:52.677    37,949 kbps     00:04:07.705    32,590 kbps     00:04:03.034    130,035 bytes   629,685 bytes   00:03:57.070    
+2               0:11:03.496     0:10:27.835     25,501 kbps     39,933 kbps     00:18:28.941    34,039 kbps     00:18:28.941    31,740 kbps     00:11:59.677    132,948 bytes   636,999 bytes   00:18:24.853    
+3               0:21:31.331     0:09:17.807     26,876 kbps     47,134 kbps     00:24:57.412    39,770 kbps     00:24:53.408    38,803 kbps     00:24:48.403    140,120 bytes   622,229 bytes   00:26:55.864    
+4               0:30:49.138     0:11:31.816     24,085 kbps     37,696 kbps     00:33:50.778    31,652 kbps     00:33:55.074    31,320 kbps     00:33:49.360    125,571 bytes   579,458 bytes   00:32:00.793    
+5               0:42:20.955     0:09:53.884     26,699 kbps     41,279 kbps     00:48:06.216    37,038 kbps     00:47:24.216    36,570 kbps     00:47:48.490    139,195 bytes   601,713 bytes   00:47:21.421    
+6               0:52:14.840     0:11:21.597     26,225 kbps     39,883 kbps     00:57:59.559    36,130 kbps     01:02:54.353    34,460 kbps     01:03:02.820    136,727 bytes   611,253 bytes   01:01:54.335    
+7               1:03:36.437     0:10:36.761     24,708 kbps     39,858 kbps     01:04:37.999    34,874 kbps     01:05:26.255    34,661 kbps     01:05:22.919    128,816 bytes   628,732 bytes   01:12:00.441    
+8               1:14:13.198     0:05:01.384     16,957 kbps     19,079 kbps     01:18:47.139    18,442 kbps     01:18:43.176    18,300 kbps     01:18:38.171    88,416 bytes    321,393 bytes   01:15:56.301    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     4754.416                24,985                  14,848,654,837  80,765,872      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4754.416                2,296                   1,364,694,632   8,164,365       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4754.416                2,128                   1,264,911,252   7,613,952       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Niko - Ein Rentier hebt ab
+Disc Label: Niko.Ein.Rentier.hebt.ab.2008.DUAL.COMPLETE.BLURAY
+Disc Size: 22,718,434,251 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 18,567,069,696 bytes
+Length: 1:19:14.583
+Total Bitrate: 31.24 Mbps
+Video: MPEG-4 AVC Video / 24984 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2296 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2128 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+
+********************
+PLAYLIST: 00602.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00602.MPLS                                                      AVC     1:19:14 18,567,069,696  22,718,434,251  31.24   24.98   DTS-HD Master 5.1 2296Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Niko - Ein Rentier hebt ab
+Disc Label:     Niko.Ein.Rentier.hebt.ab.2008.DUAL.COMPLETE.BLURAY
+Disc Size:      22,718,434,251 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00602.MPLS
+Length:                 1:19:14.583 (h:m:s.ms)
+Size:                   18,567,069,696 bytes
+Total Bitrate:          31.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24984 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2296 kbps       5.1 / 48 kHz /  2296 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2128 kbps       5.1 / 48 kHz /  2128 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:19:14.583     18,567,069,696  31,241          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:03.496     24,943 kbps     40,119 kbps     00:00:52.677    37,949 kbps     00:04:07.705    32,590 kbps     00:04:03.034    130,035 bytes   629,685 bytes   00:03:57.070    
+2               0:11:03.496     0:10:27.835     25,501 kbps     39,933 kbps     00:18:28.941    34,039 kbps     00:18:28.941    31,740 kbps     00:11:59.677    132,948 bytes   636,999 bytes   00:18:24.853    
+3               0:21:31.331     0:09:17.807     26,876 kbps     47,134 kbps     00:24:57.412    39,770 kbps     00:24:53.408    38,803 kbps     00:24:48.403    140,120 bytes   622,229 bytes   00:26:55.864    
+4               0:30:49.138     0:11:31.816     24,085 kbps     37,696 kbps     00:33:50.778    31,652 kbps     00:33:55.074    31,320 kbps     00:33:49.360    125,571 bytes   579,458 bytes   00:32:00.793    
+5               0:42:20.955     0:09:53.884     26,699 kbps     41,279 kbps     00:48:06.216    37,038 kbps     00:47:24.216    36,570 kbps     00:47:48.490    139,195 bytes   601,713 bytes   00:47:21.421    
+6               0:52:14.840     0:11:21.597     26,225 kbps     39,883 kbps     00:57:59.559    36,130 kbps     01:02:54.353    34,460 kbps     01:03:02.820    136,727 bytes   611,253 bytes   01:01:54.335    
+7               1:03:36.437     0:10:36.761     24,708 kbps     39,858 kbps     01:04:37.999    34,874 kbps     01:05:26.255    34,661 kbps     01:05:22.919    128,816 bytes   628,732 bytes   01:12:00.441    
+8               1:14:13.198     0:05:01.384     16,957 kbps     19,079 kbps     01:18:47.139    18,442 kbps     01:18:43.176    18,300 kbps     01:18:38.171    88,416 bytes    321,393 bytes   01:15:56.301    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     4754.416                24,985                  14,848,654,837  80,765,872      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4754.416                2,296                   1,364,694,632   8,164,365       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4754.416                2,128                   1,264,911,252   7,613,952       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Niko - Ein Rentier hebt ab
+Disc Label: Niko.Ein.Rentier.hebt.ab.2008.DUAL.COMPLETE.BLURAY
+Disc Size: 22,718,434,251 bytes
+Protection: AACS
+Playlist: 00602.MPLS
+Size: 18,567,069,696 bytes
+Length: 1:19:14.583
+Total Bitrate: 31.24 Mbps
+Video: MPEG-4 AVC Video / 24984 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2296 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2128 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+

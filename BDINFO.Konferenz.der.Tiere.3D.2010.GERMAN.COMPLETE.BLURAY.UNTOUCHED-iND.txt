@@ -1,0 +1,125 @@
+Disc Label:     Konferenz.der.Tiere.3D.2010.GERMAN.COMPLETE.BLURAY.UNTOUCHED-iND
+Disc Size:      30,564,666,933 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:33:13 15,144,990,720  30,564,666,933  21.66   18.22   DTS-HD Hi-Res 5.1 2046Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Konferenz.der.Tiere.3D.2010.GERMAN.COMPLETE.BLURAY.UNTOUCHED-iND
+Disc Size:      30,564,666,933 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:33:13.629 (h:m:s.ms)
+Size:                   15,144,990,720 bytes
+Total Bitrate:          21.66 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        18219 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          30.439 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:33:12.587     15,144,966,144  21,664          
+00006.M2TS      1:33:12.587     0:00:01.042     24,576          189             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:56.272     19,238 kbps     37,730 kbps     00:00:57.057    31,878 kbps     00:00:30.155    27,658 kbps     00:00:50.925    100,289 bytes   882,141 bytes   00:05:06.431    
+2               0:05:56.272     0:04:58.589     18,687 kbps     37,729 kbps     00:10:24.081    31,862 kbps     00:08:17.455    28,357 kbps     00:10:15.448    97,426 bytes    700,436 bytes   00:09:43.499    
+3               0:10:54.862     0:04:45.243     16,963 kbps     32,421 kbps     00:12:12.773    28,693 kbps     00:12:12.773    26,099 kbps     00:12:12.773    88,438 bytes    627,019 bytes   00:15:38.687    
+4               0:15:40.105     0:04:52.166     18,772 kbps     34,665 kbps     00:16:35.160    28,656 kbps     00:20:13.128    27,696 kbps     00:19:25.080    97,868 bytes    752,142 bytes   00:16:14.848    
+5               0:20:32.272     0:04:41.114     19,409 kbps     42,374 kbps     00:21:50.892    27,188 kbps     00:20:55.003    25,273 kbps     00:21:05.722    101,190 bytes   747,687 bytes   00:23:02.047    
+6               0:25:13.386     0:05:34.333     19,665 kbps     40,768 kbps     00:30:06.596    30,707 kbps     00:26:33.592    26,024 kbps     00:27:01.620    102,525 bytes   872,143 bytes   00:27:42.535    
+7               0:30:47.720     0:04:31.479     19,744 kbps     36,123 kbps     00:31:05.196    29,938 kbps     00:34:39.076    26,856 kbps     00:32:20.355    102,934 bytes   720,758 bytes   00:32:02.754    
+8               0:35:19.200     0:05:08.975     16,796 kbps     39,570 kbps     00:38:32.351    30,299 kbps     00:38:28.806    27,292 kbps     00:38:24.051    87,566 bytes    681,873 bytes   00:36:38.404    
+9               0:40:28.175     0:06:10.244     18,977 kbps     43,676 kbps     00:42:35.844    31,015 kbps     00:42:55.864    26,310 kbps     00:42:51.235    98,936 bytes    676,958 bytes   00:44:27.665    
+10              0:46:38.420     0:05:16.149     19,370 kbps     39,273 kbps     00:50:28.567    30,440 kbps     00:46:43.050    27,404 kbps     00:46:41.924    100,984 bytes   675,826 bytes   00:51:46.186    
+11              0:51:54.569     0:05:33.124     18,926 kbps     38,043 kbps     00:54:42.570    28,145 kbps     00:53:57.317    25,325 kbps     00:54:42.570    98,672 bytes    761,725 bytes   00:52:38.196    
+12              0:57:27.694     0:05:45.511     18,464 kbps     45,595 kbps     01:02:45.553    29,683 kbps     01:01:41.614    26,634 kbps     01:02:39.505    96,263 bytes    965,783 bytes   00:59:29.941    
+13              1:03:13.206     0:05:36.836     15,916 kbps     40,023 kbps     01:03:56.624    30,504 kbps     01:08:20.805    28,470 kbps     01:08:21.180    82,978 bytes    533,952 bytes   01:07:23.706    
+14              1:08:50.042     0:06:12.455     19,124 kbps     34,835 kbps     01:11:51.515    27,796 kbps     01:11:19.108    25,571 kbps     01:09:17.361    99,705 bytes    775,421 bytes   01:12:17.499    
+15              1:15:02.497     0:05:33.624     19,033 kbps     44,427 kbps     01:18:16.191    31,007 kbps     01:18:49.182    26,175 kbps     01:15:34.363    99,227 bytes    682,617 bytes   01:20:28.907    
+16              1:20:36.122     0:03:38.718     20,087 kbps     38,704 kbps     01:23:13.738    30,864 kbps     01:22:43.750    25,405 kbps     01:20:56.184    104,727 bytes   707,569 bytes   01:23:45.603    
+17              1:24:14.841     0:02:49.919     21,432 kbps     34,029 kbps     01:24:37.906    28,582 kbps     01:24:33.943    26,902 kbps     01:25:17.904    111,739 bytes   485,107 bytes   01:25:35.755    
+18              1:27:04.761     0:06:07.825     10,516 kbps     44,904 kbps     01:28:42.775    27,680 kbps     01:28:42.358    22,587 kbps     01:28:42.692    54,824 bytes    759,338 bytes   01:28:44.777    
+19              1:33:12.587     0:00:01.042     75 kbps         79 kbps         01:33:12.587    0 kbps          00:00:00.000    0 kbps          00:00:00.000    410 bytes       2,463 bytes     01:33:13.588    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5592.504                18,222                  12,738,548,640  69,309,564      
+00000.M2TS      4352 (0x1100)   0x85            DTS-HD HR       deu (German)            5592.504                2,046                   1,430,306,768   8,388,896       
+00000.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5592.504                224                     156,593,024     873,845         
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5592.504                30                      21,283,089      120,345         
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     0.959                   103                     12,296          74              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Konferenz.der.Tiere.3D.2010.GERMAN.COMPLETE.BLURAY.UNTOUCHED-iND
+Disc Size: 30,564,666,933 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 15,144,990,720 bytes
+Length: 1:33:13.629
+Total Bitrate: 21.66 Mbps
+Video: MPEG-4 AVC Video / 18219 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Subtitle: German / 30.439 kbps
+
