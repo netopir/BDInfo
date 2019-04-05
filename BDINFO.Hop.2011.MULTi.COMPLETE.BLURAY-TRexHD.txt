@@ -1,0 +1,707 @@
+Disc Title:     HOP
+Disc Label:     Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      31,105,513,774 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      VC-1    1:35:00 27,384,158,208  31,105,513,774  38.43   25.54   DTS-HD Master 5.1 3890Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HOP
+Disc Label:     Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      31,105,513,774 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:35:00.695 (h:m:s.ms)
+Size:                   27,384,158,208 bytes
+Total Bitrate:          38.43 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              25542 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+VC-1 Video              545 kbps            480p / 23.976 fps / 16:9 / Advanced Profile 2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3890 kbps       5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Turkish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Icelandic       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Arabic          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+DTS Express                     English         192 kbps        2.0 / 48 kHz /   192 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         45.773 kbps                     
+Presentation Graphics           German          42.426 kbps                     
+Presentation Graphics           Turkish         40.469 kbps                     
+Presentation Graphics           Portuguese      39.571 kbps                     
+Presentation Graphics           Dutch           30.798 kbps                     
+Presentation Graphics           Icelandic       40.564 kbps                     
+Presentation Graphics           Arabic          20.225 kbps                     
+Presentation Graphics           German          0.381 kbps                      
+Presentation Graphics           Turkish         0.270 kbps                      
+Presentation Graphics           Portuguese      0.342 kbps                      
+Presentation Graphics           Dutch           0.156 kbps                      
+Presentation Graphics           Icelandic       0.289 kbps                      
+Presentation Graphics           Arabic          0.285 kbps                      
+Presentation Graphics           Dutch           0.277 kbps                      
+Presentation Graphics           English         0.178 kbps                      
+Presentation Graphics           German          0.259 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:00.695     27,384,158,208  38,429          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:30.872     22,350 kbps     35,586 kbps     00:05:02.760    32,031 kbps     00:04:58.756    30,788 kbps     00:02:53.882    117,068 bytes   513,540 bytes   00:02:41.786    
+2               0:05:30.872     0:02:12.215     25,990 kbps     30,055 kbps     00:07:37.373    29,344 kbps     00:07:33.453    28,979 kbps     00:07:32.285    135,501 bytes   374,123 bytes   00:06:49.700    
+3               0:07:43.087     0:02:03.665     23,054 kbps     35,130 kbps     00:08:34.555    31,027 kbps     00:08:30.635    28,916 kbps     00:08:25.546    121,091 bytes   393,624 bytes   00:09:11.968    
+4               0:09:46.752     0:05:37.628     26,384 kbps     33,032 kbps     00:13:36.023    30,869 kbps     00:12:13.107    29,646 kbps     00:12:09.228    137,795 bytes   494,869 bytes   00:14:45.634    
+5               0:15:24.381     0:04:47.078     23,928 kbps     33,451 kbps     00:16:11.971    32,625 kbps     00:16:11.136    29,455 kbps     00:16:47.965    124,750 bytes   478,008 bytes   00:16:52.511    
+6               0:20:11.460     0:05:42.633     25,088 kbps     38,898 kbps     00:23:23.485    32,316 kbps     00:23:55.183    30,444 kbps     00:23:37.374    130,796 bytes   445,711 bytes   00:21:27.494    
+7               0:25:54.094     0:02:56.301     25,792 kbps     38,206 kbps     00:28:11.481    32,038 kbps     00:28:07.477    29,258 kbps     00:28:27.539    134,466 bytes   475,695 bytes   00:28:07.769    
+8               0:28:50.395     0:03:22.368     26,671 kbps     44,513 kbps     00:32:11.763    32,733 kbps     00:32:07.759    29,071 kbps     00:32:02.754    139,050 bytes   827,943 bytes   00:32:12.680    
+9               0:32:12.764     0:04:09.248     26,862 kbps     37,044 kbps     00:32:30.448    33,993 kbps     00:32:30.073    30,880 kbps     00:32:28.196    140,048 bytes   561,432 bytes   00:33:22.000    
+10              0:36:22.013     0:06:56.499     26,613 kbps     48,858 kbps     00:43:17.511    32,236 kbps     00:36:48.664    30,950 kbps     00:36:44.619    138,748 bytes   550,304 bytes   00:40:36.142    
+11              0:43:18.512     0:04:27.100     26,024 kbps     34,809 kbps     00:46:12.561    30,259 kbps     00:46:09.183    29,333 kbps     00:45:13.001    135,677 bytes   459,975 bytes   00:47:45.612    
+12              0:47:45.612     0:04:15.296     27,164 kbps     35,865 kbps     00:48:12.180    30,722 kbps     00:48:09.803    29,694 kbps     00:49:50.362    141,621 bytes   458,996 bytes   00:47:46.613    
+13              0:52:00.909     0:06:11.204     26,707 kbps     51,374 kbps     00:58:11.112    32,232 kbps     00:58:07.108    30,634 kbps     00:54:25.178    139,241 bytes   789,240 bytes   00:58:12.030    
+14              0:58:12.113     0:07:51.554     26,796 kbps     35,159 kbps     01:04:05.466    31,732 kbps     01:04:03.047    30,616 kbps     01:04:02.964    139,700 bytes   447,088 bytes   00:58:13.114    
+15              1:06:03.668     0:05:15.773     26,747 kbps     41,516 kbps     01:09:56.525    32,558 kbps     01:06:24.397    30,663 kbps     01:06:22.395    139,486 bytes   577,410 bytes   01:07:32.339    
+16              1:11:19.441     0:05:52.310     26,240 kbps     35,298 kbps     01:12:29.887    31,517 kbps     01:12:05.362    29,408 kbps     01:16:44.808    136,915 bytes   441,227 bytes   01:11:44.883    
+17              1:17:11.752     0:05:35.752     25,944 kbps     33,490 kbps     01:22:23.229    31,168 kbps     01:19:37.230    29,677 kbps     01:19:32.934    135,262 bytes   427,072 bytes   01:18:47.806    
+18              1:22:47.504     0:04:08.039     26,202 kbps     36,471 kbps     01:24:09.252    30,615 kbps     01:24:51.002    29,402 kbps     01:23:37.887    136,607 bytes   505,442 bytes   01:26:54.959    
+19              1:26:55.543     0:02:44.998     26,429 kbps     40,048 kbps     01:29:38.581    30,791 kbps     01:29:34.577    28,958 kbps     01:29:29.572    137,928 bytes   576,073 bytes   01:26:56.544    
+20              1:29:40.541     0:05:20.153     19,143 kbps     33,848 kbps     01:34:56.691    29,839 kbps     01:33:03.619    29,438 kbps     01:32:59.031    100,459 bytes   462,931 bytes   01:33:17.925    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0xEA            VC-1                                    5700.570                25,542                  18,200,671,039  98,999,296      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5700.570                3,890                   2,772,172,216   15,953,615      
+00800.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4354 (0x1102)   0x82            DTS             tur (Turkish)           5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4355 (0x1103)   0x82            DTS             por (Portuguese)        5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4356 (0x1104)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4357 (0x1105)   0x82            DTS             isl (Icelandic)         5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4358 (0x1106)   0x82            DTS             ara (Arabic)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4359 (0x1107)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5700.570                192                     136,816,896     890,735         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5700.570                46                      32,617,560      187,929         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5700.570                42                      30,232,059      173,575         
+00800.M2TS      4610 (0x1202)   0x90            PGS             tur (Turkish)           5700.570                40                      28,837,767      166,033         
+00800.M2TS      4611 (0x1203)   0x90            PGS             por (Portuguese)        5700.570                40                      28,197,460      162,556         
+00800.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5700.570                31                      21,946,228      127,487         
+00800.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         5700.570                41                      28,905,140      166,383         
+00800.M2TS      4614 (0x1206)   0x90            PGS             ara (Arabic)            5700.570                20                      14,411,947      88,429          
+00800.M2TS      4615 (0x1207)   0x90            PGS             deu (German)            5700.570                0                       271,579         1,569           
+00800.M2TS      4616 (0x1208)   0x90            PGS             tur (Turkish)           5700.570                0                       192,179         1,118           
+00800.M2TS      4617 (0x1209)   0x90            PGS             por (Portuguese)        5700.570                0                       243,391         1,404           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5700.570                0                       110,917         650             
+00800.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         5700.570                0                       205,831         1,186           
+00800.M2TS      4620 (0x120C)   0x90            PGS             ara (Arabic)            5700.570                0                       203,409         1,270           
+00800.M2TS      4621 (0x120D)   0x90            PGS             nld (Dutch)             5700.570                0                       197,054         1,150           
+00800.M2TS      4622 (0x120E)   0x90            PGS             eng (English)           5700.570                0                       127,136         731             
+00800.M2TS      4623 (0x120F)   0x90            PGS             deu (German)            5700.570                0                       184,604         1,064           
+00800.M2TS      6656 (0x1A00)   0xA2            DTS Express     eng (English)           5700.570                192                     136,818,688     801,672         
+00800.M2TS      6912 (0x1B00)   0xEA            VC-1                                    5700.570                545                     388,473,309     2,199,796       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HOP
+Disc Label: Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size: 31,105,513,774 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 27,384,158,208 bytes
+Length: 1:35:00.695
+Total Bitrate: 38.43 Mbps
+Video: VC-1 Video / 25542 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Video: VC-1 Video / 545 kbps / 480p / 23.976 fps / 16:9 / Advanced Profile 2
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Icelandic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Arabic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: English / DTS Express / 2.0 / 48 kHz /   192 kbps / 24-bit
+Subtitle: English / 45.773 kbps
+Subtitle: German / 42.426 kbps
+Subtitle: Turkish / 40.469 kbps
+Subtitle: Portuguese / 39.571 kbps
+Subtitle: Dutch / 30.798 kbps
+Subtitle: Icelandic / 40.564 kbps
+Subtitle: Arabic / 20.225 kbps
+Subtitle: German / 0.381 kbps
+Subtitle: Turkish / 0.270 kbps
+Subtitle: Portuguese / 0.342 kbps
+Subtitle: Dutch / 0.156 kbps
+Subtitle: Icelandic / 0.289 kbps
+Subtitle: Arabic / 0.285 kbps
+Subtitle: Dutch / 0.277 kbps
+Subtitle: English / 0.178 kbps
+Subtitle: German / 0.259 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      VC-1    1:35:00 27,384,158,208  31,105,513,774  38.43   25.54   DTS-HD Master 5.1 3890Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HOP
+Disc Label:     Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      31,105,513,774 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:35:00.695 (h:m:s.ms)
+Size:                   27,384,158,208 bytes
+Total Bitrate:          38.43 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              25542 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+* VC-1 Video            545 kbps            480p / 23.976 fps / 16:9 / Advanced Profile 2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3890 kbps       5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Turkish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Icelandic       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Arabic          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* DTS Express                   English         192 kbps        2.0 / 48 kHz /   192 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         45.773 kbps                     
+Presentation Graphics           German          42.426 kbps                     
+Presentation Graphics           Turkish         40.469 kbps                     
+Presentation Graphics           Portuguese      39.571 kbps                     
+Presentation Graphics           Dutch           30.798 kbps                     
+Presentation Graphics           Icelandic       40.564 kbps                     
+Presentation Graphics           Arabic          20.225 kbps                     
+Presentation Graphics           German          0.381 kbps                      
+Presentation Graphics           Turkish         0.270 kbps                      
+Presentation Graphics           Portuguese      0.342 kbps                      
+Presentation Graphics           Dutch           0.156 kbps                      
+Presentation Graphics           Icelandic       0.289 kbps                      
+Presentation Graphics           Arabic          0.285 kbps                      
+Presentation Graphics           Dutch           0.277 kbps                      
+Presentation Graphics           English         0.178 kbps                      
+Presentation Graphics           German          0.259 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:00.695     27,384,158,208  38,429          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:35:00.695     25,542 kbps     51,374 kbps     00:58:11.112    33,993 kbps     00:32:30.073    30,950 kbps     00:36:44.619    133,295 bytes   827,943 bytes   00:32:12.680    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0xEA            VC-1                                    5700.570                25,542                  18,200,671,039  98,999,296      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5700.570                3,890                   2,772,172,216   15,953,615      
+00800.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4354 (0x1102)   0x82            DTS             tur (Turkish)           5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4355 (0x1103)   0x82            DTS             por (Portuguese)        5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4356 (0x1104)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4357 (0x1105)   0x82            DTS             isl (Icelandic)         5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4358 (0x1106)   0x82            DTS             ara (Arabic)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4359 (0x1107)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5700.570                192                     136,816,896     890,735         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5700.570                46                      32,617,560      187,929         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5700.570                42                      30,232,059      173,575         
+00800.M2TS      4610 (0x1202)   0x90            PGS             tur (Turkish)           5700.570                40                      28,837,767      166,033         
+00800.M2TS      4611 (0x1203)   0x90            PGS             por (Portuguese)        5700.570                40                      28,197,460      162,556         
+00800.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5700.570                31                      21,946,228      127,487         
+00800.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         5700.570                41                      28,905,140      166,383         
+00800.M2TS      4614 (0x1206)   0x90            PGS             ara (Arabic)            5700.570                20                      14,411,947      88,429          
+00800.M2TS      4615 (0x1207)   0x90            PGS             deu (German)            5700.570                0                       271,579         1,569           
+00800.M2TS      4616 (0x1208)   0x90            PGS             tur (Turkish)           5700.570                0                       192,179         1,118           
+00800.M2TS      4617 (0x1209)   0x90            PGS             por (Portuguese)        5700.570                0                       243,391         1,404           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5700.570                0                       110,917         650             
+00800.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         5700.570                0                       205,831         1,186           
+00800.M2TS      4620 (0x120C)   0x90            PGS             ara (Arabic)            5700.570                0                       203,409         1,270           
+00800.M2TS      4621 (0x120D)   0x90            PGS             nld (Dutch)             5700.570                0                       197,054         1,150           
+00800.M2TS      4622 (0x120E)   0x90            PGS             eng (English)           5700.570                0                       127,136         731             
+00800.M2TS      4623 (0x120F)   0x90            PGS             deu (German)            5700.570                0                       184,604         1,064           
+00800.M2TS      6656 (0x1A00)   0xA2            DTS Express     eng (English)           5700.570                192                     136,818,688     801,672         
+00800.M2TS      6912 (0x1B00)   0xEA            VC-1                                    5700.570                545                     388,473,309     2,199,796       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HOP
+Disc Label: Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size: 31,105,513,774 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 27,384,158,208 bytes
+Length: 1:35:00.695
+Total Bitrate: 38.43 Mbps
+Video: VC-1 Video / 25542 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+* Video: VC-1 Video / 545 kbps / 480p / 23.976 fps / 16:9 / Advanced Profile 2
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Icelandic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Arabic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Audio: English / DTS Express / 2.0 / 48 kHz /   192 kbps / 24-bit
+Subtitle: English / 45.773 kbps
+Subtitle: German / 42.426 kbps
+Subtitle: Turkish / 40.469 kbps
+Subtitle: Portuguese / 39.571 kbps
+Subtitle: Dutch / 30.798 kbps
+Subtitle: Icelandic / 40.564 kbps
+Subtitle: Arabic / 20.225 kbps
+Subtitle: German / 0.381 kbps
+Subtitle: Turkish / 0.270 kbps
+Subtitle: Portuguese / 0.342 kbps
+Subtitle: Dutch / 0.156 kbps
+Subtitle: Icelandic / 0.289 kbps
+Subtitle: Arabic / 0.285 kbps
+Subtitle: Dutch / 0.277 kbps
+Subtitle: English / 0.178 kbps
+Subtitle: German / 0.259 kbps
+
+
+********************
+PLAYLIST: 00802.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      VC-1    1:35:00 27,384,158,208  31,105,513,774  38.43   25.54   DTS-HD Master 5.1 3890Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HOP
+Disc Label:     Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      31,105,513,774 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS
+Length:                 1:35:00.695 (h:m:s.ms)
+Size:                   27,384,158,208 bytes
+Total Bitrate:          38.43 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              25542 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+VC-1 Video              545 kbps            480p / 23.976 fps / 16:9 / Advanced Profile 2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3890 kbps       5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Turkish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Icelandic       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Arabic          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+* Dolby Digital Audio           English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+DTS Express                     English         192 kbps        2.0 / 48 kHz /   192 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         45.773 kbps                     
+Presentation Graphics           German          42.426 kbps                     
+Presentation Graphics           Turkish         40.469 kbps                     
+Presentation Graphics           Portuguese      39.571 kbps                     
+Presentation Graphics           Dutch           30.798 kbps                     
+Presentation Graphics           Icelandic       40.564 kbps                     
+Presentation Graphics           Arabic          20.225 kbps                     
+Presentation Graphics           German          0.381 kbps                      
+Presentation Graphics           Turkish         0.270 kbps                      
+Presentation Graphics           Portuguese      0.342 kbps                      
+Presentation Graphics           Dutch           0.156 kbps                      
+Presentation Graphics           Icelandic       0.289 kbps                      
+Presentation Graphics           Arabic          0.285 kbps                      
+Presentation Graphics           Dutch           0.277 kbps                      
+Presentation Graphics           English         0.178 kbps                      
+Presentation Graphics           German          0.259 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:00.695     27,384,158,208  38,429          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:30.872     22,350 kbps     35,586 kbps     00:05:02.760    32,031 kbps     00:04:58.756    30,788 kbps     00:02:53.882    117,068 bytes   513,540 bytes   00:02:41.786    
+2               0:05:30.872     0:02:12.215     25,990 kbps     30,055 kbps     00:07:37.373    29,344 kbps     00:07:33.453    28,979 kbps     00:07:32.285    135,501 bytes   374,123 bytes   00:06:49.700    
+3               0:07:43.087     0:02:03.665     23,054 kbps     35,130 kbps     00:08:34.555    31,027 kbps     00:08:30.635    28,916 kbps     00:08:25.546    121,091 bytes   393,624 bytes   00:09:11.968    
+4               0:09:46.752     0:05:37.628     26,384 kbps     33,032 kbps     00:13:36.023    30,869 kbps     00:12:13.107    29,646 kbps     00:12:09.228    137,795 bytes   494,869 bytes   00:14:45.634    
+5               0:15:24.381     0:04:47.078     23,928 kbps     33,451 kbps     00:16:11.971    32,625 kbps     00:16:11.136    29,455 kbps     00:16:47.965    124,750 bytes   478,008 bytes   00:16:52.511    
+6               0:20:11.460     0:05:42.633     25,088 kbps     38,898 kbps     00:23:23.485    32,316 kbps     00:23:55.183    30,444 kbps     00:23:37.374    130,796 bytes   445,711 bytes   00:21:27.494    
+7               0:25:54.094     0:02:56.301     25,792 kbps     38,206 kbps     00:28:11.481    32,038 kbps     00:28:07.477    29,258 kbps     00:28:27.539    134,466 bytes   475,695 bytes   00:28:07.769    
+8               0:28:50.395     0:03:22.368     26,671 kbps     44,513 kbps     00:32:11.763    32,733 kbps     00:32:07.759    29,071 kbps     00:32:02.754    139,050 bytes   827,943 bytes   00:32:12.680    
+9               0:32:12.764     0:04:09.248     26,862 kbps     37,044 kbps     00:32:30.448    33,993 kbps     00:32:30.073    30,880 kbps     00:32:28.196    140,048 bytes   561,432 bytes   00:33:22.000    
+10              0:36:22.013     0:06:56.499     26,613 kbps     48,858 kbps     00:43:17.511    32,236 kbps     00:36:48.664    30,950 kbps     00:36:44.619    138,748 bytes   550,304 bytes   00:40:36.142    
+11              0:43:18.512     0:04:27.100     26,024 kbps     34,809 kbps     00:46:12.561    30,259 kbps     00:46:09.183    29,333 kbps     00:45:13.001    135,677 bytes   459,975 bytes   00:47:45.612    
+12              0:47:45.612     0:04:15.296     27,164 kbps     35,865 kbps     00:48:12.180    30,722 kbps     00:48:09.803    29,694 kbps     00:49:50.362    141,621 bytes   458,996 bytes   00:47:46.613    
+13              0:52:00.909     0:06:11.204     26,707 kbps     51,374 kbps     00:58:11.112    32,232 kbps     00:58:07.108    30,634 kbps     00:54:25.178    139,241 bytes   789,240 bytes   00:58:12.030    
+14              0:58:12.113     0:07:51.554     26,796 kbps     35,159 kbps     01:04:05.466    31,732 kbps     01:04:03.047    30,616 kbps     01:04:02.964    139,700 bytes   447,088 bytes   00:58:13.114    
+15              1:06:03.668     0:05:15.773     26,747 kbps     41,516 kbps     01:09:56.525    32,558 kbps     01:06:24.397    30,663 kbps     01:06:22.395    139,486 bytes   577,410 bytes   01:07:32.339    
+16              1:11:19.441     0:05:52.310     26,240 kbps     35,298 kbps     01:12:29.887    31,517 kbps     01:12:05.362    29,408 kbps     01:16:44.808    136,915 bytes   441,227 bytes   01:11:44.883    
+17              1:17:11.752     0:05:35.752     25,944 kbps     33,490 kbps     01:22:23.229    31,168 kbps     01:19:37.230    29,677 kbps     01:19:32.934    135,262 bytes   427,072 bytes   01:18:47.806    
+18              1:22:47.504     0:04:08.039     26,202 kbps     36,471 kbps     01:24:09.252    30,615 kbps     01:24:51.002    29,402 kbps     01:23:37.887    136,607 bytes   505,442 bytes   01:26:54.959    
+19              1:26:55.543     0:02:44.998     26,429 kbps     40,048 kbps     01:29:38.581    30,791 kbps     01:29:34.577    28,958 kbps     01:29:29.572    137,928 bytes   576,073 bytes   01:26:56.544    
+20              1:29:40.541     0:05:20.153     19,143 kbps     33,848 kbps     01:34:56.691    29,839 kbps     01:33:03.619    29,438 kbps     01:32:59.031    100,459 bytes   462,931 bytes   01:33:17.925    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0xEA            VC-1                                    5700.570                25,542                  18,200,671,039  98,999,296      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5700.570                3,890                   2,772,172,216   15,953,615      
+00800.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4354 (0x1102)   0x82            DTS             tur (Turkish)           5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4355 (0x1103)   0x82            DTS             por (Portuguese)        5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4356 (0x1104)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4357 (0x1105)   0x82            DTS             isl (Icelandic)         5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4358 (0x1106)   0x82            DTS             ara (Arabic)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4359 (0x1107)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5700.570                192                     136,816,896     890,735         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5700.570                46                      32,617,560      187,929         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5700.570                42                      30,232,059      173,575         
+00800.M2TS      4610 (0x1202)   0x90            PGS             tur (Turkish)           5700.570                40                      28,837,767      166,033         
+00800.M2TS      4611 (0x1203)   0x90            PGS             por (Portuguese)        5700.570                40                      28,197,460      162,556         
+00800.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5700.570                31                      21,946,228      127,487         
+00800.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         5700.570                41                      28,905,140      166,383         
+00800.M2TS      4614 (0x1206)   0x90            PGS             ara (Arabic)            5700.570                20                      14,411,947      88,429          
+00800.M2TS      4615 (0x1207)   0x90            PGS             deu (German)            5700.570                0                       271,579         1,569           
+00800.M2TS      4616 (0x1208)   0x90            PGS             tur (Turkish)           5700.570                0                       192,179         1,118           
+00800.M2TS      4617 (0x1209)   0x90            PGS             por (Portuguese)        5700.570                0                       243,391         1,404           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5700.570                0                       110,917         650             
+00800.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         5700.570                0                       205,831         1,186           
+00800.M2TS      4620 (0x120C)   0x90            PGS             ara (Arabic)            5700.570                0                       203,409         1,270           
+00800.M2TS      4621 (0x120D)   0x90            PGS             nld (Dutch)             5700.570                0                       197,054         1,150           
+00800.M2TS      4622 (0x120E)   0x90            PGS             eng (English)           5700.570                0                       127,136         731             
+00800.M2TS      4623 (0x120F)   0x90            PGS             deu (German)            5700.570                0                       184,604         1,064           
+00800.M2TS      6656 (0x1A00)   0xA2            DTS Express     eng (English)           5700.570                192                     136,818,688     801,672         
+00800.M2TS      6912 (0x1B00)   0xEA            VC-1                                    5700.570                545                     388,473,309     2,199,796       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HOP
+Disc Label: Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size: 31,105,513,774 bytes
+Protection: AACS
+Playlist: 00802.MPLS
+Size: 27,384,158,208 bytes
+Length: 1:35:00.695
+Total Bitrate: 38.43 Mbps
+Video: VC-1 Video / 25542 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Video: VC-1 Video / 545 kbps / 480p / 23.976 fps / 16:9 / Advanced Profile 2
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Icelandic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Arabic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: English / DTS Express / 2.0 / 48 kHz /   192 kbps / 24-bit
+Subtitle: English / 45.773 kbps
+Subtitle: German / 42.426 kbps
+Subtitle: Turkish / 40.469 kbps
+Subtitle: Portuguese / 39.571 kbps
+Subtitle: Dutch / 30.798 kbps
+Subtitle: Icelandic / 40.564 kbps
+Subtitle: Arabic / 20.225 kbps
+Subtitle: German / 0.381 kbps
+Subtitle: Turkish / 0.270 kbps
+Subtitle: Portuguese / 0.342 kbps
+Subtitle: Dutch / 0.156 kbps
+Subtitle: Icelandic / 0.289 kbps
+Subtitle: Arabic / 0.285 kbps
+Subtitle: Dutch / 0.277 kbps
+Subtitle: English / 0.178 kbps
+Subtitle: German / 0.259 kbps
+
+
+********************
+PLAYLIST: 00803.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00803.MPLS                                                      VC-1    1:35:00 27,384,158,208  31,105,513,774  38.43   25.54   DTS-HD Master 5.1 3890Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HOP
+Disc Label:     Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      31,105,513,774 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00803.MPLS
+Length:                 1:35:00.695 (h:m:s.ms)
+Size:                   27,384,158,208 bytes
+Total Bitrate:          38.43 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              25542 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+* VC-1 Video            545 kbps            480p / 23.976 fps / 16:9 / Advanced Profile 2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3890 kbps       5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Turkish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Icelandic       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Arabic          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+* Dolby Digital Audio           English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* DTS Express                   English         192 kbps        2.0 / 48 kHz /   192 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         45.773 kbps                     
+Presentation Graphics           German          42.426 kbps                     
+Presentation Graphics           Turkish         40.469 kbps                     
+Presentation Graphics           Portuguese      39.571 kbps                     
+Presentation Graphics           Dutch           30.798 kbps                     
+Presentation Graphics           Icelandic       40.564 kbps                     
+Presentation Graphics           Arabic          20.225 kbps                     
+Presentation Graphics           German          0.381 kbps                      
+Presentation Graphics           Turkish         0.270 kbps                      
+Presentation Graphics           Portuguese      0.342 kbps                      
+Presentation Graphics           Dutch           0.156 kbps                      
+Presentation Graphics           Icelandic       0.289 kbps                      
+Presentation Graphics           Arabic          0.285 kbps                      
+Presentation Graphics           Dutch           0.277 kbps                      
+Presentation Graphics           English         0.178 kbps                      
+Presentation Graphics           German          0.259 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:00.695     27,384,158,208  38,429          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:35:00.695     25,542 kbps     51,374 kbps     00:58:11.112    33,993 kbps     00:32:30.073    30,950 kbps     00:36:44.619    133,295 bytes   827,943 bytes   00:32:12.680    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0xEA            VC-1                                    5700.570                25,542                  18,200,671,039  98,999,296      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5700.570                3,890                   2,772,172,216   15,953,615      
+00800.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4354 (0x1102)   0x82            DTS             tur (Turkish)           5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4355 (0x1103)   0x82            DTS             por (Portuguese)        5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4356 (0x1104)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4357 (0x1105)   0x82            DTS             isl (Icelandic)         5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4358 (0x1106)   0x82            DTS             ara (Arabic)            5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4359 (0x1107)   0x82            DTS             nld (Dutch)             5700.570                768                     547,267,584     3,206,646       
+00800.M2TS      4360 (0x1108)   0x81            AC3             eng (English)           5700.570                192                     136,816,896     890,735         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5700.570                46                      32,617,560      187,929         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5700.570                42                      30,232,059      173,575         
+00800.M2TS      4610 (0x1202)   0x90            PGS             tur (Turkish)           5700.570                40                      28,837,767      166,033         
+00800.M2TS      4611 (0x1203)   0x90            PGS             por (Portuguese)        5700.570                40                      28,197,460      162,556         
+00800.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             5700.570                31                      21,946,228      127,487         
+00800.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         5700.570                41                      28,905,140      166,383         
+00800.M2TS      4614 (0x1206)   0x90            PGS             ara (Arabic)            5700.570                20                      14,411,947      88,429          
+00800.M2TS      4615 (0x1207)   0x90            PGS             deu (German)            5700.570                0                       271,579         1,569           
+00800.M2TS      4616 (0x1208)   0x90            PGS             tur (Turkish)           5700.570                0                       192,179         1,118           
+00800.M2TS      4617 (0x1209)   0x90            PGS             por (Portuguese)        5700.570                0                       243,391         1,404           
+00800.M2TS      4618 (0x120A)   0x90            PGS             nld (Dutch)             5700.570                0                       110,917         650             
+00800.M2TS      4619 (0x120B)   0x90            PGS             isl (Icelandic)         5700.570                0                       205,831         1,186           
+00800.M2TS      4620 (0x120C)   0x90            PGS             ara (Arabic)            5700.570                0                       203,409         1,270           
+00800.M2TS      4621 (0x120D)   0x90            PGS             nld (Dutch)             5700.570                0                       197,054         1,150           
+00800.M2TS      4622 (0x120E)   0x90            PGS             eng (English)           5700.570                0                       127,136         731             
+00800.M2TS      4623 (0x120F)   0x90            PGS             deu (German)            5700.570                0                       184,604         1,064           
+00800.M2TS      6656 (0x1A00)   0xA2            DTS Express     eng (English)           5700.570                192                     136,818,688     801,672         
+00800.M2TS      6912 (0x1B00)   0xEA            VC-1                                    5700.570                545                     388,473,309     2,199,796       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HOP
+Disc Label: Hop.2011.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size: 31,105,513,774 bytes
+Protection: AACS
+Playlist: 00803.MPLS
+Size: 27,384,158,208 bytes
+Length: 1:35:00.695
+Total Bitrate: 38.43 Mbps
+Video: VC-1 Video / 25542 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+* Video: VC-1 Video / 545 kbps / 480p / 23.976 fps / 16:9 / Advanced Profile 2
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3890 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Icelandic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Arabic / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Audio: English / DTS Express / 2.0 / 48 kHz /   192 kbps / 24-bit
+Subtitle: English / 45.773 kbps
+Subtitle: German / 42.426 kbps
+Subtitle: Turkish / 40.469 kbps
+Subtitle: Portuguese / 39.571 kbps
+Subtitle: Dutch / 30.798 kbps
+Subtitle: Icelandic / 40.564 kbps
+Subtitle: Arabic / 20.225 kbps
+Subtitle: German / 0.381 kbps
+Subtitle: Turkish / 0.270 kbps
+Subtitle: Portuguese / 0.342 kbps
+Subtitle: Dutch / 0.156 kbps
+Subtitle: Icelandic / 0.289 kbps
+Subtitle: Arabic / 0.285 kbps
+Subtitle: Dutch / 0.277 kbps
+Subtitle: English / 0.178 kbps
+Subtitle: German / 0.259 kbps
+

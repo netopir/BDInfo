@@ -1,0 +1,92 @@
+Disc Label:     The.Snow.Queen.2012.1080p.CEE.2D3D.Blu-ray.AVC.DTS.5.1
+Disc Size:      19,841,713,164 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:16:05 14,474,618,880  19,841,713,164  25.36   22.58   DTS 5.1 1509Kbps (48kHz/24-bit)           
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Snow.Queen.2012.1080p.CEE.2D3D.Blu-ray.AVC.DTS.5.1
+Disc Size:      19,841,713,164 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:16:05.561 (h:m:s.ms)
+Size:                   14,474,618,880 bytes
+Total Bitrate:          25.36 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22581 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       English         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:16:05.561     14,474,618,880  25,363          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:16:05.561     22,581 kbps     54,596 kbps     00:35:26.624    36,509 kbps     00:18:51.839    33,638 kbps     00:27:35.320    117,726 bytes   1,009,661 bytes 00:46:18.442    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     4565.478                22,581                  12,886,715,366  70,100,544      
+00000.M2TS      4352 (0x1100)   0x82            DTS             eng (English)           4565.478                1,509                   861,417,051     5,135,124       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Snow.Queen.2012.1080p.CEE.2D3D.Blu-ray.AVC.DTS.5.1
+Disc Size: 19,841,713,164 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 14,474,618,880 bytes
+Length: 1:16:05.561
+Total Bitrate: 25.36 Mbps
+Video: MPEG-4 AVC Video / 22581 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+
