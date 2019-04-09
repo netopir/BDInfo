@@ -1,0 +1,853 @@
+Disc Title:     Rio
+Disc Label:     Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size:      41,949,250,691 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:35:57 24,147,179,520  41,949,250,691  33.55   24.71   DTS-HD Master 5.1 3917Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Rio
+Disc Label:     Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size:      41,949,250,691 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:35:57.752 (h:m:s.ms)
+Size:                   24,147,179,520 bytes
+Total Bitrate:          33.55 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3917 kbps       5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.662 kbps                     
+Presentation Graphics           Dutch           27.589 kbps                     
+Presentation Graphics           German          38.134 kbps                     
+Presentation Graphics           Arabic          17.116 kbps                     
+Presentation Graphics           Turkish         35.102 kbps                     
+Presentation Graphics           French          27.290 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:57.752     24,147,179,520  33,551          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:34.852     23,589 kbps     40,328 kbps     00:03:02.515    30,674 kbps     00:00:24.065    29,531 kbps     00:00:24.024    122,968 bytes   781,658 bytes   00:02:23.601    
+2               0:06:34.852     0:05:41.716     25,175 kbps     36,772 kbps     00:08:24.754    30,285 kbps     00:08:09.447    28,990 kbps     00:07:25.570    131,250 bytes   748,333 bytes   00:07:58.853    
+3               0:12:16.569     0:03:56.569     25,544 kbps     35,557 kbps     00:13:01.697    29,164 kbps     00:13:00.362    27,909 kbps     00:13:17.087    133,173 bytes   748,237 bytes   00:14:56.770    
+4               0:16:13.138     0:05:16.357     24,456 kbps     46,841 kbps     00:17:39.099    28,860 kbps     00:17:39.099    26,640 kbps     00:17:39.099    127,505 bytes   680,778 bytes   00:16:33.242    
+5               0:21:29.496     0:02:16.511     25,080 kbps     32,079 kbps     00:23:28.782    28,238 kbps     00:21:29.496    26,617 kbps     00:21:29.496    130,755 bytes   578,926 bytes   00:23:28.907    
+6               0:23:46.007     0:05:11.185     25,025 kbps     40,626 kbps     00:24:59.498    29,186 kbps     00:25:54.135    27,320 kbps     00:25:53.426    130,467 bytes   767,493 bytes   00:27:15.634    
+7               0:28:57.193     0:05:14.647     26,076 kbps     39,952 kbps     00:33:37.223    31,282 kbps     00:33:43.604    29,361 kbps     00:33:40.393    135,948 bytes   645,002 bytes   00:33:50.403    
+8               0:34:11.841     0:02:41.619     23,310 kbps     32,018 kbps     00:36:40.615    26,806 kbps     00:36:37.361    25,800 kbps     00:36:38.237    121,525 bytes   635,817 bytes   00:35:40.263    
+9               0:36:53.461     0:02:34.153     24,236 kbps     35,352 kbps     00:37:29.413    30,328 kbps     00:37:52.019    27,626 kbps     00:37:47.556    126,355 bytes   739,839 bytes   00:38:19.839    
+10              0:39:27.615     0:03:50.146     24,090 kbps     38,213 kbps     00:39:54.517    29,603 kbps     00:42:41.517    27,077 kbps     00:42:34.969    125,595 bytes   780,471 bytes   00:40:07.279    
+11              0:43:17.761     0:02:30.692     24,267 kbps     38,941 kbps     00:44:17.738    30,270 kbps     00:45:05.994    29,041 kbps     00:45:05.994    126,518 bytes   743,420 bytes   00:44:07.770    
+12              0:45:48.454     0:04:14.629     24,219 kbps     46,856 kbps     00:49:49.861    29,905 kbps     00:47:43.026    28,178 kbps     00:47:03.153    126,269 bytes   717,992 bytes   00:46:07.639    
+13              0:50:03.083     0:02:55.133     25,232 kbps     37,831 kbps     00:50:57.220    29,304 kbps     00:51:03.643    28,384 kbps     00:51:04.436    131,549 bytes   755,970 bytes   00:50:34.239    
+14              0:52:58.216     0:04:39.070     25,339 kbps     40,081 kbps     00:57:13.429    29,330 kbps     00:55:05.760    28,092 kbps     00:55:00.714    132,105 bytes   694,078 bytes   00:57:37.287    
+15              0:57:37.287     0:03:12.358     24,033 kbps     36,037 kbps     01:00:46.684    28,596 kbps     01:00:05.018    27,891 kbps     01:00:05.435    125,298 bytes   768,530 bytes   00:57:38.705    
+16              1:00:49.646     0:02:50.044     26,199 kbps     32,607 kbps     01:02:08.474    28,202 kbps     01:03:14.916    27,754 kbps     01:03:13.039    136,590 bytes   597,757 bytes   01:02:13.604    
+17              1:03:39.690     0:04:17.674     24,378 kbps     36,904 kbps     01:06:24.271    30,138 kbps     01:06:20.309    27,142 kbps     01:06:20.267    127,098 bytes   777,622 bytes   01:07:11.068    
+18              1:07:57.364     0:03:50.146     24,873 kbps     35,945 kbps     01:11:27.157    30,767 kbps     01:11:27.324    29,173 kbps     01:11:23.153    129,678 bytes   750,040 bytes   01:09:40.050    
+19              1:11:47.511     0:03:44.515     24,123 kbps     36,084 kbps     01:13:43.669    30,661 kbps     01:11:49.513    28,226 kbps     01:12:07.239    125,766 bytes   766,774 bytes   01:13:43.919    
+20              1:15:32.027     0:04:08.915     24,584 kbps     35,797 kbps     01:18:54.312    31,255 kbps     01:15:44.915    29,075 kbps     01:15:41.828    128,167 bytes   629,288 bytes   01:18:40.674    
+21              1:19:40.942     0:01:38.389     25,104 kbps     39,166 kbps     01:19:49.534    30,288 kbps     01:19:45.781    29,180 kbps     01:20:24.069    130,880 bytes   762,333 bytes   01:19:54.873    
+22              1:21:19.332     0:02:24.144     25,982 kbps     39,584 kbps     01:22:14.971    30,976 kbps     01:21:50.113    29,066 kbps     01:21:49.195    135,457 bytes   593,976 bytes   01:23:08.149    
+23              1:23:43.476     0:02:55.425     23,903 kbps     35,855 kbps     01:25:58.903    28,571 kbps     01:25:58.319    26,600 kbps     01:24:45.205    124,621 bytes   777,357 bytes   01:26:04.784    
+24              1:26:38.902     0:09:18.849     24,673 kbps     33,488 kbps     01:28:14.664    27,651 kbps     01:28:13.037    26,529 kbps     01:28:13.037    128,645 bytes   737,521 bytes   01:28:00.984    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5757.669                24,713                  17,786,314,326  96,746,026      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5757.669                3,917                   2,819,315,664   16,206,512      
+00800.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4355 (0x1103)   0x82            DTS             deu (German)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4356 (0x1104)   0x81            AC3             tur (Turkish)           5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5757.669                33                      23,507,472      136,647         
+00800.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5757.669                28                      19,856,313      114,394         
+00800.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5757.669                38                      27,445,914      158,134         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5757.669                17                      12,318,836      76,027          
+00800.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5757.669                35                      25,263,260      146,307         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            5757.669                27                      19,641,048      114,289         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Rio
+Disc Label: Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size: 41,949,250,691 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 24,147,179,520 bytes
+Length: 1:35:57.752
+Total Bitrate: 33.55 Mbps
+Video: MPEG-4 AVC Video / 24713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 32.662 kbps
+Subtitle: Dutch / 27.589 kbps
+Subtitle: German / 38.134 kbps
+Subtitle: Arabic / 17.116 kbps
+Subtitle: Turkish / 35.102 kbps
+Subtitle: French / 27.290 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:35:57 24,147,179,520  41,949,250,691  33.55   24.71   DTS-HD Master 5.1 3917Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Rio
+Disc Label:     Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size:      41,949,250,691 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:35:57.752 (h:m:s.ms)
+Size:                   24,147,179,520 bytes
+Total Bitrate:          33.55 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3917 kbps       5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.662 kbps                     
+Presentation Graphics           Dutch           27.589 kbps                     
+Presentation Graphics           German          38.134 kbps                     
+Presentation Graphics           Arabic          17.116 kbps                     
+Presentation Graphics           Turkish         35.102 kbps                     
+Presentation Graphics           French          27.290 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:57.752     24,147,179,520  33,551          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:34.852     23,589 kbps     40,328 kbps     00:03:02.515    30,674 kbps     00:00:24.065    29,531 kbps     00:00:24.024    122,968 bytes   781,658 bytes   00:02:23.601    
+2               0:06:34.852     0:05:41.716     25,175 kbps     36,772 kbps     00:08:24.754    30,285 kbps     00:08:09.447    28,990 kbps     00:07:25.570    131,250 bytes   748,333 bytes   00:07:58.853    
+3               0:12:16.569     0:03:56.569     25,544 kbps     35,557 kbps     00:13:01.697    29,164 kbps     00:13:00.362    27,909 kbps     00:13:17.087    133,173 bytes   748,237 bytes   00:14:56.770    
+4               0:16:13.138     0:05:16.357     24,456 kbps     46,841 kbps     00:17:39.099    28,860 kbps     00:17:39.099    26,640 kbps     00:17:39.099    127,505 bytes   680,778 bytes   00:16:33.242    
+5               0:21:29.496     0:02:16.511     25,080 kbps     32,079 kbps     00:23:28.782    28,238 kbps     00:21:29.496    26,617 kbps     00:21:29.496    130,755 bytes   578,926 bytes   00:23:28.907    
+6               0:23:46.007     0:05:11.185     25,025 kbps     40,626 kbps     00:24:59.498    29,186 kbps     00:25:54.135    27,320 kbps     00:25:53.426    130,467 bytes   767,493 bytes   00:27:15.634    
+7               0:28:57.193     0:05:14.647     26,076 kbps     39,952 kbps     00:33:37.223    31,282 kbps     00:33:43.604    29,361 kbps     00:33:40.393    135,948 bytes   645,002 bytes   00:33:50.403    
+8               0:34:11.841     0:02:41.619     23,310 kbps     32,018 kbps     00:36:40.615    26,806 kbps     00:36:37.361    25,800 kbps     00:36:38.237    121,525 bytes   635,817 bytes   00:35:40.263    
+9               0:36:53.461     0:02:34.153     24,236 kbps     35,352 kbps     00:37:29.413    30,328 kbps     00:37:52.019    27,626 kbps     00:37:47.556    126,355 bytes   739,839 bytes   00:38:19.839    
+10              0:39:27.615     0:03:50.146     24,090 kbps     38,213 kbps     00:39:54.517    29,603 kbps     00:42:41.517    27,077 kbps     00:42:34.969    125,595 bytes   780,471 bytes   00:40:07.279    
+11              0:43:17.761     0:02:30.692     24,267 kbps     38,941 kbps     00:44:17.738    30,270 kbps     00:45:05.994    29,041 kbps     00:45:05.994    126,518 bytes   743,420 bytes   00:44:07.770    
+12              0:45:48.454     0:04:14.629     24,219 kbps     46,856 kbps     00:49:49.861    29,905 kbps     00:47:43.026    28,178 kbps     00:47:03.153    126,269 bytes   717,992 bytes   00:46:07.639    
+13              0:50:03.083     0:02:55.133     25,232 kbps     37,831 kbps     00:50:57.220    29,304 kbps     00:51:03.643    28,384 kbps     00:51:04.436    131,549 bytes   755,970 bytes   00:50:34.239    
+14              0:52:58.216     0:04:39.070     25,339 kbps     40,081 kbps     00:57:13.429    29,330 kbps     00:55:05.760    28,092 kbps     00:55:00.714    132,105 bytes   694,078 bytes   00:57:37.287    
+15              0:57:37.287     0:03:12.358     24,033 kbps     36,037 kbps     01:00:46.684    28,596 kbps     01:00:05.018    27,891 kbps     01:00:05.435    125,298 bytes   768,530 bytes   00:57:38.705    
+16              1:00:49.646     0:02:50.044     26,199 kbps     32,607 kbps     01:02:08.474    28,202 kbps     01:03:14.916    27,754 kbps     01:03:13.039    136,590 bytes   597,757 bytes   01:02:13.604    
+17              1:03:39.690     0:04:17.674     24,378 kbps     36,904 kbps     01:06:24.271    30,138 kbps     01:06:20.309    27,142 kbps     01:06:20.267    127,098 bytes   777,622 bytes   01:07:11.068    
+18              1:07:57.364     0:03:50.146     24,873 kbps     35,945 kbps     01:11:27.157    30,767 kbps     01:11:27.324    29,173 kbps     01:11:23.153    129,678 bytes   750,040 bytes   01:09:40.050    
+19              1:11:47.511     0:03:44.515     24,123 kbps     36,084 kbps     01:13:43.669    30,661 kbps     01:11:49.513    28,226 kbps     01:12:07.239    125,766 bytes   766,774 bytes   01:13:43.919    
+20              1:15:32.027     0:04:08.915     24,584 kbps     35,797 kbps     01:18:54.312    31,255 kbps     01:15:44.915    29,075 kbps     01:15:41.828    128,167 bytes   629,288 bytes   01:18:40.674    
+21              1:19:40.942     0:01:38.389     25,104 kbps     39,166 kbps     01:19:49.534    30,288 kbps     01:19:45.781    29,180 kbps     01:20:24.069    130,880 bytes   762,333 bytes   01:19:54.873    
+22              1:21:19.332     0:02:24.144     25,982 kbps     39,584 kbps     01:22:14.971    30,976 kbps     01:21:50.113    29,066 kbps     01:21:49.195    135,457 bytes   593,976 bytes   01:23:08.149    
+23              1:23:43.476     0:02:55.425     23,903 kbps     35,855 kbps     01:25:58.903    28,571 kbps     01:25:58.319    26,600 kbps     01:24:45.205    124,621 bytes   777,357 bytes   01:26:04.784    
+24              1:26:38.902     0:09:18.849     24,673 kbps     33,488 kbps     01:28:14.664    27,651 kbps     01:28:13.037    26,529 kbps     01:28:13.037    128,645 bytes   737,521 bytes   01:28:00.984    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5757.669                24,713                  17,786,314,326  96,746,026      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5757.669                3,917                   2,819,315,664   16,206,512      
+00800.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4355 (0x1103)   0x82            DTS             deu (German)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4356 (0x1104)   0x81            AC3             tur (Turkish)           5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5757.669                33                      23,507,472      136,647         
+00800.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5757.669                28                      19,856,313      114,394         
+00800.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5757.669                38                      27,445,914      158,134         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5757.669                17                      12,318,836      76,027          
+00800.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5757.669                35                      25,263,260      146,307         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            5757.669                27                      19,641,048      114,289         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Rio
+Disc Label: Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size: 41,949,250,691 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 24,147,179,520 bytes
+Length: 1:35:57.752
+Total Bitrate: 33.55 Mbps
+Video: MPEG-4 AVC Video / 24713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 32.662 kbps
+Subtitle: Dutch / 27.589 kbps
+Subtitle: German / 38.134 kbps
+Subtitle: Arabic / 17.116 kbps
+Subtitle: Turkish / 35.102 kbps
+Subtitle: French / 27.290 kbps
+
+
+********************
+PLAYLIST: 00802.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00802.MPLS                                                      AVC     1:35:57 24,147,179,520  41,949,250,691  33.55   24.71   DTS-HD Master 5.1 3917Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Rio
+Disc Label:     Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size:      41,949,250,691 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00802.MPLS
+Length:                 1:35:57.752 (h:m:s.ms)
+Size:                   24,147,179,520 bytes
+Total Bitrate:          33.55 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3917 kbps       5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.662 kbps                     
+Presentation Graphics           Dutch           27.589 kbps                     
+Presentation Graphics           German          38.134 kbps                     
+Presentation Graphics           Arabic          17.116 kbps                     
+Presentation Graphics           Turkish         35.102 kbps                     
+Presentation Graphics           French          27.290 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:57.752     24,147,179,520  33,551          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:34.852     23,589 kbps     40,328 kbps     00:03:02.515    30,674 kbps     00:00:24.065    29,531 kbps     00:00:24.024    122,968 bytes   781,658 bytes   00:02:23.601    
+2               0:06:34.852     0:05:41.716     25,175 kbps     36,772 kbps     00:08:24.754    30,285 kbps     00:08:09.447    28,990 kbps     00:07:25.570    131,250 bytes   748,333 bytes   00:07:58.853    
+3               0:12:16.569     0:03:56.569     25,544 kbps     35,557 kbps     00:13:01.697    29,164 kbps     00:13:00.362    27,909 kbps     00:13:17.087    133,173 bytes   748,237 bytes   00:14:56.770    
+4               0:16:13.138     0:05:16.357     24,456 kbps     46,841 kbps     00:17:39.099    28,860 kbps     00:17:39.099    26,640 kbps     00:17:39.099    127,505 bytes   680,778 bytes   00:16:33.242    
+5               0:21:29.496     0:02:16.511     25,080 kbps     32,079 kbps     00:23:28.782    28,238 kbps     00:21:29.496    26,617 kbps     00:21:29.496    130,755 bytes   578,926 bytes   00:23:28.907    
+6               0:23:46.007     0:05:11.185     25,025 kbps     40,626 kbps     00:24:59.498    29,186 kbps     00:25:54.135    27,320 kbps     00:25:53.426    130,467 bytes   767,493 bytes   00:27:15.634    
+7               0:28:57.193     0:05:14.647     26,076 kbps     39,952 kbps     00:33:37.223    31,282 kbps     00:33:43.604    29,361 kbps     00:33:40.393    135,948 bytes   645,002 bytes   00:33:50.403    
+8               0:34:11.841     0:02:41.619     23,310 kbps     32,018 kbps     00:36:40.615    26,806 kbps     00:36:37.361    25,800 kbps     00:36:38.237    121,525 bytes   635,817 bytes   00:35:40.263    
+9               0:36:53.461     0:02:34.153     24,236 kbps     35,352 kbps     00:37:29.413    30,328 kbps     00:37:52.019    27,626 kbps     00:37:47.556    126,355 bytes   739,839 bytes   00:38:19.839    
+10              0:39:27.615     0:03:50.146     24,090 kbps     38,213 kbps     00:39:54.517    29,603 kbps     00:42:41.517    27,077 kbps     00:42:34.969    125,595 bytes   780,471 bytes   00:40:07.279    
+11              0:43:17.761     0:02:30.692     24,267 kbps     38,941 kbps     00:44:17.738    30,270 kbps     00:45:05.994    29,041 kbps     00:45:05.994    126,518 bytes   743,420 bytes   00:44:07.770    
+12              0:45:48.454     0:04:14.629     24,219 kbps     46,856 kbps     00:49:49.861    29,905 kbps     00:47:43.026    28,178 kbps     00:47:03.153    126,269 bytes   717,992 bytes   00:46:07.639    
+13              0:50:03.083     0:02:55.133     25,232 kbps     37,831 kbps     00:50:57.220    29,304 kbps     00:51:03.643    28,384 kbps     00:51:04.436    131,549 bytes   755,970 bytes   00:50:34.239    
+14              0:52:58.216     0:04:39.070     25,339 kbps     40,081 kbps     00:57:13.429    29,330 kbps     00:55:05.760    28,092 kbps     00:55:00.714    132,105 bytes   694,078 bytes   00:57:37.287    
+15              0:57:37.287     0:03:12.358     24,033 kbps     36,037 kbps     01:00:46.684    28,596 kbps     01:00:05.018    27,891 kbps     01:00:05.435    125,298 bytes   768,530 bytes   00:57:38.705    
+16              1:00:49.646     0:02:50.044     26,199 kbps     32,607 kbps     01:02:08.474    28,202 kbps     01:03:14.916    27,754 kbps     01:03:13.039    136,590 bytes   597,757 bytes   01:02:13.604    
+17              1:03:39.690     0:04:17.674     24,378 kbps     36,904 kbps     01:06:24.271    30,138 kbps     01:06:20.309    27,142 kbps     01:06:20.267    127,098 bytes   777,622 bytes   01:07:11.068    
+18              1:07:57.364     0:03:50.146     24,873 kbps     35,945 kbps     01:11:27.157    30,767 kbps     01:11:27.324    29,173 kbps     01:11:23.153    129,678 bytes   750,040 bytes   01:09:40.050    
+19              1:11:47.511     0:03:44.515     24,123 kbps     36,084 kbps     01:13:43.669    30,661 kbps     01:11:49.513    28,226 kbps     01:12:07.239    125,766 bytes   766,774 bytes   01:13:43.919    
+20              1:15:32.027     0:04:08.915     24,584 kbps     35,797 kbps     01:18:54.312    31,255 kbps     01:15:44.915    29,075 kbps     01:15:41.828    128,167 bytes   629,288 bytes   01:18:40.674    
+21              1:19:40.942     0:01:38.389     25,104 kbps     39,166 kbps     01:19:49.534    30,288 kbps     01:19:45.781    29,180 kbps     01:20:24.069    130,880 bytes   762,333 bytes   01:19:54.873    
+22              1:21:19.332     0:02:24.144     25,982 kbps     39,584 kbps     01:22:14.971    30,976 kbps     01:21:50.113    29,066 kbps     01:21:49.195    135,457 bytes   593,976 bytes   01:23:08.149    
+23              1:23:43.476     0:02:55.425     23,903 kbps     35,855 kbps     01:25:58.903    28,571 kbps     01:25:58.319    26,600 kbps     01:24:45.205    124,621 bytes   777,357 bytes   01:26:04.784    
+24              1:26:38.902     0:09:18.849     24,673 kbps     33,488 kbps     01:28:14.664    27,651 kbps     01:28:13.037    26,529 kbps     01:28:13.037    128,645 bytes   737,521 bytes   01:28:00.984    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5757.669                24,713                  17,786,314,326  96,746,026      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5757.669                3,917                   2,819,315,664   16,206,512      
+00800.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4355 (0x1103)   0x82            DTS             deu (German)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4356 (0x1104)   0x81            AC3             tur (Turkish)           5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5757.669                33                      23,507,472      136,647         
+00800.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5757.669                28                      19,856,313      114,394         
+00800.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5757.669                38                      27,445,914      158,134         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5757.669                17                      12,318,836      76,027          
+00800.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5757.669                35                      25,263,260      146,307         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            5757.669                27                      19,641,048      114,289         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Rio
+Disc Label: Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size: 41,949,250,691 bytes
+Protection: AACS
+Playlist: 00802.MPLS
+Size: 24,147,179,520 bytes
+Length: 1:35:57.752
+Total Bitrate: 33.55 Mbps
+Video: MPEG-4 AVC Video / 24713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 32.662 kbps
+Subtitle: Dutch / 27.589 kbps
+Subtitle: German / 38.134 kbps
+Subtitle: Arabic / 17.116 kbps
+Subtitle: Turkish / 35.102 kbps
+Subtitle: French / 27.290 kbps
+
+
+********************
+PLAYLIST: 00850.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00850.MPLS                                                      AVC     1:35:57 24,147,179,520  41,949,250,691  33.55   24.71   DTS-HD Master 5.1 3917Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Rio
+Disc Label:     Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size:      41,949,250,691 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00850.MPLS
+Length:                 1:35:57.752 (h:m:s.ms)
+Size:                   24,147,179,520 bytes
+Total Bitrate:          33.55 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3917 kbps       5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.662 kbps                     
+Presentation Graphics           Dutch           27.589 kbps                     
+Presentation Graphics           German          38.134 kbps                     
+Presentation Graphics           Arabic          17.116 kbps                     
+Presentation Graphics           Turkish         35.102 kbps                     
+Presentation Graphics           French          27.290 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:57.752     24,147,179,520  33,551          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:34.852     23,589 kbps     40,328 kbps     00:03:02.515    30,674 kbps     00:00:24.065    29,531 kbps     00:00:24.024    122,968 bytes   781,658 bytes   00:02:23.601    
+2               0:06:34.852     0:05:41.716     25,175 kbps     36,772 kbps     00:08:24.754    30,285 kbps     00:08:09.447    28,990 kbps     00:07:25.570    131,250 bytes   748,333 bytes   00:07:58.853    
+3               0:12:16.569     0:03:56.569     25,544 kbps     35,557 kbps     00:13:01.697    29,164 kbps     00:13:00.362    27,909 kbps     00:13:17.087    133,173 bytes   748,237 bytes   00:14:56.770    
+4               0:16:13.138     0:05:16.357     24,456 kbps     46,841 kbps     00:17:39.099    28,860 kbps     00:17:39.099    26,640 kbps     00:17:39.099    127,505 bytes   680,778 bytes   00:16:33.242    
+5               0:21:29.496     0:02:16.511     25,080 kbps     32,079 kbps     00:23:28.782    28,238 kbps     00:21:29.496    26,617 kbps     00:21:29.496    130,755 bytes   578,926 bytes   00:23:28.907    
+6               0:23:46.007     0:05:11.185     25,025 kbps     40,626 kbps     00:24:59.498    29,186 kbps     00:25:54.135    27,320 kbps     00:25:53.426    130,467 bytes   767,493 bytes   00:27:15.634    
+7               0:28:57.193     0:05:14.647     26,076 kbps     39,952 kbps     00:33:37.223    31,282 kbps     00:33:43.604    29,361 kbps     00:33:40.393    135,948 bytes   645,002 bytes   00:33:50.403    
+8               0:34:11.841     0:02:41.619     23,310 kbps     32,018 kbps     00:36:40.615    26,806 kbps     00:36:37.361    25,800 kbps     00:36:38.237    121,525 bytes   635,817 bytes   00:35:40.263    
+9               0:36:53.461     0:02:34.153     24,236 kbps     35,352 kbps     00:37:29.413    30,328 kbps     00:37:52.019    27,626 kbps     00:37:47.556    126,355 bytes   739,839 bytes   00:38:19.839    
+10              0:39:27.615     0:03:50.146     24,090 kbps     38,213 kbps     00:39:54.517    29,603 kbps     00:42:41.517    27,077 kbps     00:42:34.969    125,595 bytes   780,471 bytes   00:40:07.279    
+11              0:43:17.761     0:02:30.692     24,267 kbps     38,941 kbps     00:44:17.738    30,270 kbps     00:45:05.994    29,041 kbps     00:45:05.994    126,518 bytes   743,420 bytes   00:44:07.770    
+12              0:45:48.454     0:04:14.629     24,219 kbps     46,856 kbps     00:49:49.861    29,905 kbps     00:47:43.026    28,178 kbps     00:47:03.153    126,269 bytes   717,992 bytes   00:46:07.639    
+13              0:50:03.083     0:02:55.133     25,232 kbps     37,831 kbps     00:50:57.220    29,304 kbps     00:51:03.643    28,384 kbps     00:51:04.436    131,549 bytes   755,970 bytes   00:50:34.239    
+14              0:52:58.216     0:04:39.070     25,339 kbps     40,081 kbps     00:57:13.429    29,330 kbps     00:55:05.760    28,092 kbps     00:55:00.714    132,105 bytes   694,078 bytes   00:57:37.287    
+15              0:57:37.287     0:03:12.358     24,033 kbps     36,037 kbps     01:00:46.684    28,596 kbps     01:00:05.018    27,891 kbps     01:00:05.435    125,298 bytes   768,530 bytes   00:57:38.705    
+16              1:00:49.646     0:02:50.044     26,199 kbps     32,607 kbps     01:02:08.474    28,202 kbps     01:03:14.916    27,754 kbps     01:03:13.039    136,590 bytes   597,757 bytes   01:02:13.604    
+17              1:03:39.690     0:04:17.674     24,378 kbps     36,904 kbps     01:06:24.271    30,138 kbps     01:06:20.309    27,142 kbps     01:06:20.267    127,098 bytes   777,622 bytes   01:07:11.068    
+18              1:07:57.364     0:03:50.146     24,873 kbps     35,945 kbps     01:11:27.157    30,767 kbps     01:11:27.324    29,173 kbps     01:11:23.153    129,678 bytes   750,040 bytes   01:09:40.050    
+19              1:11:47.511     0:03:44.515     24,123 kbps     36,084 kbps     01:13:43.669    30,661 kbps     01:11:49.513    28,226 kbps     01:12:07.239    125,766 bytes   766,774 bytes   01:13:43.919    
+20              1:15:32.027     0:04:08.915     24,584 kbps     35,797 kbps     01:18:54.312    31,255 kbps     01:15:44.915    29,075 kbps     01:15:41.828    128,167 bytes   629,288 bytes   01:18:40.674    
+21              1:19:40.942     0:01:38.389     25,104 kbps     39,166 kbps     01:19:49.534    30,288 kbps     01:19:45.781    29,180 kbps     01:20:24.069    130,880 bytes   762,333 bytes   01:19:54.873    
+22              1:21:19.332     0:02:24.144     25,982 kbps     39,584 kbps     01:22:14.971    30,976 kbps     01:21:50.113    29,066 kbps     01:21:49.195    135,457 bytes   593,976 bytes   01:23:08.149    
+23              1:23:43.476     0:02:55.425     23,903 kbps     35,855 kbps     01:25:58.903    28,571 kbps     01:25:58.319    26,600 kbps     01:24:45.205    124,621 bytes   777,357 bytes   01:26:04.784    
+24              1:26:38.902     0:09:18.849     24,673 kbps     33,488 kbps     01:28:14.664    27,651 kbps     01:28:13.037    26,529 kbps     01:28:13.037    128,645 bytes   737,521 bytes   01:28:00.984    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5757.669                24,713                  17,786,314,326  96,746,026      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5757.669                3,917                   2,819,315,664   16,206,512      
+00800.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4355 (0x1103)   0x82            DTS             deu (German)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4356 (0x1104)   0x81            AC3             tur (Turkish)           5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5757.669                33                      23,507,472      136,647         
+00800.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5757.669                28                      19,856,313      114,394         
+00800.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5757.669                38                      27,445,914      158,134         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5757.669                17                      12,318,836      76,027          
+00800.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5757.669                35                      25,263,260      146,307         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            5757.669                27                      19,641,048      114,289         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Rio
+Disc Label: Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size: 41,949,250,691 bytes
+Protection: AACS
+Playlist: 00850.MPLS
+Size: 24,147,179,520 bytes
+Length: 1:35:57.752
+Total Bitrate: 33.55 Mbps
+Video: MPEG-4 AVC Video / 24713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 32.662 kbps
+Subtitle: Dutch / 27.589 kbps
+Subtitle: German / 38.134 kbps
+Subtitle: Arabic / 17.116 kbps
+Subtitle: Turkish / 35.102 kbps
+Subtitle: French / 27.290 kbps
+
+
+********************
+PLAYLIST: 00851.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00851.MPLS                                                      AVC     1:35:57 24,147,179,520  41,949,250,691  33.55   24.71   DTS-HD Master 5.1 3917Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Rio
+Disc Label:     Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size:      41,949,250,691 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00851.MPLS
+Length:                 1:35:57.752 (h:m:s.ms)
+Size:                   24,147,179,520 bytes
+Total Bitrate:          33.55 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3917 kbps       5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.662 kbps                     
+Presentation Graphics           Dutch           27.589 kbps                     
+Presentation Graphics           German          38.134 kbps                     
+Presentation Graphics           Arabic          17.116 kbps                     
+Presentation Graphics           Turkish         35.102 kbps                     
+Presentation Graphics           French          27.290 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:57.752     24,147,179,520  33,551          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:34.852     23,589 kbps     40,328 kbps     00:03:02.515    30,674 kbps     00:00:24.065    29,531 kbps     00:00:24.024    122,968 bytes   781,658 bytes   00:02:23.601    
+2               0:06:34.852     0:05:41.716     25,175 kbps     36,772 kbps     00:08:24.754    30,285 kbps     00:08:09.447    28,990 kbps     00:07:25.570    131,250 bytes   748,333 bytes   00:07:58.853    
+3               0:12:16.569     0:03:56.569     25,544 kbps     35,557 kbps     00:13:01.697    29,164 kbps     00:13:00.362    27,909 kbps     00:13:17.087    133,173 bytes   748,237 bytes   00:14:56.770    
+4               0:16:13.138     0:05:16.357     24,456 kbps     46,841 kbps     00:17:39.099    28,860 kbps     00:17:39.099    26,640 kbps     00:17:39.099    127,505 bytes   680,778 bytes   00:16:33.242    
+5               0:21:29.496     0:02:16.511     25,080 kbps     32,079 kbps     00:23:28.782    28,238 kbps     00:21:29.496    26,617 kbps     00:21:29.496    130,755 bytes   578,926 bytes   00:23:28.907    
+6               0:23:46.007     0:05:11.185     25,025 kbps     40,626 kbps     00:24:59.498    29,186 kbps     00:25:54.135    27,320 kbps     00:25:53.426    130,467 bytes   767,493 bytes   00:27:15.634    
+7               0:28:57.193     0:05:14.647     26,076 kbps     39,952 kbps     00:33:37.223    31,282 kbps     00:33:43.604    29,361 kbps     00:33:40.393    135,948 bytes   645,002 bytes   00:33:50.403    
+8               0:34:11.841     0:02:41.619     23,310 kbps     32,018 kbps     00:36:40.615    26,806 kbps     00:36:37.361    25,800 kbps     00:36:38.237    121,525 bytes   635,817 bytes   00:35:40.263    
+9               0:36:53.461     0:02:34.153     24,236 kbps     35,352 kbps     00:37:29.413    30,328 kbps     00:37:52.019    27,626 kbps     00:37:47.556    126,355 bytes   739,839 bytes   00:38:19.839    
+10              0:39:27.615     0:03:50.146     24,090 kbps     38,213 kbps     00:39:54.517    29,603 kbps     00:42:41.517    27,077 kbps     00:42:34.969    125,595 bytes   780,471 bytes   00:40:07.279    
+11              0:43:17.761     0:02:30.692     24,267 kbps     38,941 kbps     00:44:17.738    30,270 kbps     00:45:05.994    29,041 kbps     00:45:05.994    126,518 bytes   743,420 bytes   00:44:07.770    
+12              0:45:48.454     0:04:14.629     24,219 kbps     46,856 kbps     00:49:49.861    29,905 kbps     00:47:43.026    28,178 kbps     00:47:03.153    126,269 bytes   717,992 bytes   00:46:07.639    
+13              0:50:03.083     0:02:55.133     25,232 kbps     37,831 kbps     00:50:57.220    29,304 kbps     00:51:03.643    28,384 kbps     00:51:04.436    131,549 bytes   755,970 bytes   00:50:34.239    
+14              0:52:58.216     0:04:39.070     25,339 kbps     40,081 kbps     00:57:13.429    29,330 kbps     00:55:05.760    28,092 kbps     00:55:00.714    132,105 bytes   694,078 bytes   00:57:37.287    
+15              0:57:37.287     0:03:12.358     24,033 kbps     36,037 kbps     01:00:46.684    28,596 kbps     01:00:05.018    27,891 kbps     01:00:05.435    125,298 bytes   768,530 bytes   00:57:38.705    
+16              1:00:49.646     0:02:50.044     26,199 kbps     32,607 kbps     01:02:08.474    28,202 kbps     01:03:14.916    27,754 kbps     01:03:13.039    136,590 bytes   597,757 bytes   01:02:13.604    
+17              1:03:39.690     0:04:17.674     24,378 kbps     36,904 kbps     01:06:24.271    30,138 kbps     01:06:20.309    27,142 kbps     01:06:20.267    127,098 bytes   777,622 bytes   01:07:11.068    
+18              1:07:57.364     0:03:50.146     24,873 kbps     35,945 kbps     01:11:27.157    30,767 kbps     01:11:27.324    29,173 kbps     01:11:23.153    129,678 bytes   750,040 bytes   01:09:40.050    
+19              1:11:47.511     0:03:44.515     24,123 kbps     36,084 kbps     01:13:43.669    30,661 kbps     01:11:49.513    28,226 kbps     01:12:07.239    125,766 bytes   766,774 bytes   01:13:43.919    
+20              1:15:32.027     0:04:08.915     24,584 kbps     35,797 kbps     01:18:54.312    31,255 kbps     01:15:44.915    29,075 kbps     01:15:41.828    128,167 bytes   629,288 bytes   01:18:40.674    
+21              1:19:40.942     0:01:38.389     25,104 kbps     39,166 kbps     01:19:49.534    30,288 kbps     01:19:45.781    29,180 kbps     01:20:24.069    130,880 bytes   762,333 bytes   01:19:54.873    
+22              1:21:19.332     0:02:24.144     25,982 kbps     39,584 kbps     01:22:14.971    30,976 kbps     01:21:50.113    29,066 kbps     01:21:49.195    135,457 bytes   593,976 bytes   01:23:08.149    
+23              1:23:43.476     0:02:55.425     23,903 kbps     35,855 kbps     01:25:58.903    28,571 kbps     01:25:58.319    26,600 kbps     01:24:45.205    124,621 bytes   777,357 bytes   01:26:04.784    
+24              1:26:38.902     0:09:18.849     24,673 kbps     33,488 kbps     01:28:14.664    27,651 kbps     01:28:13.037    26,529 kbps     01:28:13.037    128,645 bytes   737,521 bytes   01:28:00.984    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5757.669                24,713                  17,786,314,326  96,746,026      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5757.669                3,917                   2,819,315,664   16,206,512      
+00800.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4355 (0x1103)   0x82            DTS             deu (German)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4356 (0x1104)   0x81            AC3             tur (Turkish)           5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5757.669                33                      23,507,472      136,647         
+00800.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5757.669                28                      19,856,313      114,394         
+00800.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5757.669                38                      27,445,914      158,134         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5757.669                17                      12,318,836      76,027          
+00800.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5757.669                35                      25,263,260      146,307         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            5757.669                27                      19,641,048      114,289         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Rio
+Disc Label: Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size: 41,949,250,691 bytes
+Protection: AACS
+Playlist: 00851.MPLS
+Size: 24,147,179,520 bytes
+Length: 1:35:57.752
+Total Bitrate: 33.55 Mbps
+Video: MPEG-4 AVC Video / 24713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 32.662 kbps
+Subtitle: Dutch / 27.589 kbps
+Subtitle: German / 38.134 kbps
+Subtitle: Arabic / 17.116 kbps
+Subtitle: Turkish / 35.102 kbps
+Subtitle: French / 27.290 kbps
+
+
+********************
+PLAYLIST: 00852.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00852.MPLS                                                      AVC     1:35:57 24,147,179,520  41,949,250,691  33.55   24.71   DTS-HD Master 5.1 3917Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Rio
+Disc Label:     Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size:      41,949,250,691 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00852.MPLS
+Length:                 1:35:57.752 (h:m:s.ms)
+Size:                   24,147,179,520 bytes
+Total Bitrate:          33.55 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24713 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3917 kbps       5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Dutch           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         32.662 kbps                     
+Presentation Graphics           Dutch           27.589 kbps                     
+Presentation Graphics           German          38.134 kbps                     
+Presentation Graphics           Arabic          17.116 kbps                     
+Presentation Graphics           Turkish         35.102 kbps                     
+Presentation Graphics           French          27.290 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:35:57.752     24,147,179,520  33,551          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:34.852     23,589 kbps     40,328 kbps     00:03:02.515    30,674 kbps     00:00:24.065    29,531 kbps     00:00:24.024    122,968 bytes   781,658 bytes   00:02:23.601    
+2               0:06:34.852     0:05:41.716     25,175 kbps     36,772 kbps     00:08:24.754    30,285 kbps     00:08:09.447    28,990 kbps     00:07:25.570    131,250 bytes   748,333 bytes   00:07:58.853    
+3               0:12:16.569     0:03:56.569     25,544 kbps     35,557 kbps     00:13:01.697    29,164 kbps     00:13:00.362    27,909 kbps     00:13:17.087    133,173 bytes   748,237 bytes   00:14:56.770    
+4               0:16:13.138     0:05:16.357     24,456 kbps     46,841 kbps     00:17:39.099    28,860 kbps     00:17:39.099    26,640 kbps     00:17:39.099    127,505 bytes   680,778 bytes   00:16:33.242    
+5               0:21:29.496     0:02:16.511     25,080 kbps     32,079 kbps     00:23:28.782    28,238 kbps     00:21:29.496    26,617 kbps     00:21:29.496    130,755 bytes   578,926 bytes   00:23:28.907    
+6               0:23:46.007     0:05:11.185     25,025 kbps     40,626 kbps     00:24:59.498    29,186 kbps     00:25:54.135    27,320 kbps     00:25:53.426    130,467 bytes   767,493 bytes   00:27:15.634    
+7               0:28:57.193     0:05:14.647     26,076 kbps     39,952 kbps     00:33:37.223    31,282 kbps     00:33:43.604    29,361 kbps     00:33:40.393    135,948 bytes   645,002 bytes   00:33:50.403    
+8               0:34:11.841     0:02:41.619     23,310 kbps     32,018 kbps     00:36:40.615    26,806 kbps     00:36:37.361    25,800 kbps     00:36:38.237    121,525 bytes   635,817 bytes   00:35:40.263    
+9               0:36:53.461     0:02:34.153     24,236 kbps     35,352 kbps     00:37:29.413    30,328 kbps     00:37:52.019    27,626 kbps     00:37:47.556    126,355 bytes   739,839 bytes   00:38:19.839    
+10              0:39:27.615     0:03:50.146     24,090 kbps     38,213 kbps     00:39:54.517    29,603 kbps     00:42:41.517    27,077 kbps     00:42:34.969    125,595 bytes   780,471 bytes   00:40:07.279    
+11              0:43:17.761     0:02:30.692     24,267 kbps     38,941 kbps     00:44:17.738    30,270 kbps     00:45:05.994    29,041 kbps     00:45:05.994    126,518 bytes   743,420 bytes   00:44:07.770    
+12              0:45:48.454     0:04:14.629     24,219 kbps     46,856 kbps     00:49:49.861    29,905 kbps     00:47:43.026    28,178 kbps     00:47:03.153    126,269 bytes   717,992 bytes   00:46:07.639    
+13              0:50:03.083     0:02:55.133     25,232 kbps     37,831 kbps     00:50:57.220    29,304 kbps     00:51:03.643    28,384 kbps     00:51:04.436    131,549 bytes   755,970 bytes   00:50:34.239    
+14              0:52:58.216     0:04:39.070     25,339 kbps     40,081 kbps     00:57:13.429    29,330 kbps     00:55:05.760    28,092 kbps     00:55:00.714    132,105 bytes   694,078 bytes   00:57:37.287    
+15              0:57:37.287     0:03:12.358     24,033 kbps     36,037 kbps     01:00:46.684    28,596 kbps     01:00:05.018    27,891 kbps     01:00:05.435    125,298 bytes   768,530 bytes   00:57:38.705    
+16              1:00:49.646     0:02:50.044     26,199 kbps     32,607 kbps     01:02:08.474    28,202 kbps     01:03:14.916    27,754 kbps     01:03:13.039    136,590 bytes   597,757 bytes   01:02:13.604    
+17              1:03:39.690     0:04:17.674     24,378 kbps     36,904 kbps     01:06:24.271    30,138 kbps     01:06:20.309    27,142 kbps     01:06:20.267    127,098 bytes   777,622 bytes   01:07:11.068    
+18              1:07:57.364     0:03:50.146     24,873 kbps     35,945 kbps     01:11:27.157    30,767 kbps     01:11:27.324    29,173 kbps     01:11:23.153    129,678 bytes   750,040 bytes   01:09:40.050    
+19              1:11:47.511     0:03:44.515     24,123 kbps     36,084 kbps     01:13:43.669    30,661 kbps     01:11:49.513    28,226 kbps     01:12:07.239    125,766 bytes   766,774 bytes   01:13:43.919    
+20              1:15:32.027     0:04:08.915     24,584 kbps     35,797 kbps     01:18:54.312    31,255 kbps     01:15:44.915    29,075 kbps     01:15:41.828    128,167 bytes   629,288 bytes   01:18:40.674    
+21              1:19:40.942     0:01:38.389     25,104 kbps     39,166 kbps     01:19:49.534    30,288 kbps     01:19:45.781    29,180 kbps     01:20:24.069    130,880 bytes   762,333 bytes   01:19:54.873    
+22              1:21:19.332     0:02:24.144     25,982 kbps     39,584 kbps     01:22:14.971    30,976 kbps     01:21:50.113    29,066 kbps     01:21:49.195    135,457 bytes   593,976 bytes   01:23:08.149    
+23              1:23:43.476     0:02:55.425     23,903 kbps     35,855 kbps     01:25:58.903    28,571 kbps     01:25:58.319    26,600 kbps     01:24:45.205    124,621 bytes   777,357 bytes   01:26:04.784    
+24              1:26:38.902     0:09:18.849     24,673 kbps     33,488 kbps     01:28:14.664    27,651 kbps     01:28:13.037    26,529 kbps     01:28:13.037    128,645 bytes   737,521 bytes   01:28:00.984    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5757.669                24,713                  17,786,314,326  96,746,026      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5757.669                3,917                   2,819,315,664   16,206,512      
+00800.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4354 (0x1102)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4355 (0x1103)   0x82            DTS             deu (German)            5757.669                768                     552,744,960     3,238,740       
+00800.M2TS      4356 (0x1104)   0x81            AC3             tur (Turkish)           5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             5757.669                448                     322,434,560     1,799,300       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5757.669                33                      23,507,472      136,647         
+00800.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5757.669                28                      19,856,313      114,394         
+00800.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5757.669                38                      27,445,914      158,134         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5757.669                17                      12,318,836      76,027          
+00800.M2TS      4612 (0x1204)   0x90            PGS             tur (Turkish)           5757.669                35                      25,263,260      146,307         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            5757.669                27                      19,641,048      114,289         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Rio
+Disc Label: Rio.3D.2011.BluRay.MULTI.COMPLETE-INSECTS
+Disc Size: 41,949,250,691 bytes
+Protection: AACS
+Playlist: 00852.MPLS
+Size: 24,147,179,520 bytes
+Length: 1:35:57.752
+Total Bitrate: 33.55 Mbps
+Video: MPEG-4 AVC Video / 24713 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 32.662 kbps
+Subtitle: Dutch / 27.589 kbps
+Subtitle: German / 38.134 kbps
+Subtitle: Arabic / 17.116 kbps
+Subtitle: Turkish / 35.102 kbps
+Subtitle: French / 27.290 kbps
+
