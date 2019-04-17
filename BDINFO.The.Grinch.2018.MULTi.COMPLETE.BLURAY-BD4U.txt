@@ -1,0 +1,169 @@
+Disc Title:     Dr. Seuss' The Grinch
+Disc Label:     The.Grinch.2018.MULTi.COMPLETE.BLURAY-BD4U
+Disc Size:      41,224,855,159 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:25:49 26,219,175,936  41,224,855,159  40.74   25.17   Dolby Atmos 7.1 4737Kbps (48kHz/24-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Dr. Seuss' The Grinch
+Disc Label:     The.Grinch.2018.MULTi.COMPLETE.BLURAY-BD4U
+Disc Size:      41,224,855,159 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:25:49.185 (h:m:s.ms)
+Size:                   26,219,175,936 bytes
+Total Bitrate:          40.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25172 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         4737 kbps       7.1 / 48 kHz /  4289 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Dolby TrueHD/Atmos Audio        German          3685 kbps       7.1 / 48 kHz /  3237 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Plus Audio        Danish          768 kbps        7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Plus Audio        Finnish         768 kbps        7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Plus Audio        Norwegian       768 kbps        7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Audio             Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         39.271 kbps                     
+Presentation Graphics           German          30.281 kbps                     
+Presentation Graphics           Danish          27.764 kbps                     
+Presentation Graphics           Finnish         24.851 kbps                     
+Presentation Graphics           Norwegian       24.204 kbps                     
+Presentation Graphics           Swedish         26.802 kbps                     
+Presentation Graphics           German          1.223 kbps                      
+Presentation Graphics           Danish          0.432 kbps                      
+Presentation Graphics           Finnish         0.277 kbps                      
+Presentation Graphics           Norwegian       0.640 kbps                      
+Presentation Graphics           Swedish         0.388 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:25:49.185     26,219,175,936  40,735          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:40.298     25,196 kbps     34,595 kbps     00:00:39.289    29,176 kbps     00:00:35.285    28,492 kbps     00:00:30.280    131,343 bytes   343,863 bytes   00:03:54.317    
+2               0:05:40.298     0:04:55.628     26,002 kbps     30,113 kbps     00:08:40.436    28,362 kbps     00:07:31.742    28,036 kbps     00:10:04.270    135,564 bytes   394,187 bytes   00:07:24.402    
+3               0:10:35.926     0:03:38.176     24,549 kbps     29,988 kbps     00:13:05.868    28,148 kbps     00:13:05.993    27,800 kbps     00:13:20.299    127,986 bytes   363,179 bytes   00:14:14.103    
+4               0:14:14.103     0:03:31.002     26,179 kbps     30,081 kbps     00:16:24.858    28,253 kbps     00:16:20.729    27,980 kbps     00:16:41.458    136,486 bytes   383,758 bytes   00:16:51.427    
+5               0:17:45.105     0:04:34.190     24,328 kbps     33,409 kbps     00:19:08.397    27,905 kbps     00:21:40.632    27,819 kbps     00:21:41.675    126,837 bytes   341,078 bytes   00:19:59.364    
+6               0:22:19.296     0:04:09.040     26,266 kbps     29,881 kbps     00:25:20.560    28,179 kbps     00:22:31.767    27,998 kbps     00:22:26.762    136,938 bytes   344,321 bytes   00:23:17.312    
+7               0:26:28.336     0:04:16.756     24,976 kbps     29,836 kbps     00:26:33.300    28,204 kbps     00:28:11.481    27,956 kbps     00:28:06.518    130,214 bytes   351,391 bytes   00:27:43.119    
+8               0:30:45.093     0:04:01.491     24,451 kbps     31,169 kbps     00:33:11.948    28,480 kbps     00:33:07.944    27,791 kbps     00:33:08.277    127,477 bytes   341,481 bytes   00:30:53.059    
+9               0:34:46.584     0:03:50.605     24,409 kbps     29,501 kbps     00:35:04.727    28,111 kbps     00:35:12.276    27,479 kbps     00:36:58.174    127,260 bytes   371,833 bytes   00:35:15.488    
+10              0:38:37.189     0:06:03.404     26,110 kbps     29,824 kbps     00:39:25.446    28,215 kbps     00:39:18.898    28,013 kbps     00:39:13.851    136,125 bytes   428,306 bytes   00:39:23.861    
+11              0:44:40.594     0:02:47.083     25,127 kbps     30,029 kbps     00:47:15.916    27,902 kbps     00:44:55.359    27,359 kbps     00:44:51.021    131,000 bytes   346,727 bytes   00:46:28.202    
+12              0:47:27.678     0:05:09.809     24,998 kbps     29,617 kbps     00:48:04.381    28,000 kbps     00:51:36.551    27,727 kbps     00:51:29.169    130,328 bytes   365,720 bytes   00:51:38.970    
+13              0:52:37.487     0:03:55.693     24,832 kbps     29,831 kbps     00:53:00.468    28,275 kbps     00:52:56.464    28,072 kbps     00:52:51.459    129,463 bytes   495,107 bytes   00:53:01.386    
+14              0:56:33.181     0:04:31.813     24,552 kbps     33,084 kbps     01:00:11.190    28,221 kbps     01:00:33.504    28,011 kbps     01:00:47.268    128,000 bytes   406,477 bytes   01:00:19.741    
+15              1:01:04.994     0:04:29.644     24,967 kbps     30,883 kbps     01:01:24.430    28,432 kbps     01:01:20.385    28,020 kbps     01:01:15.421    130,169 bytes   315,990 bytes   01:05:34.096    
+16              1:05:34.639     0:01:48.817     24,828 kbps     29,005 kbps     01:06:12.593    28,032 kbps     01:06:38.411    27,204 kbps     01:06:33.322    129,443 bytes   331,492 bytes   01:05:36.641    
+17              1:07:23.456     0:04:51.457     24,963 kbps     29,955 kbps     01:10:33.771    28,244 kbps     01:10:29.725    27,946 kbps     01:11:49.638    130,146 bytes   374,178 bytes   01:10:57.836    
+18              1:12:14.913     0:01:57.867     25,091 kbps     29,328 kbps     01:12:51.158    27,915 kbps     01:13:10.302    27,630 kbps     01:13:27.403    130,812 bytes   395,991 bytes   01:14:12.781    
+19              1:14:12.781     0:03:55.526     26,249 kbps     31,660 kbps     01:15:41.286    28,145 kbps     01:17:08.790    28,003 kbps     01:16:05.394    136,853 bytes   387,380 bytes   01:14:17.578    
+20              1:18:08.308     0:07:40.877     24,974 kbps     31,132 kbps     01:25:46.766    28,064 kbps     01:20:16.603    27,935 kbps     01:20:11.598    130,217 bytes   350,297 bytes   01:25:47.517    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5149.019                25,173                  16,202,081,885  88,126,931      
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5149.019                4,737                   3,048,704,330   20,318,903      
+00800.M2TS      4353 (0x1101)   0x83            Atmos           deu (German)            5149.019                3,685                   2,371,900,684   16,123,940      
+00800.M2TS      4354 (0x1102)   0x84            AC3+            dan (Danish)            5149.019                768                     494,324,736     2,896,434       
+00800.M2TS      4355 (0x1103)   0x84            AC3+            fin (Finnish)           5149.019                768                     494,324,736     2,896,434       
+00800.M2TS      4356 (0x1104)   0x84            AC3+            nor (Norwegian)         5149.019                768                     494,324,736     2,896,434       
+00800.M2TS      4357 (0x1105)   0x81            AC3             swe (Swedish)           5149.019                640                     411,937,280     2,413,695       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5149.019                39                      25,276,390      146,453         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5149.019                30                      19,490,099      111,855         
+00800.M2TS      4610 (0x1202)   0x90            PGS             dan (Danish)            5149.019                28                      17,870,537      103,945         
+00800.M2TS      4611 (0x1203)   0x90            PGS             fin (Finnish)           5149.019                25                      15,995,614      93,394          
+00800.M2TS      4612 (0x1204)   0x90            PGS             nor (Norwegian)         5149.019                24                      15,578,722      91,308          
+00800.M2TS      4613 (0x1205)   0x90            PGS             swe (Swedish)           5149.019                27                      17,251,348      99,900          
+00800.M2TS      4614 (0x1206)   0x90            PGS             deu (German)            5149.019                1                       786,907         4,541           
+00800.M2TS      4615 (0x1207)   0x90            PGS             dan (Danish)            5149.019                0                       277,799         1,685           
+00800.M2TS      4616 (0x1208)   0x90            PGS             fin (Finnish)           5149.019                0                       178,255         1,067           
+00800.M2TS      4617 (0x1209)   0x90            PGS             nor (Norwegian)         5149.019                1                       411,968         2,481           
+00800.M2TS      4618 (0x120A)   0x90            PGS             swe (Swedish)           5149.019                0                       249,497         1,494           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Dr. Seuss' The Grinch
+Disc Label: The.Grinch.2018.MULTi.COMPLETE.BLURAY-BD4U
+Disc Size: 41,224,855,159 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 26,219,175,936 bytes
+Length: 1:25:49.185
+Total Bitrate: 40.74 Mbps
+Video: MPEG-4 AVC Video / 25172 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4289 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Audio: German / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  3237 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: Danish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: Finnish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: Norwegian / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 39.271 kbps
+Subtitle: German / 30.281 kbps
+Subtitle: Danish / 27.764 kbps
+Subtitle: Finnish / 24.851 kbps
+Subtitle: Norwegian / 24.204 kbps
+Subtitle: Swedish / 26.802 kbps
+Subtitle: German / 1.223 kbps
+Subtitle: Danish / 0.432 kbps
+Subtitle: Finnish / 0.277 kbps
+Subtitle: Norwegian / 0.640 kbps
+Subtitle: Swedish / 0.388 kbps
+

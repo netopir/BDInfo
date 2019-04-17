@@ -1,0 +1,128 @@
+Disc Label:     The.Lorax.2012.3D.1080p.BD50.Video.Untouched.MVC.REMUX.DL-iND
+Disc Size:      35,241,986,674 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:26:11 24,412,022,784  35,241,986,674  37.76   30.85   DTS 5.1 768Kbps (48kHz/24-bit)            
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Lorax.2012.3D.1080p.BD50.Video.Untouched.MVC.REMUX.DL-iND
+Disc Size:      35,241,986,674 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:26:11.875 (h:m:s.ms)
+Size:                   24,412,022,784 bytes
+Total Bitrate:          37.76 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30855 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         4126 kbps       5.1 / 48 kHz /  4126 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.469 kbps                      
+Presentation Graphics           German          40.953 kbps                     
+Presentation Graphics           English         34.979 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:26:11.875     24,412,022,784  37,761          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:13.253     31,158 kbps     46,664 kbps     00:00:23.398    34,819 kbps     00:00:19.436    33,250 kbps     00:00:14.431    162,415 bytes   636,783 bytes   00:03:19.699    
+2               0:04:13.253     0:02:25.603     30,171 kbps     35,108 kbps     00:05:36.044    32,427 kbps     00:05:35.084    31,967 kbps     00:05:36.586    157,297 bytes   637,602 bytes   00:05:23.906    
+3               0:06:38.856     0:03:26.497     30,556 kbps     36,086 kbps     00:09:56.762    32,268 kbps     00:08:02.607    31,947 kbps     00:06:51.411    159,307 bytes   599,843 bytes   00:06:43.653    
+4               0:10:05.354     0:03:51.606     30,991 kbps     40,065 kbps     00:11:08.209    33,409 kbps     00:11:04.205    32,620 kbps     00:10:59.200    161,572 bytes   623,385 bytes   00:11:09.043    
+5               0:13:56.961     0:02:43.872     30,281 kbps     35,339 kbps     00:16:07.424    32,507 kbps     00:16:07.424    31,892 kbps     00:16:05.839    157,871 bytes   635,246 bytes   00:16:12.429    
+6               0:16:40.833     0:04:50.832     30,808 kbps     35,614 kbps     00:18:26.146    32,684 kbps     00:19:52.107    32,187 kbps     00:17:31.258    160,617 bytes   638,984 bytes   00:19:41.889    
+7               0:21:31.665     0:06:48.491     30,677 kbps     40,372 kbps     00:23:07.302    33,289 kbps     00:23:03.298    32,154 kbps     00:24:41.438    159,933 bytes   640,820 bytes   00:23:38.750    
+8               0:28:20.156     0:04:30.979     31,326 kbps     34,944 kbps     00:30:19.859    32,311 kbps     00:29:55.418    32,080 kbps     00:29:55.668    163,318 bytes   621,754 bytes   00:32:02.921    
+9               0:32:51.135     0:07:00.795     30,732 kbps     35,132 kbps     00:34:01.956    32,345 kbps     00:33:58.036    32,100 kbps     00:35:16.781    160,223 bytes   638,946 bytes   00:33:29.924    
+10              0:39:51.931     0:02:37.031     30,758 kbps     35,660 kbps     00:40:51.907    32,383 kbps     00:39:52.515    31,969 kbps     00:40:45.359    160,356 bytes   634,928 bytes   00:41:57.431    
+11              0:42:28.963     0:03:18.781     31,360 kbps     35,975 kbps     00:44:32.211    33,023 kbps     00:44:29.375    32,331 kbps     00:44:24.370    163,496 bytes   639,886 bytes   00:43:46.123    
+12              0:45:47.745     0:05:36.878     30,857 kbps     37,626 kbps     00:48:48.425    32,770 kbps     00:48:44.379    32,096 kbps     00:49:20.457    160,872 bytes   640,822 bytes   00:50:27.524    
+13              0:51:24.623     0:05:11.602     31,037 kbps     39,016 kbps     00:56:30.428    33,099 kbps     00:56:26.424    32,323 kbps     00:56:21.378    161,812 bytes   637,907 bytes   00:52:30.981    
+14              0:56:36.226     0:02:35.155     31,219 kbps     34,631 kbps     00:57:05.880    32,252 kbps     00:56:50.573    32,045 kbps     00:57:04.087    162,761 bytes   624,341 bytes   00:58:42.936    
+15              0:59:11.381     0:04:10.875     30,222 kbps     35,071 kbps     01:02:33.875    32,308 kbps     00:59:47.709    32,025 kbps     00:59:47.542    157,564 bytes   639,772 bytes   01:01:48.496    
+16              1:03:22.256     0:03:55.568     31,067 kbps     35,283 kbps     01:04:11.180    32,410 kbps     01:04:11.180    32,119 kbps     01:04:08.553    161,967 bytes   634,091 bytes   01:03:34.644    
+17              1:07:17.825     0:05:22.238     30,927 kbps     35,194 kbps     01:12:22.504    32,443 kbps     01:12:12.453    32,055 kbps     01:12:08.157    161,238 bytes   626,500 bytes   01:12:17.333    
+18              1:12:40.064     0:03:29.584     30,823 kbps     35,048 kbps     01:14:08.652    32,370 kbps     01:13:53.303    32,096 kbps     01:13:53.887    160,695 bytes   628,740 bytes   01:13:54.012    
+19              1:16:09.648     0:04:18.549     31,103 kbps     35,518 kbps     01:20:13.975    32,524 kbps     01:20:13.600    32,062 kbps     01:18:13.522    162,156 bytes   640,376 bytes   01:20:12.557    
+20              1:20:28.198     0:05:43.676     30,817 kbps     37,927 kbps     01:26:08.371    32,033 kbps     01:21:00.438    31,857 kbps     01:25:55.191    160,683 bytes   606,450 bytes   01:26:06.995    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5171.792                30,855                  19,947,145,129  108,482,976     
+00000.M2TS      4352 (0x1100)   0x82            DTS             deu (German)            5171.792                768                     496,499,712     2,909,178       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5171.792                4,126                   2,667,623,620   15,295,683      
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5171.792                0                       303,495         1,802           
+00000.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5171.792                41                      26,475,272      151,219         
+00000.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5171.792                35                      22,613,271      131,791         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Lorax.2012.3D.1080p.BD50.Video.Untouched.MVC.REMUX.DL-iND
+Disc Size: 35,241,986,674 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 24,412,022,784 bytes
+Length: 1:26:11.875
+Total Bitrate: 37.76 Mbps
+Video: MPEG-4 AVC Video / 30855 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4126 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 0.469 kbps
+Subtitle: German / 40.953 kbps
+Subtitle: English / 34.979 kbps
+

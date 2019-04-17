@@ -1,0 +1,1591 @@
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      VC-1    1:24:43 14,780,375,040  18,396,716,430  23.26   19.95   DTS-HD Hi-Res 5.1 2046Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:24:43.078 (h:m:s.ms)
+Size:                   14,780,375,040 bytes
+Total Bitrate:          23.26 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              19951 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          61.717 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:24:43.078     14,780,375,040  23,262          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:35.872     19,839 kbps     31,653 kbps     00:04:28.226    28,136 kbps     00:01:59.202    26,794 kbps     00:04:12.710    103,889 bytes   483,780 bytes   00:04:58.881    
+2               0:07:35.872     0:06:03.905     20,451 kbps     31,433 kbps     00:13:13.793    27,095 kbps     00:09:05.002    26,138 kbps     00:09:03.334    106,620 bytes   524,958 bytes   00:08:54.617    
+3               0:13:39.777     0:05:21.738     21,085 kbps     31,321 kbps     00:15:55.955    27,197 kbps     00:15:52.159    26,220 kbps     00:15:48.822    109,928 bytes   403,031 bytes   00:17:52.821    
+4               0:19:01.515     0:04:45.076     21,251 kbps     30,383 kbps     00:19:20.742    27,135 kbps     00:19:19.283    26,112 kbps     00:19:18.991    110,792 bytes   361,098 bytes   00:22:35.687    
+5               0:23:46.591     0:04:51.374     19,470 kbps     29,802 kbps     00:26:36.803    26,556 kbps     00:26:22.038    26,330 kbps     00:26:21.705    101,510 bytes   552,426 bytes   00:26:12.571    
+6               0:28:37.966     0:06:12.205     18,240 kbps     32,569 kbps     00:28:52.313    26,840 kbps     00:29:31.060    26,080 kbps     00:29:27.724    95,094 bytes    450,817 bytes   00:29:30.518    
+7               0:34:50.171     0:04:13.503     22,386 kbps     33,017 kbps     00:37:10.186    27,625 kbps     00:36:31.022    26,633 kbps     00:35:27.416    119,642 bytes   529,059 bytes   00:37:04.222    
+8               0:39:03.674     0:05:22.196     20,425 kbps     33,273 kbps     00:41:26.942    25,273 kbps     00:39:05.885    24,157 kbps     00:43:52.630    106,485 bytes   497,764 bytes   00:41:27.902    
+9               0:44:25.871     0:05:09.767     20,453 kbps     32,295 kbps     00:47:55.789    27,001 kbps     00:47:31.765    26,058 kbps     00:47:31.431    106,630 bytes   375,999 bytes   00:47:02.194    
+10              0:49:35.639     0:05:43.509     19,752 kbps     30,640 kbps     00:50:19.975    26,154 kbps     00:53:57.859    25,702 kbps     00:53:52.771    102,979 bytes   426,918 bytes   00:55:09.639    
+11              0:55:19.149     0:03:45.600     19,695 kbps     29,443 kbps     00:56:41.481    26,913 kbps     00:58:14.199    25,934 kbps     00:58:14.782    102,680 bytes   432,303 bytes   00:58:24.709    
+12              0:59:04.749     0:05:10.393     19,370 kbps     35,344 kbps     01:00:20.283    25,637 kbps     01:00:43.973    24,081 kbps     01:00:17.405    100,985 bytes   434,742 bytes   01:01:35.441    
+13              1:04:15.142     0:02:45.039     17,603 kbps     30,232 kbps     01:06:57.096    24,765 kbps     01:06:55.177    20,540 kbps     01:04:18.020    91,775 bytes    487,875 bytes   01:04:31.826    
+14              1:07:00.182     0:07:14.225     21,934 kbps     36,038 kbps     01:09:47.141    27,442 kbps     01:07:36.427    26,627 kbps     01:12:20.586    114,352 bytes   440,904 bytes   01:13:01.543    
+15              1:14:14.408     0:04:10.166     18,933 kbps     30,410 kbps     01:16:34.047    27,481 kbps     01:16:31.712    24,749 kbps     01:16:27.040    98,706 bytes    421,554 bytes   01:16:35.257    
+16              1:18:24.574     0:06:18.503     17,498 kbps     30,468 kbps     01:18:24.574    26,499 kbps     01:18:34.459    25,606 kbps     01:18:30.038    91,359 bytes    345,849 bytes   01:23:25.709    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0xEA            VC-1                                    5082.953                19,951                  12,676,367,849  68,966,838      
+00003.M2TS      4352 (0x1100)   0x85            DTS-HD HR       deu (German)            5082.953                2,046                   1,300,003,848   7,624,656       
+00003.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5082.953                62                      39,213,783      219,314         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 14,780,375,040 bytes
+Length: 1:24:43.078
+Total Bitrate: 23.26 Mbps
+Video: VC-1 Video / 19951 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 61.717 kbps
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      MPEG-2  0:39:59 1,691,314,176   18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 0:39:59.029 (h:m:s.ms)
+Size:                   1,691,314,176 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     0:39:59.029     1,691,314,176   5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:39:59.029     5,100 kbps      9,139 kbps      00:32:28.079    8,166 kbps      00:03:38.918    8,011 kbps      00:00:24.457    21,271 bytes    151,889 bytes   00:06:11.671    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x02            MPEG-2                                  2398.963                5,100                   1,529,381,608   8,353,681       
+00004.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            2398.963                192                     57,576,192      374,845         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 1,691,314,176 bytes
+Length: 0:39:59.029
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00008.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00008.MPLS                                                      MPEG-2  0:14:22 608,262,144     18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00008.MPLS
+Length:                 0:14:22.761 (h:m:s.ms)
+Size:                   608,262,144 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00017.M2TS      0:00:00.000     0:05:16.983     223,481,856     5,640           
+00018.M2TS      0:05:16.983     0:02:08.661     90,710,016      5,640           
+00019.M2TS      0:07:25.645     0:01:39.999     70,502,400      5,640           
+00020.M2TS      0:09:05.645     0:01:24.017     59,228,160      5,640           
+00021.M2TS      0:10:29.662     0:02:28.915     104,988,672     5,640           
+00022.M2TS      0:12:58.577     0:01:24.184     59,351,040      5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:16.949     5,101 kbps      8,013 kbps      00:01:40.300    7,670 kbps      00:01:39.499    6,894 kbps      00:01:34.794    21,271 bytes    134,087 bytes   00:04:15.255    
+2               0:05:16.949     0:02:08.661     5,100 kbps      7,515 kbps      00:05:31.764    6,803 kbps      00:05:27.760    6,527 kbps      00:05:24.857    21,271 bytes    116,437 bytes   00:07:22.809    
+3               0:07:25.611     0:01:39.999     5,100 kbps      7,842 kbps      00:08:15.294    7,324 kbps      00:08:12.492    6,484 kbps      00:08:52.265    21,271 bytes    138,816 bytes   00:08:23.603    
+4               0:09:05.611     0:01:24.017     5,100 kbps      7,124 kbps      00:10:14.547    6,425 kbps      00:10:10.543    6,382 kbps      00:10:06.272    21,271 bytes    94,874 bytes    00:09:09.649    
+5               0:10:29.628     0:02:28.915     5,100 kbps      7,738 kbps      00:12:33.185    7,014 kbps      00:12:30.149    6,893 kbps      00:12:25.744    21,271 bytes    131,465 bytes   00:11:00.393    
+6               0:12:58.544     0:01:24.217     5,098 kbps      6,788 kbps      00:13:10.823    6,107 kbps      00:13:26.505    5,920 kbps      00:13:21.867    21,271 bytes    103,645 bytes   00:14:19.858    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00017.M2TS      4113 (0x1011)   0x02            MPEG-2                                  316.917                 5,101                   202,076,879     1,103,806       
+00017.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            316.917                 192                     7,607,040       49,525          
+00018.M2TS      4113 (0x1011)   0x02            MPEG-2                                  128.595                 5,103                   82,021,944      448,023         
+00018.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            128.595                 192                     3,087,360       20,100          
+00019.M2TS      4113 (0x1011)   0x02            MPEG-2                                  99.933                  5,103                   63,749,941      348,188         
+00019.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            99.933                  192                     2,400,000       15,625          
+00020.M2TS      4113 (0x1011)   0x02            MPEG-2                                  83.917                  5,106                   53,561,012      292,517         
+00020.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            83.917                  192                     2,016,000       13,125          
+00021.M2TS      4113 (0x1011)   0x02            MPEG-2                                  148.815                 5,103                   94,933,593      518,529         
+00021.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            148.815                 192                     3,573,504       23,265          
+00022.M2TS      4113 (0x1011)   0x02            MPEG-2                                  84.117                  5,104                   53,667,368      293,118         
+00022.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            84.117                  192                     2,019,840       13,150          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00008.MPLS
+Size: 608,262,144 bytes
+Length: 0:14:22.761
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      MPEG-2  0:05:16 223,481,856     18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 0:05:16.983 (h:m:s.ms)
+Size:                   223,481,856 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00017.M2TS      0:00:00.000     0:05:16.983     223,481,856     5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:16.983     5,100 kbps      8,013 kbps      00:01:40.300    7,670 kbps      00:01:39.499    6,894 kbps      00:01:34.794    21,271 bytes    134,087 bytes   00:04:15.255    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00017.M2TS      4113 (0x1011)   0x02            MPEG-2                                  316.917                 5,101                   202,076,879     1,103,806       
+00017.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            316.917                 192                     7,607,040       49,525          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 223,481,856 bytes
+Length: 0:05:16.983
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00020.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00020.MPLS                                                      MPEG-2  0:02:28 104,988,672     18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00020.MPLS
+Length:                 0:02:28.915 (h:m:s.ms)
+Size:                   104,988,672 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     0:02:28.915     104,988,672     5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:28.915     5,100 kbps      7,738 kbps      00:02:03.523    7,014 kbps      00:02:00.487    6,893 kbps      00:01:56.082    21,271 bytes    131,465 bytes   00:00:30.730    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x02            MPEG-2                                  148.815                 5,103                   94,933,593      518,529         
+00021.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            148.815                 192                     3,573,504       23,265          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00020.MPLS
+Size: 104,988,672 bytes
+Length: 0:02:28.915
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00017.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00017.MPLS                                                      MPEG-2  0:02:08 90,710,016      18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00017.MPLS
+Length:                 0:02:08.661 (h:m:s.ms)
+Size:                   90,710,016 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00018.M2TS      0:00:00.000     0:02:08.661     90,710,016      5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:08.661     5,100 kbps      7,515 kbps      00:00:14.781    6,803 kbps      00:00:10.777    6,527 kbps      00:00:07.874    21,271 bytes    116,437 bytes   00:02:05.825    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00018.M2TS      4113 (0x1011)   0x02            MPEG-2                                  128.595                 5,103                   82,021,944      448,023         
+00018.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            128.595                 192                     3,087,360       20,100          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00017.MPLS
+Size: 90,710,016 bytes
+Length: 0:02:08.661
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00018.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00018.MPLS                                                      MPEG-2  0:01:39 70,502,400      18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00018.MPLS
+Length:                 0:01:39.999 (h:m:s.ms)
+Size:                   70,502,400 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00019.M2TS      0:00:00.000     0:01:39.999     70,502,400      5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:39.999     5,100 kbps      7,842 kbps      00:00:49.649    7,324 kbps      00:00:46.846    6,484 kbps      00:01:26.619    21,271 bytes    138,816 bytes   00:00:57.957    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00019.M2TS      4113 (0x1011)   0x02            MPEG-2                                  99.933                  5,103                   63,749,941      348,188         
+00019.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            99.933                  192                     2,400,000       15,625          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00018.MPLS
+Size: 70,502,400 bytes
+Length: 0:01:39.999
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      MPEG-2  0:01:24 59,351,040      18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 0:01:24.184 (h:m:s.ms)
+Size:                   59,351,040 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     0:01:24.184     59,351,040      5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:24.184     5,100 kbps      6,788 kbps      00:00:12.245    6,107 kbps      00:00:27.927    5,920 kbps      00:00:23.289    21,271 bytes    103,645 bytes   00:01:21.281    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x02            MPEG-2                                  84.117                  5,104                   53,667,368      293,118         
+00022.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            84.117                  192                     2,019,840       13,150          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 59,351,040 bytes
+Length: 0:01:24.184
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00019.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00019.MPLS                                                      MPEG-2  0:01:24 59,228,160      18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00019.MPLS
+Length:                 0:01:24.017 (h:m:s.ms)
+Size:                   59,228,160 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 4:3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00020.M2TS      0:00:00.000     0:01:24.017     59,228,160      5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:24.017     5,100 kbps      7,124 kbps      00:01:08.902    6,425 kbps      00:01:04.898    6,382 kbps      00:01:00.627    21,271 bytes    94,874 bytes    00:00:04.004    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00020.M2TS      4113 (0x1011)   0x02            MPEG-2                                  83.917                  5,106                   53,561,012      292,517         
+00020.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            83.917                  192                     2,016,000       13,125          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00019.MPLS
+Size: 59,228,160 bytes
+Length: 0:01:24.017
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 4:3
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00022.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      MPEG-2  0:12:48 558,163,968     18,396,716,430  5.81    5.10    DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS
+Length:                 0:12:48.067 (h:m:s.ms)
+Size:                   558,163,968 bytes
+Total Bitrate:          5.81 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     0:01:33.993     66,269,184      5,640           
+00006.M2TS      0:01:33.993     0:00:56.022     40,783,872      5,824           
+00007.M2TS      0:02:30.016     0:01:00.026     42,190,848      5,623           
+00008.M2TS      0:03:30.043     0:02:23.042     104,835,072     5,863           
+00009.M2TS      0:05:53.086     0:02:22.976     104,736,768     5,860           
+00010.M2TS      0:08:16.062     0:01:56.015     85,106,688      5,869           
+00011.M2TS      0:10:12.078     0:02:35.989     114,241,536     5,859           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:33.960     5,102 kbps      8,432 kbps      00:00:25.792    7,836 kbps      00:00:25.024    7,374 kbps      00:00:46.913    21,271 bytes    91,610 bytes    00:00:48.882    
+2               0:01:33.960     0:00:56.022     5,100 kbps      8,649 kbps      00:02:04.958    7,946 kbps      00:02:03.957    7,100 kbps      00:01:59.352    21,271 bytes    118,619 bytes   00:02:06.359    
+3               0:02:29.983     0:01:00.026     5,100 kbps      8,557 kbps      00:02:38.691    7,004 kbps      00:02:38.691    6,463 kbps      00:02:37.190    21,271 bytes    163,977 bytes   00:03:03.683    
+4               0:03:30.009     0:02:23.042     5,100 kbps      9,184 kbps      00:04:13.286    7,563 kbps      00:03:43.189    6,994 kbps      00:04:04.844    21,271 bytes    151,850 bytes   00:04:25.565    
+5               0:05:53.052     0:02:22.976     5,100 kbps      8,648 kbps      00:07:23.609    6,790 kbps      00:07:55.341    6,506 kbps      00:07:20.907    21,271 bytes    143,707 bytes   00:07:23.643    
+6               0:08:16.028     0:01:56.015     5,100 kbps      8,363 kbps      00:09:37.276    7,684 kbps      00:08:41.921    6,905 kbps      00:09:46.052    21,271 bytes    122,288 bytes   00:09:54.894    
+7               0:10:12.044     0:02:36.022     5,099 kbps      8,678 kbps      00:10:40.139    7,690 kbps      00:10:26.959    7,226 kbps      00:10:24.557    21,271 bytes    143,652 bytes   00:12:30.316    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x02            MPEG-2                                  93.927                  5,104                   59,921,116      327,278         
+00005.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            93.927                  192                     2,255,616       14,685          
+00006.M2TS      4113 (0x1011)   0x02            MPEG-2                                  55.889                  5,112                   35,714,433      195,071         
+00006.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            55.889                  396                     2,768,640       15,450          
+00007.M2TS      4113 (0x1011)   0x02            MPEG-2                                  59.927                  5,109                   38,266,983      209,019         
+00007.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            59.927                  208                     1,556,352       8,685           
+00008.M2TS      4113 (0x1011)   0x02            MPEG-2                                  142.943                 5,104                   91,189,853      498,091         
+00008.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            142.943                 432                     7,725,312       43,110          
+00009.M2TS      4113 (0x1011)   0x02            MPEG-2                                  142.909                 5,102                   91,147,311      497,884         
+00009.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            142.909                 429                     7,667,968       42,790          
+00010.M2TS      4113 (0x1011)   0x02            MPEG-2                                  115.882                 5,106                   73,960,141      403,968         
+00010.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            115.882                 438                     6,340,096       35,380          
+00011.M2TS      4113 (0x1011)   0x02            MPEG-2                                  155.922                 5,102                   99,443,098      543,182         
+00011.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            155.922                 428                     8,343,552       46,560          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00022.MPLS
+Size: 558,163,968 bytes
+Length: 0:12:48.067
+Total Bitrate: 5.81 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00015.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00015.MPLS                                                      MPEG-2  0:02:35 114,241,536     18,396,716,430  5.86    5.10    DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00015.MPLS
+Length:                 0:02:35.989 (h:m:s.ms)
+Size:                   114,241,536 bytes
+Total Bitrate:          5.86 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00011.M2TS      0:00:00.000     0:02:35.989     114,241,536     5,859           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:35.989     5,100 kbps      8,678 kbps      00:00:28.061    7,690 kbps      00:00:14.881    7,226 kbps      00:00:12.479    21,271 bytes    143,652 bytes   00:02:18.238    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00011.M2TS      4113 (0x1011)   0x02            MPEG-2                                  155.922                 5,102                   99,443,098      543,182         
+00011.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            155.922                 428                     8,343,552       46,560          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00015.MPLS
+Size: 114,241,536 bytes
+Length: 0:02:35.989
+Total Bitrate: 5.86 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00012.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00012.MPLS                                                      MPEG-2  0:02:23 104,835,072     18,396,716,430  5.86    5.10    DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00012.MPLS
+Length:                 0:02:23.042 (h:m:s.ms)
+Size:                   104,835,072 bytes
+Total Bitrate:          5.86 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00008.M2TS      0:00:00.000     0:02:23.042     104,835,072     5,863           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:23.042     5,100 kbps      9,184 kbps      00:00:43.243    7,563 kbps      00:00:13.146    6,994 kbps      00:00:34.801    21,271 bytes    151,850 bytes   00:00:55.522    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00008.M2TS      4113 (0x1011)   0x02            MPEG-2                                  142.943                 5,104                   91,189,853      498,091         
+00008.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            142.943                 432                     7,725,312       43,110          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00012.MPLS
+Size: 104,835,072 bytes
+Length: 0:02:23.042
+Total Bitrate: 5.86 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00013.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00013.MPLS                                                      MPEG-2  0:02:22 104,736,768     18,396,716,430  5.86    5.10    DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00013.MPLS
+Length:                 0:02:22.976 (h:m:s.ms)
+Size:                   104,736,768 bytes
+Total Bitrate:          5.86 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00009.M2TS      0:00:00.000     0:02:22.976     104,736,768     5,860           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:22.976     5,100 kbps      8,648 kbps      00:01:30.523    6,790 kbps      00:02:02.255    6,506 kbps      00:01:27.821    21,271 bytes    143,707 bytes   00:01:30.557    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00009.M2TS      4113 (0x1011)   0x02            MPEG-2                                  142.909                 5,102                   91,147,311      497,884         
+00009.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            142.909                 429                     7,667,968       42,790          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00013.MPLS
+Size: 104,736,768 bytes
+Length: 0:02:22.976
+Total Bitrate: 5.86 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00014.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00014.MPLS                                                      MPEG-2  0:01:56 85,106,688      18,396,716,430  5.87    5.10    DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00014.MPLS
+Length:                 0:01:56.015 (h:m:s.ms)
+Size:                   85,106,688 bytes
+Total Bitrate:          5.87 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     0:01:56.015     85,106,688      5,869           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:56.015     5,100 kbps      8,363 kbps      00:01:21.214    7,684 kbps      00:00:25.859    6,905 kbps      00:01:29.989    21,271 bytes    122,288 bytes   00:01:38.832    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x02            MPEG-2                                  115.882                 5,106                   73,960,141      403,968         
+00010.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            115.882                 438                     6,340,096       35,380          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00014.MPLS
+Size: 85,106,688 bytes
+Length: 0:01:56.015
+Total Bitrate: 5.87 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00009.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00009.MPLS                                                      MPEG-2  0:01:33 66,269,184      18,396,716,430  5.64    5.10    DD AC3 2.0 192Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00009.MPLS
+Length:                 0:01:33.993 (h:m:s.ms)
+Size:                   66,269,184 bytes
+Total Bitrate:          5.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     0:01:33.993     66,269,184      5,640           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:33.993     5,100 kbps      8,432 kbps      00:00:25.792    7,836 kbps      00:00:25.024    7,374 kbps      00:00:46.913    21,271 bytes    91,610 bytes    00:00:48.882    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x02            MPEG-2                                  93.927                  5,104                   59,921,116      327,278         
+00005.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            93.927                  192                     2,255,616       14,685          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00009.MPLS
+Size: 66,269,184 bytes
+Length: 0:01:33.993
+Total Bitrate: 5.64 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 00011.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00011.MPLS                                                      MPEG-2  0:01:00 42,190,848      18,396,716,430  5.62    5.10    DD AC3 2.0 224Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00011.MPLS
+Length:                 0:01:00.026 (h:m:s.ms)
+Size:                   42,190,848 bytes
+Total Bitrate:          5.62 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -30dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00007.M2TS      0:00:00.000     0:01:00.026     42,190,848      5,623           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:01:00.026     5,100 kbps      8,557 kbps      00:00:08.675    7,004 kbps      00:00:08.675    6,463 kbps      00:00:07.173    21,271 bytes    163,977 bytes   00:00:33.666    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00007.M2TS      4113 (0x1011)   0x02            MPEG-2                                  59.927                  5,109                   38,266,983      209,019         
+00007.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            59.927                  208                     1,556,352       8,685           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00011.MPLS
+Size: 42,190,848 bytes
+Length: 0:01:00.026
+Total Bitrate: 5.62 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -30dB
+
+
+********************
+PLAYLIST: 00010.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00010.MPLS                                                      MPEG-2  0:00:56 40,783,872      18,396,716,430  5.82    5.10    DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00010.MPLS
+Length:                 0:00:56.022 (h:m:s.ms)
+Size:                   40,783,872 bytes
+Total Bitrate:          5.82 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     0:00:56.022     40,783,872      5,824           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:56.022     5,100 kbps      8,649 kbps      00:00:30.964    7,946 kbps      00:00:29.963    7,100 kbps      00:00:25.358    21,271 bytes    118,619 bytes   00:00:32.365    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x02            MPEG-2                                  55.889                  5,112                   35,714,433      195,071         
+00006.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            55.889                  396                     2,768,640       15,450          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00010.MPLS
+Size: 40,783,872 bytes
+Length: 0:00:56.022
+Total Bitrate: 5.82 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+
+
+********************
+PLAYLIST: 00007.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00007.MPLS                                                      MPEG-2  0:02:37 114,683,904     18,396,716,430  5.84    5.10    DD AC3 5.1 448Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00007.MPLS
+Length:                 0:02:37.023 (h:m:s.ms)
+Size:                   114,683,904 bytes
+Total Bitrate:          5.84 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            5100 kbps           480i / 29.970 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -29dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00016.M2TS      0:00:00.000     0:00:11.978     8,448,000       5,642           
+00015.M2TS      0:00:11.978     0:02:25.044     106,235,904     5,859           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:37.023     5,100 kbps      8,448 kbps      00:01:07.400    7,369 kbps      00:00:01.034    6,930 kbps      00:00:28.828    21,271 bytes    110,705 bytes   00:00:02.402    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00016.M2TS      4113 (0x1011)   0x02            MPEG-2                                  11.879                  5,143                   7,636,383       41,700          
+00016.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            11.879                  193                     287,232         1,870           
+00015.M2TS      4113 (0x1011)   0x02            MPEG-2                                  144.945                 5,104                   92,466,128      505,043         
+00015.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            144.945                 429                     7,773,696       43,380          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00007.MPLS
+Size: 114,683,904 bytes
+Length: 0:02:37.023
+Total Bitrate: 5.84 Mbps
+Video: MPEG-2 Video / 5100 kbps / 480i / 29.970 fps / 16:9
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -29dB
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      VC-1    0:02:23 412,354,560     18,396,716,430  23.05   19.81   DTS-HD Hi-Res 5.1 2046Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 0:02:23.143 (h:m:s.ms)
+Size:                   412,354,560 bytes
+Total Bitrate:          23.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              19808 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     0:02:23.143     412,354,560     23,046          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:23.143     19,808 kbps     35,298 kbps     00:00:58.558    28,285 kbps     00:01:06.274    27,167 kbps     00:01:42.018    104,180 bytes   468,062 bytes   00:01:21.664    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0xEA            VC-1                                    143.018                 19,825                  354,421,569     1,928,299       
+00002.M2TS      4352 (0x1100)   0x85            DTS-HD HR       deu (German)            143.018                 2,046                   36,579,752      214,544         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 412,354,560 bytes
+Length: 0:02:23.143
+Total Bitrate: 23.05 Mbps
+Video: VC-1 Video / 19808 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -4dB)
+
+
+********************
+PLAYLIST: 00006.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00006.MPLS                                                      VC-1    0:01:17 208,527,360     18,396,716,430  21.64   19.01   DTS 5.1 768Kbps (48kHz/16-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size:      18,396,716,430 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00006.MPLS
+Length:                 0:01:17.077 (h:m:s.ms)
+Size:                   208,527,360 bytes
+Total Bitrate:          21.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              19014 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00014.M2TS      0:00:00.000     0:01:17.077     208,527,360     21,644          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:28.737     17,947 kbps     31,310 kbps     00:00:08.800    28,678 kbps     00:00:07.132    23,092 kbps     00:00:04.713    95,086 bytes    501,929 bytes   00:00:13.513    
+2               0:00:28.737     0:00:48.339     19,648 kbps     27,060 kbps     00:01:14.199    23,953 kbps     00:01:10.195    23,405 kbps     00:01:05.190    102,524 bytes   495,640 bytes   00:01:10.570    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00014.M2TS      4113 (0x1011)   0xEA            VC-1                                    76.952                  19,045                  183,191,949     996,727         
+00014.M2TS      4352 (0x1100)   0x82            DTS             deu (German)            76.952                  769                     7,401,472       43,368          
+00014.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            76.952                  769                     7,401,472       43,368          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lissi.und.der.wilde.Kaiser.2007.Bluray.Complete.German.VC1-HDA
+Disc Size: 18,396,716,430 bytes
+Protection: AACS
+Playlist: 00006.MPLS
+Size: 208,527,360 bytes
+Length: 0:01:17.077
+Total Bitrate: 21.64 Mbps
+Video: VC-1 Video / 19014 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+
