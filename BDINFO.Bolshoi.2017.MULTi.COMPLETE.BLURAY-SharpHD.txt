@@ -1,0 +1,220 @@
+Disc Title:     Ballerina
+Disc Label:     Bolshoi.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      24,008,615,030 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 01001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01001.MPLS                                                      AVC     2:11:37 21,523,816,320  24,008,615,030  21.80   17.48   DTS-HD Master 5.1 1486Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ballerina
+Disc Label:     Bolshoi.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      24,008,615,030 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01001.MPLS
+Length:                 2:11:37.834 (h:m:s.ms)
+Size:                   21,523,816,320 bytes
+Total Bitrate:          21.80 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        17485 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          1486 kbps       5.1 / 48 kHz /  1486 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+DTS-HD Master Audio             Russian         1532 kbps       5.1 / 48 kHz /  1532 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          18.971 kbps                     
+Presentation Graphics           German          0.013 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     2:11:36.916     21,521,854,464  21,803          
+00003.M2TS      2:11:36.916     0:00:00.917     1,961,856       17,104          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:30.791     15,870 kbps     25,556 kbps     00:03:11.125    19,957 kbps     00:03:08.208    18,941 kbps     00:03:10.166    82,641 bytes    535,207 bytes   00:01:14.375    
+2               0:03:30.791     0:11:36.250     17,741 kbps     26,488 kbps     00:06:23.708    20,716 kbps     00:08:42.750    19,241 kbps     00:08:42.416    92,402 bytes    542,231 bytes   00:10:20.458    
+3               0:15:07.041     0:11:27.583     17,988 kbps     31,027 kbps     00:18:54.374    20,555 kbps     00:18:06.125    19,176 kbps     00:18:54.374    93,687 bytes    588,415 bytes   00:19:25.375    
+4               0:26:34.625     0:12:36.000     17,828 kbps     27,624 kbps     00:38:36.708    20,887 kbps     00:36:40.041    19,347 kbps     00:36:38.291    92,856 bytes    508,215 bytes   00:35:58.916    
+5               0:39:10.625     0:07:47.541     17,963 kbps     25,317 kbps     00:45:18.458    20,034 kbps     00:46:31.333    19,299 kbps     00:40:59.000    93,559 bytes    464,370 bytes   00:46:43.000    
+6               0:46:58.166     0:16:22.291     17,953 kbps     26,209 kbps     00:55:19.166    20,951 kbps     00:49:37.166    19,401 kbps     00:49:37.166    93,505 bytes    583,981 bytes   00:56:58.958    
+7               1:03:20.458     0:10:25.416     17,991 kbps     27,767 kbps     01:08:22.124    21,176 kbps     01:10:45.916    19,044 kbps     01:08:22.083    93,705 bytes    490,946 bytes   01:09:41.416    
+8               1:13:45.875     0:07:54.666     17,993 kbps     26,599 kbps     01:17:09.208    19,854 kbps     01:13:59.500    18,854 kbps     01:16:12.666    93,716 bytes    471,587 bytes   01:20:05.625    
+9               1:21:40.541     0:15:36.375     17,670 kbps     28,100 kbps     01:22:12.458    20,677 kbps     01:31:43.041    19,350 kbps     01:22:12.041    92,033 bytes    541,772 bytes   01:24:39.291    
+10              1:37:16.916     0:16:28.583     17,906 kbps     26,764 kbps     01:41:38.999    20,800 kbps     01:39:32.500    19,289 kbps     01:39:30.583    93,261 bytes    476,305 bytes   01:44:04.375    
+11              1:53:45.500     0:12:42.041     17,860 kbps     26,464 kbps     01:54:02.958    20,561 kbps     01:53:45.708    19,260 kbps     01:53:45.666    93,019 bytes    642,613 bytes   02:06:24.541    
+12              2:06:27.541     0:05:10.292     9,227 kbps      24,352 kbps     02:09:56.041    20,583 kbps     02:09:49.625    19,192 kbps     02:09:50.874    48,065 bytes    427,178 bytes   02:06:28.375    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     7896.833                17,485                  17,259,840,226  93,913,653      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            7896.833                1,486                   1,466,504,976   8,736,020       
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       rus (Russian)           7896.833                1,532                   1,512,513,044   8,981,479       
+00002.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            7896.833                19                      18,722,812      110,797         
+00002.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            7896.833                0                       7,179           46              
+00003.M2TS      4113 (0x1011)   0x02            MPEG-2                                  0.876                   15,049                  1,647,628       8,976           
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            0.876                   954                     104,448         672             
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       rus (Russian)           0.876                   954                     104,448         672             
+00003.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            0.876                   50                      5,476           35              
+00003.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            0.876                   50                      5,476           35              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ballerina
+Disc Label: Bolshoi.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 24,008,615,030 bytes
+Protection: AACS
+Playlist: 01001.MPLS
+Size: 21,523,816,320 bytes
+Length: 2:11:37.834
+Total Bitrate: 21.80 Mbps
+Video: MPEG-4 AVC Video / 17485 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1486 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  1532 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 18.971 kbps
+Subtitle: German / 0.013 kbps
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     2:11:36 21,521,854,464  24,008,615,030  21.80   17.49   DTS-HD Master 5.1 1486Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ballerina
+Disc Label:     Bolshoi.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      24,008,615,030 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 2:11:36.916 (h:m:s.ms)
+Size:                   21,521,854,464 bytes
+Total Bitrate:          21.80 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        17485 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          1486 kbps       5.1 / 48 kHz /  1486 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+DTS-HD Master Audio             Russian         1532 kbps       5.1 / 48 kHz /  1532 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          18.967 kbps                     
+Presentation Graphics           German          0.007 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     2:11:36.916     21,521,854,464  21,803          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     2:11:36.916     17,485 kbps     31,027 kbps     00:18:54.374    21,176 kbps     01:10:45.916    19,401 kbps     00:49:37.166    91,068 bytes    642,613 bytes   02:06:24.541    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     7896.833                17,485                  17,259,840,226  93,913,653      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            7896.833                1,486                   1,466,504,976   8,736,020       
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       rus (Russian)           7896.833                1,532                   1,512,513,044   8,981,479       
+00002.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            7896.833                19                      18,722,812      110,797         
+00002.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            7896.833                0                       7,179           46              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ballerina
+Disc Label: Bolshoi.2017.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 24,008,615,030 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 21,521,854,464 bytes
+Length: 2:11:36.916
+Total Bitrate: 21.80 Mbps
+Video: MPEG-4 AVC Video / 17485 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1486 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Audio: Russian / DTS-HD Master Audio / 5.1 / 48 kHz /  1532 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 18.967 kbps
+Subtitle: German / 0.007 kbps
+
