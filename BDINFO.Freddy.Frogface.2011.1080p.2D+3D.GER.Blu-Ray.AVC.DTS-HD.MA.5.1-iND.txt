@@ -2,7 +2,6 @@ Disc Title:     ORLA FROSCHFRESSER
 Disc Label:     Freddy.Frogface.2011.1080p.2D+3D.GER.Blu-Ray.AVC.DTS-HD.MA.5.1-iND
 Disc Size:      20,223,546,120 bytes
 Protection:     AACS
-Extras:         Blu-ray 3D
 BDInfo:         0.7.5.5
 
 Notes:          
@@ -27,7 +26,7 @@ PLAYLIST: 00003.MPLS
                                                                                                                 Total   Video                                             
 Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
 -----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
-00003.MPLS                                                      AVC     1:24:28 17,890,271,232  20,223,546,120  28.24   13.11   DTS-HD Master 5.1 2114Kbps (48kHz/16-bit) 
+00003.MPLS                                                      AVC     1:24:28 13,392,408,576  20,223,546,120  21.14   13.11   DTS-HD Master 5.1 2114Kbps (48kHz/16-bit) 
 [/code]
 
 [code]
@@ -38,22 +37,20 @@ Disc Title:     ORLA FROSCHFRESSER
 Disc Label:     Freddy.Frogface.2011.1080p.2D+3D.GER.Blu-Ray.AVC.DTS-HD.MA.5.1-iND
 Disc Size:      20,223,546,120 bytes
 Protection:     AACS
-Extras:         Blu-ray 3D
 BDInfo:         0.7.5.5
 
 PLAYLIST REPORT:
 
 Name:                   00003.MPLS
 Length:                 1:24:28.146 (h:m:s.ms)
-Size:                   17,890,271,232 bytes
-Total Bitrate:          28.24 Mbps
+Size:                   13,392,408,576 bytes
+Total Bitrate:          21.14 Mbps
 
 VIDEO:
 
 Codec                   Bitrate             Description     
 -----                   -------             -----------     
-MPEG-4 AVC Video        13112 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
-MPEG-4 MVC Video        6690 kbps           Right Eye       
+MPEG-4 AVC Video        13112 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
 
 AUDIO:
 
@@ -67,7 +64,7 @@ FILES:
 
 Name            Time In         Length          Size            Total Bitrate   
 ----            -------         ------          ----            -------------   
-00004.SSIF      0:00:00.000     1:24:28.146     17,890,271,232  28,240          
+00004.M2TS      0:00:00.000     1:24:28.146     13,392,408,576  21,140          
 
 CHAPTERS:
 
@@ -79,11 +76,10 @@ STREAM DIAGNOSTICS:
 
 File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
 ----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
-00004.SSIF      4114 (0x1012)   0x20            MVC                                     5068.063                6,690                   4,238,300,817   23,111,629      
-00004.SSIF      4113 (0x1011)   0x1B            AVC                                     5068.063                13,112                  8,306,844,157   45,216,829      
-00004.SSIF      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5068.063                2,114                   1,339,082,872   8,072,520       
-00004.SSIF      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5068.063                2,108                   1,335,692,780   8,052,934       
-00004.SSIF      4354 (0x1102)   0x86            DTS-HD MA       dan (Danish)            5068.063                2,121                   1,343,958,484   8,096,369       
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     5068.063                13,112                  8,306,844,157   45,216,829      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5068.063                2,114                   1,339,082,872   8,072,520       
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5068.063                2,108                   1,335,692,780   8,052,934       
+00004.M2TS      4354 (0x1102)   0x86            DTS-HD MA       dan (Danish)            5068.063                2,121                   1,343,958,484   8,096,369       
 
 [/code]
 <---- END FORUMS PASTE ---->
@@ -95,11 +91,10 @@ Disc Label: Freddy.Frogface.2011.1080p.2D+3D.GER.Blu-Ray.AVC.DTS-HD.MA.5.1-iND
 Disc Size: 20,223,546,120 bytes
 Protection: AACS
 Playlist: 00003.MPLS
-Size: 17,890,271,232 bytes
+Size: 13,392,408,576 bytes
 Length: 1:24:28.146
-Total Bitrate: 28.24 Mbps
-Video: MPEG-4 AVC Video / 13112 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
-Video: MPEG-4 MVC Video / 6690 kbps / Right Eye
+Total Bitrate: 21.14 Mbps
+Video: MPEG-4 AVC Video / 13112 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
 Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2114 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
 Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2108 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
 Audio: Danish / DTS-HD Master Audio / 5.1 / 48 kHz /  2121 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
@@ -114,7 +109,7 @@ PLAYLIST: 01003.MPLS
                                                                                                                 Total   Video                                             
 Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
 -----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
-01003.MPLS                                                      AVC     1:24:28 17,890,271,232  20,223,546,120  28.24   13.11   DTS-HD Master 5.1 2114Kbps (48kHz/16-bit) 
+01003.MPLS                                                      AVC     1:24:28 13,392,408,576  20,223,546,120  21.14   13.11   DTS-HD Master 5.1 2114Kbps (48kHz/16-bit) 
 [/code]
 
 [code]
@@ -125,22 +120,20 @@ Disc Title:     ORLA FROSCHFRESSER
 Disc Label:     Freddy.Frogface.2011.1080p.2D+3D.GER.Blu-Ray.AVC.DTS-HD.MA.5.1-iND
 Disc Size:      20,223,546,120 bytes
 Protection:     AACS
-Extras:         Blu-ray 3D
 BDInfo:         0.7.5.5
 
 PLAYLIST REPORT:
 
 Name:                   01003.MPLS
 Length:                 1:24:28.146 (h:m:s.ms)
-Size:                   17,890,271,232 bytes
-Total Bitrate:          28.24 Mbps
+Size:                   13,392,408,576 bytes
+Total Bitrate:          21.14 Mbps
 
 VIDEO:
 
 Codec                   Bitrate             Description     
 -----                   -------             -----------     
-MPEG-4 AVC Video        13112 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
-MPEG-4 MVC Video        6690 kbps           Right Eye       
+MPEG-4 AVC Video        13112 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
 
 AUDIO:
 
@@ -154,7 +147,7 @@ FILES:
 
 Name            Time In         Length          Size            Total Bitrate   
 ----            -------         ------          ----            -------------   
-00004.SSIF      0:00:00.000     1:24:28.146     17,890,271,232  28,240          
+00004.M2TS      0:00:00.000     1:24:28.146     13,392,408,576  21,140          
 
 CHAPTERS:
 
@@ -171,11 +164,10 @@ STREAM DIAGNOSTICS:
 
 File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
 ----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
-00004.SSIF      4114 (0x1012)   0x20            MVC                                     5068.063                6,690                   4,238,300,817   23,111,629      
-00004.SSIF      4113 (0x1011)   0x1B            AVC                                     5068.063                13,112                  8,306,844,157   45,216,829      
-00004.SSIF      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5068.063                2,114                   1,339,082,872   8,072,520       
-00004.SSIF      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5068.063                2,108                   1,335,692,780   8,052,934       
-00004.SSIF      4354 (0x1102)   0x86            DTS-HD MA       dan (Danish)            5068.063                2,121                   1,343,958,484   8,096,369       
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     5068.063                13,112                  8,306,844,157   45,216,829      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5068.063                2,114                   1,339,082,872   8,072,520       
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5068.063                2,108                   1,335,692,780   8,052,934       
+00004.M2TS      4354 (0x1102)   0x86            DTS-HD MA       dan (Danish)            5068.063                2,121                   1,343,958,484   8,096,369       
 
 [/code]
 <---- END FORUMS PASTE ---->
@@ -187,11 +179,10 @@ Disc Label: Freddy.Frogface.2011.1080p.2D+3D.GER.Blu-Ray.AVC.DTS-HD.MA.5.1-iND
 Disc Size: 20,223,546,120 bytes
 Protection: AACS
 Playlist: 01003.MPLS
-Size: 17,890,271,232 bytes
+Size: 13,392,408,576 bytes
 Length: 1:24:28.146
-Total Bitrate: 28.24 Mbps
-Video: MPEG-4 AVC Video / 13112 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
-Video: MPEG-4 MVC Video / 6690 kbps / Right Eye
+Total Bitrate: 21.14 Mbps
+Video: MPEG-4 AVC Video / 13112 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
 Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2114 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
 Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2108 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
 Audio: Danish / DTS-HD Master Audio / 5.1 / 48 kHz /  2121 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
