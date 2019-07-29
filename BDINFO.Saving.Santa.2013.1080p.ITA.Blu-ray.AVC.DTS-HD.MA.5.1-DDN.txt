@@ -1,0 +1,114 @@
+Disc Label:     Saving.Santa.2013.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      35,323,678,106 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:24:19 23,900,811,264  35,323,678,106  37.79   28.00   DTS-HD Master 5.1 3833Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Saving.Santa.2013.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-DDN
+Disc Size:      35,323,678,106 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:24:19.679 (h:m:s.ms)
+Size:                   23,900,811,264 bytes
+Total Bitrate:          37.79 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         3833 kbps       5.1 / 48 kHz /  3833 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3821 kbps       5.1 / 48 kHz /  3821 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         0.076 kbps                      
+Presentation Graphics           Italian         31.367 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:24:19.679     23,900,811,264  37,790          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:50.967     27,983 kbps     46,603 kbps     00:00:32.699    32,548 kbps     00:00:28.987    30,274 kbps     00:00:23.982    145,773 bytes   461,761 bytes   00:00:21.938    
+2               0:00:50.967     0:09:59.515     28,011 kbps     45,526 kbps     00:02:34.070    32,079 kbps     00:00:50.967    30,012 kbps     00:00:50.967    146,034 bytes   971,025 bytes   00:03:52.732    
+3               0:10:50.483     0:13:37.691     28,010 kbps     46,592 kbps     00:23:32.035    31,789 kbps     00:17:29.840    30,140 kbps     00:22:28.889    146,030 bytes   956,151 bytes   00:10:51.484    
+4               0:24:28.175     0:12:00.845     27,984 kbps     49,925 kbps     00:34:04.959    32,997 kbps     00:34:00.997    30,084 kbps     00:30:05.011    145,896 bytes   977,530 bytes   00:25:55.762    
+5               0:36:29.020     0:08:50.488     28,001 kbps     46,920 kbps     00:43:55.674    31,797 kbps     00:38:38.149    29,894 kbps     00:36:55.588    145,985 bytes   941,368 bytes   00:42:45.271    
+6               0:45:19.508     0:13:01.572     28,017 kbps     46,281 kbps     00:48:02.838    32,470 kbps     00:45:37.317    30,211 kbps     00:52:47.372    146,066 bytes   977,691 bytes   00:53:22.324    
+7               0:58:21.080     0:08:12.658     27,998 kbps     46,896 kbps     01:05:29.884    31,713 kbps     01:05:30.259    29,822 kbps     01:01:52.583    145,969 bytes   982,286 bytes   01:04:26.696    
+8               1:06:33.739     0:13:26.347     27,979 kbps     46,443 kbps     01:12:44.443    32,281 kbps     01:19:24.593    30,016 kbps     01:15:57.135    145,871 bytes   953,434 bytes   01:08:56.966    
+9               1:20:00.086     0:04:19.592     27,995 kbps     28,520 kbps     01:24:00.493    28,212 kbps     01:23:57.365    28,112 kbps     01:23:51.359    145,978 bytes   323,856 bytes   01:24:02.328    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5059.596                28,000                  17,708,466,818  96,313,190      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5059.596                3,833                   2,424,285,500   13,963,844      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5059.596                3,821                   2,416,622,936   13,921,991      
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5059.596                0                       47,781          288             
+00002.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5059.596                31                      19,838,209      114,583         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Saving.Santa.2013.1080p.ITA.Blu-ray.AVC.DTS-HD.MA.5.1-DDN
+Disc Size: 35,323,678,106 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 23,900,811,264 bytes
+Length: 1:24:19.679
+Total Bitrate: 37.79 Mbps
+Video: MPEG-4 AVC Video / 27999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  3833 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3821 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 0.076 kbps
+Subtitle: Italian / 31.367 kbps
+

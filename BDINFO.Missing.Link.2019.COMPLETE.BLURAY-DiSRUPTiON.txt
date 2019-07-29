@@ -1,0 +1,400 @@
+Disc Title:     Missing Link
+Disc Label:     Missing.Link.2019.COMPLETE.BLURAY-DiSRUPTiON
+Disc Size:      36,156,430,791 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00350.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00350.MPLS                                                      AVC     1:34:25 29,568,208,896  36,156,430,791  41.75   32.52   Dolby Atmos 7.1 5367Kbps (48kHz/24-bit)   DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Missing Link
+Disc Label:     Missing.Link.2019.COMPLETE.BLURAY-DiSRUPTiON
+Disc Size:      36,156,430,791 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00350.MPLS
+Length:                 1:34:25.660 (h:m:s.ms)
+Size:                   29,568,208,896 bytes
+Total Bitrate:          41.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32524 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         5367 kbps       7.1 / 48 kHz /  4727 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0.080 kbps                      
+Presentation Graphics           English         41.247 kbps                     
+Presentation Graphics           Spanish         31.712 kbps                     
+Presentation Graphics           English         59.499 kbps                     
+Presentation Graphics           Spanish         58.572 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     1:34:25.660     29,568,208,896  41,751          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:12.520     29,942 kbps     39,139 kbps     00:00:33.491    34,213 kbps     00:05:02.427    33,736 kbps     00:02:17.762    156,085 bytes   640,646 bytes   00:01:58.243    
+2               0:05:12.520     0:03:41.095     32,892 kbps     39,744 kbps     00:05:31.789    34,772 kbps     00:05:27.744    34,220 kbps     00:05:22.739    171,482 bytes   640,646 bytes   00:06:38.773    
+3               0:08:53.616     0:03:35.590     33,062 kbps     36,407 kbps     00:09:44.667    34,297 kbps     00:09:40.288    33,946 kbps     00:11:28.479    172,370 bytes   478,669 bytes   00:12:27.580    
+4               0:12:29.206     0:03:06.644     32,419 kbps     38,844 kbps     00:15:17.082    34,686 kbps     00:15:13.120    34,099 kbps     00:15:08.073    169,017 bytes   640,646 bytes   00:13:35.356    
+5               0:15:35.851     0:04:42.699     33,587 kbps     38,309 kbps     00:16:47.506    34,736 kbps     00:18:09.296    34,261 kbps     00:18:04.291    175,105 bytes   640,646 bytes   00:16:08.217    
+6               0:20:18.550     0:04:08.289     33,411 kbps     38,970 kbps     00:23:28.448    34,823 kbps     00:23:24.444    34,300 kbps     00:23:19.439    174,191 bytes   534,924 bytes   00:24:00.522    
+7               0:24:26.840     0:05:28.286     33,580 kbps     38,792 kbps     00:28:47.058    34,780 kbps     00:25:06.379    34,130 kbps     00:25:01.374    175,069 bytes   640,646 bytes   00:25:11.343    
+8               0:29:55.126     0:03:19.532     33,059 kbps     36,530 kbps     00:33:01.020    34,469 kbps     00:31:52.702    33,919 kbps     00:31:55.079    172,357 bytes   640,646 bytes   00:31:57.498    
+9               0:33:14.659     0:03:26.289     33,134 kbps     38,365 kbps     00:36:21.762    34,399 kbps     00:34:28.733    34,202 kbps     00:34:23.895    172,743 bytes   595,740 bytes   00:34:33.738    
+10              0:36:40.948     0:03:52.440     33,080 kbps     37,928 kbps     00:36:54.337    34,434 kbps     00:37:33.000    34,082 kbps     00:36:45.328    172,463 bytes   640,646 bytes   00:36:55.296    
+11              0:40:33.389     0:03:11.774     33,190 kbps     37,170 kbps     00:42:47.731    34,615 kbps     00:40:45.443    34,061 kbps     00:42:38.722    173,037 bytes   640,646 bytes   00:40:47.403    
+12              0:43:45.164     0:03:39.135     32,966 kbps     36,842 kbps     00:44:02.639    34,466 kbps     00:43:58.635    34,048 kbps     00:43:53.631    171,870 bytes   640,646 bytes   00:44:05.184    
+13              0:47:24.299     0:05:26.576     32,679 kbps     35,840 kbps     00:51:55.362    33,997 kbps     00:48:07.467    33,863 kbps     00:48:02.462    170,375 bytes   374,045 bytes   00:48:07.509    
+14              0:52:50.876     0:02:23.601     33,373 kbps     37,196 kbps     00:53:58.234    34,192 kbps     00:53:08.727    33,969 kbps     00:54:30.141    173,993 bytes   626,937 bytes   00:53:13.732    
+15              0:55:14.477     0:03:37.425     32,825 kbps     39,950 kbps     00:55:38.710    34,589 kbps     00:55:34.748    34,007 kbps     00:56:07.280    171,134 bytes   640,646 bytes   00:55:31.119    
+16              0:58:51.903     0:01:07.817     33,220 kbps     36,141 kbps     00:59:20.515    34,217 kbps     00:59:20.515    33,926 kbps     00:59:08.044    173,192 bytes   488,792 bytes   00:59:25.520    
+17              0:59:59.721     0:02:55.008     33,456 kbps     35,520 kbps     01:00:35.173    34,153 kbps     01:00:45.683    33,897 kbps     01:00:40.678    174,422 bytes   465,727 bytes   01:01:32.730    
+18              1:02:54.729     0:02:20.765     30,607 kbps     49,386 kbps     01:04:23.568    37,739 kbps     01:04:20.314    35,314 kbps     01:04:15.309    159,572 bytes   640,646 bytes   01:04:25.111    
+19              1:05:15.494     0:03:01.681     32,230 kbps     38,345 kbps     01:06:45.584    34,472 kbps     01:06:41.664    34,051 kbps     01:07:11.402    168,030 bytes   640,646 bytes   01:06:31.737    
+20              1:08:17.176     0:02:43.162     33,150 kbps     37,311 kbps     01:08:49.208    34,451 kbps     01:08:48.290    34,062 kbps     01:08:46.038    172,829 bytes   640,646 bytes   01:08:39.573    
+21              1:11:00.339     0:02:20.098     32,713 kbps     35,959 kbps     01:11:00.714    34,090 kbps     01:11:01.173    33,831 kbps     01:11:19.817    170,552 bytes   462,466 bytes   01:11:58.355    
+22              1:13:20.437     0:08:30.760     32,006 kbps     39,691 kbps     01:15:18.388    35,043 kbps     01:15:14.468    34,348 kbps     01:15:09.463    166,864 bytes   640,646 bytes   01:14:52.362    
+23              1:21:51.197     0:02:57.427     31,381 kbps     37,098 kbps     01:23:16.992    34,296 kbps     01:24:29.355    33,996 kbps     01:24:24.434    163,608 bytes   640,646 bytes   01:22:27.692    
+24              1:24:48.625     0:09:37.034     31,468 kbps     44,474 kbps     01:33:56.964    35,933 kbps     01:33:52.960    34,817 kbps     01:33:47.913    164,086 bytes   640,883 bytes   01:27:34.499    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     5665.577                32,525                  23,033,946,552  125,263,385     
+00801.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5665.577                5,367                   3,801,129,796   25,113,909      
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5665.577                448                     317,277,184     1,770,520       
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5665.577                224                     158,638,592     885,260         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5665.577                0                       56,553          344             
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5665.577                41                      29,211,275      169,863         
+00801.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5665.577                32                      22,458,505      130,040         
+00801.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           5665.577                59                      42,137,489      240,584         
+00801.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           5665.577                59                      41,480,821      237,355         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Missing Link
+Disc Label: Missing.Link.2019.COMPLETE.BLURAY-DiSRUPTiON
+Disc Size: 36,156,430,791 bytes
+Protection: AACS
+Playlist: 00350.MPLS
+Size: 29,568,208,896 bytes
+Length: 1:34:25.660
+Total Bitrate: 41.75 Mbps
+Video: MPEG-4 AVC Video / 32524 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4727 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Subtitle: English / 0.080 kbps
+Subtitle: English / 41.247 kbps
+Subtitle: Spanish / 31.712 kbps
+Subtitle: English / 59.499 kbps
+Subtitle: Spanish / 58.572 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:34:25 29,568,208,896  36,156,430,791  41.75   32.52   Dolby Atmos 7.1 5367Kbps (48kHz/24-bit)   DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Missing Link
+Disc Label:     Missing.Link.2019.COMPLETE.BLURAY-DiSRUPTiON
+Disc Size:      36,156,430,791 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:34:25.660 (h:m:s.ms)
+Size:                   29,568,208,896 bytes
+Total Bitrate:          41.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32524 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         5367 kbps       7.1 / 48 kHz /  4727 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0.080 kbps                      
+Presentation Graphics           English         41.247 kbps                     
+Presentation Graphics           Spanish         31.712 kbps                     
+Presentation Graphics           English         59.499 kbps                     
+Presentation Graphics           Spanish         58.572 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     1:34:25.660     29,568,208,896  41,751          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:12.520     29,942 kbps     39,139 kbps     00:00:33.491    34,213 kbps     00:05:02.427    33,736 kbps     00:02:17.762    156,085 bytes   640,646 bytes   00:01:58.243    
+2               0:05:12.520     0:03:41.095     32,892 kbps     39,744 kbps     00:05:31.789    34,772 kbps     00:05:27.744    34,220 kbps     00:05:22.739    171,482 bytes   640,646 bytes   00:06:38.773    
+3               0:08:53.616     0:03:35.590     33,062 kbps     36,407 kbps     00:09:44.667    34,297 kbps     00:09:40.288    33,946 kbps     00:11:28.479    172,370 bytes   478,669 bytes   00:12:27.580    
+4               0:12:29.206     0:03:06.644     32,419 kbps     38,844 kbps     00:15:17.082    34,686 kbps     00:15:13.120    34,099 kbps     00:15:08.073    169,017 bytes   640,646 bytes   00:13:35.356    
+5               0:15:35.851     0:04:42.699     33,587 kbps     38,309 kbps     00:16:47.506    34,736 kbps     00:18:09.296    34,261 kbps     00:18:04.291    175,105 bytes   640,646 bytes   00:16:08.217    
+6               0:20:18.550     0:04:08.289     33,411 kbps     38,970 kbps     00:23:28.448    34,823 kbps     00:23:24.444    34,300 kbps     00:23:19.439    174,191 bytes   534,924 bytes   00:24:00.522    
+7               0:24:26.840     0:05:28.286     33,580 kbps     38,792 kbps     00:28:47.058    34,780 kbps     00:25:06.379    34,130 kbps     00:25:01.374    175,069 bytes   640,646 bytes   00:25:11.343    
+8               0:29:55.126     0:03:19.532     33,059 kbps     36,530 kbps     00:33:01.020    34,469 kbps     00:31:52.702    33,919 kbps     00:31:55.079    172,357 bytes   640,646 bytes   00:31:57.498    
+9               0:33:14.659     0:03:26.289     33,134 kbps     38,365 kbps     00:36:21.762    34,399 kbps     00:34:28.733    34,202 kbps     00:34:23.895    172,743 bytes   595,740 bytes   00:34:33.738    
+10              0:36:40.948     0:03:52.440     33,080 kbps     37,928 kbps     00:36:54.337    34,434 kbps     00:37:33.000    34,082 kbps     00:36:45.328    172,463 bytes   640,646 bytes   00:36:55.296    
+11              0:40:33.389     0:03:11.774     33,190 kbps     37,170 kbps     00:42:47.731    34,615 kbps     00:40:45.443    34,061 kbps     00:42:38.722    173,037 bytes   640,646 bytes   00:40:47.403    
+12              0:43:45.164     0:03:39.135     32,966 kbps     36,842 kbps     00:44:02.639    34,466 kbps     00:43:58.635    34,048 kbps     00:43:53.631    171,870 bytes   640,646 bytes   00:44:05.184    
+13              0:47:24.299     0:05:26.576     32,679 kbps     35,840 kbps     00:51:55.362    33,997 kbps     00:48:07.467    33,863 kbps     00:48:02.462    170,375 bytes   374,045 bytes   00:48:07.509    
+14              0:52:50.876     0:02:23.601     33,373 kbps     37,196 kbps     00:53:58.234    34,192 kbps     00:53:08.727    33,969 kbps     00:54:30.141    173,993 bytes   626,937 bytes   00:53:13.732    
+15              0:55:14.477     0:03:37.425     32,825 kbps     39,950 kbps     00:55:38.710    34,589 kbps     00:55:34.748    34,007 kbps     00:56:07.280    171,134 bytes   640,646 bytes   00:55:31.119    
+16              0:58:51.903     0:01:07.817     33,220 kbps     36,141 kbps     00:59:20.515    34,217 kbps     00:59:20.515    33,926 kbps     00:59:08.044    173,192 bytes   488,792 bytes   00:59:25.520    
+17              0:59:59.721     0:02:55.008     33,456 kbps     35,520 kbps     01:00:35.173    34,153 kbps     01:00:45.683    33,897 kbps     01:00:40.678    174,422 bytes   465,727 bytes   01:01:32.730    
+18              1:02:54.729     0:02:20.765     30,607 kbps     49,386 kbps     01:04:23.568    37,739 kbps     01:04:20.314    35,314 kbps     01:04:15.309    159,572 bytes   640,646 bytes   01:04:25.111    
+19              1:05:15.494     0:03:01.681     32,230 kbps     38,345 kbps     01:06:45.584    34,472 kbps     01:06:41.664    34,051 kbps     01:07:11.402    168,030 bytes   640,646 bytes   01:06:31.737    
+20              1:08:17.176     0:02:43.162     33,150 kbps     37,311 kbps     01:08:49.208    34,451 kbps     01:08:48.290    34,062 kbps     01:08:46.038    172,829 bytes   640,646 bytes   01:08:39.573    
+21              1:11:00.339     0:02:20.098     32,713 kbps     35,959 kbps     01:11:00.714    34,090 kbps     01:11:01.173    33,831 kbps     01:11:19.817    170,552 bytes   462,466 bytes   01:11:58.355    
+22              1:13:20.437     0:08:30.760     32,006 kbps     39,691 kbps     01:15:18.388    35,043 kbps     01:15:14.468    34,348 kbps     01:15:09.463    166,864 bytes   640,646 bytes   01:14:52.362    
+23              1:21:51.197     0:02:57.427     31,381 kbps     37,098 kbps     01:23:16.992    34,296 kbps     01:24:29.355    33,996 kbps     01:24:24.434    163,608 bytes   640,646 bytes   01:22:27.692    
+24              1:24:48.625     0:09:37.034     31,468 kbps     44,474 kbps     01:33:56.964    35,933 kbps     01:33:52.960    34,817 kbps     01:33:47.913    164,086 bytes   640,883 bytes   01:27:34.499    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     5665.577                32,525                  23,033,946,552  125,263,385     
+00801.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5665.577                5,367                   3,801,129,796   25,113,909      
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5665.577                448                     317,277,184     1,770,520       
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5665.577                224                     158,638,592     885,260         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5665.577                0                       56,553          344             
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5665.577                41                      29,211,275      169,863         
+00801.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5665.577                32                      22,458,505      130,040         
+00801.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           5665.577                59                      42,137,489      240,584         
+00801.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           5665.577                59                      41,480,821      237,355         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Missing Link
+Disc Label: Missing.Link.2019.COMPLETE.BLURAY-DiSRUPTiON
+Disc Size: 36,156,430,791 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 29,568,208,896 bytes
+Length: 1:34:25.660
+Total Bitrate: 41.75 Mbps
+Video: MPEG-4 AVC Video / 32524 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4727 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Subtitle: English / 0.080 kbps
+Subtitle: English / 41.247 kbps
+Subtitle: Spanish / 31.712 kbps
+Subtitle: English / 59.499 kbps
+Subtitle: Spanish / 58.572 kbps
+
+
+********************
+PLAYLIST: 00850.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00850.MPLS                                                      AVC     1:34:25 29,568,208,896  36,156,430,791  41.75   32.52   Dolby Atmos 7.1 5367Kbps (48kHz/24-bit)   DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Missing Link
+Disc Label:     Missing.Link.2019.COMPLETE.BLURAY-DiSRUPTiON
+Disc Size:      36,156,430,791 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00850.MPLS
+Length:                 1:34:25.660 (h:m:s.ms)
+Size:                   29,568,208,896 bytes
+Total Bitrate:          41.75 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32524 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         5367 kbps       7.1 / 48 kHz /  4727 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         0.080 kbps                      
+Presentation Graphics           English         41.247 kbps                     
+Presentation Graphics           Spanish         31.712 kbps                     
+Presentation Graphics           English         59.499 kbps                     
+Presentation Graphics           Spanish         58.572 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00801.M2TS      0:00:00.000     1:34:25.660     29,568,208,896  41,751          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:12.520     29,942 kbps     39,139 kbps     00:00:33.491    34,213 kbps     00:05:02.427    33,736 kbps     00:02:17.762    156,085 bytes   640,646 bytes   00:01:58.243    
+2               0:05:12.520     0:03:41.095     32,892 kbps     39,744 kbps     00:05:31.789    34,772 kbps     00:05:27.744    34,220 kbps     00:05:22.739    171,482 bytes   640,646 bytes   00:06:38.773    
+3               0:08:53.616     0:03:35.590     33,062 kbps     36,407 kbps     00:09:44.667    34,297 kbps     00:09:40.288    33,946 kbps     00:11:28.479    172,370 bytes   478,669 bytes   00:12:27.580    
+4               0:12:29.206     0:03:06.644     32,419 kbps     38,844 kbps     00:15:17.082    34,686 kbps     00:15:13.120    34,099 kbps     00:15:08.073    169,017 bytes   640,646 bytes   00:13:35.356    
+5               0:15:35.851     0:04:42.699     33,587 kbps     38,309 kbps     00:16:47.506    34,736 kbps     00:18:09.296    34,261 kbps     00:18:04.291    175,105 bytes   640,646 bytes   00:16:08.217    
+6               0:20:18.550     0:04:08.289     33,411 kbps     38,970 kbps     00:23:28.448    34,823 kbps     00:23:24.444    34,300 kbps     00:23:19.439    174,191 bytes   534,924 bytes   00:24:00.522    
+7               0:24:26.840     0:05:28.286     33,580 kbps     38,792 kbps     00:28:47.058    34,780 kbps     00:25:06.379    34,130 kbps     00:25:01.374    175,069 bytes   640,646 bytes   00:25:11.343    
+8               0:29:55.126     0:03:19.532     33,059 kbps     36,530 kbps     00:33:01.020    34,469 kbps     00:31:52.702    33,919 kbps     00:31:55.079    172,357 bytes   640,646 bytes   00:31:57.498    
+9               0:33:14.659     0:03:26.289     33,134 kbps     38,365 kbps     00:36:21.762    34,399 kbps     00:34:28.733    34,202 kbps     00:34:23.895    172,743 bytes   595,740 bytes   00:34:33.738    
+10              0:36:40.948     0:03:52.440     33,080 kbps     37,928 kbps     00:36:54.337    34,434 kbps     00:37:33.000    34,082 kbps     00:36:45.328    172,463 bytes   640,646 bytes   00:36:55.296    
+11              0:40:33.389     0:03:11.774     33,190 kbps     37,170 kbps     00:42:47.731    34,615 kbps     00:40:45.443    34,061 kbps     00:42:38.722    173,037 bytes   640,646 bytes   00:40:47.403    
+12              0:43:45.164     0:03:39.135     32,966 kbps     36,842 kbps     00:44:02.639    34,466 kbps     00:43:58.635    34,048 kbps     00:43:53.631    171,870 bytes   640,646 bytes   00:44:05.184    
+13              0:47:24.299     0:05:26.576     32,679 kbps     35,840 kbps     00:51:55.362    33,997 kbps     00:48:07.467    33,863 kbps     00:48:02.462    170,375 bytes   374,045 bytes   00:48:07.509    
+14              0:52:50.876     0:02:23.601     33,373 kbps     37,196 kbps     00:53:58.234    34,192 kbps     00:53:08.727    33,969 kbps     00:54:30.141    173,993 bytes   626,937 bytes   00:53:13.732    
+15              0:55:14.477     0:03:37.425     32,825 kbps     39,950 kbps     00:55:38.710    34,589 kbps     00:55:34.748    34,007 kbps     00:56:07.280    171,134 bytes   640,646 bytes   00:55:31.119    
+16              0:58:51.903     0:01:07.817     33,220 kbps     36,141 kbps     00:59:20.515    34,217 kbps     00:59:20.515    33,926 kbps     00:59:08.044    173,192 bytes   488,792 bytes   00:59:25.520    
+17              0:59:59.721     0:02:55.008     33,456 kbps     35,520 kbps     01:00:35.173    34,153 kbps     01:00:45.683    33,897 kbps     01:00:40.678    174,422 bytes   465,727 bytes   01:01:32.730    
+18              1:02:54.729     0:02:20.765     30,607 kbps     49,386 kbps     01:04:23.568    37,739 kbps     01:04:20.314    35,314 kbps     01:04:15.309    159,572 bytes   640,646 bytes   01:04:25.111    
+19              1:05:15.494     0:03:01.681     32,230 kbps     38,345 kbps     01:06:45.584    34,472 kbps     01:06:41.664    34,051 kbps     01:07:11.402    168,030 bytes   640,646 bytes   01:06:31.737    
+20              1:08:17.176     0:02:43.162     33,150 kbps     37,311 kbps     01:08:49.208    34,451 kbps     01:08:48.290    34,062 kbps     01:08:46.038    172,829 bytes   640,646 bytes   01:08:39.573    
+21              1:11:00.339     0:02:20.098     32,713 kbps     35,959 kbps     01:11:00.714    34,090 kbps     01:11:01.173    33,831 kbps     01:11:19.817    170,552 bytes   462,466 bytes   01:11:58.355    
+22              1:13:20.437     0:08:30.760     32,006 kbps     39,691 kbps     01:15:18.388    35,043 kbps     01:15:14.468    34,348 kbps     01:15:09.463    166,864 bytes   640,646 bytes   01:14:52.362    
+23              1:21:51.197     0:02:57.427     31,381 kbps     37,098 kbps     01:23:16.992    34,296 kbps     01:24:29.355    33,996 kbps     01:24:24.434    163,608 bytes   640,646 bytes   01:22:27.692    
+24              1:24:48.625     0:09:37.034     31,468 kbps     44,474 kbps     01:33:56.964    35,933 kbps     01:33:52.960    34,817 kbps     01:33:47.913    164,086 bytes   640,883 bytes   01:27:34.499    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00801.M2TS      4113 (0x1011)   0x1B            AVC                                     5665.577                32,525                  23,033,946,552  125,263,385     
+00801.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5665.577                5,367                   3,801,129,796   25,113,909      
+00801.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5665.577                448                     317,277,184     1,770,520       
+00801.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5665.577                224                     158,638,592     885,260         
+00801.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5665.577                0                       56,553          344             
+00801.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5665.577                41                      29,211,275      169,863         
+00801.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5665.577                32                      22,458,505      130,040         
+00801.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           5665.577                59                      42,137,489      240,584         
+00801.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           5665.577                59                      41,480,821      237,355         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Missing Link
+Disc Label: Missing.Link.2019.COMPLETE.BLURAY-DiSRUPTiON
+Disc Size: 36,156,430,791 bytes
+Protection: AACS
+Playlist: 00850.MPLS
+Size: 29,568,208,896 bytes
+Length: 1:34:25.660
+Total Bitrate: 41.75 Mbps
+Video: MPEG-4 AVC Video / 32524 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4727 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Subtitle: English / 0.080 kbps
+Subtitle: English / 41.247 kbps
+Subtitle: Spanish / 31.712 kbps
+Subtitle: English / 59.499 kbps
+Subtitle: Spanish / 58.572 kbps
+

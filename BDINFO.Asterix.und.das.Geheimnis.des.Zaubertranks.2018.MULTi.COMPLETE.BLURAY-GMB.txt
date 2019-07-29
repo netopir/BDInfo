@@ -1,0 +1,202 @@
+Disc Label:     Asterix.und.das.Geheimnis.des.Zaubertranks.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      23,551,453,200 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:25:22 22,731,577,344  23,551,453,200  35.50   25.57   DTS-HD Master 5.1 3950Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Asterix.und.das.Geheimnis.des.Zaubertranks.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      23,551,453,200 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:25:22.625 (h:m:s.ms)
+Size:                   22,731,577,344 bytes
+Total Bitrate:          35.50 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25573 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3950 kbps       5.1 / 48 kHz /  3950 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             French          3923 kbps       5.1 / 48 kHz /  3923 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          28.598 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:25:22.625     22,731,577,344  35,500          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:25:22.625     25,573 kbps     57,466 kbps     00:38:42.375    35,743 kbps     00:15:25.541    32,833 kbps     00:42:24.000    133,192 bytes   903,873 bytes   00:12:44.375    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     5122.500                25,574                  16,375,074,675  89,066,777      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5122.500                3,951                   2,529,590,268   14,546,570      
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       fra (French)            5122.500                3,923                   2,512,210,392   14,447,279      
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5122.500                29                      18,311,890      105,339         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Asterix.und.das.Geheimnis.des.Zaubertranks.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 23,551,453,200 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 22,731,577,344 bytes
+Length: 1:25:22.625
+Total Bitrate: 35.50 Mbps
+Video: MPEG-4 AVC Video / 25573 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3950 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  3923 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 28.598 kbps
+
+
+********************
+PLAYLIST: 01003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01003.MPLS                                                      AVC     1:25:22 22,731,577,344  23,551,453,200  35.50   25.57   DTS-HD Master 5.1 3950Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Asterix.und.das.Geheimnis.des.Zaubertranks.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      23,551,453,200 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01003.MPLS
+Length:                 1:25:22.625 (h:m:s.ms)
+Size:                   22,731,577,344 bytes
+Total Bitrate:          35.50 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25573 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3950 kbps       5.1 / 48 kHz /  3950 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             French          3923 kbps       5.1 / 48 kHz /  3923 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          28.598 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:25:22.625     22,731,577,344  35,500          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:25.625     22,791 kbps     57,248 kbps     00:09:15.083    35,699 kbps     00:00:15.958    32,811 kbps     00:09:15.041    118,695 bytes   843,471 bytes   00:02:45.791    
+2               0:09:25.625     0:06:01.583     24,991 kbps     48,299 kbps     00:15:25.666    35,685 kbps     00:11:38.083    32,515 kbps     00:11:37.458    130,161 bytes   903,873 bytes   00:12:44.375    
+3               0:15:27.208     0:07:02.791     23,745 kbps     57,063 kbps     00:18:50.416    35,571 kbps     00:16:54.041    32,760 kbps     00:18:50.416    123,672 bytes   788,820 bytes   00:15:50.416    
+4               0:22:30.000     0:05:41.666     25,754 kbps     43,383 kbps     00:25:19.291    35,695 kbps     00:25:51.333    32,446 kbps     00:25:51.541    134,134 bytes   550,406 bytes   00:27:22.208    
+5               0:28:11.666     0:08:10.625     28,208 kbps     53,072 kbps     00:29:35.249    35,425 kbps     00:34:43.541    32,825 kbps     00:29:35.249    146,916 bytes   819,431 bytes   00:30:04.916    
+6               0:36:22.291     0:14:53.750     23,525 kbps     57,466 kbps     00:38:42.375    35,693 kbps     00:42:23.958    32,833 kbps     00:42:24.000    122,527 bytes   767,556 bytes   00:39:03.625    
+7               0:51:16.041     0:06:31.666     23,869 kbps     57,147 kbps     00:54:54.750    35,652 kbps     00:56:39.291    32,816 kbps     00:57:35.916    124,319 bytes   901,461 bytes   00:55:36.083    
+8               0:57:47.708     0:09:25.625     29,004 kbps     43,264 kbps     00:59:01.541    34,223 kbps     00:59:14.583    32,601 kbps     00:59:14.708    151,061 bytes   792,178 bytes   01:03:50.833    
+9               1:07:13.333     0:07:36.249     30,000 kbps     39,382 kbps     01:12:34.291    31,932 kbps     01:12:34.333    30,961 kbps     01:11:17.791    156,250 bytes   780,111 bytes   01:07:15.833    
+10              1:14:49.583     0:03:47.333     29,979 kbps     38,751 kbps     01:15:07.499    31,832 kbps     01:17:07.625    31,045 kbps     01:17:07.624    156,138 bytes   795,726 bytes   01:16:29.833    
+11              1:18:36.916     0:06:45.708     22,462 kbps     39,564 kbps     01:24:33.083    34,150 kbps     01:24:31.166    30,885 kbps     01:18:46.041    116,999 bytes   653,850 bytes   01:20:38.458    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     5122.500                25,574                  16,375,074,675  89,066,777      
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5122.500                3,951                   2,529,590,268   14,546,570      
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       fra (French)            5122.500                3,923                   2,512,210,392   14,447,279      
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5122.500                29                      18,311,890      105,339         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Asterix.und.das.Geheimnis.des.Zaubertranks.2018.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 23,551,453,200 bytes
+Protection: AACS
+Playlist: 01003.MPLS
+Size: 22,731,577,344 bytes
+Length: 1:25:22.625
+Total Bitrate: 35.50 Mbps
+Video: MPEG-4 AVC Video / 25573 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3950 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  3923 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 28.598 kbps
+

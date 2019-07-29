@@ -1,0 +1,135 @@
+Disc Title:     Wonder Park
+Disc Label:     Wonder.Park.2019.COMPLETE.BLURAY-CiNEMATiC
+Disc Size:      33,809,842,966 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:25:16 23,794,649,088  33,809,842,966  37.20   27.22   Dolby TrueHD 7.1 4967Kbps (48kHz/24-bit)  DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Wonder Park
+Disc Label:     Wonder.Park.2019.COMPLETE.BLURAY-CiNEMATiC
+Disc Size:      33,809,842,966 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:25:16.986 (h:m:s.ms)
+Size:                   23,794,649,088 bytes
+Total Bitrate:          37.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27215 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         4967 kbps       7.1 / 48 kHz /  4327 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         37.218 kbps                     
+Presentation Graphics           English         48.040 kbps                     
+Presentation Graphics           Spanish         36.138 kbps                     
+Presentation Graphics           French          38.169 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:25:16.986     23,794,649,088  37,201          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:34.811     26,796 kbps     35,693 kbps     00:00:35.076    29,424 kbps     00:00:49.632    29,147 kbps     00:01:19.871    139,690 bytes   615,212 bytes   00:00:32.490    
+2               0:06:34.811     0:05:30.663     27,889 kbps     32,577 kbps     00:07:03.714    29,495 kbps     00:09:56.971    29,141 kbps     00:09:55.970    145,401 bytes   587,353 bytes   00:10:02.935    
+3               0:12:05.474     0:08:17.371     27,224 kbps     31,329 kbps     00:12:05.891    29,324 kbps     00:15:29.261    29,015 kbps     00:17:20.956    141,935 bytes   460,880 bytes   00:15:32.598    
+4               0:20:22.846     0:05:26.743     26,304 kbps     32,086 kbps     00:25:47.921    29,531 kbps     00:25:43.917    29,009 kbps     00:25:22.604    137,135 bytes   629,749 bytes   00:25:07.797    
+5               0:25:49.589     0:07:14.058     28,073 kbps     33,050 kbps     00:29:23.011    29,581 kbps     00:29:02.031    29,149 kbps     00:27:35.278    146,360 bytes   537,823 bytes   00:27:47.290    
+6               0:33:03.648     0:06:10.536     27,092 kbps     33,902 kbps     00:33:14.575    29,595 kbps     00:36:37.653    29,174 kbps     00:33:05.566    141,244 bytes   501,003 bytes   00:37:33.292    
+7               0:39:14.185     0:08:25.463     27,191 kbps     32,402 kbps     00:42:58.158    29,656 kbps     00:42:57.199    29,206 kbps     00:46:56.480    141,760 bytes   636,875 bytes   00:43:03.122    
+8               0:47:39.648     0:06:59.794     26,875 kbps     31,608 kbps     00:51:46.436    29,292 kbps     00:48:48.383    28,943 kbps     00:53:09.060    140,112 bytes   466,096 bytes   00:48:35.245    
+9               0:54:39.442     0:05:53.019     27,612 kbps     32,442 kbps     00:59:55.466    29,369 kbps     00:59:42.245    29,055 kbps     00:59:39.450    143,956 bytes   615,550 bytes   00:59:53.548    
+10              1:00:32.462     0:05:45.344     27,112 kbps     36,080 kbps     01:02:14.981    30,183 kbps     01:02:10.977    29,331 kbps     01:02:05.972    141,347 bytes   635,974 bytes   01:02:31.289    
+11              1:06:17.807     0:06:54.247     27,764 kbps     33,836 kbps     01:07:13.404    29,475 kbps     01:11:18.983    29,118 kbps     01:11:13.978    144,748 bytes   560,790 bytes   01:13:08.634    
+12              1:13:12.054     0:04:37.694     26,463 kbps     32,014 kbps     01:17:34.149    29,324 kbps     01:17:36.276    29,004 kbps     01:16:31.295    137,966 bytes   502,544 bytes   01:16:13.068    
+13              1:17:49.748     0:07:27.238     27,088 kbps     40,978 kbps     01:25:14.400    31,384 kbps     01:25:10.396    29,099 kbps     01:19:21.423    141,235 bytes   640,921 bytes   01:23:30.422    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5116.903                27,216                  17,407,605,661  94,679,139      
+00800.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5116.903                4,967                   3,176,700,012   21,293,983      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5116.903                640                     409,359,360     2,398,590       
+00800.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           5116.903                640                     409,359,360     2,398,590       
+00800.M2TS      4355 (0x1103)   0x81            AC3             fra (French)            5116.903                640                     409,359,360     2,398,590       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5116.903                37                      23,805,689      137,089         
+00800.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5116.903                48                      30,727,323      177,463         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           5116.903                36                      23,114,971      133,267         
+00800.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5116.903                38                      24,414,050      142,313         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Wonder Park
+Disc Label: Wonder.Park.2019.COMPLETE.BLURAY-CiNEMATiC
+Disc Size: 33,809,842,966 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 23,794,649,088 bytes
+Length: 1:25:16.986
+Total Bitrate: 37.20 Mbps
+Video: MPEG-4 AVC Video / 27215 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  4327 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -27dB)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 37.218 kbps
+Subtitle: English / 48.040 kbps
+Subtitle: Spanish / 36.138 kbps
+Subtitle: French / 38.169 kbps
+

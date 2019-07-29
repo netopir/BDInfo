@@ -1,0 +1,478 @@
+Disc Title:     Mars Needs Moms - Blu-ray™
+Disc Label:     Mars.Needs.Moms.2011.Blu-Ray.AVC.DTS-HD.MA.7.1-BLUEBIRD
+Disc Size:      38,092,029,188 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00051.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00051.MPLS                                                      AVC     1:28:04 30,202,980,864  38,092,029,188  45.73   28.86   DTS-HD Master 7.1 5747Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Mars Needs Moms - Blu-ray™
+Disc Label:     Mars.Needs.Moms.2011.Blu-Ray.AVC.DTS-HD.MA.7.1-BLUEBIRD
+Disc Size:      38,092,029,188 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00051.MPLS
+Length:                 1:28:04.028 (h:m:s.ms)
+Size:                   30,202,980,864 bytes
+Total Bitrate:          45.73 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28864 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* MPEG-4 AVC Video      5918 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         5747 kbps       7.1 / 48 kHz /  5747 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Russian         384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+Dolby Digital Audio             Ukrainian       384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -26dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         30.894 kbps                     
+Presentation Graphics           English         38.382 kbps                     
+Presentation Graphics           French          28.855 kbps                     
+Presentation Graphics           Russian         32.999 kbps                     
+Presentation Graphics           Ukrainian       32.376 kbps                     
+* Presentation Graphics         English         86.316 kbps                     
+* Presentation Graphics         French          68.465 kbps                     
+* Presentation Graphics         Russian         0.010 kbps                      
+* Presentation Graphics         Ukrainian       0.010 kbps                      
+Presentation Graphics           French          0.139 kbps                      
+Presentation Graphics           Russian         0.010 kbps                      
+Presentation Graphics           Ukrainian       0.010 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00051.M2TS      0:00:00.000     1:28:04.028     30,202,980,864  45,727          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:04.577     26,537 kbps     36,717 kbps     00:00:30.613    30,247 kbps     00:00:26.568    29,791 kbps     00:00:21.604    138,330 bytes   638,403 bytes   00:01:07.067    
+2               0:04:04.577     0:05:10.435     29,235 kbps     32,689 kbps     00:05:29.120    29,761 kbps     00:05:25.116    29,537 kbps     00:09:04.377    152,419 bytes   584,492 bytes   00:05:30.121    
+3               0:09:15.012     0:04:41.823     28,911 kbps     33,232 kbps     00:11:50.418    29,919 kbps     00:09:36.200    29,555 kbps     00:09:31.237    150,730 bytes   420,499 bytes   00:13:23.219    
+4               0:13:56.836     0:05:16.566     29,089 kbps     32,599 kbps     00:15:27.885    30,026 kbps     00:16:28.404    29,573 kbps     00:17:24.001    151,654 bytes   540,215 bytes   00:17:01.687    
+5               0:19:13.402     0:09:00.498     29,022 kbps     33,327 kbps     00:23:48.468    29,947 kbps     00:26:43.685    29,580 kbps     00:24:45.734    151,309 bytes   510,549 bytes   00:19:29.209    
+6               0:28:13.900     0:06:15.875     28,951 kbps     32,604 kbps     00:31:50.825    30,041 kbps     00:33:40.184    29,596 kbps     00:30:56.229    150,937 bytes   507,490 bytes   00:31:58.750    
+7               0:34:29.776     0:05:49.474     28,984 kbps     32,876 kbps     00:35:28.751    29,865 kbps     00:35:24.789    29,579 kbps     00:35:53.860    151,112 bytes   496,904 bytes   00:38:11.956    
+8               0:40:19.250     0:06:56.374     28,960 kbps     32,417 kbps     00:46:51.767    30,080 kbps     00:47:09.243    29,611 kbps     00:44:48.185    150,983 bytes   525,269 bytes   00:45:55.252    
+9               0:47:15.624     0:09:34.156     29,099 kbps     33,725 kbps     00:56:37.560    30,169 kbps     00:56:34.557    29,744 kbps     00:49:58.161    151,710 bytes   639,237 bytes   00:50:09.131    
+10              0:56:49.781     0:12:13.566     28,847 kbps     33,441 kbps     01:08:11.712    30,081 kbps     01:06:45.543    29,588 kbps     01:02:49.432    150,397 bytes   561,756 bytes   01:07:37.386    
+11              1:09:03.347     0:12:22.074     29,029 kbps     34,668 kbps     01:19:45.989    30,334 kbps     01:19:41.985    29,768 kbps     01:19:36.980    151,345 bytes   605,470 bytes   01:19:47.782    
+12              1:21:25.422     0:06:38.606     28,670 kbps     36,277 kbps     01:28:01.109    30,878 kbps     01:27:57.105    29,589 kbps     01:22:40.080    149,471 bytes   552,325 bytes   01:28:02.068    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00051.M2TS      4113 (0x1011)   0x1B            AVC                                     5284.154                28,864                  19,064,963,510  103,687,294     
+00051.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5284.154                5,748                   3,796,439,700   21,460,050      
+00051.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            5284.154                640                     422,748,160     2,477,040       
+00051.M2TS      4355 (0x1103)   0x81            AC3             rus (Russian)           5284.154                384                     253,635,072     1,486,143       
+00051.M2TS      4356 (0x1104)   0x81            AC3             ukr (Ukrainian)         5284.154                384                     253,635,072     1,486,143       
+00051.M2TS      4357 (0x1105)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5284.154                31                      20,405,521      117,186         
+00051.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5284.154                38                      25,351,412      145,699         
+00051.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5284.154                29                      19,058,641      109,577         
+00051.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           5284.154                33                      21,795,832      124,915         
+00051.M2TS      4612 (0x1204)   0x90            PGS             ukr (Ukrainian)         5284.154                32                      21,384,789      122,677         
+00051.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           5284.154                86                      57,012,205      322,244         
+00051.M2TS      4614 (0x1206)   0x90            PGS             fra (French)            5284.154                68                      45,221,262      256,535         
+00051.M2TS      4615 (0x1207)   0x90            PGS             rus (Russian)           5284.154                0                       6,762           44              
+00051.M2TS      4616 (0x1208)   0x90            PGS             ukr (Ukrainian)         5284.154                0                       6,762           44              
+00051.M2TS      4617 (0x1209)   0x90            PGS             fra (French)            5284.154                0                       91,629          532             
+00051.M2TS      4618 (0x120A)   0x90            PGS             rus (Russian)           5284.154                0                       6,762           44              
+00051.M2TS      4619 (0x120B)   0x90            PGS             ukr (Ukrainian)         5284.154                0                       6,762           44              
+00051.M2TS      6912 (0x1B00)   0x1B            AVC                                     5284.154                5,918                   3,909,191,452   21,321,244      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Mars Needs Moms - Blu-ray™
+Disc Label: Mars.Needs.Moms.2011.Blu-Ray.AVC.DTS-HD.MA.7.1-BLUEBIRD
+Disc Size: 38,092,029,188 bytes
+Protection: AACS
+Playlist: 00051.MPLS
+Size: 30,202,980,864 bytes
+Length: 1:28:04.028
+Total Bitrate: 45.73 Mbps
+Video: MPEG-4 AVC Video / 28864 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Video: MPEG-4 AVC Video / 5918 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5747 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -26dB
+Subtitle: English / 30.894 kbps
+Subtitle: English / 38.382 kbps
+Subtitle: French / 28.855 kbps
+Subtitle: Russian / 32.999 kbps
+Subtitle: Ukrainian / 32.376 kbps
+* Subtitle: English / 86.316 kbps
+* Subtitle: French / 68.465 kbps
+* Subtitle: Russian / 0.010 kbps
+* Subtitle: Ukrainian / 0.010 kbps
+Subtitle: French / 0.139 kbps
+Subtitle: Russian / 0.010 kbps
+Subtitle: Ukrainian / 0.010 kbps
+
+
+********************
+PLAYLIST: 00052.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00052.MPLS                                                      AVC     1:28:04 30,202,980,864  38,092,029,188  45.73   28.86   DTS-HD Master 7.1 5747Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Mars Needs Moms - Blu-ray™
+Disc Label:     Mars.Needs.Moms.2011.Blu-Ray.AVC.DTS-HD.MA.7.1-BLUEBIRD
+Disc Size:      38,092,029,188 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00052.MPLS
+Length:                 1:28:04.028 (h:m:s.ms)
+Size:                   30,202,980,864 bytes
+Total Bitrate:          45.73 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28864 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        5918 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         5747 kbps       7.1 / 48 kHz /  5747 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Dolby Digital Audio           French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital Audio           Russian         384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+* Dolby Digital Audio           Ukrainian       384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -26dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         30.894 kbps                     
+Presentation Graphics           English         38.382 kbps                     
+Presentation Graphics           French          28.855 kbps                     
+Presentation Graphics           Russian         32.999 kbps                     
+Presentation Graphics           Ukrainian       32.376 kbps                     
+Presentation Graphics           English         86.316 kbps                     
+Presentation Graphics           French          68.465 kbps                     
+Presentation Graphics           Russian         0.010 kbps                      
+Presentation Graphics           Ukrainian       0.010 kbps                      
+* Presentation Graphics         French          0.139 kbps                      
+* Presentation Graphics         Russian         0.010 kbps                      
+* Presentation Graphics         Ukrainian       0.010 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00051.M2TS      0:00:00.000     1:28:04.028     30,202,980,864  45,727          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:04.577     26,537 kbps     36,717 kbps     00:00:30.613    30,247 kbps     00:00:26.568    29,791 kbps     00:00:21.604    138,330 bytes   638,403 bytes   00:01:07.067    
+2               0:04:04.577     0:05:10.435     29,235 kbps     32,689 kbps     00:05:29.120    29,761 kbps     00:05:25.116    29,537 kbps     00:09:04.377    152,419 bytes   584,492 bytes   00:05:30.121    
+3               0:09:15.012     0:04:41.823     28,911 kbps     33,232 kbps     00:11:50.418    29,919 kbps     00:09:36.200    29,555 kbps     00:09:31.237    150,730 bytes   420,499 bytes   00:13:23.219    
+4               0:13:56.836     0:05:16.566     29,089 kbps     32,599 kbps     00:15:27.885    30,026 kbps     00:16:28.404    29,573 kbps     00:17:24.001    151,654 bytes   540,215 bytes   00:17:01.687    
+5               0:19:13.402     0:09:00.498     29,022 kbps     33,327 kbps     00:23:48.468    29,947 kbps     00:26:43.685    29,580 kbps     00:24:45.734    151,309 bytes   510,549 bytes   00:19:29.209    
+6               0:28:13.900     0:06:15.875     28,951 kbps     32,604 kbps     00:31:50.825    30,041 kbps     00:33:40.184    29,596 kbps     00:30:56.229    150,937 bytes   507,490 bytes   00:31:58.750    
+7               0:34:29.776     0:05:49.474     28,984 kbps     32,876 kbps     00:35:28.751    29,865 kbps     00:35:24.789    29,579 kbps     00:35:53.860    151,112 bytes   496,904 bytes   00:38:11.956    
+8               0:40:19.250     0:06:56.374     28,960 kbps     32,417 kbps     00:46:51.767    30,080 kbps     00:47:09.243    29,611 kbps     00:44:48.185    150,983 bytes   525,269 bytes   00:45:55.252    
+9               0:47:15.624     0:09:34.156     29,099 kbps     33,725 kbps     00:56:37.560    30,169 kbps     00:56:34.557    29,744 kbps     00:49:58.161    151,710 bytes   639,237 bytes   00:50:09.131    
+10              0:56:49.781     0:12:13.566     28,847 kbps     33,441 kbps     01:08:11.712    30,081 kbps     01:06:45.543    29,588 kbps     01:02:49.432    150,397 bytes   561,756 bytes   01:07:37.386    
+11              1:09:03.347     0:12:22.074     29,029 kbps     34,668 kbps     01:19:45.989    30,334 kbps     01:19:41.985    29,768 kbps     01:19:36.980    151,345 bytes   605,470 bytes   01:19:47.782    
+12              1:21:25.422     0:06:38.606     28,670 kbps     36,277 kbps     01:28:01.109    30,878 kbps     01:27:57.105    29,589 kbps     01:22:40.080    149,471 bytes   552,325 bytes   01:28:02.068    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00051.M2TS      4113 (0x1011)   0x1B            AVC                                     5284.154                28,864                  19,064,963,510  103,687,294     
+00051.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5284.154                5,748                   3,796,439,700   21,460,050      
+00051.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            5284.154                640                     422,748,160     2,477,040       
+00051.M2TS      4355 (0x1103)   0x81            AC3             rus (Russian)           5284.154                384                     253,635,072     1,486,143       
+00051.M2TS      4356 (0x1104)   0x81            AC3             ukr (Ukrainian)         5284.154                384                     253,635,072     1,486,143       
+00051.M2TS      4357 (0x1105)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5284.154                31                      20,405,521      117,186         
+00051.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5284.154                38                      25,351,412      145,699         
+00051.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5284.154                29                      19,058,641      109,577         
+00051.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           5284.154                33                      21,795,832      124,915         
+00051.M2TS      4612 (0x1204)   0x90            PGS             ukr (Ukrainian)         5284.154                32                      21,384,789      122,677         
+00051.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           5284.154                86                      57,012,205      322,244         
+00051.M2TS      4614 (0x1206)   0x90            PGS             fra (French)            5284.154                68                      45,221,262      256,535         
+00051.M2TS      4615 (0x1207)   0x90            PGS             rus (Russian)           5284.154                0                       6,762           44              
+00051.M2TS      4616 (0x1208)   0x90            PGS             ukr (Ukrainian)         5284.154                0                       6,762           44              
+00051.M2TS      4617 (0x1209)   0x90            PGS             fra (French)            5284.154                0                       91,629          532             
+00051.M2TS      4618 (0x120A)   0x90            PGS             rus (Russian)           5284.154                0                       6,762           44              
+00051.M2TS      4619 (0x120B)   0x90            PGS             ukr (Ukrainian)         5284.154                0                       6,762           44              
+00051.M2TS      6912 (0x1B00)   0x1B            AVC                                     5284.154                5,918                   3,909,191,452   21,321,244      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Mars Needs Moms - Blu-ray™
+Disc Label: Mars.Needs.Moms.2011.Blu-Ray.AVC.DTS-HD.MA.7.1-BLUEBIRD
+Disc Size: 38,092,029,188 bytes
+Protection: AACS
+Playlist: 00052.MPLS
+Size: 30,202,980,864 bytes
+Length: 1:28:04.028
+Total Bitrate: 45.73 Mbps
+Video: MPEG-4 AVC Video / 28864 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video / 5918 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+* Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5747 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+* Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -26dB
+Subtitle: English / 30.894 kbps
+Subtitle: English / 38.382 kbps
+Subtitle: French / 28.855 kbps
+Subtitle: Russian / 32.999 kbps
+Subtitle: Ukrainian / 32.376 kbps
+Subtitle: English / 86.316 kbps
+Subtitle: French / 68.465 kbps
+Subtitle: Russian / 0.010 kbps
+Subtitle: Ukrainian / 0.010 kbps
+* Subtitle: French / 0.139 kbps
+* Subtitle: Russian / 0.010 kbps
+* Subtitle: Ukrainian / 0.010 kbps
+
+
+********************
+PLAYLIST: 00053.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00053.MPLS                                                      AVC     1:28:04 30,202,980,864  38,092,029,188  45.73   28.86   DTS-HD Master 7.1 5747Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Mars Needs Moms - Blu-ray™
+Disc Label:     Mars.Needs.Moms.2011.Blu-Ray.AVC.DTS-HD.MA.7.1-BLUEBIRD
+Disc Size:      38,092,029,188 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00053.MPLS
+Length:                 1:28:04.028 (h:m:s.ms)
+Size:                   30,202,980,864 bytes
+Total Bitrate:          45.73 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28864 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* MPEG-4 AVC Video      5918 kbps           Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         5747 kbps       7.1 / 48 kHz /  5747 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Dolby Digital Audio           French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+* Dolby Digital Audio           Russian         384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+* Dolby Digital Audio           Ukrainian       384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -26dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         30.894 kbps                     
+* Presentation Graphics         English         38.382 kbps                     
+* Presentation Graphics         French          28.855 kbps                     
+* Presentation Graphics         Russian         32.999 kbps                     
+* Presentation Graphics         Ukrainian       32.376 kbps                     
+* Presentation Graphics         English         86.316 kbps                     
+* Presentation Graphics         French          68.465 kbps                     
+* Presentation Graphics         Russian         0.010 kbps                      
+* Presentation Graphics         Ukrainian       0.010 kbps                      
+* Presentation Graphics         French          0.139 kbps                      
+* Presentation Graphics         Russian         0.010 kbps                      
+* Presentation Graphics         Ukrainian       0.010 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00051.M2TS      0:00:00.000     1:28:04.028     30,202,980,864  45,727          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:04.577     26,537 kbps     36,717 kbps     00:00:30.613    30,247 kbps     00:00:26.568    29,791 kbps     00:00:21.604    138,330 bytes   638,403 bytes   00:01:07.067    
+2               0:04:04.577     0:05:10.435     29,235 kbps     32,689 kbps     00:05:29.120    29,761 kbps     00:05:25.116    29,537 kbps     00:09:04.377    152,419 bytes   584,492 bytes   00:05:30.121    
+3               0:09:15.012     0:04:41.823     28,911 kbps     33,232 kbps     00:11:50.418    29,919 kbps     00:09:36.200    29,555 kbps     00:09:31.237    150,730 bytes   420,499 bytes   00:13:23.219    
+4               0:13:56.836     0:05:16.566     29,089 kbps     32,599 kbps     00:15:27.885    30,026 kbps     00:16:28.404    29,573 kbps     00:17:24.001    151,654 bytes   540,215 bytes   00:17:01.687    
+5               0:19:13.402     0:09:00.498     29,022 kbps     33,327 kbps     00:23:48.468    29,947 kbps     00:26:43.685    29,580 kbps     00:24:45.734    151,309 bytes   510,549 bytes   00:19:29.209    
+6               0:28:13.900     0:06:15.875     28,951 kbps     32,604 kbps     00:31:50.825    30,041 kbps     00:33:40.184    29,596 kbps     00:30:56.229    150,937 bytes   507,490 bytes   00:31:58.750    
+7               0:34:29.776     0:05:49.474     28,984 kbps     32,876 kbps     00:35:28.751    29,865 kbps     00:35:24.789    29,579 kbps     00:35:53.860    151,112 bytes   496,904 bytes   00:38:11.956    
+8               0:40:19.250     0:06:56.374     28,960 kbps     32,417 kbps     00:46:51.767    30,080 kbps     00:47:09.243    29,611 kbps     00:44:48.185    150,983 bytes   525,269 bytes   00:45:55.252    
+9               0:47:15.624     0:09:34.156     29,099 kbps     33,725 kbps     00:56:37.560    30,169 kbps     00:56:34.557    29,744 kbps     00:49:58.161    151,710 bytes   639,237 bytes   00:50:09.131    
+10              0:56:49.781     0:12:13.566     28,847 kbps     33,441 kbps     01:08:11.712    30,081 kbps     01:06:45.543    29,588 kbps     01:02:49.432    150,397 bytes   561,756 bytes   01:07:37.386    
+11              1:09:03.347     0:12:22.074     29,029 kbps     34,668 kbps     01:19:45.989    30,334 kbps     01:19:41.985    29,768 kbps     01:19:36.980    151,345 bytes   605,470 bytes   01:19:47.782    
+12              1:21:25.422     0:06:38.606     28,670 kbps     36,277 kbps     01:28:01.109    30,878 kbps     01:27:57.105    29,589 kbps     01:22:40.080    149,471 bytes   552,325 bytes   01:28:02.068    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00051.M2TS      4113 (0x1011)   0x1B            AVC                                     5284.154                28,864                  19,064,963,510  103,687,294     
+00051.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5284.154                5,748                   3,796,439,700   21,460,050      
+00051.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            5284.154                640                     422,748,160     2,477,040       
+00051.M2TS      4355 (0x1103)   0x81            AC3             rus (Russian)           5284.154                384                     253,635,072     1,486,143       
+00051.M2TS      4356 (0x1104)   0x81            AC3             ukr (Ukrainian)         5284.154                384                     253,635,072     1,486,143       
+00051.M2TS      4357 (0x1105)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4358 (0x1106)   0x81            AC3             eng (English)           5284.154                320                     211,374,080     1,321,088       
+00051.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5284.154                31                      20,405,521      117,186         
+00051.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5284.154                38                      25,351,412      145,699         
+00051.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5284.154                29                      19,058,641      109,577         
+00051.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           5284.154                33                      21,795,832      124,915         
+00051.M2TS      4612 (0x1204)   0x90            PGS             ukr (Ukrainian)         5284.154                32                      21,384,789      122,677         
+00051.M2TS      4613 (0x1205)   0x90            PGS             eng (English)           5284.154                86                      57,012,205      322,244         
+00051.M2TS      4614 (0x1206)   0x90            PGS             fra (French)            5284.154                68                      45,221,262      256,535         
+00051.M2TS      4615 (0x1207)   0x90            PGS             rus (Russian)           5284.154                0                       6,762           44              
+00051.M2TS      4616 (0x1208)   0x90            PGS             ukr (Ukrainian)         5284.154                0                       6,762           44              
+00051.M2TS      4617 (0x1209)   0x90            PGS             fra (French)            5284.154                0                       91,629          532             
+00051.M2TS      4618 (0x120A)   0x90            PGS             rus (Russian)           5284.154                0                       6,762           44              
+00051.M2TS      4619 (0x120B)   0x90            PGS             ukr (Ukrainian)         5284.154                0                       6,762           44              
+00051.M2TS      6912 (0x1B00)   0x1B            AVC                                     5284.154                5,918                   3,909,191,452   21,321,244      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Mars Needs Moms - Blu-ray™
+Disc Label: Mars.Needs.Moms.2011.Blu-Ray.AVC.DTS-HD.MA.7.1-BLUEBIRD
+Disc Size: 38,092,029,188 bytes
+Protection: AACS
+Playlist: 00053.MPLS
+Size: 30,202,980,864 bytes
+Length: 1:28:04.028
+Total Bitrate: 45.73 Mbps
+Video: MPEG-4 AVC Video / 28864 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Video: MPEG-4 AVC Video / 5918 kbps / Left Eye / 480p / 23.976 fps / 16:9 / High Profile 3.2
+* Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5747 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -31dB / Dolby Surround
+* Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+* Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -26dB
+* Subtitle: English / 30.894 kbps
+* Subtitle: English / 38.382 kbps
+* Subtitle: French / 28.855 kbps
+* Subtitle: Russian / 32.999 kbps
+* Subtitle: Ukrainian / 32.376 kbps
+* Subtitle: English / 86.316 kbps
+* Subtitle: French / 68.465 kbps
+* Subtitle: Russian / 0.010 kbps
+* Subtitle: Ukrainian / 0.010 kbps
+* Subtitle: French / 0.139 kbps
+* Subtitle: Russian / 0.010 kbps
+* Subtitle: Ukrainian / 0.010 kbps
+

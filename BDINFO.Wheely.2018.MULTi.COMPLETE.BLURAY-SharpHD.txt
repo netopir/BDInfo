@@ -1,0 +1,119 @@
+Disc Title:     Wheely
+Disc Label:     Wheely.2018.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      22,642,724,862 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:30:13 20,322,336,768  22,642,724,862  30.03   22.00   DTS-HD Master 5.1 4095Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Wheely
+Disc Label:     Wheely.2018.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      22,642,724,862 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:30:13.083 (h:m:s.ms)
+Size:                   20,322,336,768 bytes
+Total Bitrate:          30.03 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21998 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4095 kbps       5.1 / 48 kHz /  4095 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2164 kbps       5.1 / 48 kHz /  2164 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.566 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:30:13.083     20,322,336,768  30,034          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:53.000     27,443 kbps     40,256 kbps     00:04:59.041    36,587 kbps     00:03:06.666    35,697 kbps     00:08:10.166    142,923 bytes   636,506 bytes   00:03:35.458    
+2               0:08:53.000     0:06:33.375     22,790 kbps     38,479 kbps     00:12:08.958    34,892 kbps     00:12:20.625    32,680 kbps     00:12:15.625    118,698 bytes   543,178 bytes   00:11:36.583    
+3               0:15:26.375     0:05:51.333     20,369 kbps     36,896 kbps     00:16:08.583    33,732 kbps     00:16:06.458    28,971 kbps     00:16:02.166    106,086 bytes   567,005 bytes   00:15:55.458    
+4               0:21:17.708     0:07:09.500     22,001 kbps     37,344 kbps     00:21:25.208    33,670 kbps     00:21:24.208    30,131 kbps     00:21:19.208    114,589 bytes   559,452 bytes   00:21:22.125    
+5               0:28:27.208     0:08:21.833     18,278 kbps     32,137 kbps     00:30:26.416    25,509 kbps     00:30:24.291    24,578 kbps     00:33:08.333    95,198 bytes    448,851 bytes   00:35:10.208    
+6               0:36:49.041     0:08:50.458     20,968 kbps     40,936 kbps     00:43:58.125    35,702 kbps     00:43:14.416    33,695 kbps     00:43:12.791    109,209 bytes   593,255 bytes   00:43:21.916    
+7               0:45:39.500     0:08:03.458     21,645 kbps     38,966 kbps     00:53:08.166    34,699 kbps     00:53:15.666    32,137 kbps     00:52:59.166    112,732 bytes   638,090 bytes   00:50:14.541    
+8               0:53:42.958     0:06:46.541     20,264 kbps     40,451 kbps     00:58:17.625    29,765 kbps     00:59:38.375    25,504 kbps     00:57:35.208    105,543 bytes   496,285 bytes   00:59:42.916    
+9               1:00:29.500     0:06:39.625     22,157 kbps     36,919 kbps     01:02:51.083    32,547 kbps     01:01:50.375    30,380 kbps     01:03:28.916    115,400 bytes   610,484 bytes   01:04:26.041    
+10              1:07:09.125     0:11:00.875     22,400 kbps     37,971 kbps     01:10:27.958    34,784 kbps     01:11:19.250    33,817 kbps     01:11:13.791    116,665 bytes   631,190 bytes   01:16:02.958    
+11              1:18:10.000     0:05:46.375     25,075 kbps     39,801 kbps     01:22:06.750    36,358 kbps     01:23:42.166    35,615 kbps     01:23:41.291    130,597 bytes   546,904 bytes   01:19:20.583    
+12              1:23:56.375     0:06:16.708     20,012 kbps     40,319 kbps     01:27:55.250    36,585 kbps     01:28:21.791    36,079 kbps     01:28:04.541    104,243 bytes   638,027 bytes   01:26:37.666    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5412.958                21,999                  14,884,695,243  80,971,001      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5412.958                4,095                   2,770,620,564   15,891,635      
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5412.958                2,164                   1,464,524,096   8,799,268       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5412.958                1                       383,150         2,258           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Wheely
+Disc Label: Wheely.2018.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 22,642,724,862 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 20,322,336,768 bytes
+Length: 1:30:13.083
+Total Bitrate: 30.03 Mbps
+Video: MPEG-4 AVC Video / 21998 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4095 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2164 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.566 kbps
+

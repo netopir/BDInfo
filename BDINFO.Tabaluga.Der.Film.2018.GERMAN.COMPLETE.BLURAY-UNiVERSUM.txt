@@ -1,0 +1,117 @@
+Disc Label:     Tabaluga.Der.Film.2018.GERMAN.COMPLETE.BLURAY-UNiVERSUM
+Disc Size:      24,864,642,216 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:26:35 21,987,902,016  24,864,642,216  33.86   29.97   DTS-HD Master 5.1 2133Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Tabaluga.Der.Film.2018.GERMAN.COMPLETE.BLURAY-UNiVERSUM
+Disc Size:      24,864,642,216 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:26:35.520 (h:m:s.ms)
+Size:                   21,987,902,016 bytes
+Total Bitrate:          33.86 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29971 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2133 kbps       5.1 / 48 kHz /  2133 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          38.575 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00034.M2TS      0:00:00.000     1:26:35.520     21,987,902,016  33,857          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:09.080     29,678 kbps     38,152 kbps     00:06:07.520    33,970 kbps     00:04:11.720    33,218 kbps     00:05:47.920    148,375 bytes   640,130 bytes   00:04:21.360    
+2               0:06:09.080     0:04:43.839     32,268 kbps     38,165 kbps     00:06:38.160    33,618 kbps     00:09:40.960    33,345 kbps     00:06:29.120    161,339 bytes   640,858 bytes   00:07:54.680    
+3               0:10:52.920     0:04:07.480     31,060 kbps     38,073 kbps     00:12:39.160    33,877 kbps     00:13:08.679    33,222 kbps     00:12:15.000    155,776 bytes   632,552 bytes   00:13:23.280    
+4               0:15:00.400     0:08:16.840     27,369 kbps     37,710 kbps     00:15:05.840    33,545 kbps     00:15:01.840    32,822 kbps     00:20:01.840    136,844 bytes   584,058 bytes   00:15:15.280    
+5               0:23:17.240     0:04:43.200     27,967 kbps     36,177 kbps     00:25:52.800    33,228 kbps     00:25:48.920    32,799 kbps     00:23:19.080    139,833 bytes   549,576 bytes   00:25:12.800    
+6               0:28:00.440     0:03:48.000     30,334 kbps     35,350 kbps     00:29:35.400    33,149 kbps     00:28:17.160    32,913 kbps     00:30:19.760    151,668 bytes   495,697 bytes   00:29:20.040    
+7               0:31:48.440     0:03:26.480     26,598 kbps     35,162 kbps     00:32:39.320    32,820 kbps     00:31:49.400    32,220 kbps     00:31:49.880    132,990 bytes   464,054 bytes   00:35:11.600    
+8               0:35:14.920     0:06:45.519     29,706 kbps     38,805 kbps     00:39:15.239    33,733 kbps     00:39:11.359    32,909 kbps     00:39:10.160    148,531 bytes   627,316 bytes   00:36:29.200    
+9               0:42:00.439     0:03:24.960     31,603 kbps     38,755 kbps     00:44:05.960    33,472 kbps     00:44:24.319    33,132 kbps     00:44:18.319    158,016 bytes   637,553 bytes   00:44:08.279    
+10              0:45:25.399     0:04:21.320     28,912 kbps     38,228 kbps     00:48:19.920    33,899 kbps     00:48:15.920    33,235 kbps     00:48:10.800    144,559 bytes   635,945 bytes   00:47:29.239    
+11              0:49:46.720     0:05:27.679     32,031 kbps     39,576 kbps     00:55:13.239    33,848 kbps     00:55:09.239    33,438 kbps     00:55:04.120    160,153 bytes   637,899 bytes   00:51:45.840    
+12              0:55:14.399     0:04:27.960     31,995 kbps     39,850 kbps     00:57:18.439    33,434 kbps     00:56:21.840    33,107 kbps     00:57:36.360    159,977 bytes   631,502 bytes   00:56:26.800    
+13              0:59:42.360     0:06:26.920     30,310 kbps     39,547 kbps     01:05:19.439    34,076 kbps     01:04:52.400    33,423 kbps     01:04:47.360    151,548 bytes   629,346 bytes   01:00:10.840    
+14              1:06:09.280     0:08:54.520     29,969 kbps     37,446 kbps     01:12:11.640    33,368 kbps     01:10:40.800    33,047 kbps     01:08:32.440    149,843 bytes   632,920 bytes   01:08:44.120    
+15              1:15:03.800     0:05:45.480     30,662 kbps     37,608 kbps     01:16:19.440    33,765 kbps     01:20:43.840    33,346 kbps     01:20:38.920    153,309 bytes   542,984 bytes   01:20:36.400    
+16              1:20:49.280     0:05:46.239     30,332 kbps     34,554 kbps     01:22:11.560    33,027 kbps     01:25:53.680    32,922 kbps     01:25:57.360    151,680 bytes   383,555 bytes   01:25:59.400    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00034.M2TS      4113 (0x1011)   0x1B            AVC                                     5195.360                29,972                  19,464,389,045  105,859,940     
+00034.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5195.360                2,133                   1,385,475,768   8,335,666       
+00034.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5195.360                39                      25,052,352      142,709         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Tabaluga.Der.Film.2018.GERMAN.COMPLETE.BLURAY-UNiVERSUM
+Disc Size: 24,864,642,216 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 21,987,902,016 bytes
+Length: 1:26:35.520
+Total Bitrate: 33.86 Mbps
+Video: MPEG-4 AVC Video / 29971 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2133 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 38.575 kbps
+
