@@ -1,0 +1,177 @@
+Disc Title:     Arthur Christmas - Blu-ray™
+Disc Label:     Arthur.Weihnachtsmann.2011.MULTi.COMPLETE.BLURAY-HDSource
+Disc Size:      36,965,781,066 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:37:32 29,178,249,216  36,965,781,066  39.88   24.77   DTS-HD Master 5.1 2236Kbps (48kHz/16-bit) DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Arthur Christmas - Blu-ray™
+Disc Label:     Arthur.Weihnachtsmann.2011.MULTi.COMPLETE.BLURAY-HDSource
+Disc Size:      36,965,781,066 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:37:32.847 (h:m:s.ms)
+Size:                   29,178,249,216 bytes
+Total Bitrate:          39.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24767 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2236 kbps       5.1 / 48 kHz /  2236 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Catalan         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Danish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Finnish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             German          2256 kbps       5.1 / 48 kHz /  2256 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Hindi           640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Norwegian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             Spanish         2257 kbps       5.1 / 48 kHz /  2257 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Turkish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         34.824 kbps                     
+Presentation Graphics           English         30.688 kbps                     
+Presentation Graphics           Danish          34.786 kbps                     
+Presentation Graphics           Finnish         35.847 kbps                     
+Presentation Graphics           German          43.644 kbps                     
+Presentation Graphics           Hindi           34.739 kbps                     
+Presentation Graphics           Norwegian       36.388 kbps                     
+Presentation Graphics           Spanish         34.326 kbps                     
+Presentation Graphics           Swedish         35.300 kbps                     
+Presentation Graphics           Turkish         38.580 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:37:32.847     29,178,249,216  39,882          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:37.777     24,269 kbps     40,265 kbps     00:00:41.916    29,911 kbps     00:00:41.416    27,200 kbps     00:00:49.883    126,511 bytes   773,500 bytes   00:02:12.382    
+2               0:04:37.777     0:04:14.837     25,237 kbps     40,562 kbps     00:08:42.063    31,301 kbps     00:08:42.605    29,314 kbps     00:08:40.937    131,574 bytes   756,369 bytes   00:06:52.203    
+3               0:08:52.615     0:07:34.537     25,070 kbps     44,513 kbps     00:12:49.894    30,062 kbps     00:08:56.619    28,042 kbps     00:12:08.269    130,704 bytes   774,166 bytes   00:12:38.883    
+4               0:16:27.152     0:03:21.576     25,498 kbps     43,462 kbps     00:19:15.279    30,719 kbps     00:17:35.012    28,336 kbps     00:16:50.467    132,935 bytes   744,074 bytes   00:19:45.934    
+5               0:19:48.729     0:03:35.089     25,204 kbps     39,317 kbps     00:23:12.849    28,905 kbps     00:19:53.817    28,408 kbps     00:19:49.062    131,404 bytes   677,986 bytes   00:20:19.509    
+6               0:23:23.819     0:05:35.501     24,520 kbps     40,370 kbps     00:24:37.601    28,193 kbps     00:23:24.486    26,373 kbps     00:25:05.045    127,834 bytes   765,781 bytes   00:27:35.153    
+7               0:28:59.320     0:04:29.602     24,297 kbps     39,198 kbps     00:33:18.663    30,202 kbps     00:33:17.161    27,413 kbps     00:33:11.531    126,674 bytes   780,661 bytes   00:30:38.378    
+8               0:33:28.923     0:05:53.352     25,408 kbps     39,561 kbps     00:34:56.385    29,317 kbps     00:37:20.071    27,526 kbps     00:34:15.762    132,464 bytes   733,828 bytes   00:38:36.522    
+9               0:39:22.276     0:05:23.281     24,631 kbps     41,906 kbps     00:42:01.101    28,530 kbps     00:42:01.101    27,748 kbps     00:42:00.893    128,412 bytes   749,563 bytes   00:43:46.915    
+10              0:44:45.557     0:08:03.816     24,554 kbps     44,192 kbps     00:46:47.804    31,526 kbps     00:46:44.843    28,717 kbps     00:46:39.421    128,015 bytes   740,472 bytes   00:50:52.841    
+11              0:52:49.374     0:05:59.567     24,883 kbps     42,832 kbps     00:54:16.836    28,440 kbps     00:54:13.208    27,134 kbps     00:55:04.926    129,727 bytes   774,161 bytes   00:56:46.027    
+12              0:58:48.942     0:07:11.347     24,560 kbps     38,567 kbps     01:02:44.719    30,086 kbps     01:03:19.378    28,126 kbps     01:03:14.123    128,047 bytes   781,789 bytes   01:03:33.351    
+13              1:06:00.289     0:07:49.051     24,824 kbps     42,827 kbps     01:10:25.387    29,591 kbps     01:10:21.675    27,343 kbps     01:10:16.629    129,423 bytes   781,218 bytes   01:07:19.118    
+14              1:13:49.341     0:06:47.615     24,844 kbps     37,861 kbps     01:16:40.929    30,414 kbps     01:15:01.538    28,727 kbps     01:15:01.538    129,524 bytes   748,137 bytes   01:20:34.496    
+15              1:20:36.957     0:09:11.217     24,685 kbps     38,599 kbps     01:22:56.304    28,724 kbps     01:21:16.496    27,273 kbps     01:21:03.316    128,694 bytes   747,027 bytes   01:20:42.462    
+16              1:29:48.174     0:07:44.672     24,350 kbps     43,310 kbps     01:32:04.644    30,968 kbps     01:32:00.223    27,811 kbps     01:31:58.095    126,961 bytes   770,677 bytes   01:31:24.979    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5852.764                24,768                  18,119,922,426  98,560,313      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5852.764                2,236                   1,635,579,396   9,848,667       
+00001.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4354 (0x1102)   0x81            AC3             cat (Catalan)           5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4355 (0x1103)   0x81            AC3             dan (Danish)            5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4356 (0x1104)   0x81            AC3             fin (Finnish)           5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4357 (0x1105)   0x86            DTS-HD MA       deu (German)            5852.764                2,257                   1,650,861,516   9,909,024       
+00001.M2TS      4358 (0x1106)   0x81            AC3             hin (Hindi)             5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4359 (0x1107)   0x81            AC3             nor (Norwegian)         5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4360 (0x1108)   0x86            DTS-HD MA       spa (Spanish)           5852.764                2,257                   1,651,495,116   9,911,895       
+00001.M2TS      4361 (0x1109)   0x81            AC3             swe (Swedish)           5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4362 (0x110A)   0x81            AC3             tur (Turkish)           5852.764                640                     468,229,120     2,743,530       
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5852.764                35                      25,477,344      148,299         
+00001.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5852.764                31                      22,451,708      134,343         
+00001.M2TS      4610 (0x1202)   0x90            PGS             dan (Danish)            5852.764                35                      25,449,455      148,818         
+00001.M2TS      4611 (0x1203)   0x90            PGS             fin (Finnish)           5852.764                36                      26,225,541      153,029         
+00001.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            5852.764                44                      31,930,244      184,051         
+00001.M2TS      4613 (0x1205)   0x90            PGS             hin (Hindi)             5852.764                35                      25,415,094      148,673         
+00001.M2TS      4614 (0x1206)   0x90            PGS             nor (Norwegian)         5852.764                36                      26,621,524      155,156         
+00001.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           5852.764                34                      25,112,814      146,478         
+00001.M2TS      4616 (0x1208)   0x90            PGS             swe (Swedish)           5852.764                35                      25,825,527      150,774         
+00001.M2TS      4617 (0x1209)   0x90            PGS             tur (Turkish)           5852.764                39                      28,225,668      163,901         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Arthur Christmas - Blu-ray™
+Disc Label: Arthur.Weihnachtsmann.2011.MULTi.COMPLETE.BLURAY-HDSource
+Disc Size: 36,965,781,066 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 29,178,249,216 bytes
+Length: 1:37:32.847
+Total Bitrate: 39.88 Mbps
+Video: MPEG-4 AVC Video / 24767 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2236 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Catalan / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2256 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Hindi / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  2257 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 34.824 kbps
+Subtitle: English / 30.688 kbps
+Subtitle: Danish / 34.786 kbps
+Subtitle: Finnish / 35.847 kbps
+Subtitle: German / 43.644 kbps
+Subtitle: Hindi / 34.739 kbps
+Subtitle: Norwegian / 36.388 kbps
+Subtitle: Spanish / 34.326 kbps
+Subtitle: Swedish / 35.300 kbps
+Subtitle: Turkish / 38.580 kbps
+

@@ -1,0 +1,147 @@
+Disc Label:     Tim.Burtons.Corpse.Bride.Hochzeit.mit.einer.Leiche.MULTi.COMPLETE.BLURAY-HDSource
+Disc Size:      17,255,762,274 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      VC-1    1:17:11 13,145,634,816  17,255,762,274  22.71   18.42   DD AC3 5.1-EX 640Kbps                     DD AC3 5.1-EX 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Tim.Burtons.Corpse.Bride.Hochzeit.mit.einer.Leiche.MULTi.COMPLETE.BLURAY-HDSource
+Disc Size:      17,255,762,274 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:17:11.668 (h:m:s.ms)
+Size:                   13,145,634,816 bytes
+Total Bitrate:          22.71 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              18425 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital EX Audio          English         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Dolby Digital EX Audio          French          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital EX Audio          German          640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital EX Audio          English         640 kbps        5.1-EX / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         48.737 kbps                     
+Presentation Graphics           English         55.861 kbps                     
+Presentation Graphics           French          45.859 kbps                     
+Presentation Graphics           German          53.477 kbps                     
+Presentation Graphics           German          60.511 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:17:11.668     13,145,634,816  22,706          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:21.307     18,253 kbps     33,375 kbps     00:02:13.383    27,434 kbps     00:02:10.588    24,819 kbps     00:02:05.416    95,616 bytes    483,125 bytes   00:00:50.133    
+2               0:02:21.307     0:04:08.081     20,123 kbps     35,652 kbps     00:04:16.714    27,050 kbps     00:06:02.278    25,873 kbps     00:04:29.644    104,915 bytes   466,074 bytes   00:04:45.451    
+3               0:06:29.389     0:04:16.756     16,861 kbps     34,404 kbps     00:06:31.974    26,009 kbps     00:06:31.599    23,632 kbps     00:06:31.599    87,904 bytes    422,403 bytes   00:06:32.809    
+4               0:10:46.145     0:03:45.058     19,965 kbps     37,699 kbps     00:13:21.342    27,531 kbps     00:14:11.851    24,873 kbps     00:11:19.887    104,109 bytes   583,251 bytes   00:13:15.669    
+5               0:14:31.203     0:04:22.762     16,129 kbps     37,054 kbps     00:18:05.375    26,161 kbps     00:16:38.372    25,085 kbps     00:16:37.746    84,091 bytes    510,811 bytes   00:17:01.770    
+6               0:18:53.966     0:01:38.765     21,815 kbps     37,091 kbps     00:19:06.937    27,210 kbps     00:19:04.268    25,506 kbps     00:18:59.471    113,735 bytes   520,285 bytes   00:19:00.889    
+7               0:20:32.731     0:03:26.039     19,447 kbps     36,801 kbps     00:21:27.411    27,385 kbps     00:22:48.450    25,369 kbps     00:22:43.945    101,428 bytes   555,960 bytes   00:22:55.707    
+8               0:23:58.770     0:03:22.035     19,920 kbps     35,104 kbps     00:26:39.806    26,900 kbps     00:27:01.911    25,424 kbps     00:26:32.173    103,941 bytes   542,987 bytes   00:26:24.082    
+9               0:27:20.805     0:03:06.853     21,661 kbps     32,959 kbps     00:29:33.605    27,782 kbps     00:30:04.093    26,650 kbps     00:29:58.922    112,930 bytes   533,676 bytes   00:30:27.242    
+10              0:30:27.659     0:02:54.507     21,506 kbps     32,287 kbps     00:30:32.205    26,630 kbps     00:32:52.804    25,636 kbps     00:32:50.051    112,120 bytes   507,531 bytes   00:31:26.634    
+11              0:33:22.166     0:02:55.341     17,075 kbps     35,625 kbps     00:36:13.921    25,246 kbps     00:34:30.943    24,691 kbps     00:34:10.757    89,021 bytes    602,194 bytes   00:36:14.922    
+12              0:36:17.508     0:03:35.882     17,722 kbps     32,426 kbps     00:39:12.558    27,335 kbps     00:38:46.032    25,701 kbps     00:38:45.698    92,392 bytes    498,829 bytes   00:38:58.586    
+13              0:39:53.390     0:03:27.707     18,932 kbps     29,507 kbps     00:41:57.556    24,430 kbps     00:42:02.811    22,641 kbps     00:41:57.598    98,702 bytes    546,773 bytes   00:43:01.328    
+14              0:43:21.098     0:02:58.845     17,570 kbps     30,861 kbps     00:44:50.813    25,143 kbps     00:44:01.764    23,159 kbps     00:44:00.054    91,601 bytes    408,076 bytes   00:45:45.826    
+15              0:46:19.943     0:02:34.654     15,683 kbps     30,278 kbps     00:47:18.126    25,211 kbps     00:47:16.750    22,238 kbps     00:47:15.249    81,763 bytes    412,183 bytes   00:48:12.472    
+16              0:48:54.598     0:03:08.354     18,395 kbps     35,083 kbps     00:52:01.576    24,238 kbps     00:51:57.781    22,636 kbps     00:51:52.943    95,902 bytes    472,291 bytes   00:49:51.154    
+17              0:52:02.953     0:02:47.500     20,872 kbps     32,888 kbps     00:52:17.217    27,649 kbps     00:53:18.862    25,801 kbps     00:53:15.817    108,820 bytes   471,789 bytes   00:53:00.927    
+18              0:54:50.453     0:02:06.626     21,143 kbps     32,179 kbps     00:55:31.786    25,821 kbps     00:55:35.790    24,586 kbps     00:55:31.786    110,231 bytes   483,364 bytes   00:54:59.713    
+19              0:56:57.080     0:03:18.364     20,358 kbps     35,435 kbps     00:59:51.546    26,024 kbps     00:57:13.096    24,850 kbps     00:58:37.597    106,136 bytes   519,942 bytes   00:59:51.713    
+20              1:00:15.445     0:03:30.043     19,125 kbps     33,628 kbps     01:03:18.294    24,674 kbps     01:01:38.152    24,043 kbps     01:01:14.295    99,711 bytes    514,447 bytes   01:01:07.330    
+21              1:03:45.488     0:03:55.568     16,619 kbps     31,239 kbps     01:04:12.807    24,815 kbps     01:05:21.125    23,401 kbps     01:04:10.221    86,642 bytes    425,323 bytes   01:04:38.541    
+22              1:07:41.057     0:03:31.044     20,052 kbps     31,611 kbps     01:08:36.195    26,187 kbps     01:08:36.195    25,630 kbps     01:08:36.195    104,543 bytes   402,064 bytes   01:08:03.746    
+23              1:11:12.101     0:02:14.300     17,858 kbps     29,808 kbps     01:13:03.962    23,682 kbps     01:11:31.203    23,022 kbps     01:12:47.654    93,453 bytes    435,981 bytes   01:12:47.780    
+24              1:13:26.402     0:03:45.266     9,593 kbps      26,025 kbps     01:16:58.488    19,602 kbps     01:14:48.025    18,783 kbps     01:14:44.521    50,650 bytes    463,035 bytes   01:16:59.448    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0xEA            VC-1                                    4631.585                18,425                  10,667,247,608  58,040,773      
+00000.M2TS      4352 (0x1100)   0x81            AC3-EX          eng (English)           4631.585                640                     370,534,400     2,171,100       
+00000.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           4631.585                192                     111,160,320     723,700         
+00000.M2TS      4354 (0x1102)   0x81            AC3-EX          fra (French)            4631.585                640                     370,534,400     2,171,100       
+00000.M2TS      4355 (0x1103)   0x81            AC3-EX          deu (German)            4631.585                640                     370,534,400     2,171,100       
+00000.M2TS      4356 (0x1104)   0x81            AC3-EX          eng (English)           4631.585                640                     370,534,400     2,171,100       
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4631.585                49                      28,216,541      158,851         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           4631.585                56                      32,341,115      182,596         
+00000.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            4631.585                46                      26,550,285      150,304         
+00000.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            4631.585                53                      30,960,978      173,771         
+00000.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            4631.585                61                      35,033,357      197,241         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Tim.Burtons.Corpse.Bride.Hochzeit.mit.einer.Leiche.MULTi.COMPLETE.BLURAY-HDSource
+Disc Size: 17,255,762,274 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 13,145,634,816 bytes
+Length: 1:17:11.668
+Total Bitrate: 22.71 Mbps
+Video: VC-1 Video / 18425 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Audio: English / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: French / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 48.737 kbps
+Subtitle: English / 55.861 kbps
+Subtitle: French / 45.859 kbps
+Subtitle: German / 53.477 kbps
+Subtitle: German / 60.511 kbps
+

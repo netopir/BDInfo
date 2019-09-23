@@ -1,0 +1,105 @@
+Disc Title:     Royal Corgi - Der Liebling der Queen
+Disc Label:     Royal.Corgi.Der.Liebling.der.Queen.2019.DUAL.COMPLETE.BLURAY-CONFiDENCiAL
+Disc Size:      22,187,258,787 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:23:02 20,755,863,552  22,187,258,787  33.33   23.98   DTS-HD Master 5.1 3702Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Royal Corgi - Der Liebling der Queen
+Disc Label:     Royal.Corgi.Der.Liebling.der.Queen.2019.DUAL.COMPLETE.BLURAY-CONFiDENCiAL
+Disc Size:      22,187,258,787 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:23:02.125 (h:m:s.ms)
+Size:                   20,755,863,552 bytes
+Total Bitrate:          33.33 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23978 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3702 kbps       5.1 / 48 kHz /  3702 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+DTS-HD Master Audio             English         3730 kbps       5.1 / 48 kHz /  3730 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:23:02.125     20,755,863,552  33,329          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:15.041     25,836 kbps     39,624 kbps     00:00:16.250    34,832 kbps     00:00:12.333    34,349 kbps     00:00:07.250    134,555 bytes   592,222 bytes   00:03:35.583    
+2               0:09:15.041     0:09:48.958     25,291 kbps     36,344 kbps     00:12:30.250    34,112 kbps     00:10:36.250    33,333 kbps     00:10:31.458    131,725 bytes   500,081 bytes   00:12:10.291    
+3               0:19:04.000     0:10:19.625     24,753 kbps     42,557 kbps     00:25:29.083    35,436 kbps     00:25:25.083    34,642 kbps     00:25:20.041    128,922 bytes   489,454 bytes   00:20:32.875    
+4               0:29:23.625     0:10:06.416     24,068 kbps     37,362 kbps     00:34:18.916    34,547 kbps     00:34:14.958    32,860 kbps     00:34:32.000    125,356 bytes   638,058 bytes   00:34:19.958    
+5               0:39:30.041     0:10:20.625     25,131 kbps     36,585 kbps     00:46:44.666    33,192 kbps     00:45:54.375    31,581 kbps     00:45:49.333    130,890 bytes   630,478 bytes   00:46:02.458    
+6               0:49:50.666     0:10:17.291     23,822 kbps     35,055 kbps     00:55:29.000    30,556 kbps     00:55:53.791    28,619 kbps     00:55:47.625    124,074 bytes   483,299 bytes   01:00:07.958    
+7               1:00:07.958     0:11:41.750     25,616 kbps     40,300 kbps     01:11:46.666    34,352 kbps     01:00:59.625    33,992 kbps     01:01:05.541    133,418 bytes   640,525 bytes   01:00:18.291    
+8               1:11:49.708     0:11:12.416     17,866 kbps     35,755 kbps     01:13:12.333    33,960 kbps     01:12:56.000    30,918 kbps     01:12:56.000    93,057 bytes    478,533 bytes   01:14:52.291    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     4981.958                23,979                  14,932,557,247  81,225,040      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4981.958                3,702                   2,305,675,576   13,308,731      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4981.958                3,730                   2,322,985,056   13,402,760      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Royal Corgi - Der Liebling der Queen
+Disc Label: Royal.Corgi.Der.Liebling.der.Queen.2019.DUAL.COMPLETE.BLURAY-CONFiDENCiAL
+Disc Size: 22,187,258,787 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 20,755,863,552 bytes
+Length: 1:23:02.125
+Total Bitrate: 33.33 Mbps
+Video: MPEG-4 AVC Video / 23978 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3702 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3730 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+

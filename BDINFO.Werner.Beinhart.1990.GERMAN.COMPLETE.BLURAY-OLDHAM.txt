@@ -1,0 +1,124 @@
+Disc Title:     Werner - Beinhart
+Disc Label:     Werner.Beinhart.1990.GERMAN.COMPLETE.BLURAY-OLDHAM
+Disc Size:      22,827,375,517 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:32:55 22,382,647,296  22,827,375,517  32.11   27.99   DTS-HD Hi-Res 5.1 2046Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Werner - Beinhart
+Disc Label:     Werner.Beinhart.1990.GERMAN.COMPLETE.BLURAY-OLDHAM
+Disc Size:      22,827,375,517 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:32:55.875 (h:m:s.ms)
+Size:                   22,382,647,296 bytes
+Total Bitrate:          32.11 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27989 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          47.611 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     1:32:54.875     22,382,622,720  32,119          
+00007.M2TS      1:32:54.875     0:00:01.000     24,576          197             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:48.416     21,212 kbps     39,385 kbps     00:02:38.458    31,974 kbps     00:00:35.083    30,799 kbps     00:00:34.416    110,465 bytes   426,583 bytes   00:05:48.416    
+2               0:05:48.416     0:07:56.958     29,099 kbps     41,771 kbps     00:05:52.749    38,161 kbps     00:05:52.958    37,307 kbps     00:05:48.499    151,555 bytes   470,917 bytes   00:13:36.958    
+3               0:13:45.375     0:13:31.416     26,408 kbps     40,997 kbps     00:19:59.208    37,549 kbps     00:18:01.000    37,354 kbps     00:17:58.416    137,542 bytes   393,837 bytes   00:27:16.791    
+4               0:27:16.791     0:15:30.375     30,456 kbps     39,995 kbps     00:31:40.874    38,193 kbps     00:40:59.375    38,011 kbps     00:28:24.291    158,625 bytes   448,139 bytes   00:36:48.833    
+5               0:42:47.166     0:04:01.541     26,938 kbps     38,524 kbps     00:43:42.750    36,819 kbps     00:43:41.750    33,928 kbps     00:43:39.000    140,300 bytes   422,282 bytes   00:46:48.708    
+6               0:46:48.708     0:12:43.916     30,166 kbps     40,326 kbps     00:56:20.750    38,411 kbps     00:46:57.375    37,960 kbps     00:51:35.583    157,116 bytes   447,755 bytes   00:51:46.708    
+7               0:59:32.625     0:02:41.333     24,003 kbps     38,585 kbps     01:00:29.041    37,897 kbps     01:00:31.791    35,753 kbps     01:00:29.041    125,014 bytes   321,978 bytes   01:00:43.458    
+8               1:02:13.958     0:04:57.000     28,191 kbps     39,792 kbps     01:03:43.000    34,477 kbps     01:03:42.625    33,445 kbps     01:03:34.250    146,829 bytes   434,501 bytes   01:05:39.291    
+9               1:07:10.958     0:02:13.916     34,090 kbps     43,288 kbps     01:07:45.916    38,462 kbps     01:07:42.333    37,907 kbps     01:08:59.791    177,554 bytes   463,289 bytes   01:07:42.500    
+10              1:09:24.875     0:09:07.791     27,854 kbps     40,891 kbps     01:14:38.750    38,033 kbps     01:14:45.708    36,397 kbps     01:11:04.541    145,072 bytes   439,121 bytes   01:12:33.750    
+11              1:18:32.666     0:04:29.416     31,223 kbps     40,625 kbps     01:21:47.916    38,033 kbps     01:22:29.083    37,952 kbps     01:22:29.041    162,620 bytes   431,858 bytes   01:18:53.500    
+12              1:23:02.083     0:06:19.000     32,002 kbps     39,459 kbps     01:24:46.208    38,094 kbps     01:23:06.500    37,922 kbps     01:23:02.666    166,680 bytes   406,244 bytes   01:24:48.125    
+13              1:29:21.083     0:00:32.750     28,418 kbps     37,522 kbps     01:29:26.250    30,531 kbps     01:29:23.625    28,855 kbps     01:29:42.416    148,011 bytes   445,072 bytes   01:29:53.833    
+14              1:29:53.833     0:03:02.041     10,640 kbps     39,719 kbps     01:29:57.916    37,663 kbps     01:29:54.000    23,254 kbps     01:29:53.833    55,430 bytes    438,941 bytes   01:29:56.291    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     5574.708                27,994                  19,507,623,400  106,097,713     
+00006.M2TS      4352 (0x1100)   0x85            DTS-HD HR       deu (German)            5574.708                2,046                   1,425,772,832   8,362,304       
+00006.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5574.708                224                     156,095,744     871,070         
+00006.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5574.708                224                     156,095,744     871,070         
+00006.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5574.708                48                      33,184,395      187,208         
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     0.875                   108                     11,831          72              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Werner - Beinhart
+Disc Label: Werner.Beinhart.1990.GERMAN.COMPLETE.BLURAY-OLDHAM
+Disc Size: 22,827,375,517 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 22,382,647,296 bytes
+Length: 1:32:55.875
+Total Bitrate: 32.11 Mbps
+Video: MPEG-4 AVC Video / 27989 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Subtitle: German / 47.611 kbps
+
