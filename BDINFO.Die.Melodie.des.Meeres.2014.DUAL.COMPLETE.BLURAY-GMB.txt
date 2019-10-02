@@ -1,0 +1,241 @@
+Disc Title:     Die Melodie des Meeres
+Disc Label:     Die.Melodie.des.Meeres.2014.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      24,275,805,011 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:33:21 18,948,243,456  24,275,805,011  27.06   20.00   DTS-HD Master 5.1 2031Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Melodie des Meeres
+Disc Label:     Die.Melodie.des.Meeres.2014.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      24,275,805,011 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:33:21.000 (h:m:s.ms)
+Size:                   18,948,243,456 bytes
+Total Bitrate:          27.06 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20003 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2031 kbps       5.1 / 48 kHz /  2031 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2084 kbps       5.1 / 48 kHz /  2084 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+* DTS-HD Master Audio           English         1063 kbps       2.0 / 48 kHz /  1063 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.022 kbps                      
+Presentation Graphics           German          19.644 kbps                     
+* Presentation Graphics         German          54.257 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00007.M2TS      0:00:00.000     1:33:21.000     18,948,243,456  27,064          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:40.666     18,660 kbps     51,841 kbps     00:06:19.499    34,568 kbps     00:02:30.458    31,068 kbps     00:02:26.083    97,181 bytes    982,317 bytes   00:04:05.958    
+2               0:07:40.666     0:05:52.875     14,272 kbps     47,263 kbps     00:07:58.375    34,968 kbps     00:07:55.416    29,772 kbps     00:07:50.500    74,336 bytes    980,262 bytes   00:11:17.708    
+3               0:13:33.541     0:08:25.708     18,234 kbps     45,434 kbps     00:17:06.458    35,399 kbps     00:17:06.333    32,522 kbps     00:16:46.250    94,969 bytes    972,719 bytes   00:14:09.333    
+4               0:21:59.250     0:06:32.333     21,550 kbps     47,655 kbps     00:24:56.958    35,419 kbps     00:25:09.208    32,650 kbps     00:23:43.166    112,239 bytes   982,912 bytes   00:26:28.208    
+5               0:28:31.583     0:08:27.083     18,363 kbps     52,217 kbps     00:34:01.958    35,647 kbps     00:31:47.083    32,449 kbps     00:35:20.000    95,643 bytes    982,489 bytes   00:28:56.958    
+6               0:36:58.666     0:07:57.250     19,286 kbps     54,597 kbps     00:39:18.125    35,176 kbps     00:37:58.250    32,263 kbps     00:37:58.208    100,446 bytes   982,952 bytes   00:43:13.833    
+7               0:44:55.916     0:05:23.875     23,960 kbps     54,139 kbps     00:46:03.833    34,748 kbps     00:46:08.250    32,818 kbps     00:46:03.208    124,790 bytes   975,427 bytes   00:45:02.083    
+8               0:50:19.791     0:08:18.125     19,408 kbps     52,168 kbps     00:51:18.375    35,083 kbps     00:55:09.583    32,212 kbps     00:52:10.166    101,085 bytes   972,592 bytes   00:56:35.208    
+9               0:58:37.916     0:08:04.583     16,990 kbps     55,268 kbps     01:00:04.458    35,606 kbps     01:00:14.875    32,000 kbps     01:00:12.416    88,487 bytes    981,495 bytes   00:59:30.333    
+10              1:06:42.500     0:08:57.333     21,712 kbps     54,641 kbps     01:08:03.125    35,465 kbps     01:11:31.958    32,786 kbps     01:09:56.500    113,081 bytes   972,299 bytes   01:08:42.291    
+11              1:15:39.833     0:11:44.916     22,280 kbps     50,169 kbps     01:16:38.250    35,640 kbps     01:26:06.333    32,850 kbps     01:18:30.875    116,042 bytes   960,992 bytes   01:27:24.458    
+12              1:27:24.750     0:05:56.250     25,770 kbps     45,700 kbps     01:28:05.458    34,035 kbps     01:28:05.333    32,239 kbps     01:28:20.541    134,233 bytes   950,654 bytes   01:27:47.541    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     5600.917                20,003                  14,004,667,613  76,190,716      
+00007.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5600.917                2,031                   1,421,644,164   8,601,053       
+00007.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5600.917                2,084                   1,458,818,072   8,803,135       
+00007.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5600.917                1,063                   744,121,628     4,610,231       
+00007.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5600.917                0                       15,418          91              
+00007.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5600.917                20                      13,753,032      79,807          
+00007.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5600.917                54                      37,986,451      216,063         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Melodie des Meeres
+Disc Label: Die.Melodie.des.Meeres.2014.DUAL.COMPLETE.BLURAY-GMB
+Disc Size: 24,275,805,011 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 18,948,243,456 bytes
+Length: 1:33:21.000
+Total Bitrate: 27.06 Mbps
+Video: MPEG-4 AVC Video / 20003 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2031 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2084 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+* Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1063 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 0.022 kbps
+Subtitle: German / 19.644 kbps
+* Subtitle: German / 54.257 kbps
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:33:21 18,948,243,456  24,275,805,011  27.06   20.00   DTS-HD Master 5.1 2031Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Melodie des Meeres
+Disc Label:     Die.Melodie.des.Meeres.2014.DUAL.COMPLETE.BLURAY-GMB
+Disc Size:      24,275,805,011 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:33:21.000 (h:m:s.ms)
+Size:                   18,948,243,456 bytes
+Total Bitrate:          27.06 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20003 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           German          2031 kbps       5.1 / 48 kHz /  2031 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2084 kbps       5.1 / 48 kHz /  2084 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         1063 kbps       2.0 / 48 kHz /  1063 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.022 kbps                      
+* Presentation Graphics         German          19.644 kbps                     
+Presentation Graphics           German          54.257 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00007.M2TS      0:00:00.000     1:33:21.000     18,948,243,456  27,064          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:40.666     18,660 kbps     51,841 kbps     00:06:19.499    34,568 kbps     00:02:30.458    31,068 kbps     00:02:26.083    97,181 bytes    982,317 bytes   00:04:05.958    
+2               0:07:40.666     0:05:52.875     14,272 kbps     47,263 kbps     00:07:58.375    34,968 kbps     00:07:55.416    29,772 kbps     00:07:50.500    74,336 bytes    980,262 bytes   00:11:17.708    
+3               0:13:33.541     0:08:25.708     18,234 kbps     45,434 kbps     00:17:06.458    35,399 kbps     00:17:06.333    32,522 kbps     00:16:46.250    94,969 bytes    972,719 bytes   00:14:09.333    
+4               0:21:59.250     0:06:32.333     21,550 kbps     47,655 kbps     00:24:56.958    35,419 kbps     00:25:09.208    32,650 kbps     00:23:43.166    112,239 bytes   982,912 bytes   00:26:28.208    
+5               0:28:31.583     0:08:27.083     18,363 kbps     52,217 kbps     00:34:01.958    35,647 kbps     00:31:47.083    32,449 kbps     00:35:20.000    95,643 bytes    982,489 bytes   00:28:56.958    
+6               0:36:58.666     0:07:57.250     19,286 kbps     54,597 kbps     00:39:18.125    35,176 kbps     00:37:58.250    32,263 kbps     00:37:58.208    100,446 bytes   982,952 bytes   00:43:13.833    
+7               0:44:55.916     0:05:23.875     23,960 kbps     54,139 kbps     00:46:03.833    34,748 kbps     00:46:08.250    32,818 kbps     00:46:03.208    124,790 bytes   975,427 bytes   00:45:02.083    
+8               0:50:19.791     0:08:18.125     19,408 kbps     52,168 kbps     00:51:18.375    35,083 kbps     00:55:09.583    32,212 kbps     00:52:10.166    101,085 bytes   972,592 bytes   00:56:35.208    
+9               0:58:37.916     0:08:04.583     16,990 kbps     55,268 kbps     01:00:04.458    35,606 kbps     01:00:14.875    32,000 kbps     01:00:12.416    88,487 bytes    981,495 bytes   00:59:30.333    
+10              1:06:42.500     0:08:57.333     21,712 kbps     54,641 kbps     01:08:03.125    35,465 kbps     01:11:31.958    32,786 kbps     01:09:56.500    113,081 bytes   972,299 bytes   01:08:42.291    
+11              1:15:39.833     0:11:44.916     22,280 kbps     50,169 kbps     01:16:38.250    35,640 kbps     01:26:06.333    32,850 kbps     01:18:30.875    116,042 bytes   960,992 bytes   01:27:24.458    
+12              1:27:24.750     0:05:56.250     25,770 kbps     45,700 kbps     01:28:05.458    34,035 kbps     01:28:05.333    32,239 kbps     01:28:20.541    134,233 bytes   950,654 bytes   01:27:47.541    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     5600.917                20,003                  14,004,667,613  76,190,716      
+00007.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5600.917                2,031                   1,421,644,164   8,601,053       
+00007.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5600.917                2,084                   1,458,818,072   8,803,135       
+00007.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5600.917                1,063                   744,121,628     4,610,231       
+00007.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5600.917                0                       15,418          91              
+00007.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5600.917                20                      13,753,032      79,807          
+00007.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5600.917                54                      37,986,451      216,063         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Melodie des Meeres
+Disc Label: Die.Melodie.des.Meeres.2014.DUAL.COMPLETE.BLURAY-GMB
+Disc Size: 24,275,805,011 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 18,948,243,456 bytes
+Length: 1:33:21.000
+Total Bitrate: 27.06 Mbps
+Video: MPEG-4 AVC Video / 20003 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+* Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2031 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2084 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1063 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 0.022 kbps
+* Subtitle: German / 19.644 kbps
+Subtitle: German / 54.257 kbps
+

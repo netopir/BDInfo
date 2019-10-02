@@ -1,0 +1,195 @@
+Disc Title:     The Land Before Time
+Disc Label:     The.Land.Before.Time.1988.COMPLETE.BLURAY-CiNEMATiC
+Disc Size:      27,969,874,881 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:08:49 23,587,842,048  27,969,874,881  45.70   29.40   DTS-HD Master 5.1 4180Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Land Before Time
+Disc Label:     The.Land.Before.Time.1988.COMPLETE.BLURAY-CiNEMATiC
+Disc Size:      27,969,874,881 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:08:49.125 (h:m:s.ms)
+Size:                   23,587,842,048 bytes
+Total Bitrate:          45.70 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29399 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4180 kbps       5.1 / 48 kHz /  4180 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Portuguese      768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Spanish         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Danish          768 kbps        2.0 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Finnish         768 kbps        2.0 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       German          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Italian         768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Japanese        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Norwegian       768 kbps        2.0 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Russian         448 kbps        2.0 / 48 kHz /   448 kbps / 24-bit
+DTS Audio                       Swedish         768 kbps        2.0 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         25.942 kbps                     
+Presentation Graphics           French          18.607 kbps                     
+Presentation Graphics           Spanish         18.613 kbps                     
+Presentation Graphics           Portuguese      18.523 kbps                     
+Presentation Graphics           Spanish         18.503 kbps                     
+Presentation Graphics           Danish          17.888 kbps                     
+Presentation Graphics           Finnish         18.241 kbps                     
+Presentation Graphics           German          19.900 kbps                     
+Presentation Graphics           Italian         17.278 kbps                     
+Presentation Graphics           Japanese        14.216 kbps                     
+Presentation Graphics           Norwegian       16.841 kbps                     
+Presentation Graphics           Russian         19.053 kbps                     
+Presentation Graphics           Swedish         17.745 kbps                     
+Presentation Graphics           Portuguese      0.109 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00023.M2TS      0:00:00.000     1:08:49.125     23,587,842,048  45,700          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:05.305     26,987 kbps     42,300 kbps     00:00:15.306    30,137 kbps     00:00:11.302    28,549 kbps     00:00:06.297    140,677 bytes   576,437 bytes   00:00:16.057    
+2               0:05:05.305     0:05:11.561     29,039 kbps     37,052 kbps     00:08:03.649    31,382 kbps     00:07:59.645    30,454 kbps     00:07:54.640    151,399 bytes   618,026 bytes   00:08:04.525    
+3               0:10:16.866     0:02:36.990     28,635 kbps     30,891 kbps     00:12:03.764    30,007 kbps     00:11:59.760    29,879 kbps     00:11:54.797    149,288 bytes   256,128 bytes   00:12:04.724    
+4               0:12:53.856     0:03:17.614     29,630 kbps     35,240 kbps     00:15:03.319    30,933 kbps     00:14:59.148    30,352 kbps     00:14:54.184    154,475 bytes   311,927 bytes   00:15:01.650    
+5               0:16:11.470     0:02:02.497     29,717 kbps     31,102 kbps     00:16:39.957    30,031 kbps     00:16:35.828    29,897 kbps     00:16:30.906    154,931 bytes   252,251 bytes   00:17:22.249    
+6               0:18:13.967     0:08:58.996     29,753 kbps     36,988 kbps     00:21:46.722    30,667 kbps     00:21:42.676    30,226 kbps     00:21:37.754    155,116 bytes   351,024 bytes   00:21:47.389    
+7               0:27:12.964     0:02:10.213     29,759 kbps     31,475 kbps     00:28:07.268    30,067 kbps     00:28:13.358    29,937 kbps     00:28:28.665    155,150 bytes   290,795 bytes   00:28:08.186    
+8               0:29:23.178     0:01:24.125     29,722 kbps     31,060 kbps     00:29:56.336    30,020 kbps     00:29:52.373    29,938 kbps     00:30:07.263    154,955 bytes   266,533 bytes   00:29:57.295    
+9               0:30:47.303     0:05:01.843     29,784 kbps     33,523 kbps     00:35:44.016    30,430 kbps     00:33:51.446    30,139 kbps     00:35:35.007    155,281 bytes   312,257 bytes   00:35:44.851    
+10              0:35:49.147     0:01:33.885     29,801 kbps     31,862 kbps     00:37:20.780    30,254 kbps     00:37:16.859    30,017 kbps     00:37:12.772    155,370 bytes   268,015 bytes   00:36:00.658    
+11              0:37:23.032     0:08:12.158     29,504 kbps     32,623 kbps     00:40:30.970    30,365 kbps     00:40:26.882    29,938 kbps     00:41:03.419    153,821 bytes   290,867 bytes   00:40:35.141    
+12              0:45:35.190     0:01:19.329     29,728 kbps     40,273 kbps     00:46:52.142    32,187 kbps     00:46:48.138    30,951 kbps     00:46:43.133    154,990 bytes   448,110 bytes   00:46:52.893    
+13              0:46:54.520     0:03:20.116     29,780 kbps     31,595 kbps     00:48:34.328    30,072 kbps     00:49:30.133    29,962 kbps     00:49:36.473    155,261 bytes   300,993 bytes   00:49:46.358    
+14              0:50:14.636     0:04:16.256     29,540 kbps     34,281 kbps     00:51:20.744    30,647 kbps     00:51:16.698    30,043 kbps     00:52:29.062    154,007 bytes   273,401 bytes   00:51:21.411    
+15              0:54:30.892     0:03:48.478     29,626 kbps     32,695 kbps     00:56:07.238    30,315 kbps     00:56:03.234    30,040 kbps     00:55:57.979    154,458 bytes   292,735 bytes   00:54:41.611    
+16              0:58:19.370     0:10:29.754     29,751 kbps     42,723 kbps     01:08:07.917    32,325 kbps     01:08:03.913    31,123 kbps     01:07:58.908    155,117 bytes   638,945 bytes   01:08:43.369    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00023.M2TS      4113 (0x1011)   0x1B            AVC                                     4128.958                29,400                  15,173,813,433  82,524,154      
+00023.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4128.958                4,180                   2,157,547,268   12,368,617      
+00023.M2TS      4353 (0x1101)   0x82            DTS             fra (French)            4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4354 (0x1102)   0x82            DTS             spa (Spanish)           4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4355 (0x1103)   0x82            DTS             por (Portuguese)        4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4356 (0x1104)   0x82            DTS             spa (Spanish)           4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4357 (0x1105)   0x82            DTS             dan (Danish)            4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4358 (0x1106)   0x82            DTS             fin (Finnish)           4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4359 (0x1107)   0x82            DTS             deu (German)            4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4360 (0x1108)   0x82            DTS             ita (Italian)           4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4361 (0x1109)   0x82            DTS             jpn (Japanese)          4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4362 (0x110A)   0x82            DTS             nor (Norwegian)         4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4363 (0x110B)   0x82            DTS             rus (Russian)           4128.958                447                     230,715,176     1,548,424       
+00023.M2TS      4364 (0x110C)   0x82            DTS             swe (Swedish)           4128.958                768                     396,396,544     2,322,636       
+00023.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4128.958                26                      13,389,514      78,818          
+00023.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            4128.958                19                      9,603,601       55,570          
+00023.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           4128.958                19                      9,607,084       56,220          
+00023.M2TS      4611 (0x1203)   0x90            PGS             por (Portuguese)        4128.958                19                      9,560,684       55,363          
+00023.M2TS      4612 (0x1204)   0x90            PGS             spa (Spanish)           4128.958                19                      9,550,223       55,273          
+00023.M2TS      4613 (0x1205)   0x90            PGS             dan (Danish)            4128.958                18                      9,232,700       53,556          
+00023.M2TS      4614 (0x1206)   0x90            PGS             fin (Finnish)           4128.958                18                      9,414,665       54,550          
+00023.M2TS      4615 (0x1207)   0x90            PGS             deu (German)            4128.958                20                      10,271,250      59,208          
+00023.M2TS      4616 (0x1208)   0x90            PGS             ita (Italian)           4128.958                17                      8,917,622       51,848          
+00023.M2TS      4617 (0x1209)   0x90            PGS             jpn (Japanese)          4128.958                14                      7,337,378       43,433          
+00023.M2TS      4618 (0x120A)   0x90            PGS             nor (Norwegian)         4128.958                17                      8,692,312       50,632          
+00023.M2TS      4619 (0x120B)   0x90            PGS             rus (Russian)           4128.958                19                      9,833,895       56,838          
+00023.M2TS      4620 (0x120C)   0x90            PGS             swe (Swedish)           4128.958                18                      9,158,775       53,158          
+00023.M2TS      4621 (0x120D)   0x90            PGS             por (Portuguese)        4128.958                0                       56,396          328             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Land Before Time
+Disc Label: The.Land.Before.Time.1988.COMPLETE.BLURAY-CiNEMATiC
+Disc Size: 27,969,874,881 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 23,587,842,048 bytes
+Length: 1:08:49.125
+Total Bitrate: 45.70 Mbps
+Video: MPEG-4 AVC Video / 29399 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4180 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Portuguese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Spanish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Danish / DTS Audio / 2.0 / 48 kHz /   768 kbps / 24-bit
+Audio: Finnish / DTS Audio / 2.0 / 48 kHz /   768 kbps / 24-bit
+Audio: German / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Italian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Japanese / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Norwegian / DTS Audio / 2.0 / 48 kHz /   768 kbps / 24-bit
+Audio: Russian / DTS Audio / 2.0 / 48 kHz /   448 kbps / 24-bit
+Audio: Swedish / DTS Audio / 2.0 / 48 kHz /   768 kbps / 24-bit
+Subtitle: English / 25.942 kbps
+Subtitle: French / 18.607 kbps
+Subtitle: Spanish / 18.613 kbps
+Subtitle: Portuguese / 18.523 kbps
+Subtitle: Spanish / 18.503 kbps
+Subtitle: Danish / 17.888 kbps
+Subtitle: Finnish / 18.241 kbps
+Subtitle: German / 19.900 kbps
+Subtitle: Italian / 17.278 kbps
+Subtitle: Japanese / 14.216 kbps
+Subtitle: Norwegian / 16.841 kbps
+Subtitle: Russian / 19.053 kbps
+Subtitle: Swedish / 17.745 kbps
+Subtitle: Portuguese / 0.109 kbps
+
