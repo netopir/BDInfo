@@ -1,0 +1,617 @@
+Disc Title:     The Lion King - Blu-ray™
+Disc Label:     The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size:      45,387,999,240 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00099.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00099.MPLS                                                      AVC     1:58:15 33,052,852,224  45,387,999,240  37.27   27.97   DTS-HD Master 7.1 5091Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Lion King - Blu-ray™
+Disc Label:     The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size:      45,387,999,240 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00099.MPLS
+Length:                 1:58:15.338 (h:m:s.ms)
+Size:                   33,052,852,224 bytes
+Total Bitrate:          37.27 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27967 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         5091 kbps       7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+* Dolby Digital Audio           French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         35.507 kbps                     
+* Presentation Graphics         French          31.167 kbps                     
+* Presentation Graphics         Spanish         29.378 kbps                     
+* Presentation Graphics         English         67.136 kbps                     
+* Presentation Graphics         French          56.368 kbps                     
+* Presentation Graphics         Spanish         57.959 kbps                     
+* Presentation Graphics         English         46.066 kbps                     
+* Presentation Graphics         French          20.902 kbps                     
+* Presentation Graphics         Spanish         16.678 kbps                     
+* Presentation Graphics         French          0.364 kbps                      
+* Presentation Graphics         Spanish         0.018 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:58:15.338     33,052,852,224  37,267          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:50.498     27,665 kbps     53,089 kbps     00:00:32.240    38,306 kbps     00:00:28.236    36,523 kbps     00:00:23.231    144,210 bytes   621,478 bytes   00:00:33.033    
+2               0:04:50.498     0:06:00.568     28,475 kbps     38,243 kbps     00:08:50.446    35,152 kbps     00:07:09.053    34,655 kbps     00:07:04.090    148,457 bytes   630,706 bytes   00:08:33.930    
+3               0:10:51.067     0:06:56.624     28,595 kbps     38,252 kbps     00:15:07.656    35,506 kbps     00:15:03.694    35,017 kbps     00:13:28.724    149,080 bytes   640,465 bytes   00:15:10.576    
+4               0:17:47.691     0:06:05.323     29,703 kbps     38,411 kbps     00:18:42.871    35,389 kbps     00:18:43.831    34,974 kbps     00:23:22.359    154,856 bytes   636,288 bytes   00:17:49.568    
+5               0:23:53.014     0:06:07.116     31,189 kbps     38,227 kbps     00:25:12.302    35,382 kbps     00:25:10.175    35,044 kbps     00:29:08.955    162,604 bytes   620,690 bytes   00:25:14.262    
+6               0:30:00.131     0:03:04.934     27,184 kbps     37,694 kbps     00:30:49.806    35,292 kbps     00:30:45.802    34,833 kbps     00:31:16.040    141,727 bytes   627,265 bytes   00:30:14.479    
+7               0:33:05.066     0:04:04.244     25,728 kbps     41,200 kbps     00:35:48.688    34,860 kbps     00:36:29.854    32,911 kbps     00:35:33.047    134,132 bytes   604,466 bytes   00:37:09.310    
+8               0:37:09.310     0:06:33.601     29,361 kbps     37,684 kbps     00:39:54.266    35,196 kbps     00:41:03.043    34,769 kbps     00:39:41.045    153,073 bytes   612,972 bytes   00:37:12.313    
+9               0:43:42.911     0:07:04.424     29,595 kbps     37,528 kbps     00:49:34.930    35,485 kbps     00:48:17.644    35,120 kbps     00:48:34.703    154,296 bytes   636,418 bytes   00:48:21.064    
+10              0:50:47.335     0:04:15.380     25,289 kbps     38,183 kbps     00:51:34.299    35,236 kbps     00:51:47.604    32,450 kbps     00:53:53.772    131,844 bytes   639,847 bytes   00:51:48.647    
+11              0:55:02.716     0:04:45.743     28,337 kbps     37,107 kbps     00:58:39.682    35,290 kbps     00:58:53.154    35,016 kbps     00:58:49.150    147,736 bytes   567,663 bytes   00:59:41.828    
+12              0:59:48.459     0:06:38.773     28,224 kbps     37,419 kbps     01:00:57.737    35,361 kbps     01:01:27.183    35,013 kbps     01:00:57.028    147,147 bytes   572,265 bytes   01:00:13.192    
+13              1:06:27.233     0:08:04.859     29,369 kbps     44,568 kbps     01:08:44.954    36,991 kbps     01:08:40.950    35,878 kbps     01:08:35.945    153,118 bytes   640,300 bytes   01:06:47.878    
+14              1:14:32.092     0:03:54.317     28,762 kbps     38,109 kbps     01:17:14.087    35,298 kbps     01:14:39.683    35,045 kbps     01:14:34.678    149,953 bytes   639,090 bytes   01:17:47.079    
+15              1:18:26.410     0:04:41.489     29,089 kbps     37,748 kbps     01:20:34.913    35,332 kbps     01:19:02.362    35,158 kbps     01:21:23.879    151,655 bytes   622,666 bytes   01:19:13.832    
+16              1:23:07.899     0:04:56.754     27,722 kbps     41,725 kbps     01:25:03.098    34,985 kbps     01:23:16.241    34,882 kbps     01:23:10.860    144,532 bytes   356,620 bytes   01:23:08.900    
+17              1:28:04.654     0:05:06.222     25,423 kbps     37,723 kbps     01:32:41.305    35,243 kbps     01:29:12.764    34,927 kbps     01:29:11.971    132,542 bytes   598,931 bytes   01:29:15.141    
+18              1:33:10.876     0:04:02.867     29,148 kbps     41,270 kbps     01:36:19.648    34,855 kbps     01:34:03.763    33,552 kbps     01:34:37.630    151,966 bytes   417,270 bytes   01:33:51.042    
+19              1:37:13.744     0:07:25.444     30,953 kbps     36,090 kbps     01:43:20.277    34,893 kbps     01:42:25.931    34,424 kbps     01:42:22.678    161,377 bytes   378,546 bytes   01:44:06.823    
+20              1:44:39.189     0:03:08.146     26,696 kbps     36,982 kbps     01:47:20.392    35,028 kbps     01:46:55.450    33,130 kbps     01:47:25.063    139,179 bytes   568,196 bytes   01:47:18.640    
+21              1:47:47.335     0:10:28.002     21,675 kbps     45,635 kbps     01:58:12.001    36,981 kbps     01:58:07.997    35,923 kbps     01:58:03.034    113,012 bytes   617,644 bytes   01:54:25.400    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     7095.171                27,968                  24,804,759,996  134,907,104     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           7095.171                5,091                   4,515,115,072   25,638,051      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           7095.171                320                     283,814,400     1,773,840       
+00800.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           7095.171                192                     170,288,640     1,108,650       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           7095.171                36                      31,491,815      183,083         
+00800.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            7095.171                31                      27,642,777      159,940         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           7095.171                29                      26,055,774      151,164         
+00800.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           7095.171                67                      59,544,173      337,613         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            7095.171                56                      49,993,407      285,564         
+00800.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           7095.171                58                      51,404,826      293,229         
+00800.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           7095.171                46                      40,856,878      230,100         
+00800.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            7095.171                21                      18,538,500      105,486         
+00800.M2TS      4616 (0x1208)   0x90            PGS             spa (Spanish)           7095.171                17                      14,792,099      84,803          
+00800.M2TS      4617 (0x1209)   0x90            PGS             fra (French)            7095.171                0                       323,207         1,922           
+00800.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           7095.171                0                       15,860          100             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Lion King - Blu-ray™
+Disc Label: The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size: 45,387,999,240 bytes
+Protection: AACS
+Playlist: 00099.MPLS
+Size: 33,052,852,224 bytes
+Length: 1:58:15.338
+Total Bitrate: 37.27 Mbps
+Video: MPEG-4 AVC Video / 27967 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+* Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+* Subtitle: English / 35.507 kbps
+* Subtitle: French / 31.167 kbps
+* Subtitle: Spanish / 29.378 kbps
+* Subtitle: English / 67.136 kbps
+* Subtitle: French / 56.368 kbps
+* Subtitle: Spanish / 57.959 kbps
+* Subtitle: English / 46.066 kbps
+* Subtitle: French / 20.902 kbps
+* Subtitle: Spanish / 16.678 kbps
+* Subtitle: French / 0.364 kbps
+* Subtitle: Spanish / 0.018 kbps
+
+
+********************
+PLAYLIST: 00700.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00700.MPLS                                                      AVC     1:58:15 33,052,852,224  45,387,999,240  37.27   27.97   DTS-HD Master 7.1 5091Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Lion King - Blu-ray™
+Disc Label:     The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size:      45,387,999,240 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00700.MPLS
+Length:                 1:58:15.338 (h:m:s.ms)
+Size:                   33,052,852,224 bytes
+Total Bitrate:          37.27 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27967 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         5091 kbps       7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         35.507 kbps                     
+* Presentation Graphics         French          31.167 kbps                     
+* Presentation Graphics         Spanish         29.378 kbps                     
+* Presentation Graphics         English         67.136 kbps                     
+* Presentation Graphics         French          56.368 kbps                     
+* Presentation Graphics         Spanish         57.959 kbps                     
+Presentation Graphics           English         46.066 kbps                     
+Presentation Graphics           French          20.902 kbps                     
+Presentation Graphics           Spanish         16.678 kbps                     
+* Presentation Graphics         French          0.364 kbps                      
+* Presentation Graphics         Spanish         0.018 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:58:15.338     33,052,852,224  37,267          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:50.498     27,665 kbps     53,089 kbps     00:00:32.240    38,306 kbps     00:00:28.236    36,523 kbps     00:00:23.231    144,210 bytes   621,478 bytes   00:00:33.033    
+2               0:04:50.498     0:06:00.568     28,475 kbps     38,243 kbps     00:08:50.446    35,152 kbps     00:07:09.053    34,655 kbps     00:07:04.090    148,457 bytes   630,706 bytes   00:08:33.930    
+3               0:10:51.067     0:06:56.624     28,595 kbps     38,252 kbps     00:15:07.656    35,506 kbps     00:15:03.694    35,017 kbps     00:13:28.724    149,080 bytes   640,465 bytes   00:15:10.576    
+4               0:17:47.691     0:06:05.323     29,703 kbps     38,411 kbps     00:18:42.871    35,389 kbps     00:18:43.831    34,974 kbps     00:23:22.359    154,856 bytes   636,288 bytes   00:17:49.568    
+5               0:23:53.014     0:06:07.116     31,189 kbps     38,227 kbps     00:25:12.302    35,382 kbps     00:25:10.175    35,044 kbps     00:29:08.955    162,604 bytes   620,690 bytes   00:25:14.262    
+6               0:30:00.131     0:03:04.934     27,184 kbps     37,694 kbps     00:30:49.806    35,292 kbps     00:30:45.802    34,833 kbps     00:31:16.040    141,727 bytes   627,265 bytes   00:30:14.479    
+7               0:33:05.066     0:04:04.244     25,728 kbps     41,200 kbps     00:35:48.688    34,860 kbps     00:36:29.854    32,911 kbps     00:35:33.047    134,132 bytes   604,466 bytes   00:37:09.310    
+8               0:37:09.310     0:06:33.601     29,361 kbps     37,684 kbps     00:39:54.266    35,196 kbps     00:41:03.043    34,769 kbps     00:39:41.045    153,073 bytes   612,972 bytes   00:37:12.313    
+9               0:43:42.911     0:07:04.424     29,595 kbps     37,528 kbps     00:49:34.930    35,485 kbps     00:48:17.644    35,120 kbps     00:48:34.703    154,296 bytes   636,418 bytes   00:48:21.064    
+10              0:50:47.335     0:04:15.380     25,289 kbps     38,183 kbps     00:51:34.299    35,236 kbps     00:51:47.604    32,450 kbps     00:53:53.772    131,844 bytes   639,847 bytes   00:51:48.647    
+11              0:55:02.716     0:04:45.743     28,337 kbps     37,107 kbps     00:58:39.682    35,290 kbps     00:58:53.154    35,016 kbps     00:58:49.150    147,736 bytes   567,663 bytes   00:59:41.828    
+12              0:59:48.459     0:06:38.773     28,224 kbps     37,419 kbps     01:00:57.737    35,361 kbps     01:01:27.183    35,013 kbps     01:00:57.028    147,147 bytes   572,265 bytes   01:00:13.192    
+13              1:06:27.233     0:08:04.859     29,369 kbps     44,568 kbps     01:08:44.954    36,991 kbps     01:08:40.950    35,878 kbps     01:08:35.945    153,118 bytes   640,300 bytes   01:06:47.878    
+14              1:14:32.092     0:03:54.317     28,762 kbps     38,109 kbps     01:17:14.087    35,298 kbps     01:14:39.683    35,045 kbps     01:14:34.678    149,953 bytes   639,090 bytes   01:17:47.079    
+15              1:18:26.410     0:04:41.489     29,089 kbps     37,748 kbps     01:20:34.913    35,332 kbps     01:19:02.362    35,158 kbps     01:21:23.879    151,655 bytes   622,666 bytes   01:19:13.832    
+16              1:23:07.899     0:04:56.754     27,722 kbps     41,725 kbps     01:25:03.098    34,985 kbps     01:23:16.241    34,882 kbps     01:23:10.860    144,532 bytes   356,620 bytes   01:23:08.900    
+17              1:28:04.654     0:05:06.222     25,423 kbps     37,723 kbps     01:32:41.305    35,243 kbps     01:29:12.764    34,927 kbps     01:29:11.971    132,542 bytes   598,931 bytes   01:29:15.141    
+18              1:33:10.876     0:04:02.867     29,148 kbps     41,270 kbps     01:36:19.648    34,855 kbps     01:34:03.763    33,552 kbps     01:34:37.630    151,966 bytes   417,270 bytes   01:33:51.042    
+19              1:37:13.744     0:07:25.444     30,953 kbps     36,090 kbps     01:43:20.277    34,893 kbps     01:42:25.931    34,424 kbps     01:42:22.678    161,377 bytes   378,546 bytes   01:44:06.823    
+20              1:44:39.189     0:03:08.146     26,696 kbps     36,982 kbps     01:47:20.392    35,028 kbps     01:46:55.450    33,130 kbps     01:47:25.063    139,179 bytes   568,196 bytes   01:47:18.640    
+21              1:47:47.335     0:10:28.002     21,675 kbps     45,635 kbps     01:58:12.001    36,981 kbps     01:58:07.997    35,923 kbps     01:58:03.034    113,012 bytes   617,644 bytes   01:54:25.400    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     7095.171                27,968                  24,804,759,996  134,907,104     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           7095.171                5,091                   4,515,115,072   25,638,051      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           7095.171                320                     283,814,400     1,773,840       
+00800.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           7095.171                192                     170,288,640     1,108,650       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           7095.171                36                      31,491,815      183,083         
+00800.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            7095.171                31                      27,642,777      159,940         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           7095.171                29                      26,055,774      151,164         
+00800.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           7095.171                67                      59,544,173      337,613         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            7095.171                56                      49,993,407      285,564         
+00800.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           7095.171                58                      51,404,826      293,229         
+00800.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           7095.171                46                      40,856,878      230,100         
+00800.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            7095.171                21                      18,538,500      105,486         
+00800.M2TS      4616 (0x1208)   0x90            PGS             spa (Spanish)           7095.171                17                      14,792,099      84,803          
+00800.M2TS      4617 (0x1209)   0x90            PGS             fra (French)            7095.171                0                       323,207         1,922           
+00800.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           7095.171                0                       15,860          100             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Lion King - Blu-ray™
+Disc Label: The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size: 45,387,999,240 bytes
+Protection: AACS
+Playlist: 00700.MPLS
+Size: 33,052,852,224 bytes
+Length: 1:58:15.338
+Total Bitrate: 37.27 Mbps
+Video: MPEG-4 AVC Video / 27967 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+* Subtitle: English / 35.507 kbps
+* Subtitle: French / 31.167 kbps
+* Subtitle: Spanish / 29.378 kbps
+* Subtitle: English / 67.136 kbps
+* Subtitle: French / 56.368 kbps
+* Subtitle: Spanish / 57.959 kbps
+Subtitle: English / 46.066 kbps
+Subtitle: French / 20.902 kbps
+Subtitle: Spanish / 16.678 kbps
+* Subtitle: French / 0.364 kbps
+* Subtitle: Spanish / 0.018 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:58:15 33,052,852,224  45,387,999,240  37.27   27.97   DTS-HD Master 7.1 5091Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Lion King - Blu-ray™
+Disc Label:     The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size:      45,387,999,240 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:58:15.338 (h:m:s.ms)
+Size:                   33,052,852,224 bytes
+Total Bitrate:          37.27 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27967 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         5091 kbps       7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         35.507 kbps                     
+Presentation Graphics           French          31.167 kbps                     
+Presentation Graphics           Spanish         29.378 kbps                     
+Presentation Graphics           English         67.136 kbps                     
+Presentation Graphics           French          56.368 kbps                     
+Presentation Graphics           Spanish         57.959 kbps                     
+* Presentation Graphics         English         46.066 kbps                     
+* Presentation Graphics         French          20.902 kbps                     
+* Presentation Graphics         Spanish         16.678 kbps                     
+Presentation Graphics           French          0.364 kbps                      
+Presentation Graphics           Spanish         0.018 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:58:15.338     33,052,852,224  37,267          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:50.498     27,665 kbps     53,089 kbps     00:00:32.240    38,306 kbps     00:00:28.236    36,523 kbps     00:00:23.231    144,210 bytes   621,478 bytes   00:00:33.033    
+2               0:04:50.498     0:06:00.568     28,475 kbps     38,243 kbps     00:08:50.446    35,152 kbps     00:07:09.053    34,655 kbps     00:07:04.090    148,457 bytes   630,706 bytes   00:08:33.930    
+3               0:10:51.067     0:06:56.624     28,595 kbps     38,252 kbps     00:15:07.656    35,506 kbps     00:15:03.694    35,017 kbps     00:13:28.724    149,080 bytes   640,465 bytes   00:15:10.576    
+4               0:17:47.691     0:06:05.323     29,703 kbps     38,411 kbps     00:18:42.871    35,389 kbps     00:18:43.831    34,974 kbps     00:23:22.359    154,856 bytes   636,288 bytes   00:17:49.568    
+5               0:23:53.014     0:06:07.116     31,189 kbps     38,227 kbps     00:25:12.302    35,382 kbps     00:25:10.175    35,044 kbps     00:29:08.955    162,604 bytes   620,690 bytes   00:25:14.262    
+6               0:30:00.131     0:03:04.934     27,184 kbps     37,694 kbps     00:30:49.806    35,292 kbps     00:30:45.802    34,833 kbps     00:31:16.040    141,727 bytes   627,265 bytes   00:30:14.479    
+7               0:33:05.066     0:04:04.244     25,728 kbps     41,200 kbps     00:35:48.688    34,860 kbps     00:36:29.854    32,911 kbps     00:35:33.047    134,132 bytes   604,466 bytes   00:37:09.310    
+8               0:37:09.310     0:06:33.601     29,361 kbps     37,684 kbps     00:39:54.266    35,196 kbps     00:41:03.043    34,769 kbps     00:39:41.045    153,073 bytes   612,972 bytes   00:37:12.313    
+9               0:43:42.911     0:07:04.424     29,595 kbps     37,528 kbps     00:49:34.930    35,485 kbps     00:48:17.644    35,120 kbps     00:48:34.703    154,296 bytes   636,418 bytes   00:48:21.064    
+10              0:50:47.335     0:04:15.380     25,289 kbps     38,183 kbps     00:51:34.299    35,236 kbps     00:51:47.604    32,450 kbps     00:53:53.772    131,844 bytes   639,847 bytes   00:51:48.647    
+11              0:55:02.716     0:04:45.743     28,337 kbps     37,107 kbps     00:58:39.682    35,290 kbps     00:58:53.154    35,016 kbps     00:58:49.150    147,736 bytes   567,663 bytes   00:59:41.828    
+12              0:59:48.459     0:06:38.773     28,224 kbps     37,419 kbps     01:00:57.737    35,361 kbps     01:01:27.183    35,013 kbps     01:00:57.028    147,147 bytes   572,265 bytes   01:00:13.192    
+13              1:06:27.233     0:08:04.859     29,369 kbps     44,568 kbps     01:08:44.954    36,991 kbps     01:08:40.950    35,878 kbps     01:08:35.945    153,118 bytes   640,300 bytes   01:06:47.878    
+14              1:14:32.092     0:03:54.317     28,762 kbps     38,109 kbps     01:17:14.087    35,298 kbps     01:14:39.683    35,045 kbps     01:14:34.678    149,953 bytes   639,090 bytes   01:17:47.079    
+15              1:18:26.410     0:04:41.489     29,089 kbps     37,748 kbps     01:20:34.913    35,332 kbps     01:19:02.362    35,158 kbps     01:21:23.879    151,655 bytes   622,666 bytes   01:19:13.832    
+16              1:23:07.899     0:04:56.754     27,722 kbps     41,725 kbps     01:25:03.098    34,985 kbps     01:23:16.241    34,882 kbps     01:23:10.860    144,532 bytes   356,620 bytes   01:23:08.900    
+17              1:28:04.654     0:05:06.222     25,423 kbps     37,723 kbps     01:32:41.305    35,243 kbps     01:29:12.764    34,927 kbps     01:29:11.971    132,542 bytes   598,931 bytes   01:29:15.141    
+18              1:33:10.876     0:04:02.867     29,148 kbps     41,270 kbps     01:36:19.648    34,855 kbps     01:34:03.763    33,552 kbps     01:34:37.630    151,966 bytes   417,270 bytes   01:33:51.042    
+19              1:37:13.744     0:07:25.444     30,953 kbps     36,090 kbps     01:43:20.277    34,893 kbps     01:42:25.931    34,424 kbps     01:42:22.678    161,377 bytes   378,546 bytes   01:44:06.823    
+20              1:44:39.189     0:03:08.146     26,696 kbps     36,982 kbps     01:47:20.392    35,028 kbps     01:46:55.450    33,130 kbps     01:47:25.063    139,179 bytes   568,196 bytes   01:47:18.640    
+21              1:47:47.335     0:10:28.002     21,675 kbps     45,635 kbps     01:58:12.001    36,981 kbps     01:58:07.997    35,923 kbps     01:58:03.034    113,012 bytes   617,644 bytes   01:54:25.400    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     7095.171                27,968                  24,804,759,996  134,907,104     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           7095.171                5,091                   4,515,115,072   25,638,051      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           7095.171                320                     283,814,400     1,773,840       
+00800.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           7095.171                192                     170,288,640     1,108,650       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           7095.171                36                      31,491,815      183,083         
+00800.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            7095.171                31                      27,642,777      159,940         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           7095.171                29                      26,055,774      151,164         
+00800.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           7095.171                67                      59,544,173      337,613         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            7095.171                56                      49,993,407      285,564         
+00800.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           7095.171                58                      51,404,826      293,229         
+00800.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           7095.171                46                      40,856,878      230,100         
+00800.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            7095.171                21                      18,538,500      105,486         
+00800.M2TS      4616 (0x1208)   0x90            PGS             spa (Spanish)           7095.171                17                      14,792,099      84,803          
+00800.M2TS      4617 (0x1209)   0x90            PGS             fra (French)            7095.171                0                       323,207         1,922           
+00800.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           7095.171                0                       15,860          100             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Lion King - Blu-ray™
+Disc Label: The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size: 45,387,999,240 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 33,052,852,224 bytes
+Length: 1:58:15.338
+Total Bitrate: 37.27 Mbps
+Video: MPEG-4 AVC Video / 27967 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+Subtitle: English / 35.507 kbps
+Subtitle: French / 31.167 kbps
+Subtitle: Spanish / 29.378 kbps
+Subtitle: English / 67.136 kbps
+Subtitle: French / 56.368 kbps
+Subtitle: Spanish / 57.959 kbps
+* Subtitle: English / 46.066 kbps
+* Subtitle: French / 20.902 kbps
+* Subtitle: Spanish / 16.678 kbps
+Subtitle: French / 0.364 kbps
+Subtitle: Spanish / 0.018 kbps
+
+
+********************
+PLAYLIST: 01600.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01600.MPLS                                                      AVC     1:58:15 33,052,852,224  45,387,999,240  37.27   27.97   DTS-HD Master 7.1 5091Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Lion King - Blu-ray™
+Disc Label:     The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size:      45,387,999,240 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01600.MPLS
+Length:                 1:58:15.338 (h:m:s.ms)
+Size:                   33,052,852,224 bytes
+Total Bitrate:          37.27 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27967 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         5091 kbps       7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         35.507 kbps                     
+Presentation Graphics           French          31.167 kbps                     
+Presentation Graphics           Spanish         29.378 kbps                     
+Presentation Graphics           English         67.136 kbps                     
+Presentation Graphics           French          56.368 kbps                     
+Presentation Graphics           Spanish         57.959 kbps                     
+Presentation Graphics           English         46.066 kbps                     
+Presentation Graphics           French          20.902 kbps                     
+Presentation Graphics           Spanish         16.678 kbps                     
+Presentation Graphics           French          0.364 kbps                      
+Presentation Graphics           Spanish         0.018 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:58:15.338     33,052,852,224  37,267          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:50.498     27,665 kbps     53,089 kbps     00:00:32.240    38,306 kbps     00:00:28.236    36,523 kbps     00:00:23.231    144,210 bytes   621,478 bytes   00:00:33.033    
+2               0:04:50.498     0:06:00.568     28,475 kbps     38,243 kbps     00:08:50.446    35,152 kbps     00:07:09.053    34,655 kbps     00:07:04.090    148,457 bytes   630,706 bytes   00:08:33.930    
+3               0:10:51.067     0:06:56.624     28,595 kbps     38,252 kbps     00:15:07.656    35,506 kbps     00:15:03.694    35,017 kbps     00:13:28.724    149,080 bytes   640,465 bytes   00:15:10.576    
+4               0:17:47.691     0:06:05.323     29,703 kbps     38,411 kbps     00:18:42.871    35,389 kbps     00:18:43.831    34,974 kbps     00:23:22.359    154,856 bytes   636,288 bytes   00:17:49.568    
+5               0:23:53.014     0:06:07.116     31,189 kbps     38,227 kbps     00:25:12.302    35,382 kbps     00:25:10.175    35,044 kbps     00:29:08.955    162,604 bytes   620,690 bytes   00:25:14.262    
+6               0:30:00.131     0:03:04.934     27,184 kbps     37,694 kbps     00:30:49.806    35,292 kbps     00:30:45.802    34,833 kbps     00:31:16.040    141,727 bytes   627,265 bytes   00:30:14.479    
+7               0:33:05.066     0:04:04.244     25,728 kbps     41,200 kbps     00:35:48.688    34,860 kbps     00:36:29.854    32,911 kbps     00:35:33.047    134,132 bytes   604,466 bytes   00:37:09.310    
+8               0:37:09.310     0:06:33.601     29,361 kbps     37,684 kbps     00:39:54.266    35,196 kbps     00:41:03.043    34,769 kbps     00:39:41.045    153,073 bytes   612,972 bytes   00:37:12.313    
+9               0:43:42.911     0:07:04.424     29,595 kbps     37,528 kbps     00:49:34.930    35,485 kbps     00:48:17.644    35,120 kbps     00:48:34.703    154,296 bytes   636,418 bytes   00:48:21.064    
+10              0:50:47.335     0:04:15.380     25,289 kbps     38,183 kbps     00:51:34.299    35,236 kbps     00:51:47.604    32,450 kbps     00:53:53.772    131,844 bytes   639,847 bytes   00:51:48.647    
+11              0:55:02.716     0:04:45.743     28,337 kbps     37,107 kbps     00:58:39.682    35,290 kbps     00:58:53.154    35,016 kbps     00:58:49.150    147,736 bytes   567,663 bytes   00:59:41.828    
+12              0:59:48.459     0:06:38.773     28,224 kbps     37,419 kbps     01:00:57.737    35,361 kbps     01:01:27.183    35,013 kbps     01:00:57.028    147,147 bytes   572,265 bytes   01:00:13.192    
+13              1:06:27.233     0:08:04.859     29,369 kbps     44,568 kbps     01:08:44.954    36,991 kbps     01:08:40.950    35,878 kbps     01:08:35.945    153,118 bytes   640,300 bytes   01:06:47.878    
+14              1:14:32.092     0:03:54.317     28,762 kbps     38,109 kbps     01:17:14.087    35,298 kbps     01:14:39.683    35,045 kbps     01:14:34.678    149,953 bytes   639,090 bytes   01:17:47.079    
+15              1:18:26.410     0:04:41.489     29,089 kbps     37,748 kbps     01:20:34.913    35,332 kbps     01:19:02.362    35,158 kbps     01:21:23.879    151,655 bytes   622,666 bytes   01:19:13.832    
+16              1:23:07.899     0:04:56.754     27,722 kbps     41,725 kbps     01:25:03.098    34,985 kbps     01:23:16.241    34,882 kbps     01:23:10.860    144,532 bytes   356,620 bytes   01:23:08.900    
+17              1:28:04.654     0:05:06.222     25,423 kbps     37,723 kbps     01:32:41.305    35,243 kbps     01:29:12.764    34,927 kbps     01:29:11.971    132,542 bytes   598,931 bytes   01:29:15.141    
+18              1:33:10.876     0:04:02.867     29,148 kbps     41,270 kbps     01:36:19.648    34,855 kbps     01:34:03.763    33,552 kbps     01:34:37.630    151,966 bytes   417,270 bytes   01:33:51.042    
+19              1:37:13.744     0:07:25.444     30,953 kbps     36,090 kbps     01:43:20.277    34,893 kbps     01:42:25.931    34,424 kbps     01:42:22.678    161,377 bytes   378,546 bytes   01:44:06.823    
+20              1:44:39.189     0:03:08.146     26,696 kbps     36,982 kbps     01:47:20.392    35,028 kbps     01:46:55.450    33,130 kbps     01:47:25.063    139,179 bytes   568,196 bytes   01:47:18.640    
+21              1:47:47.335     0:10:28.002     21,675 kbps     45,635 kbps     01:58:12.001    36,981 kbps     01:58:07.997    35,923 kbps     01:58:03.034    113,012 bytes   617,644 bytes   01:54:25.400    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     7095.171                27,968                  24,804,759,996  134,907,104     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           7095.171                5,091                   4,515,115,072   25,638,051      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           7095.171                320                     283,814,400     1,773,840       
+00800.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           7095.171                640                     567,628,800     3,325,950       
+00800.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           7095.171                192                     170,288,640     1,108,650       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           7095.171                36                      31,491,815      183,083         
+00800.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            7095.171                31                      27,642,777      159,940         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           7095.171                29                      26,055,774      151,164         
+00800.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           7095.171                67                      59,544,173      337,613         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            7095.171                56                      49,993,407      285,564         
+00800.M2TS      4613 (0x1205)   0x90            PGS             spa (Spanish)           7095.171                58                      51,404,826      293,229         
+00800.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           7095.171                46                      40,856,878      230,100         
+00800.M2TS      4615 (0x1207)   0x90            PGS             fra (French)            7095.171                21                      18,538,500      105,486         
+00800.M2TS      4616 (0x1208)   0x90            PGS             spa (Spanish)           7095.171                17                      14,792,099      84,803          
+00800.M2TS      4617 (0x1209)   0x90            PGS             fra (French)            7095.171                0                       323,207         1,922           
+00800.M2TS      4618 (0x120A)   0x90            PGS             spa (Spanish)           7095.171                0                       15,860          100             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Lion King - Blu-ray™
+Disc Label: The.Lion.King.2019.1080p.Blu-ray.AVC.DTS-HD.MA.7.1
+Disc Size: 45,387,999,240 bytes
+Protection: AACS
+Playlist: 01600.MPLS
+Size: 33,052,852,224 bytes
+Length: 1:58:15.338
+Total Bitrate: 37.27 Mbps
+Video: MPEG-4 AVC Video / 27967 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  5091 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
+Subtitle: English / 35.507 kbps
+Subtitle: French / 31.167 kbps
+Subtitle: Spanish / 29.378 kbps
+Subtitle: English / 67.136 kbps
+Subtitle: French / 56.368 kbps
+Subtitle: Spanish / 57.959 kbps
+Subtitle: English / 46.066 kbps
+Subtitle: French / 20.902 kbps
+Subtitle: Spanish / 16.678 kbps
+Subtitle: French / 0.364 kbps
+Subtitle: Spanish / 0.018 kbps
+

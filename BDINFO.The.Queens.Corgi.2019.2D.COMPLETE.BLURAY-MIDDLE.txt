@@ -1,0 +1,421 @@
+Disc Label:     The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size:      30,650,672,556 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00038.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00038.MPLS                                                      AVC     1:25:23 17,447,079,936  30,650,672,556  27.24   22.04   DTS 5.1 768Kbps (48kHz/16-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size:      30,650,672,556 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00038.MPLS
+Length:                 1:25:23.243 (h:m:s.ms)
+Size:                   17,447,079,936 bytes
+Total Bitrate:          27.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22039 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS-HD Master Audio             English         2080 kbps       5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           33.161 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:25:23.243     17,447,079,936  27,244          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:10.977     20,779 kbps     38,963 kbps     00:00:10.009    31,626 kbps     00:00:08.550    28,003 kbps     00:03:04.767    108,320 bytes   982,469 bytes   00:03:34.881    
+2               0:05:10.977     0:06:31.307     22,694 kbps     35,325 kbps     00:05:32.457    28,193 kbps     00:10:19.785    25,948 kbps     00:07:33.119    118,314 bytes   903,241 bytes   00:05:31.706    
+3               0:11:42.284     0:05:59.233     22,365 kbps     38,503 kbps     00:16:38.080    28,756 kbps     00:16:36.203    27,780 kbps     00:16:31.198    116,601 bytes   926,771 bytes   00:16:38.789    
+4               0:17:41.518     0:10:10.067     22,723 kbps     41,147 kbps     00:18:56.510    30,917 kbps     00:27:39.074    28,770 kbps     00:27:33.693    118,469 bytes   978,864 bytes   00:20:24.097    
+5               0:27:51.586     0:13:02.990     22,777 kbps     41,181 kbps     00:31:41.774    31,312 kbps     00:31:41.190    28,823 kbps     00:31:05.488    118,751 bytes   982,943 bytes   00:31:13.246    
+6               0:40:54.577     0:07:25.444     22,776 kbps     38,836 kbps     00:45:48.495    29,372 kbps     00:48:04.673    28,498 kbps     00:48:00.669    118,743 bytes   982,340 bytes   00:44:26.580    
+7               0:48:20.022     0:09:03.292     22,355 kbps     37,751 kbps     00:49:38.892    29,444 kbps     00:56:49.531    28,060 kbps     00:49:33.095    116,548 bytes   978,533 bytes   00:55:35.749    
+8               0:57:23.314     0:05:14.814     23,415 kbps     38,840 kbps     01:00:25.371    30,868 kbps     01:00:21.326    28,016 kbps     01:01:08.164    122,075 bytes   953,157 bytes   01:00:20.450    
+9               1:02:38.129     0:03:45.141     22,504 kbps     35,891 kbps     01:05:26.422    30,787 kbps     01:05:22.543    27,746 kbps     01:05:20.791    117,327 bytes   983,329 bytes   01:05:26.172    
+10              1:06:23.270     0:09:34.532     22,577 kbps     36,975 kbps     01:11:40.129    31,024 kbps     01:15:17.596    28,587 kbps     01:14:58.869    117,705 bytes   981,017 bytes   01:11:45.634    
+11              1:15:57.803     0:05:46.596     22,803 kbps     38,374 kbps     01:20:00.212    31,065 kbps     01:19:59.211    30,110 kbps     01:19:59.252    118,885 bytes   983,911 bytes   01:17:51.375    
+12              1:21:44.399     0:03:38.843     10,220 kbps     42,650 kbps     01:23:08.233    20,733 kbps     01:23:05.230    14,916 kbps     01:24:30.690    53,294 bytes    811,242 bytes   01:22:28.693    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5123.118                22,040                  14,114,192,242  76,779,333      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5123.118                2,080                   1,331,757,188   8,034,476       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5123.118                33                      21,236,408      121,160         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size: 30,650,672,556 bytes
+Protection: AACS
+Playlist: 00038.MPLS
+Size: 17,447,079,936 bytes
+Length: 1:25:23.243
+Total Bitrate: 27.24 Mbps
+Video: MPEG-4 AVC Video / 22039 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Dutch / 33.161 kbps
+
+
+********************
+PLAYLIST: 00039.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00039.MPLS                                                      AVC     1:25:23 17,447,079,936  30,650,672,556  27.24   22.04   DTS 5.1 768Kbps (48kHz/16-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size:      30,650,672,556 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00039.MPLS
+Length:                 1:25:23.243 (h:m:s.ms)
+Size:                   17,447,079,936 bytes
+Total Bitrate:          27.24 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22039 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS-HD Master Audio             English         2080 kbps       5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           33.161 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:25:23.243     17,447,079,936  27,244          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:10.977     20,779 kbps     38,963 kbps     00:00:10.009    31,626 kbps     00:00:08.550    28,003 kbps     00:03:04.767    108,320 bytes   982,469 bytes   00:03:34.881    
+2               0:05:10.977     0:06:31.307     22,694 kbps     35,325 kbps     00:05:32.457    28,193 kbps     00:10:19.785    25,948 kbps     00:07:33.119    118,314 bytes   903,241 bytes   00:05:31.706    
+3               0:11:42.284     0:05:59.233     22,365 kbps     38,503 kbps     00:16:38.080    28,756 kbps     00:16:36.203    27,780 kbps     00:16:31.198    116,601 bytes   926,771 bytes   00:16:38.789    
+4               0:17:41.518     0:10:10.067     22,723 kbps     41,147 kbps     00:18:56.510    30,917 kbps     00:27:39.074    28,770 kbps     00:27:33.693    118,469 bytes   978,864 bytes   00:20:24.097    
+5               0:27:51.586     0:13:02.990     22,777 kbps     41,181 kbps     00:31:41.774    31,312 kbps     00:31:41.190    28,823 kbps     00:31:05.488    118,751 bytes   982,943 bytes   00:31:13.246    
+6               0:40:54.577     0:07:25.444     22,776 kbps     38,836 kbps     00:45:48.495    29,372 kbps     00:48:04.673    28,498 kbps     00:48:00.669    118,743 bytes   982,340 bytes   00:44:26.580    
+7               0:48:20.022     0:09:03.292     22,355 kbps     37,751 kbps     00:49:38.892    29,444 kbps     00:56:49.531    28,060 kbps     00:49:33.095    116,548 bytes   978,533 bytes   00:55:35.749    
+8               0:57:23.314     0:05:14.814     23,415 kbps     38,840 kbps     01:00:25.371    30,868 kbps     01:00:21.326    28,016 kbps     01:01:08.164    122,075 bytes   953,157 bytes   01:00:20.450    
+9               1:02:38.129     0:03:45.141     22,504 kbps     35,891 kbps     01:05:26.422    30,787 kbps     01:05:22.543    27,746 kbps     01:05:20.791    117,327 bytes   983,329 bytes   01:05:26.172    
+10              1:06:23.270     0:09:34.532     22,577 kbps     36,975 kbps     01:11:40.129    31,024 kbps     01:15:17.596    28,587 kbps     01:14:58.869    117,705 bytes   981,017 bytes   01:11:45.634    
+11              1:15:57.803     0:05:46.596     22,803 kbps     38,374 kbps     01:20:00.212    31,065 kbps     01:19:59.211    30,110 kbps     01:19:59.252    118,885 bytes   983,911 bytes   01:17:51.375    
+12              1:21:44.399     0:03:38.843     10,220 kbps     42,650 kbps     01:23:08.233    20,733 kbps     01:23:05.230    14,916 kbps     01:24:30.690    53,294 bytes    811,242 bytes   01:22:28.693    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5123.118                22,040                  14,114,192,242  76,779,333      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5123.118                2,080                   1,331,757,188   8,034,476       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5123.118                33                      21,236,408      121,160         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size: 30,650,672,556 bytes
+Protection: AACS
+Playlist: 00039.MPLS
+Size: 17,447,079,936 bytes
+Length: 1:25:23.243
+Total Bitrate: 27.24 Mbps
+Video: MPEG-4 AVC Video / 22039 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Dutch / 33.161 kbps
+
+
+********************
+PLAYLIST: 00041.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00041.MPLS                                                      AVC     1:25:23 17,447,079,936  30,650,672,556  27.24   22.04   DTS 5.1 768Kbps (48kHz/16-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size:      30,650,672,556 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00041.MPLS
+Length:                 1:25:23.243 (h:m:s.ms)
+Size:                   17,447,079,936 bytes
+Total Bitrate:          27.24 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22039 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS-HD Master Audio             English         2080 kbps       5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         Dutch           33.161 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:25:23.243     17,447,079,936  27,244          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:10.977     20,779 kbps     38,963 kbps     00:00:10.009    31,626 kbps     00:00:08.550    28,003 kbps     00:03:04.767    108,320 bytes   982,469 bytes   00:03:34.881    
+2               0:05:10.977     0:06:31.307     22,694 kbps     35,325 kbps     00:05:32.457    28,193 kbps     00:10:19.785    25,948 kbps     00:07:33.119    118,314 bytes   903,241 bytes   00:05:31.706    
+3               0:11:42.284     0:05:59.233     22,365 kbps     38,503 kbps     00:16:38.080    28,756 kbps     00:16:36.203    27,780 kbps     00:16:31.198    116,601 bytes   926,771 bytes   00:16:38.789    
+4               0:17:41.518     0:10:10.067     22,723 kbps     41,147 kbps     00:18:56.510    30,917 kbps     00:27:39.074    28,770 kbps     00:27:33.693    118,469 bytes   978,864 bytes   00:20:24.097    
+5               0:27:51.586     0:13:02.990     22,777 kbps     41,181 kbps     00:31:41.774    31,312 kbps     00:31:41.190    28,823 kbps     00:31:05.488    118,751 bytes   982,943 bytes   00:31:13.246    
+6               0:40:54.577     0:07:25.444     22,776 kbps     38,836 kbps     00:45:48.495    29,372 kbps     00:48:04.673    28,498 kbps     00:48:00.669    118,743 bytes   982,340 bytes   00:44:26.580    
+7               0:48:20.022     0:09:03.292     22,355 kbps     37,751 kbps     00:49:38.892    29,444 kbps     00:56:49.531    28,060 kbps     00:49:33.095    116,548 bytes   978,533 bytes   00:55:35.749    
+8               0:57:23.314     0:05:14.814     23,415 kbps     38,840 kbps     01:00:25.371    30,868 kbps     01:00:21.326    28,016 kbps     01:01:08.164    122,075 bytes   953,157 bytes   01:00:20.450    
+9               1:02:38.129     0:03:45.141     22,504 kbps     35,891 kbps     01:05:26.422    30,787 kbps     01:05:22.543    27,746 kbps     01:05:20.791    117,327 bytes   983,329 bytes   01:05:26.172    
+10              1:06:23.270     0:09:34.532     22,577 kbps     36,975 kbps     01:11:40.129    31,024 kbps     01:15:17.596    28,587 kbps     01:14:58.869    117,705 bytes   981,017 bytes   01:11:45.634    
+11              1:15:57.803     0:05:46.596     22,803 kbps     38,374 kbps     01:20:00.212    31,065 kbps     01:19:59.211    30,110 kbps     01:19:59.252    118,885 bytes   983,911 bytes   01:17:51.375    
+12              1:21:44.399     0:03:38.843     10,220 kbps     42,650 kbps     01:23:08.233    20,733 kbps     01:23:05.230    14,916 kbps     01:24:30.690    53,294 bytes    811,242 bytes   01:22:28.693    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5123.118                22,040                  14,114,192,242  76,779,333      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5123.118                2,080                   1,331,757,188   8,034,476       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5123.118                33                      21,236,408      121,160         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size: 30,650,672,556 bytes
+Protection: AACS
+Playlist: 00041.MPLS
+Size: 17,447,079,936 bytes
+Length: 1:25:23.243
+Total Bitrate: 27.24 Mbps
+Video: MPEG-4 AVC Video / 22039 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+* Subtitle: Dutch / 33.161 kbps
+
+
+********************
+PLAYLIST: 00042.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00042.MPLS                                                      AVC     1:25:23 17,447,079,936  30,650,672,556  27.24   22.04   DTS 5.1 768Kbps (48kHz/16-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size:      30,650,672,556 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00042.MPLS
+Length:                 1:25:23.243 (h:m:s.ms)
+Size:                   17,447,079,936 bytes
+Total Bitrate:          27.24 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22039 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS-HD Master Audio             English         2080 kbps       5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         Dutch           33.161 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:25:23.243     17,447,079,936  27,244          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:10.977     20,779 kbps     38,963 kbps     00:00:10.009    31,626 kbps     00:00:08.550    28,003 kbps     00:03:04.767    108,320 bytes   982,469 bytes   00:03:34.881    
+2               0:05:10.977     0:06:31.307     22,694 kbps     35,325 kbps     00:05:32.457    28,193 kbps     00:10:19.785    25,948 kbps     00:07:33.119    118,314 bytes   903,241 bytes   00:05:31.706    
+3               0:11:42.284     0:05:59.233     22,365 kbps     38,503 kbps     00:16:38.080    28,756 kbps     00:16:36.203    27,780 kbps     00:16:31.198    116,601 bytes   926,771 bytes   00:16:38.789    
+4               0:17:41.518     0:10:10.067     22,723 kbps     41,147 kbps     00:18:56.510    30,917 kbps     00:27:39.074    28,770 kbps     00:27:33.693    118,469 bytes   978,864 bytes   00:20:24.097    
+5               0:27:51.586     0:13:02.990     22,777 kbps     41,181 kbps     00:31:41.774    31,312 kbps     00:31:41.190    28,823 kbps     00:31:05.488    118,751 bytes   982,943 bytes   00:31:13.246    
+6               0:40:54.577     0:07:25.444     22,776 kbps     38,836 kbps     00:45:48.495    29,372 kbps     00:48:04.673    28,498 kbps     00:48:00.669    118,743 bytes   982,340 bytes   00:44:26.580    
+7               0:48:20.022     0:09:03.292     22,355 kbps     37,751 kbps     00:49:38.892    29,444 kbps     00:56:49.531    28,060 kbps     00:49:33.095    116,548 bytes   978,533 bytes   00:55:35.749    
+8               0:57:23.314     0:05:14.814     23,415 kbps     38,840 kbps     01:00:25.371    30,868 kbps     01:00:21.326    28,016 kbps     01:01:08.164    122,075 bytes   953,157 bytes   01:00:20.450    
+9               1:02:38.129     0:03:45.141     22,504 kbps     35,891 kbps     01:05:26.422    30,787 kbps     01:05:22.543    27,746 kbps     01:05:20.791    117,327 bytes   983,329 bytes   01:05:26.172    
+10              1:06:23.270     0:09:34.532     22,577 kbps     36,975 kbps     01:11:40.129    31,024 kbps     01:15:17.596    28,587 kbps     01:14:58.869    117,705 bytes   981,017 bytes   01:11:45.634    
+11              1:15:57.803     0:05:46.596     22,803 kbps     38,374 kbps     01:20:00.212    31,065 kbps     01:19:59.211    30,110 kbps     01:19:59.252    118,885 bytes   983,911 bytes   01:17:51.375    
+12              1:21:44.399     0:03:38.843     10,220 kbps     42,650 kbps     01:23:08.233    20,733 kbps     01:23:05.230    14,916 kbps     01:24:30.690    53,294 bytes    811,242 bytes   01:22:28.693    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5123.118                22,040                  14,114,192,242  76,779,333      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5123.118                768                     491,831,296     2,881,824       
+00000.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5123.118                2,080                   1,331,757,188   8,034,476       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5123.118                33                      21,236,408      121,160         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Queens.Corgi.2019.2D.COMPLETE.BLURAY-MIDDLE
+Disc Size: 30,650,672,556 bytes
+Protection: AACS
+Playlist: 00042.MPLS
+Size: 17,447,079,936 bytes
+Length: 1:25:23.243
+Total Bitrate: 27.24 Mbps
+Video: MPEG-4 AVC Video / 22039 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+* Subtitle: Dutch / 33.161 kbps
+
