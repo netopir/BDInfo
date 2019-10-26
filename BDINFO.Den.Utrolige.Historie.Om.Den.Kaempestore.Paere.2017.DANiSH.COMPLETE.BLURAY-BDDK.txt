@@ -1,0 +1,112 @@
+Disc Label:     Den.Utrolige.Historie.Om.Den.Kaempestore.Paere.2017.DANiSH.COMPLETE.BLURAY-BDDK
+Disc Size:      17,977,991,056 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:18:04 17,696,858,112  17,977,991,056  30.22   24.99   DTS-HD Master 5.1 3610Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Den.Utrolige.Historie.Om.Den.Kaempestore.Paere.2017.DANiSH.COMPLETE.BLURAY-BDDK
+Disc Size:      17,977,991,056 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:18:04.458 (h:m:s.ms)
+Size:                   17,696,858,112 bytes
+Total Bitrate:          30.22 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24995 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Danish          3610 kbps       5.1 / 48 kHz /  3610 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Danish          27.885 kbps                     
+Presentation Graphics           English         26.835 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:18:03.458     17,696,833,536  30,229          
+00004.M2TS      1:18:03.458     0:00:01.000     24,576          197             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:59.916     24,355 kbps     52,165 kbps     00:03:50.958    40,191 kbps     00:07:21.458    37,823 kbps     00:02:15.666    126,842 bytes   982,454 bytes   00:03:52.833    
+2               0:09:59.916     0:10:00.000     27,340 kbps     61,509 kbps     00:14:56.583    40,667 kbps     00:17:07.875    37,804 kbps     00:12:12.000    142,396 bytes   977,750 bytes   00:14:58.375    
+3               0:19:59.916     0:09:59.791     27,715 kbps     54,128 kbps     00:20:27.291    40,453 kbps     00:21:09.708    37,761 kbps     00:23:12.666    144,351 bytes   835,162 bytes   00:20:20.750    
+4               0:29:59.708     0:10:00.166     22,906 kbps     59,763 kbps     00:39:27.458    40,702 kbps     00:35:42.041    37,723 kbps     00:39:27.458    119,300 bytes   786,402 bytes   00:39:39.125    
+5               0:39:59.875     0:10:00.041     22,857 kbps     62,338 kbps     00:42:38.791    40,689 kbps     00:42:38.791    37,495 kbps     00:47:11.250    119,049 bytes   852,860 bytes   00:47:19.291    
+6               0:49:59.916     0:09:59.750     26,994 kbps     56,271 kbps     00:51:51.708    40,637 kbps     00:51:49.416    37,811 kbps     00:59:22.291    140,593 bytes   971,021 bytes   00:53:28.833    
+7               0:59:59.666     0:10:00.166     27,217 kbps     59,039 kbps     01:09:12.791    40,634 kbps     01:03:21.708    37,760 kbps     01:03:21.958    141,757 bytes   974,466 bytes   01:03:39.750    
+8               1:09:59.833     0:08:04.625     19,523 kbps     59,735 kbps     01:12:27.666    40,657 kbps     01:10:30.958    37,785 kbps     01:12:59.416    101,690 bytes   934,615 bytes   01:13:49.166    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     4683.292                25,001                  14,635,857,519  79,608,636      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       dan (Danish)            4683.292                3,611                   2,113,962,248   12,220,390      
+00000.M2TS      4608 (0x1200)   0x90            PGS             dan (Danish)            4683.292                28                      16,328,275      94,281          
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           4683.292                27                      15,713,699      90,779          
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     0.875                   108                     11,837          72              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Den.Utrolige.Historie.Om.Den.Kaempestore.Paere.2017.DANiSH.COMPLETE.BLURAY-BDDK
+Disc Size: 17,977,991,056 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 17,696,858,112 bytes
+Length: 1:18:04.458
+Total Bitrate: 30.22 Mbps
+Video: MPEG-4 AVC Video / 24995 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Danish / DTS-HD Master Audio / 5.1 / 48 kHz /  3610 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Danish / 27.885 kbps
+Subtitle: English / 26.835 kbps
+
