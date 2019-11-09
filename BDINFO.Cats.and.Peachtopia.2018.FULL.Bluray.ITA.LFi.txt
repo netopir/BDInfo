@@ -1,0 +1,222 @@
+Disc Title:     BIRBA MICIO COMBINAGUAI
+Disc Label:     Cats.and.Peachtopia.2018.FULL.Bluray.ITA.LFi
+Disc Size:      21,634,315,475 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:27:16 20,852,029,440  21,634,315,475  31.85   24.97   DTS-HD Master 5.1 2541Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     BIRBA MICIO COMBINAGUAI
+Disc Label:     Cats.and.Peachtopia.2018.FULL.Bluray.ITA.LFi
+Disc Size:      21,634,315,475 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:27:16.833 (h:m:s.ms)
+Size:                   20,852,029,440 bytes
+Total Bitrate:          31.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24966 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2541 kbps       5.1 / 48 kHz /  2541 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2450 kbps       5.1 / 48 kHz /  2450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         24.268 kbps                     
+Presentation Graphics           Italian         0.003 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:27:16.833     20,852,029,440  31,854          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:27:16.833     24,966 kbps     39,818 kbps     00:23:46.458    29,449 kbps     01:10:57.416    28,280 kbps     00:54:58.375    130,029 bytes   808,369 bytes   01:18:03.791    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5236.750                24,966                  16,342,600,192  88,892,110      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5236.750                2,541                   1,663,548,080   9,854,718       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5236.750                2,450                   1,603,840,744   9,532,537       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5236.750                24                      15,886,038      92,207          
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5236.750                0                       1,854           17              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: BIRBA MICIO COMBINAGUAI
+Disc Label: Cats.and.Peachtopia.2018.FULL.Bluray.ITA.LFi
+Disc Size: 21,634,315,475 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 20,852,029,440 bytes
+Length: 1:27:16.833
+Total Bitrate: 31.85 Mbps
+Video: MPEG-4 AVC Video / 24966 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2541 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 24.268 kbps
+Subtitle: Italian / 0.003 kbps
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:27:16 20,852,029,440  21,634,315,475  31.85   24.97   DTS-HD Master 5.1 2541Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     BIRBA MICIO COMBINAGUAI
+Disc Label:     Cats.and.Peachtopia.2018.FULL.Bluray.ITA.LFi
+Disc Size:      21,634,315,475 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:27:16.833 (h:m:s.ms)
+Size:                   20,852,029,440 bytes
+Total Bitrate:          31.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24966 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         2541 kbps       5.1 / 48 kHz /  2541 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         2450 kbps       5.1 / 48 kHz /  2450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         24.268 kbps                     
+Presentation Graphics           Italian         0.003 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00003.M2TS      0:00:00.000     1:27:16.833     20,852,029,440  31,854          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:26.791     21,964 kbps     37,735 kbps     00:02:45.041    29,200 kbps     00:00:31.333    28,104 kbps     00:00:31.333    114,376 bytes   611,887 bytes   00:00:43.375    
+2               0:04:26.791     0:03:50.500     24,025 kbps     38,434 kbps     00:06:20.499    29,059 kbps     00:06:46.666    27,868 kbps     00:06:54.583    125,132 bytes   405,995 bytes   00:07:35.750    
+3               0:08:17.291     0:03:54.625     24,744 kbps     37,989 kbps     00:10:03.625    28,918 kbps     00:09:06.958    28,187 kbps     00:10:03.541    128,877 bytes   577,305 bytes   00:09:35.166    
+4               0:12:11.916     0:04:31.208     25,440 kbps     36,482 kbps     00:13:53.875    29,089 kbps     00:16:20.291    28,076 kbps     00:12:42.875    132,499 bytes   490,396 bytes   00:13:55.875    
+5               0:16:43.125     0:04:17.708     26,724 kbps     38,292 kbps     00:20:38.083    29,278 kbps     00:20:05.791    28,255 kbps     00:20:01.208    139,185 bytes   738,166 bytes   00:20:39.083    
+6               0:21:00.833     0:03:55.791     26,251 kbps     39,818 kbps     00:23:46.458    29,269 kbps     00:23:46.458    28,062 kbps     00:24:24.624    136,724 bytes   755,647 bytes   00:21:36.375    
+7               0:24:56.625     0:03:59.166     25,667 kbps     38,320 kbps     00:25:17.291    28,898 kbps     00:25:44.208    28,007 kbps     00:25:08.291    133,680 bytes   727,350 bytes   00:25:18.291    
+8               0:28:55.791     0:04:19.250     24,702 kbps     36,941 kbps     00:29:47.708    29,127 kbps     00:29:08.833    28,264 kbps     00:29:03.791    128,656 bytes   781,253 bytes   00:29:06.208    
+9               0:33:15.041     0:04:16.958     25,825 kbps     39,355 kbps     00:37:05.666    29,172 kbps     00:35:32.666    28,010 kbps     00:34:58.208    134,505 bytes   627,367 bytes   00:37:06.666    
+10              0:37:32.000     0:04:05.791     26,407 kbps     37,457 kbps     00:40:11.083    29,402 kbps     00:39:28.500    28,043 kbps     00:40:18.375    137,536 bytes   791,748 bytes   00:38:13.583    
+11              0:41:37.791     0:05:01.000     26,192 kbps     37,097 kbps     00:43:52.958    28,892 kbps     00:44:46.333    28,014 kbps     00:44:46.000    136,418 bytes   653,101 bytes   00:44:10.083    
+12              0:46:38.791     0:03:55.958     25,282 kbps     38,819 kbps     00:50:17.541    29,170 kbps     00:50:09.916    28,096 kbps     00:50:08.541    131,675 bytes   556,516 bytes   00:49:48.083    
+13              0:50:34.750     0:04:10.333     22,647 kbps     34,258 kbps     00:52:55.958    28,608 kbps     00:52:55.875    27,717 kbps     00:52:55.958    117,951 bytes   414,211 bytes   00:53:31.750    
+14              0:54:45.083     0:04:46.916     25,342 kbps     37,522 kbps     00:55:14.625    29,035 kbps     00:58:38.375    28,280 kbps     00:54:58.375    131,991 bytes   521,566 bytes   00:55:01.041    
+15              0:59:32.000     0:04:10.250     25,544 kbps     39,619 kbps     01:01:21.750    29,343 kbps     01:01:05.000    27,974 kbps     01:00:43.583    133,041 bytes   513,946 bytes   01:02:03.208    
+16              1:03:42.250     0:04:36.125     26,614 kbps     38,346 kbps     01:05:57.791    29,288 kbps     01:04:30.375    28,232 kbps     01:03:42.250    138,614 bytes   627,099 bytes   01:05:11.083    
+17              1:08:18.375     0:05:02.041     25,501 kbps     38,160 kbps     01:08:34.499    29,449 kbps     01:10:57.416    28,085 kbps     01:12:23.124    132,820 bytes   576,896 bytes   01:10:04.125    
+18              1:13:20.416     0:04:06.416     26,500 kbps     35,269 kbps     01:13:31.124    28,849 kbps     01:14:51.875    27,799 kbps     01:16:44.124    138,023 bytes   553,245 bytes   01:13:57.666    
+19              1:17:26.833     0:05:59.625     26,535 kbps     36,574 kbps     01:20:55.791    28,979 kbps     01:20:16.250    28,127 kbps     01:17:32.124    138,204 bytes   808,369 bytes   01:18:03.791    
+20              1:23:26.458     0:03:50.375     15,567 kbps     30,531 kbps     01:25:37.666    26,185 kbps     01:25:20.875    25,527 kbps     01:25:17.583    81,094 bytes    380,423 bytes   01:25:21.875    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     5236.750                24,966                  16,342,600,192  88,892,110      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5236.750                2,541                   1,663,548,080   9,854,718       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5236.750                2,450                   1,603,840,744   9,532,537       
+00003.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5236.750                24                      15,886,038      92,207          
+00003.M2TS      4609 (0x1201)   0x90            PGS             ita (Italian)           5236.750                0                       1,854           17              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: BIRBA MICIO COMBINAGUAI
+Disc Label: Cats.and.Peachtopia.2018.FULL.Bluray.ITA.LFi
+Disc Size: 21,634,315,475 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 20,852,029,440 bytes
+Length: 1:27:16.833
+Total Bitrate: 31.85 Mbps
+Video: MPEG-4 AVC Video / 24966 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  2541 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2450 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 24.268 kbps
+Subtitle: Italian / 0.003 kbps
+
