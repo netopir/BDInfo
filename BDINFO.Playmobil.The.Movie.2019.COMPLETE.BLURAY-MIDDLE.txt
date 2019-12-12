@@ -1,0 +1,135 @@
+Disc Title:     PLAYMOBIL
+Disc Label:     Playmobil.The.Movie.2019.COMPLETE.BLURAY-MIDDLE
+Disc Size:      29,695,487,497 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      VC-1    1:39:22 24,484,005,888  29,695,487,497  32.85   22.29   DTS-HD Master 5.1 1931Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     PLAYMOBIL
+Disc Label:     Playmobil.The.Movie.2019.COMPLETE.BLURAY-MIDDLE
+Disc Size:      29,695,487,497 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:39:22.081 (h:m:s.ms)
+Size:                   24,484,005,888 bytes
+Total Bitrate:          32.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+VC-1 Video              22289 kbps          1080p / 23.976 fps / 16:9 / Advanced Profile 3
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         1931 kbps       5.1 / 48 kHz /  1931 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             French          2015 kbps       5.1 / 48 kHz /  2015 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Dutch           2081 kbps       5.1 / 48 kHz /  2081 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Dutch           2098 kbps       5.1 / 48 kHz /  2098 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          37.317 kbps                     
+Presentation Graphics           Dutch           38.451 kbps                     
+Presentation Graphics           French          0.270 kbps                      
+Presentation Graphics           Dutch           0.265 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:39:21.080     24,483,975,168  32,858          
+00003.M2TS      1:39:21.080     0:00:01.000     30,720          246             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:35.454     25,489 kbps     42,854 kbps     00:02:59.053    33,616 kbps     00:02:50.545    32,684 kbps     00:02:51.921    132,873 bytes   685,305 bytes   00:03:01.181    
+2               0:07:35.454     0:08:08.488     22,955 kbps     39,599 kbps     00:14:40.129    31,446 kbps     00:08:51.030    31,176 kbps     00:08:49.403    119,676 bytes   563,786 bytes   00:09:18.224    
+3               0:15:43.943     0:08:58.538     28,011 kbps     39,017 kbps     00:16:11.470    34,780 kbps     00:21:33.333    33,317 kbps     00:22:25.719    146,036 bytes   685,238 bytes   00:23:04.383    
+4               0:24:42.481     0:08:54.533     25,143 kbps     37,602 kbps     00:26:24.708    33,087 kbps     00:27:56.549    32,555 kbps     00:27:56.549    131,082 bytes   624,385 bytes   00:26:29.879    
+5               0:33:37.015     0:07:09.429     20,207 kbps     35,424 kbps     00:37:16.317    30,207 kbps     00:37:13.356    28,340 kbps     00:36:46.329    105,348 bytes   477,313 bytes   00:36:30.980    
+6               0:40:46.444     0:08:57.537     19,572 kbps     34,012 kbps     00:45:44.116    31,452 kbps     00:45:21.593    29,894 kbps     00:45:21.218    102,041 bytes   476,439 bytes   00:45:43.782    
+7               0:49:43.981     0:08:17.496     20,436 kbps     37,950 kbps     00:54:06.743    33,516 kbps     00:54:05.742    31,771 kbps     00:54:05.116    106,545 bytes   623,506 bytes   00:54:05.909    
+8               0:58:01.478     0:08:14.493     18,921 kbps     40,135 kbps     01:02:43.384    32,444 kbps     01:02:43.259    31,045 kbps     01:02:43.384    98,647 bytes    616,686 bytes   01:03:49.116    
+9               1:06:15.972     0:08:25.505     26,397 kbps     39,881 kbps     01:10:29.475    34,778 kbps     01:11:29.159    33,355 kbps     01:11:10.266    137,624 bytes   655,334 bytes   01:10:35.231    
+10              1:14:41.477     0:09:24.564     23,244 kbps     35,462 kbps     01:21:43.273    32,356 kbps     01:22:15.180    31,583 kbps     01:22:11.676    121,184 bytes   589,486 bytes   01:17:49.956    
+11              1:24:06.041     0:07:59.479     22,714 kbps     38,457 kbps     01:29:53.513    33,840 kbps     01:29:52.136    32,879 kbps     01:30:13.282    118,421 bytes   659,993 bytes   01:30:13.408    
+12              1:32:05.520     0:07:15.560     12,538 kbps     24,488 kbps     01:37:49.989    23,707 kbps     01:37:48.445    22,406 kbps     01:37:45.818    65,374 bytes    285,370 bytes   01:37:50.865    
+13              1:39:21.080     0:00:01.001     84 kbps         0 kbps          00:00:00.000    0 kbps          00:00:00.000    0 kbps          00:00:00.000    479 bytes       9,231 bytes     01:39:21.830    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0xEA            VC-1                                    5960.955                22,293                  16,610,842,985  90,362,329      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5960.955                1,931                   1,438,783,068   8,739,328       
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       fra (French)            5960.955                2,015                   1,501,329,708   9,099,273       
+00002.M2TS      4354 (0x1102)   0x86            DTS-HD MA       nld (Dutch)             5960.955                2,082                   1,551,255,780   9,366,895       
+00002.M2TS      4355 (0x1103)   0x86            DTS-HD MA       nld (Dutch)             5960.955                2,098                   1,563,229,080   9,427,448       
+00002.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5960.955                37                      27,810,897      159,422         
+00002.M2TS      4609 (0x1201)   0x90            PGS             nld (Dutch)             5960.955                38                      28,656,124      163,967         
+00002.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5960.955                0                       201,350         1,158           
+00002.M2TS      4611 (0x1203)   0x90            PGS             nld (Dutch)             5960.955                0                       197,498         1,137           
+00003.M2TS      4113 (0x1011)   0xEA            VC-1                                    0.876                   181                     19,777          124             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: PLAYMOBIL
+Disc Label: Playmobil.The.Movie.2019.COMPLETE.BLURAY-MIDDLE
+Disc Size: 29,695,487,497 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 24,484,005,888 bytes
+Length: 1:39:22.081
+Total Bitrate: 32.85 Mbps
+Video: VC-1 Video / 22289 kbps / 1080p / 23.976 fps / 16:9 / Advanced Profile 3
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1931 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  2015 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Dutch / DTS-HD Master Audio / 5.1 / 48 kHz /  2081 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Dutch / DTS-HD Master Audio / 5.1 / 48 kHz /  2098 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: French / 37.317 kbps
+Subtitle: Dutch / 38.451 kbps
+Subtitle: French / 0.270 kbps
+Subtitle: Dutch / 0.265 kbps
+
