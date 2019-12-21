@@ -1,0 +1,128 @@
+Disc Title:     Saving Santa - Blu-ray™
+Disc Label:     Saving.Santa.2013.1080p.GER.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      23,602,094,163 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:23:54 17,554,956,288  23,602,094,163  27.90   21.95   DTS-HD Master 5.1 2136Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Saving Santa - Blu-ray™
+Disc Label:     Saving.Santa.2013.1080p.GER.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      23,602,094,163 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:23:54.446 (h:m:s.ms)
+Size:                   17,554,956,288 bytes
+Total Bitrate:          27.90 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21951 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2136 kbps       5.1 / 48 kHz /  2136 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2065 kbps       5.1 / 48 kHz /  2065 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          45.168 kbps                     
+Presentation Graphics           German          0.308 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     0:00:06.798     29,718,528      34,971          
+00001.M2TS      0:00:06.798     1:23:47.647     17,525,237,760  27,886          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:08.381     21,726 kbps     42,103 kbps     00:08:43.022    36,453 kbps     00:08:49.987    35,230 kbps     00:08:50.112    113,270 bytes   713,595 bytes   00:04:28.685    
+2               0:09:08.381     0:06:02.737     23,136 kbps     44,874 kbps     00:13:58.963    35,492 kbps     00:13:56.001    31,620 kbps     00:13:50.996    120,622 bytes   829,977 bytes   00:14:52.933    
+3               0:15:11.118     0:06:55.581     23,629 kbps     44,098 kbps     00:21:53.145    33,916 kbps     00:16:35.953    31,099 kbps     00:16:30.906    123,189 bytes   722,599 bytes   00:17:09.111    
+4               0:22:06.700     0:07:16.727     23,285 kbps     38,821 kbps     00:24:19.166    35,026 kbps     00:28:14.025    30,554 kbps     00:24:39.728    121,397 bytes   676,294 bytes   00:24:40.770    
+5               0:29:23.428     0:09:48.879     22,144 kbps     43,300 kbps     00:38:13.499    35,967 kbps     00:33:12.365    33,735 kbps     00:33:07.652    115,449 bytes   710,577 bytes   00:32:24.776    
+6               0:39:12.308     0:08:04.358     21,772 kbps     45,574 kbps     00:43:17.594    33,721 kbps     00:44:37.132    33,130 kbps     00:44:32.002    113,509 bytes   916,238 bytes   00:45:14.169    
+7               0:47:16.667     0:07:21.858     22,422 kbps     41,463 kbps     00:47:44.903    34,373 kbps     00:51:18.033    31,855 kbps     00:51:16.031    116,898 bytes   817,343 bytes   00:53:00.719    
+8               0:54:38.525     0:09:12.093     23,865 kbps     47,405 kbps     01:01:15.088    34,051 kbps     01:01:15.088    30,955 kbps     01:01:49.372    124,423 bytes   675,200 bytes   01:02:04.303    
+9               1:03:50.618     0:06:29.555     23,207 kbps     55,203 kbps     01:05:18.623    37,351 kbps     01:05:18.372    34,791 kbps     01:05:27.256    120,989 bytes   752,335 bytes   01:05:15.911    
+10              1:10:20.174     0:06:19.587     21,450 kbps     38,111 kbps     01:12:36.268    31,649 kbps     01:12:36.435    29,255 kbps     01:16:15.487    111,829 bytes   601,959 bytes   01:12:45.486    
+11              1:16:39.761     0:03:10.023     25,878 kbps     44,445 kbps     01:18:12.062    37,798 kbps     01:18:09.017    34,410 kbps     01:18:09.017    134,914 bytes   721,459 bytes   01:17:16.882    
+12              1:19:49.784     0:04:04.661     5,920 kbps      11,416 kbps     01:23:32.257    9,797 kbps      01:23:29.587    8,589 kbps      01:23:25.625    30,875 bytes    197,360 bytes   01:23:33.133    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     6.715                   1,361                   1,142,232       6,283           
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            6.715                   14,088                  11,825,100      73,203          
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6.715                   14,088                  11,825,100      73,203          
+00002.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            6.715                   2                       1,507           15              
+00002.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6.715                   2                       1,507           15              
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5027.523                21,980                  13,812,893,491  75,140,485      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5027.523                2,120                   1,332,463,908   8,027,815       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5027.523                2,049                   1,287,826,396   7,777,347       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5027.523                45                      28,422,792      162,030         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5027.523                0                       192,355         1,125           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Saving Santa - Blu-ray™
+Disc Label: Saving.Santa.2013.1080p.GER.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 23,602,094,163 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 17,554,956,288 bytes
+Length: 1:23:54.446
+Total Bitrate: 27.90 Mbps
+Video: MPEG-4 AVC Video / 21951 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2136 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2065 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 45.168 kbps
+Subtitle: German / 0.308 kbps
+

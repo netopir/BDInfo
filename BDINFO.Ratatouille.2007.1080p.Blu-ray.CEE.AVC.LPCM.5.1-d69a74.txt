@@ -1,5 +1,5 @@
 Disc Label:     Ratatouille.2007.1080p.Blu-ray.CEE.AVC.LPCM.5.1-d69a74
-Disc Size:      32,927,918,332 bytes
+Disc Size:      32,924,563,380 bytes
 Protection:     AACS
 Extras:         BD-Java
 BDInfo:         0.7.5.5
@@ -26,7 +26,7 @@ PLAYLIST: 00001.MPLS
                                                                                                                 Total   Video                                             
 Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
 -----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
-00001.MPLS                                                      AVC     1:50:33 31,520,520,192  32,927,918,332  38.01   23.43   LPCM 5.1 6912Kbps (48kHz/24-bit)          DD AC3 5.1-EX 640Kbps
+00001.MPLS                                                      AVC     1:50:33 31,434,478,848  32,924,563,380  37.91   23.36   LPCM 5.1 6912Kbps (48kHz/24-bit)          DD AC3 5.1-EX 640Kbps
 [/code]
 
 [code]
@@ -34,7 +34,7 @@ Title                                                           Codec   Length  
 DISC INFO:
 
 Disc Label:     Ratatouille.2007.1080p.Blu-ray.CEE.AVC.LPCM.5.1-d69a74
-Disc Size:      32,927,918,332 bytes
+Disc Size:      32,924,563,380 bytes
 Protection:     AACS
 Extras:         BD-Java
 BDInfo:         0.7.5.5
@@ -43,14 +43,14 @@ PLAYLIST REPORT:
 
 Name:                   00001.MPLS
 Length:                 1:50:33.376 (h:m:s.ms)
-Size:                   31,520,520,192 bytes
-Total Bitrate:          38.01 Mbps
+Size:                   31,434,478,848 bytes
+Total Bitrate:          37.91 Mbps
 
 VIDEO:
 
 Codec                   Bitrate             Description     
 -----                   -------             -----------     
-MPEG-4 AVC Video        23426 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        23361 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
 
 AUDIO:
 
@@ -70,28 +70,28 @@ SUBTITLES:
 
 Codec                           Language        Bitrate         Description     
 -----                           --------        -------         -----------     
-Presentation Graphics           English         32.921 kbps                     
-Presentation Graphics           English         37.221 kbps                     
-Presentation Graphics           Czech           33.578 kbps                     
-Presentation Graphics           Hungarian       38.188 kbps                     
-Presentation Graphics           Hebrew          24.152 kbps                     
-Presentation Graphics           Greek           37.665 kbps                     
-Presentation Graphics           Slovak          37.085 kbps                     
-Presentation Graphics           Croatian        34.596 kbps                     
+Presentation Graphics           English         32.887 kbps                     
+Presentation Graphics           English         37.156 kbps                     
+Presentation Graphics           Czech           33.544 kbps                     
+Presentation Graphics           Hungarian       38.133 kbps                     
+Presentation Graphics           Hebrew          24.139 kbps                     
+Presentation Graphics           Greek           37.646 kbps                     
+Presentation Graphics           Slovak          37.050 kbps                     
+Presentation Graphics           Croatian        34.559 kbps                     
 Presentation Graphics           Czech           0.970 kbps                      
 Presentation Graphics           Hungarian       0.985 kbps                      
 Presentation Graphics           Hebrew          0.421 kbps                      
 Presentation Graphics           Greek           0.653 kbps                      
 Presentation Graphics           Slovak          0.910 kbps                      
 Presentation Graphics           Croatian        1.014 kbps                      
-Presentation Graphics           Slovenian       34.087 kbps                     
+Presentation Graphics           Slovenian       34.047 kbps                     
 Presentation Graphics           Slovenian       1.011 kbps                      
 
 FILES:
 
 Name            Time In         Length          Size            Total Bitrate   
 ----            -------         ------          ----            -------------   
-50249.M2TS      0:00:00.000     1:50:33.376     31,520,520,192  38,014          
+50249.M2TS      0:00:00.000     1:50:33.376     31,434,478,848  37,911          
 
 CHAPTERS:
 
@@ -101,7 +101,7 @@ Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  
 2               0:01:16.201     0:05:13.229     24,132 kbps     35,976 kbps     00:02:44.956    33,780 kbps     00:01:32.801    33,164 kbps     00:01:29.547    125,811 bytes   658,306 bytes   00:05:08.057    
 3               0:06:29.430     0:02:53.464     23,714 kbps     37,077 kbps     00:07:57.727    31,432 kbps     00:06:58.251    30,158 kbps     00:07:18.271    123,635 bytes   782,693 bytes   00:07:37.248    
 4               0:09:22.895     0:01:35.178     25,396 kbps     37,265 kbps     00:09:52.258    32,564 kbps     00:09:58.014    30,946 kbps     00:09:52.383    132,401 bytes   597,364 bytes   00:09:34.240    
-5               0:10:58.074     0:02:32.902     24,912 kbps     37,378 kbps     00:13:11.540    33,303 kbps     00:13:20.925    30,560 kbps     00:13:15.920    129,882 bytes   612,155 bytes   00:11:13.756    
+5               0:10:58.074     0:02:32.902     22,083 kbps     37,378 kbps     00:13:11.540    33,303 kbps     00:13:20.925    30,560 kbps     00:13:15.920    130,187 bytes   536,422 bytes   00:13:12.458    
 6               0:13:30.976     0:04:09.040     23,788 kbps     35,909 kbps     00:16:16.392    33,402 kbps     00:13:34.522    30,649 kbps     00:17:15.868    124,019 bytes   658,891 bytes   00:17:33.510    
 7               0:17:40.017     0:01:57.534     23,142 kbps     35,101 kbps     00:18:02.164    33,060 kbps     00:18:11.673    30,950 kbps     00:18:08.962    120,653 bytes   577,742 bytes   00:18:02.331    
 8               0:19:37.551     0:05:10.768     24,832 kbps     37,487 kbps     00:23:48.301    33,799 kbps     00:24:41.605    32,619 kbps     00:24:38.185    129,464 bytes   621,545 bytes   00:20:05.287    
@@ -133,31 +133,31 @@ STREAM DIAGNOSTICS:
 
 File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
 ----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
-50249.M2TS      4113 (0x1011)   0x1B            AVC                                     6633.210                23,426                  19,423,977,666  105,657,977     
-50249.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           6633.210                6,919                   5,736,547,024   31,840,224      
-50249.M2TS      4353 (0x1101)   0x81            AC3-EX          eng (English)           6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4354 (0x1102)   0x81            AC3-EX          ces (Czech)             6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4355 (0x1103)   0x81            AC3-EX          hun (Hungarian)         6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4356 (0x1104)   0x81            AC3-EX          heb (Hebrew)            6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4357 (0x1105)   0x81            AC3-EX          ell (Greek)             6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4358 (0x1106)   0x81            AC3-EX          slk (Slovak)            6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4359 (0x1107)   0x81            AC3-EX          hrv (Croatian)          6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4360 (0x1108)   0x81            AC3-EX          slv (Slovenian)         6633.210                640                     530,672,640     3,109,410       
-50249.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6633.210                33                      27,296,912      156,631         
-50249.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           6633.210                37                      30,862,703      177,948         
-50249.M2TS      4610 (0x1202)   0x90            PGS             ces (Czech)             6633.210                34                      27,842,118      160,254         
-50249.M2TS      4611 (0x1203)   0x90            PGS             hun (Hungarian)         6633.210                38                      31,664,790      180,965         
-50249.M2TS      4612 (0x1204)   0x90            PGS             heb (Hebrew)            6633.210                24                      20,026,398      117,086         
-50249.M2TS      4613 (0x1205)   0x90            PGS             ell (Greek)             6633.210                38                      31,231,034      178,352         
-50249.M2TS      4614 (0x1206)   0x90            PGS             slk (Slovak)            6633.210                37                      30,749,845      175,999         
-50249.M2TS      4615 (0x1207)   0x90            PGS             hrv (Croatian)          6633.210                35                      28,685,941      164,832         
+50249.M2TS      4113 (0x1011)   0x1B            AVC                                     6633.210                23,361                  19,369,896,383  105,363,817     
+50249.M2TS      4352 (0x1100)   0x80            LPCM            eng (English)           6633.210                6,900                   5,721,221,480   31,755,161      
+50249.M2TS      4353 (0x1101)   0x81            AC3-EX          eng (English)           6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4354 (0x1102)   0x81            AC3-EX          ces (Czech)             6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4355 (0x1103)   0x81            AC3-EX          hun (Hungarian)         6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4356 (0x1104)   0x81            AC3-EX          heb (Hebrew)            6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4357 (0x1105)   0x81            AC3-EX          ell (Greek)             6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4358 (0x1106)   0x81            AC3-EX          slk (Slovak)            6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4359 (0x1107)   0x81            AC3-EX          hrv (Croatian)          6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4360 (0x1108)   0x81            AC3-EX          slv (Slovenian)         6633.210                638                     529,254,400     3,101,100       
+50249.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6633.210                33                      27,268,620      156,462         
+50249.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           6633.210                37                      30,809,094      177,631         
+50249.M2TS      4610 (0x1202)   0x90            PGS             ces (Czech)             6633.210                34                      27,813,554      160,082         
+50249.M2TS      4611 (0x1203)   0x90            PGS             hun (Hungarian)         6633.210                38                      31,618,659      180,699         
+50249.M2TS      4612 (0x1204)   0x90            PGS             heb (Hebrew)            6633.210                24                      20,015,773      117,019         
+50249.M2TS      4613 (0x1205)   0x90            PGS             ell (Greek)             6633.210                38                      31,215,032      178,249         
+50249.M2TS      4614 (0x1206)   0x90            PGS             slk (Slovak)            6633.210                37                      30,720,530      175,824         
+50249.M2TS      4615 (0x1207)   0x90            PGS             hrv (Croatian)          6633.210                35                      28,655,588      164,651         
 50249.M2TS      4616 (0x1208)   0x90            PGS             ces (Czech)             6633.210                1                       804,054         4,625           
 50249.M2TS      4617 (0x1209)   0x90            PGS             hun (Hungarian)         6633.210                1                       816,359         4,709           
 50249.M2TS      4618 (0x120A)   0x90            PGS             heb (Hebrew)            6633.210                0                       349,485         2,081           
 50249.M2TS      4619 (0x120B)   0x90            PGS             ell (Greek)             6633.210                1                       541,527         3,091           
 50249.M2TS      4620 (0x120C)   0x90            PGS             slk (Slovak)            6633.210                1                       754,475         4,318           
 50249.M2TS      4621 (0x120D)   0x90            PGS             hrv (Croatian)          6633.210                1                       841,039         4,835           
-50249.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         6633.210                34                      28,264,267      162,516         
+50249.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         6633.210                34                      28,231,038      162,319         
 50249.M2TS      4623 (0x120F)   0x90            PGS             slv (Slovenian)         6633.210                1                       838,440         4,815           
 
 [/code]
@@ -166,13 +166,13 @@ File            PID             Type            Codec           Language        
 QUICK SUMMARY:
 
 Disc Label: Ratatouille.2007.1080p.Blu-ray.CEE.AVC.LPCM.5.1-d69a74
-Disc Size: 32,927,918,332 bytes
+Disc Size: 32,924,563,380 bytes
 Protection: AACS
 Playlist: 00001.MPLS
-Size: 31,520,520,192 bytes
+Size: 31,434,478,848 bytes
 Length: 1:50:33.376
-Total Bitrate: 38.01 Mbps
-Video: MPEG-4 AVC Video / 23426 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Total Bitrate: 37.91 Mbps
+Video: MPEG-4 AVC Video / 23361 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
 Audio: English / LPCM Audio / 5.1 / 48 kHz /  6912 kbps / 24-bit
 Audio: English / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
 Audio: Czech / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
@@ -182,20 +182,20 @@ Audio: Greek / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
 Audio: Slovak / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
 Audio: Croatian / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
 Audio: Slovenian / Dolby Digital EX Audio / 5.1-EX / 48 kHz /   640 kbps / DN -31dB
-Subtitle: English / 32.921 kbps
-Subtitle: English / 37.221 kbps
-Subtitle: Czech / 33.578 kbps
-Subtitle: Hungarian / 38.188 kbps
-Subtitle: Hebrew / 24.152 kbps
-Subtitle: Greek / 37.665 kbps
-Subtitle: Slovak / 37.085 kbps
-Subtitle: Croatian / 34.596 kbps
+Subtitle: English / 32.887 kbps
+Subtitle: English / 37.156 kbps
+Subtitle: Czech / 33.544 kbps
+Subtitle: Hungarian / 38.133 kbps
+Subtitle: Hebrew / 24.139 kbps
+Subtitle: Greek / 37.646 kbps
+Subtitle: Slovak / 37.050 kbps
+Subtitle: Croatian / 34.559 kbps
 Subtitle: Czech / 0.970 kbps
 Subtitle: Hungarian / 0.985 kbps
 Subtitle: Hebrew / 0.421 kbps
 Subtitle: Greek / 0.653 kbps
 Subtitle: Slovak / 0.910 kbps
 Subtitle: Croatian / 1.014 kbps
-Subtitle: Slovenian / 34.087 kbps
+Subtitle: Slovenian / 34.047 kbps
 Subtitle: Slovenian / 1.011 kbps
 
