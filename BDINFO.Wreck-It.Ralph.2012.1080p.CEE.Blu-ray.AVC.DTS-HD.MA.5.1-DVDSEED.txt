@@ -1,0 +1,168 @@
+Disc Title:     Wreck-It Ralph - Blu-ray™
+Disc Label:     Wreck-It.Ralph.2012.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1-DVDSEED
+Disc Size:      33,083,964,076 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:41:13 26,107,711,488  33,083,964,076  34.39   25.18   DTS-HD Master 5.1 3734Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Wreck-It Ralph - Blu-ray™
+Disc Label:     Wreck-It.Ralph.2012.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1-DVDSEED
+Disc Size:      33,083,964,076 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:41:13.525 (h:m:s.ms)
+Size:                   26,107,711,488 bytes
+Total Bitrate:          34.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25179 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3734 kbps       5.1 / 48 kHz /  3734 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Polish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Bulgarian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Romanian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Slovenian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         47.398 kbps                     
+Presentation Graphics           English         38.324 kbps                     
+Presentation Graphics           Polish          34.313 kbps                     
+Presentation Graphics           Bulgarian       36.901 kbps                     
+Presentation Graphics           Romanian        34.746 kbps                     
+Presentation Graphics           Croatian        30.892 kbps                     
+Presentation Graphics           Slovenian       31.323 kbps                     
+Presentation Graphics           Polish          0.600 kbps                      
+Presentation Graphics           Bulgarian       0.782 kbps                      
+Presentation Graphics           Romanian        1.065 kbps                      
+Presentation Graphics           Croatian        1.069 kbps                      
+Presentation Graphics           Slovenian       0.936 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00875.M2TS      0:00:00.000     1:41:13.525     26,107,711,488  34,389          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:12.140     24,985 kbps     35,936 kbps     00:02:51.963    33,896 kbps     00:02:26.396    33,598 kbps     00:00:21.563    130,247 bytes   639,227 bytes   00:01:36.221    
+2               0:07:12.140     0:09:22.770     25,006 kbps     35,461 kbps     00:09:27.775    32,091 kbps     00:09:56.012    31,125 kbps     00:15:33.057    130,372 bytes   512,570 bytes   00:13:29.433    
+3               0:16:34.910     0:10:32.590     26,137 kbps     37,487 kbps     00:19:42.890    33,690 kbps     00:21:06.974    33,329 kbps     00:18:50.212    136,266 bytes   560,959 bytes   00:21:25.158    
+4               0:27:07.500     0:10:18.451     24,951 kbps     38,469 kbps     00:36:27.977    34,011 kbps     00:28:26.663    33,614 kbps     00:33:14.534    130,084 bytes   640,779 bytes   00:31:06.322    
+5               0:37:25.952     0:07:20.731     24,210 kbps     40,144 kbps     00:43:41.410    33,915 kbps     00:42:17.743    33,188 kbps     00:41:58.015    126,222 bytes   636,312 bytes   00:42:33.008    
+6               0:44:46.684     0:03:58.446     26,433 kbps     37,899 kbps     00:48:35.370    33,985 kbps     00:46:19.443    33,757 kbps     00:46:14.354    137,809 bytes   639,209 bytes   00:48:25.360    
+7               0:48:45.130     0:02:50.879     25,036 kbps     36,427 kbps     00:50:49.129    32,652 kbps     00:50:47.002    31,710 kbps     00:50:40.328    130,528 bytes   638,664 bytes   00:50:32.571    
+8               0:51:36.009     0:07:20.022     24,690 kbps     35,740 kbps     00:58:24.751    33,685 kbps     00:58:20.830    32,727 kbps     00:52:51.459    128,724 bytes   569,102 bytes   00:58:31.883    
+9               0:58:56.032     0:10:11.861     25,276 kbps     40,205 kbps     01:04:56.267    34,298 kbps     01:04:52.263    33,906 kbps     01:00:10.148    131,776 bytes   638,349 bytes   01:05:49.612    
+10              1:09:07.893     0:04:31.729     25,182 kbps     39,569 kbps     01:12:36.060    34,588 kbps     01:12:32.222    30,764 kbps     01:12:59.625    131,286 bytes   640,383 bytes   01:09:14.817    
+11              1:13:39.623     0:02:17.178     23,778 kbps     34,786 kbps     01:15:28.065    28,762 kbps     01:15:28.232    26,669 kbps     01:13:39.623    123,968 bytes   607,138 bytes   01:13:49.341    
+12              1:15:56.802     0:02:56.175     25,396 kbps     36,984 kbps     01:17:02.492    33,745 kbps     01:16:07.771    33,136 kbps     01:16:02.766    132,404 bytes   633,574 bytes   01:17:03.493    
+13              1:18:52.978     0:03:00.763     27,437 kbps     40,578 kbps     01:21:38.059    33,607 kbps     01:18:53.687    32,858 kbps     01:21:21.793    143,044 bytes   484,757 bytes   01:21:38.768    
+14              1:21:53.742     0:05:31.622     24,754 kbps     35,770 kbps     01:22:46.711    33,672 kbps     01:26:40.612    32,834 kbps     01:26:35.648    129,055 bytes   553,803 bytes   01:22:46.753    
+15              1:27:25.365     0:05:45.178     24,199 kbps     36,323 kbps     01:29:12.930    33,514 kbps     01:32:52.733    30,602 kbps     01:30:46.649    126,161 bytes   639,665 bytes   01:29:20.521    
+16              1:33:10.543     0:08:02.982     25,690 kbps     38,149 kbps     01:34:56.941    33,847 kbps     01:34:17.443    33,541 kbps     01:34:15.608    133,945 bytes   601,137 bytes   01:34:12.563    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00875.M2TS      4113 (0x1011)   0x1B            AVC                                     6073.442                25,179                  19,115,427,468  103,976,124     
+00875.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6073.442                3,734                   2,834,855,652   16,360,949      
+00875.M2TS      4353 (0x1101)   0x81            AC3             pol (Polish)            6073.442                640                     485,882,880     2,846,970       
+00875.M2TS      4354 (0x1102)   0x81            AC3             bul (Bulgarian)         6073.442                640                     485,882,880     2,846,970       
+00875.M2TS      4355 (0x1103)   0x81            AC3             ron (Romanian)          6073.442                640                     485,882,880     2,846,970       
+00875.M2TS      4356 (0x1104)   0x81            AC3             hrv (Croatian)          6073.442                640                     485,882,880     2,846,970       
+00875.M2TS      4357 (0x1105)   0x81            AC3             slv (Slovenian)         6073.442                640                     485,882,880     2,846,970       
+00875.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6073.442                47                      35,984,148      208,640         
+00875.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           6073.442                38                      29,095,116      168,531         
+00875.M2TS      4610 (0x1202)   0x90            PGS             pol (Polish)            6073.442                34                      26,050,057      150,855         
+00875.M2TS      4611 (0x1203)   0x90            PGS             bul (Bulgarian)         6073.442                37                      28,014,899      161,602         
+00875.M2TS      4612 (0x1204)   0x90            PGS             ron (Romanian)          6073.442                35                      26,378,885      152,668         
+00875.M2TS      4613 (0x1205)   0x90            PGS             hrv (Croatian)          6073.442                31                      23,453,003      136,921         
+00875.M2TS      4614 (0x1206)   0x90            PGS             slv (Slovenian)         6073.442                31                      23,780,252      138,504         
+00875.M2TS      4615 (0x1207)   0x90            PGS             pol (Polish)            6073.442                1                       455,779         2,686           
+00875.M2TS      4616 (0x1208)   0x90            PGS             bul (Bulgarian)         6073.442                1                       593,505         3,471           
+00875.M2TS      4617 (0x1209)   0x90            PGS             ron (Romanian)          6073.442                1                       808,497         4,753           
+00875.M2TS      4618 (0x120A)   0x90            PGS             hrv (Croatian)          6073.442                1                       811,546         4,797           
+00875.M2TS      4619 (0x120B)   0x90            PGS             slv (Slovenian)         6073.442                1                       710,347         4,205           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Wreck-It Ralph - Blu-ray™
+Disc Label: Wreck-It.Ralph.2012.1080p.CEE.Blu-ray.AVC.DTS-HD.MA.5.1-DVDSEED
+Disc Size: 33,083,964,076 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 26,107,711,488 bytes
+Length: 1:41:13.525
+Total Bitrate: 34.39 Mbps
+Video: MPEG-4 AVC Video / 25179 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3734 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 47.398 kbps
+Subtitle: English / 38.324 kbps
+Subtitle: Polish / 34.313 kbps
+Subtitle: Bulgarian / 36.901 kbps
+Subtitle: Romanian / 34.746 kbps
+Subtitle: Croatian / 30.892 kbps
+Subtitle: Slovenian / 31.323 kbps
+Subtitle: Polish / 0.600 kbps
+Subtitle: Bulgarian / 0.782 kbps
+Subtitle: Romanian / 1.065 kbps
+Subtitle: Croatian / 1.069 kbps
+Subtitle: Slovenian / 0.936 kbps
+

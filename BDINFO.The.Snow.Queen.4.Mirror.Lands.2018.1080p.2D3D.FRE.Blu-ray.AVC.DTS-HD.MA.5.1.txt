@@ -1,0 +1,205 @@
+Disc Title:     LE MONDE DES MIROIRS MAGIQUES - 3D
+Disc Label:     The.Snow.Queen.4.Mirror.Lands.2018.1080p.2D3D.FRE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      33,103,607,620 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00024.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00024.MPLS                                                      AVC     1:27:29 22,595,364,864  33,103,607,620  34.44   24.00   DTS-HD Master 5.1 4248Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LE MONDE DES MIROIRS MAGIQUES - 3D
+Disc Label:     The.Snow.Queen.4.Mirror.Lands.2018.1080p.2D3D.FRE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      33,103,607,620 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00024.MPLS
+Length:                 1:27:29.202 (h:m:s.ms)
+Size:                   22,595,364,864 bytes
+Total Bitrate:          34.44 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24003 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             French          4248 kbps       5.1 / 48 kHz /  4248 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4190 kbps       5.1 / 48 kHz /  4190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          29.366 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00026.M2TS      0:00:00.000     1:27:29.202     22,595,364,864  34,436          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:27:29.202     24,003 kbps     53,179 kbps     00:25:37.452    36,577 kbps     00:00:57.682    33,370 kbps     00:00:06.965    125,140 bytes   982,547 bytes   00:09:41.414    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00026.M2TS      4113 (0x1011)   0x1B            AVC                                     5249.077                24,003                  15,749,497,940  85,668,379      
+00026.M2TS      4352 (0x1100)   0x86            DTS-HD MA       fra (French)            5249.077                4,248                   2,787,221,952   15,970,064      
+00026.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5249.077                4,190                   2,748,986,572   15,757,550      
+00026.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5249.077                29                      19,268,638      112,314         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LE MONDE DES MIROIRS MAGIQUES - 3D
+Disc Label: The.Snow.Queen.4.Mirror.Lands.2018.1080p.2D3D.FRE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 33,103,607,620 bytes
+Protection: AACS
+Playlist: 00024.MPLS
+Size: 22,595,364,864 bytes
+Length: 1:27:29.202
+Total Bitrate: 34.44 Mbps
+Video: MPEG-4 AVC Video / 24003 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  4248 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: French / 29.366 kbps
+
+
+********************
+PLAYLIST: 00025.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00025.MPLS                                                      AVC     1:27:29 22,595,364,864  33,103,607,620  34.44   24.00   DTS-HD Master 5.1 4248Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     LE MONDE DES MIROIRS MAGIQUES - 3D
+Disc Label:     The.Snow.Queen.4.Mirror.Lands.2018.1080p.2D3D.FRE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      33,103,607,620 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00025.MPLS
+Length:                 1:27:29.202 (h:m:s.ms)
+Size:                   22,595,364,864 bytes
+Total Bitrate:          34.44 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24003 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             French          4248 kbps       5.1 / 48 kHz /  4248 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4190 kbps       5.1 / 48 kHz /  4190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          29.366 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00026.M2TS      0:00:00.000     1:27:29.202     22,595,364,864  34,436          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:22.071     24,169 kbps     46,539 kbps     00:00:57.891    36,577 kbps     00:00:57.682    33,370 kbps     00:00:06.965    125,989 bytes   979,648 bytes   00:04:11.501    
+2               0:05:22.071     0:05:24.824     24,264 kbps     42,496 kbps     00:09:49.797    33,341 kbps     00:08:22.543    30,233 kbps     00:08:21.542    126,500 bytes   982,547 bytes   00:09:41.414    
+3               0:10:46.896     0:06:00.985     25,547 kbps     42,683 kbps     00:13:11.457    33,284 kbps     00:10:48.814    31,145 kbps     00:10:46.896    133,193 bytes   976,905 bytes   00:14:19.108    
+4               0:16:47.881     0:10:10.443     23,976 kbps     53,179 kbps     00:25:37.452    34,310 kbps     00:26:18.994    31,964 kbps     00:26:13.989    125,000 bytes   978,858 bytes   00:20:11.376    
+5               0:26:58.325     0:07:18.771     25,089 kbps     39,940 kbps     00:27:55.799    32,163 kbps     00:31:30.096    29,639 kbps     00:32:11.429    130,804 bytes   979,636 bytes   00:27:08.293    
+6               0:34:17.096     0:05:49.766     25,791 kbps     37,397 kbps     00:36:07.832    33,279 kbps     00:35:20.076    31,386 kbps     00:35:19.075    134,463 bytes   917,313 bytes   00:35:20.409    
+7               0:40:06.862     0:09:27.692     25,173 kbps     38,063 kbps     00:48:26.361    31,249 kbps     00:47:58.041    29,923 kbps     00:45:52.875    131,239 bytes   944,799 bytes   00:49:34.554    
+8               0:49:34.554     0:06:11.788     25,061 kbps     42,566 kbps     00:51:57.739    32,673 kbps     00:53:30.415    31,950 kbps     00:53:25.202    130,658 bytes   943,632 bytes   00:51:57.781    
+9               0:55:46.343     0:07:51.262     25,830 kbps     42,122 kbps     01:02:16.774    33,555 kbps     01:02:01.384    32,370 kbps     01:02:01.259    134,664 bytes   972,724 bytes   01:01:57.004    
+10              1:03:37.605     0:05:37.920     25,538 kbps     38,280 kbps     01:07:45.811    31,309 kbps     01:08:38.155    29,072 kbps     01:08:33.150    133,141 bytes   956,885 bytes   01:07:45.853    
+11              1:09:15.526     0:08:40.853     24,901 kbps     38,292 kbps     01:15:55.384    31,590 kbps     01:15:54.466    29,486 kbps     01:15:54.466    129,823 bytes   942,819 bytes   01:15:25.771    
+12              1:17:56.380     0:09:32.822     15,821 kbps     52,065 kbps     01:18:24.658    33,697 kbps     01:18:24.658    31,259 kbps     01:19:10.495    82,491 bytes    961,464 bytes   01:21:09.823    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00026.M2TS      4113 (0x1011)   0x1B            AVC                                     5249.077                24,003                  15,749,497,940  85,668,379      
+00026.M2TS      4352 (0x1100)   0x86            DTS-HD MA       fra (French)            5249.077                4,248                   2,787,221,952   15,970,064      
+00026.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5249.077                4,190                   2,748,986,572   15,757,550      
+00026.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5249.077                29                      19,268,638      112,314         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: LE MONDE DES MIROIRS MAGIQUES - 3D
+Disc Label: The.Snow.Queen.4.Mirror.Lands.2018.1080p.2D3D.FRE.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 33,103,607,620 bytes
+Protection: AACS
+Playlist: 00025.MPLS
+Size: 22,595,364,864 bytes
+Length: 1:27:29.202
+Total Bitrate: 34.44 Mbps
+Video: MPEG-4 AVC Video / 24003 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  4248 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4190 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: French / 29.366 kbps
+

@@ -1,0 +1,119 @@
+Disc Label:     Savva.3D.2015.MULTi.COMPLETE.BLURAY-FRiENDLESS
+Disc Size:      29,793,942,840 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00006.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00006.MPLS                                                      AVC     1:27:30 16,180,432,896  29,793,942,840  24.66   19.08   DTS-HD Master 5.1 2075Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Savva.3D.2015.MULTi.COMPLETE.BLURAY-FRiENDLESS
+Disc Size:      29,793,942,840 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00006.MPLS
+Length:                 1:27:30.161 (h:m:s.ms)
+Size:                   16,180,432,896 bytes
+Total Bitrate:          24.66 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19081 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2075 kbps       5.1 / 48 kHz /  2075 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+DTS-HD Master Audio             English         2090 kbps       5.1 / 48 kHz /  2090 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.010 kbps                      
+Presentation Graphics           German          25.885 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00023.M2TS      0:00:00.000     1:27:30.161     16,180,432,896  24,655          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:59.465     18,580 kbps     41,339 kbps     00:00:14.848    32,384 kbps     00:01:00.226    30,904 kbps     00:00:55.221    96,856 bytes    716,113 bytes   00:01:24.834    
+2               0:04:59.465     0:08:40.353     18,354 kbps     41,538 kbps     00:11:42.201    32,956 kbps     00:13:30.893    29,660 kbps     00:13:28.432    95,689 bytes    983,007 bytes   00:12:26.746    
+3               0:13:39.819     0:08:37.183     21,785 kbps     39,437 kbps     00:20:09.416    34,788 kbps     00:20:06.413    30,011 kbps     00:16:46.213    113,575 bytes   929,872 bytes   00:14:05.761    
+4               0:22:17.002     0:08:04.400     22,721 kbps     38,685 kbps     00:26:14.114    32,371 kbps     00:25:17.933    29,287 kbps     00:22:50.077    118,459 bytes   948,805 bytes   00:26:24.874    
+5               0:30:21.402     0:09:32.697     19,090 kbps     35,352 kbps     00:30:22.862    31,594 kbps     00:38:10.413    28,533 kbps     00:34:05.960    99,527 bytes    759,882 bytes   00:32:04.589    
+6               0:39:54.100     0:09:01.290     20,817 kbps     46,408 kbps     00:45:19.299    32,256 kbps     00:46:30.162    30,032 kbps     00:40:52.491    108,528 bytes   824,916 bytes   00:43:46.790    
+7               0:48:55.390     0:04:42.532     16,357 kbps     34,210 kbps     00:53:13.690    26,995 kbps     00:50:42.372    26,072 kbps     00:50:43.081    85,278 bytes    615,903 bytes   00:52:42.784    
+8               0:53:37.923     0:03:57.362     19,301 kbps     38,057 kbps     00:55:35.248    34,212 kbps     00:54:10.330    30,662 kbps     00:56:03.193    100,626 bytes   946,273 bytes   00:54:15.335    
+9               0:57:35.285     0:07:00.837     21,208 kbps     46,573 kbps     01:01:45.284    35,127 kbps     00:59:40.577    28,667 kbps     01:03:13.331    110,568 bytes   956,923 bytes   01:01:18.883    
+10              1:04:36.122     0:03:21.910     21,590 kbps     39,184 kbps     01:06:31.028    31,462 kbps     01:07:11.527    30,555 kbps     01:07:07.106    112,561 bytes   903,520 bytes   01:07:12.778    
+11              1:07:58.032     0:06:56.624     16,400 kbps     38,751 kbps     01:14:48.734    34,203 kbps     01:14:46.732    29,955 kbps     01:13:33.951    85,501 bytes    944,351 bytes   01:13:53.846    
+12              1:14:54.656     0:12:35.504     14,919 kbps     43,825 kbps     01:19:51.328    33,901 kbps     01:19:51.328    28,503 kbps     01:16:48.478    77,788 bytes    974,760 bytes   01:18:44.052    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00023.M2TS      4113 (0x1011)   0x1B            AVC                                     5249.995                19,082                  12,522,454,172  68,130,291      
+00023.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5249.995                2,075                   1,361,839,208   7,908,548       
+00023.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5249.995                2,090                   1,371,526,464   7,959,712       
+00023.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5249.995                0                       6,762           44              
+00023.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5249.995                26                      16,987,805      98,614          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Savva.3D.2015.MULTi.COMPLETE.BLURAY-FRiENDLESS
+Disc Size: 29,793,942,840 bytes
+Protection: AACS
+Playlist: 00006.MPLS
+Size: 16,180,432,896 bytes
+Length: 1:27:30.161
+Total Bitrate: 24.66 Mbps
+Video: MPEG-4 AVC Video / 19081 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2075 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2090 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   768 kbps / 16-bit)
+Subtitle: German / 0.010 kbps
+Subtitle: German / 25.885 kbps
+
