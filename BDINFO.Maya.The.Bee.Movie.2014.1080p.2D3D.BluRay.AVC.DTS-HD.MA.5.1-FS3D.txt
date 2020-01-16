@@ -1,0 +1,112 @@
+Disc Label:     Maya.The.Bee.Movie.2014.1080p.2D3D.BluRay.AVC.DTS-HD.MA.5.1-FS3D
+Disc Size:      25,670,556,836 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:28:10 18,759,634,944  25,670,556,836  28.37   22.01   DTS-HD Master 5.1 3216Kbps (48kHz/24-bit) DTS 5.1 1509Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Maya.The.Bee.Movie.2014.1080p.2D3D.BluRay.AVC.DTS-HD.MA.5.1-FS3D
+Disc Size:      25,670,556,836 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:28:10.493 (h:m:s.ms)
+Size:                   18,759,634,944 bytes
+Total Bitrate:          28.37 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22005 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3216 kbps       5.1 / 48 kHz /  3216 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       English         1509 kbps       5.1 / 48 kHz /  1509 kbps / 24-bit
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:10.493     18,759,634,944  28,367          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:00.000     20,322 kbps     58,244 kbps     00:00:01.001    34,526 kbps     00:04:10.208    32,153 kbps     00:04:09.374    105,932 bytes   674,410 bytes   00:00:01.126    
+2               0:05:00.000     0:05:00.000     22,656 kbps     41,770 kbps     00:09:22.353    32,581 kbps     00:09:22.270    30,655 kbps     00:06:18.377    118,115 bytes   978,880 bytes   00:09:25.648    
+3               0:10:00.000     0:05:00.000     22,930 kbps     36,044 kbps     00:14:52.057    29,818 kbps     00:11:21.597    27,124 kbps     00:14:33.747    119,541 bytes   824,771 bytes   00:10:09.442    
+4               0:15:00.000     0:05:00.000     22,709 kbps     41,618 kbps     00:19:04.393    31,150 kbps     00:16:00.751    30,098 kbps     00:15:59.875    118,390 bytes   862,096 bytes   00:19:32.087    
+5               0:20:00.000     0:05:00.000     21,440 kbps     50,480 kbps     00:23:49.052    31,888 kbps     00:23:48.009    29,543 kbps     00:23:48.927    111,777 bytes   898,053 bytes   00:23:50.762    
+6               0:25:00.000     0:05:00.000     20,648 kbps     37,272 kbps     00:29:22.427    30,695 kbps     00:28:42.053    28,687 kbps     00:29:21.885    107,661 bytes   700,465 bytes   00:25:42.666    
+7               0:30:00.000     0:05:00.000     22,708 kbps     39,776 kbps     00:34:07.795    31,780 kbps     00:34:04.167    28,563 kbps     00:33:59.162    118,387 bytes   709,503 bytes   00:31:32.974    
+8               0:35:00.000     0:05:00.000     22,856 kbps     38,799 kbps     00:38:14.750    30,871 kbps     00:36:40.239    27,525 kbps     00:35:32.880    119,156 bytes   957,321 bytes   00:39:47.802    
+9               0:40:00.000     0:05:00.000     23,474 kbps     40,034 kbps     00:40:08.155    31,068 kbps     00:44:35.714    28,250 kbps     00:44:30.709    122,379 bytes   814,386 bytes   00:44:36.590    
+10              0:45:00.000     0:05:00.000     23,439 kbps     38,110 kbps     00:49:37.057    30,334 kbps     00:48:56.224    28,778 kbps     00:48:52.763    122,197 bytes   810,801 bytes   00:49:58.995    
+11              0:50:00.000     0:05:00.000     23,419 kbps     38,279 kbps     00:51:31.505    30,548 kbps     00:52:29.479    29,255 kbps     00:52:24.099    122,112 bytes   869,890 bytes   00:50:39.828    
+12              0:55:00.000     0:05:00.000     20,726 kbps     40,226 kbps     00:56:41.689    34,845 kbps     00:58:00.018    30,433 kbps     00:57:55.013    108,052 bytes   705,344 bytes   00:58:06.024    
+13              1:00:00.000     0:05:00.000     19,861 kbps     37,629 kbps     01:00:13.901    31,423 kbps     01:01:08.664    29,008 kbps     01:01:09.082    103,544 bytes   707,164 bytes   01:00:32.378    
+14              1:05:00.000     0:05:00.000     18,324 kbps     43,704 kbps     01:09:44.054    33,785 kbps     01:05:18.372    30,738 kbps     01:05:13.367    95,528 bytes    787,129 bytes   01:05:22.335    
+15              1:10:00.000     0:05:00.000     23,482 kbps     40,950 kbps     01:14:33.260    30,277 kbps     01:13:02.002    28,193 kbps     01:12:17.249    122,421 bytes   765,781 bytes   01:14:33.927    
+16              1:15:00.000     0:05:00.000     22,284 kbps     35,800 kbps     01:15:41.244    31,538 kbps     01:18:00.759    30,522 kbps     01:18:00.842    116,190 bytes   743,448 bytes   01:16:22.244    
+17              1:20:00.000     0:05:00.000     22,340 kbps     38,020 kbps     01:22:06.379    31,761 kbps     01:24:44.287    31,143 kbps     01:24:44.162    116,469 bytes   966,389 bytes   01:22:09.758    
+18              1:25:00.000     0:03:10.493     22,746 kbps     37,442 kbps     01:27:56.062    31,613 kbps     01:25:48.476    30,798 kbps     01:25:45.515    118,620 bytes   978,598 bytes   01:26:57.045    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5290.368                22,006                  14,552,289,358  79,162,665      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5290.368                3,216                   2,126,850,064   12,381,312      
+00000.M2TS      4353 (0x1101)   0x82            DTS             eng (English)           5290.368                1,509                   997,809,879     5,948,196       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Maya.The.Bee.Movie.2014.1080p.2D3D.BluRay.AVC.DTS-HD.MA.5.1-FS3D
+Disc Size: 25,670,556,836 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 18,759,634,944 bytes
+Length: 1:28:10.493
+Total Bitrate: 28.37 Mbps
+Video: MPEG-4 AVC Video / 22005 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3216 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS Audio / 5.1 / 48 kHz /  1509 kbps / 24-bit
+
