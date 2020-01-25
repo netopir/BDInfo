@@ -1,0 +1,175 @@
+Disc Title:     Abominable 3D
+Disc Label:     Abominable.2019.HK.3D.Blu-Ray.1080p.AVC.TrueHD.Atmos.7.1-TTG
+Disc Size:      39,852,598,528 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:37:12 27,007,829,184  39,852,598,528  37.04   26.47   Dolby Atmos 7.1 3489Kbps (48kHz/16-bit)   
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Abominable 3D
+Disc Label:     Abominable.2019.HK.3D.Blu-Ray.1080p.AVC.TrueHD.Atmos.7.1-TTG
+Disc Size:      39,852,598,528 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:37:12.827 (h:m:s.ms)
+Size:                   27,007,829,184 bytes
+Total Bitrate:          37.04 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26470 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         3489 kbps       7.1 / 48 kHz /  3041 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Thai            640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Plus Audio        Chinese         768 kbps        7.1 / 48 kHz /   768 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Dolby Digital Plus Audio        Chinese         768 kbps        7.1 / 48 kHz /   768 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Dolby Digital Audio             Arabic          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         38.206 kbps                     
+Presentation Graphics           Czech           20.852 kbps                     
+Presentation Graphics           Hindi           21.023 kbps                     
+Presentation Graphics           Thai            19.606 kbps                     
+Presentation Graphics           Chinese         18.363 kbps                     
+Presentation Graphics           Chinese         20.094 kbps                     
+Presentation Graphics           Arabic          12.973 kbps                     
+Presentation Graphics           Croatian        22.479 kbps                     
+Presentation Graphics           Czech           0.107 kbps                      
+Presentation Graphics           Thai            0.053 kbps                      
+Presentation Graphics           Arabic          0.019 kbps                      
+Presentation Graphics           Croatian        0.105 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:37:12.827     27,007,829,184  37,043          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:11.834     26,661 kbps     34,251 kbps     00:02:09.379    31,215 kbps     00:00:19.310    30,944 kbps     00:00:14.347    138,974 bytes   357,808 bytes   00:03:56.945    
+2               0:04:11.834     0:04:59.048     28,461 kbps     33,255 kbps     00:06:25.968    31,218 kbps     00:04:24.347    30,998 kbps     00:04:19.342    148,382 bytes   455,460 bytes   00:08:01.272    
+3               0:09:10.883     0:04:31.354     25,196 kbps     32,617 kbps     00:10:15.698    30,798 kbps     00:10:12.445    30,153 kbps     00:10:11.319    131,363 bytes   388,185 bytes   00:10:12.945    
+4               0:13:42.238     0:02:31.359     27,605 kbps     33,377 kbps     00:13:53.207    31,049 kbps     00:14:49.680    30,948 kbps     00:14:20.317    143,919 bytes   478,580 bytes   00:13:54.208    
+5               0:16:13.597     0:05:21.154     26,448 kbps     32,971 kbps     00:18:40.327    31,240 kbps     00:18:36.323    31,038 kbps     00:16:37.079    137,888 bytes   443,897 bytes   00:18:36.365    
+6               0:21:34.751     0:03:27.707     27,093 kbps     34,183 kbps     00:24:15.996    31,131 kbps     00:23:24.319    30,683 kbps     00:24:10.323    141,248 bytes   359,141 bytes   00:21:54.771    
+7               0:25:02.459     0:04:27.976     25,761 kbps     32,478 kbps     00:26:48.440    30,931 kbps     00:26:48.815    30,849 kbps     00:26:46.730    134,305 bytes   385,004 bytes   00:26:50.400    
+8               0:29:30.435     0:04:27.016     26,627 kbps     33,617 kbps     00:33:20.623    31,116 kbps     00:33:43.521    30,945 kbps     00:32:35.620    138,824 bytes   583,237 bytes   00:33:19.706    
+9               0:33:57.452     0:02:46.332     30,171 kbps     39,540 kbps     00:36:41.741    32,662 kbps     00:36:37.737    31,799 kbps     00:36:32.732    157,298 bytes   606,284 bytes   00:35:03.726    
+10              0:36:43.784     0:05:09.225     24,833 kbps     33,110 kbps     00:41:52.009    31,182 kbps     00:37:47.848    30,177 kbps     00:40:50.531    135,653 bytes   538,500 bytes   00:37:51.018    
+11              0:41:53.010     0:04:37.694     28,176 kbps     33,950 kbps     00:42:46.563    31,482 kbps     00:42:24.375    31,099 kbps     00:42:38.556    146,896 bytes   637,304 bytes   00:42:18.244    
+12              0:46:30.704     0:04:11.626     24,799 kbps     34,655 kbps     00:49:15.952    31,239 kbps     00:49:17.746    30,468 kbps     00:49:14.743    129,290 bytes   588,175 bytes   00:47:41.275    
+13              0:50:42.330     0:05:49.223     27,002 kbps     40,741 kbps     00:52:09.501    32,143 kbps     00:52:05.539    31,010 kbps     00:55:26.948    140,776 bytes   639,306 bytes   00:54:59.296    
+14              0:56:31.554     0:05:08.975     29,443 kbps     34,890 kbps     01:01:01.532    31,577 kbps     01:00:27.332    31,142 kbps     01:00:26.247    153,500 bytes   629,224 bytes   01:00:32.337    
+15              1:01:40.530     0:04:52.667     24,730 kbps     33,276 kbps     01:06:00.247    31,257 kbps     01:06:21.018    30,999 kbps     01:06:14.095    128,933 bytes   531,141 bytes   01:05:21.751    
+16              1:06:33.197     0:05:11.227     26,396 kbps     33,511 kbps     01:08:35.653    31,380 kbps     01:09:23.534    31,060 kbps     01:09:04.431    137,616 bytes   541,803 bytes   01:09:22.783    
+17              1:11:44.425     0:03:41.930     25,490 kbps     35,280 kbps     01:13:31.532    30,973 kbps     01:11:52.391    30,669 kbps     01:11:49.305    132,894 bytes   441,025 bytes   01:11:49.346    
+18              1:15:26.355     0:05:15.189     26,456 kbps     34,827 kbps     01:18:13.146    31,291 kbps     01:18:21.446    30,782 kbps     01:16:46.018    137,931 bytes   393,993 bytes   01:20:41.545    
+19              1:20:41.545     0:06:02.862     26,155 kbps     34,060 kbps     01:25:58.236    31,331 kbps     01:23:58.116    30,744 kbps     01:23:53.570    136,359 bytes   487,726 bytes   01:25:08.353    
+20              1:26:44.407     0:10:28.419     25,131 kbps     39,555 kbps     01:27:34.707    32,261 kbps     01:28:16.249    31,007 kbps     01:28:14.872    131,031 bytes   591,898 bytes   01:27:35.541    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5832.744                26,471                  19,299,504,780  104,972,641     
+00800.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           5832.744                3,489                   2,543,823,940   17,229,762      
+00800.M2TS      4353 (0x1101)   0x81            AC3             ces (Czech)             5832.744                638                     465,497,600     2,727,525       
+00800.M2TS      4354 (0x1102)   0x81            AC3             tha (Thai)              5832.744                638                     465,497,600     2,727,525       
+00800.M2TS      4355 (0x1103)   0x84            AC3+            zho (Chinese)           5832.744                766                     558,597,120     3,273,030       
+00800.M2TS      4356 (0x1104)   0x84            AC3+            zho (Chinese)           5832.744                766                     558,597,120     3,273,030       
+00800.M2TS      4357 (0x1105)   0x81            AC3             ara (Arabic)            5832.744                638                     465,497,600     2,727,525       
+00800.M2TS      4358 (0x1106)   0x81            AC3             hrv (Croatian)          5832.744                638                     465,497,600     2,727,525       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5832.744                38                      27,856,187      162,153         
+00800.M2TS      4609 (0x1201)   0x90            PGS             ces (Czech)             5832.744                21                      15,202,930      89,555          
+00800.M2TS      4610 (0x1202)   0x90            PGS             hin (Hindi)             5832.744                21                      15,327,961      90,201          
+00800.M2TS      4611 (0x1203)   0x90            PGS             tha (Thai)              5832.744                20                      14,294,898      85,177          
+00800.M2TS      4612 (0x1204)   0x90            PGS             zho (Chinese)           5832.744                18                      13,388,205      80,192          
+00800.M2TS      4613 (0x1205)   0x90            PGS             zho (Chinese)           5832.744                20                      14,650,280      87,176          
+00800.M2TS      4614 (0x1206)   0x90            PGS             ara (Arabic)            5832.744                13                      9,458,738       58,631          
+00800.M2TS      4615 (0x1207)   0x90            PGS             hrv (Croatian)          5832.744                22                      16,389,633      96,012          
+00800.M2TS      4616 (0x1208)   0x90            PGS             ces (Czech)             5832.744                0                       77,930          472             
+00800.M2TS      4617 (0x1209)   0x90            PGS             tha (Thai)              5832.744                0                       38,791          232             
+00800.M2TS      4618 (0x120A)   0x90            PGS             ara (Arabic)            5832.744                0                       13,768          89              
+00800.M2TS      4619 (0x120B)   0x90            PGS             hrv (Croatian)          5832.744                0                       76,625          466             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Abominable 3D
+Disc Label: Abominable.2019.HK.3D.Blu-Ray.1080p.AVC.TrueHD.Atmos.7.1-TTG
+Disc Size: 39,852,598,528 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 27,007,829,184 bytes
+Length: 1:37:12.827
+Total Bitrate: 37.04 Mbps
+Video: MPEG-4 AVC Video / 26470 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  3041 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Thai / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Chinese / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Audio: Chinese / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -31dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -31dB)
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 38.206 kbps
+Subtitle: Czech / 20.852 kbps
+Subtitle: Hindi / 21.023 kbps
+Subtitle: Thai / 19.606 kbps
+Subtitle: Chinese / 18.363 kbps
+Subtitle: Chinese / 20.094 kbps
+Subtitle: Arabic / 12.973 kbps
+Subtitle: Croatian / 22.479 kbps
+Subtitle: Czech / 0.107 kbps
+Subtitle: Thai / 0.053 kbps
+Subtitle: Arabic / 0.019 kbps
+Subtitle: Croatian / 0.105 kbps
+

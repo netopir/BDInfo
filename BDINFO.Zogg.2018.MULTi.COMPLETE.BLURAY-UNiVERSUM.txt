@@ -1,0 +1,193 @@
+Disc Title:     Zogg
+Disc Label:     Zogg.2018.MULTi.COMPLETE.BLURAY-UNiVERSUM
+Disc Size:      16,449,466,217 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     0:27:20 8,825,610,240   16,449,466,217  43.04   33.00   DTS-HD Master 5.1 3775Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Zogg
+Disc Label:     Zogg.2018.MULTi.COMPLETE.BLURAY-UNiVERSUM
+Disc Size:      16,449,466,217 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 0:27:20.520 (h:m:s.ms)
+Size:                   8,825,610,240 bytes
+Total Bitrate:          43.04 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32999 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3775 kbps       5.1 / 48 kHz /  3775 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -6dB)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -24dB
+DTS-HD Master Audio             English         3689 kbps       5.1 / 48 kHz /  3689 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          22.197 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     0:27:20.520     8,825,610,240   43,038          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:38.800     33,786 kbps     44,099 kbps     00:00:43.760    37,571 kbps     00:00:39.800    36,551 kbps     00:00:34.760    168,908 bytes   640,511 bytes   00:03:06.560    
+2               0:05:38.800     0:05:16.640     34,381 kbps     43,787 kbps     00:08:04.040    37,545 kbps     00:08:00.000    36,417 kbps     00:07:55.000    171,905 bytes   640,919 bytes   00:07:33.840    
+3               0:10:55.440     0:05:28.719     33,904 kbps     43,563 kbps     00:14:15.240    37,182 kbps     00:14:11.240    36,376 kbps     00:14:06.200    169,521 bytes   640,731 bytes   00:13:08.400    
+4               0:16:24.160     0:05:30.400     33,374 kbps     42,039 kbps     00:17:06.640    36,453 kbps     00:21:40.119    35,893 kbps     00:17:29.200    166,871 bytes   640,136 bytes   00:17:08.000    
+5               0:21:54.560     0:05:25.960     29,544 kbps     39,442 kbps     00:22:28.000    36,658 kbps     00:22:23.920    35,735 kbps     00:23:12.400    147,737 bytes   636,931 bytes   00:24:42.880    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     1640.360                33,002                  6,766,851,465   36,800,233      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            1640.360                3,776                   774,183,552     4,461,928       
+00021.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            1640.360                224                     45,935,232      256,335         
+00021.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           1640.360                3,689                   756,479,636     4,366,523       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            1640.360                22                      4,551,774       26,711          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Zogg
+Disc Label: Zogg.2018.MULTi.COMPLETE.BLURAY-UNiVERSUM
+Disc Size: 16,449,466,217 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 8,825,610,240 bytes
+Length: 0:27:20.520
+Total Bitrate: 43.04 Mbps
+Video: MPEG-4 AVC Video / 32999 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3775 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -6dB)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -24dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3689 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+Subtitle: German / 22.197 kbps
+
+
+********************
+PLAYLIST: 00101.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00101.MPLS                                                      AVC     0:14:52 4,105,961,472   16,449,466,217  36.82   34.99   DD AC3 2.0 224Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Zogg
+Disc Label:     Zogg.2018.MULTi.COMPLETE.BLURAY-UNiVERSUM
+Disc Size:      16,449,466,217 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00101.MPLS
+Length:                 0:14:52.000 (h:m:s.ms)
+Size:                   4,105,961,472 bytes
+Total Bitrate:          36.82 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        34990 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -23dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00101.M2TS      0:00:00.000     0:14:52.000     4,105,961,472   36,825          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:14:52.000     34,990 kbps     46,911 kbps     00:08:06.920    41,125 kbps     00:08:02.920    40,252 kbps     00:07:33.760    174,949 bytes   638,942 bytes   00:05:18.839    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00101.M2TS      4113 (0x1011)   0x1B            AVC                                     891.840                 34,996                  3,901,353,028   21,215,944      
+00101.M2TS      4352 (0x1100)   0x81            AC3             deu (German)            891.840                 224                     24,976,000      139,375         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Zogg
+Disc Label: Zogg.2018.MULTi.COMPLETE.BLURAY-UNiVERSUM
+Disc Size: 16,449,466,217 bytes
+Protection: AACS
+Playlist: 00101.MPLS
+Size: 4,105,961,472 bytes
+Length: 0:14:52.000
+Total Bitrate: 36.82 Mbps
+Video: MPEG-4 AVC Video / 34990 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -23dB
+
