@@ -1,0 +1,129 @@
+Disc Title:     Playmobil - Der Film
+Disc Label:     Playmobil.Der.Film.2019.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      47,042,282,889 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:39:47 20,702,545,920  47,042,282,889  27.66   17.99   DTS-HD Master 5.1 3815Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Playmobil - Der Film
+Disc Label:     Playmobil.Der.Film.2019.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      47,042,282,889 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:39:47.291 (h:m:s.ms)
+Size:                   20,702,545,920 bytes
+Total Bitrate:          27.66 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        17992 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3815 kbps       5.1 / 48 kHz /  3815 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -23dB
+DTS-HD Master Audio             English         3855 kbps       5.1 / 48 kHz /  3855 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          37.287 kbps                     
+Presentation Graphics           German          42.295 kbps                     
+Presentation Graphics           German          0.046 kbps                      
+Presentation Graphics           English         0.343 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:39:47.291     20,702,545,920  27,662          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:09.041     21,506 kbps     34,452 kbps     00:08:26.124    31,783 kbps     00:00:05.083    28,497 kbps     00:05:07.583    112,003 bytes   470,967 bytes   00:02:54.791    
+2               0:10:09.041     0:08:44.750     19,532 kbps     33,895 kbps     00:17:16.000    32,163 kbps     00:16:34.333    31,914 kbps     00:16:36.083    101,732 bytes   480,748 bytes   00:14:33.833    
+3               0:18:53.791     0:09:38.833     21,008 kbps     33,722 kbps     00:21:27.416    31,545 kbps     00:21:27.416    30,437 kbps     00:21:22.916    109,417 bytes   438,934 bytes   00:22:23.958    
+4               0:28:32.625     0:09:04.166     17,200 kbps     27,363 kbps     00:28:53.291    22,297 kbps     00:28:34.250    21,228 kbps     00:30:14.666    89,584 bytes    381,010 bytes   00:37:07.708    
+5               0:37:36.791     0:10:08.333     16,322 kbps     28,338 kbps     00:47:01.333    25,711 kbps     00:45:12.791    23,308 kbps     00:45:12.541    85,012 bytes    363,947 bytes   00:45:36.541    
+6               0:47:45.125     0:09:34.458     16,137 kbps     32,369 kbps     00:53:58.208    26,206 kbps     00:53:56.458    23,502 kbps     00:53:55.916    84,049 bytes    360,208 bytes   00:53:59.750    
+7               0:57:19.583     0:10:04.333     16,323 kbps     32,938 kbps     01:02:34.208    25,514 kbps     01:02:33.666    22,897 kbps     01:02:19.041    85,016 bytes    411,763 bytes   01:03:32.250    
+8               1:07:23.916     0:10:05.750     19,039 kbps     35,114 kbps     01:10:21.791    32,159 kbps     01:11:01.791    29,677 kbps     01:11:00.541    99,164 bytes    460,151 bytes   01:11:33.708    
+9               1:17:29.666     0:09:16.208     18,912 kbps     31,481 kbps     01:17:50.625    27,226 kbps     01:17:31.416    25,341 kbps     01:25:00.791    98,501 bytes    392,853 bytes   01:25:07.166    
+10              1:26:45.875     0:13:01.416     15,020 kbps     33,668 kbps     01:27:06.000    31,875 kbps     01:30:02.416    31,661 kbps     01:29:59.625    78,233 bytes    376,228 bytes   01:30:03.666    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5987.125                17,992                  13,465,145,491  73,263,861      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5987.125                3,815                   2,854,954,444   16,454,025      
+00021.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5987.125                224                     167,644,288     935,515         
+00021.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           5987.125                3,855                   2,885,264,884   16,626,561      
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5987.125                37                      27,905,815      160,816         
+00021.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5987.125                42                      31,654,131      182,633         
+00021.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5987.125                0                       34,718          202             
+00021.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           5987.125                0                       256,908         1,524           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Playmobil - Der Film
+Disc Label: Playmobil.Der.Film.2019.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 47,042,282,889 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 20,702,545,920 bytes
+Length: 1:39:47.291
+Total Bitrate: 27.66 Mbps
+Video: MPEG-4 AVC Video / 17992 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3815 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -23dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3855 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -7dB)
+Subtitle: German / 37.287 kbps
+Subtitle: German / 42.295 kbps
+Subtitle: German / 0.046 kbps
+Subtitle: English / 0.343 kbps
+

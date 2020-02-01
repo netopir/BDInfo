@@ -1,0 +1,115 @@
+Disc Label:     A.Spasso.Col.Panda.2019.Bluray.1080p.AVC.iTA-ENG.DTS-HD.5.1-CYBER
+Disc Size:      24,615,133,681 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:24:20 23,876,265,984  24,615,133,681  37.74   27.00   DTS-HD Master 5.1 4296Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     A.Spasso.Col.Panda.2019.Bluray.1080p.AVC.iTA-ENG.DTS-HD.5.1-CYBER
+Disc Size:      24,615,133,681 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:24:20.958 (h:m:s.ms)
+Size:                   23,876,265,984 bytes
+Total Bitrate:          37.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26996 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         4296 kbps       5.1 / 48 kHz /  4296 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         4320 kbps       5.1 / 48 kHz /  4320 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         27.098 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:24:20.958     23,876,265,984  37,742          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:29.041     13,332 kbps     35,336 kbps     00:00:27.999    21,465 kbps     00:00:24.041    18,014 kbps     00:00:18.999    69,340 bytes    268,810 bytes   00:00:29.041    
+2               0:00:29.041     0:07:53.500     31,757 kbps     41,693 kbps     00:02:42.124    36,124 kbps     00:02:38.083    35,399 kbps     00:02:38.666    165,401 bytes   640,861 bytes   00:03:31.625    
+3               0:08:22.541     0:06:30.250     26,968 kbps     42,728 kbps     00:11:47.333    36,655 kbps     00:11:43.333    35,721 kbps     00:11:38.291    140,459 bytes   640,766 bytes   00:11:19.541    
+4               0:14:52.791     0:07:25.041     29,347 kbps     43,709 kbps     00:19:56.791    36,205 kbps     00:18:47.750    35,038 kbps     00:16:47.541    152,851 bytes   640,731 bytes   00:19:08.166    
+5               0:22:17.833     0:08:39.458     30,245 kbps     37,676 kbps     00:26:26.208    35,338 kbps     00:26:28.708    35,067 kbps     00:26:48.666    157,528 bytes   525,271 bytes   00:29:43.416    
+6               0:30:57.291     0:09:40.208     27,297 kbps     37,905 kbps     00:40:05.125    35,427 kbps     00:40:12.375    34,888 kbps     00:35:41.583    142,172 bytes   588,965 bytes   00:40:36.666    
+7               0:40:37.500     0:08:18.375     26,885 kbps     39,159 kbps     00:46:33.916    35,672 kbps     00:46:29.916    35,286 kbps     00:46:24.916    140,024 bytes   638,504 bytes   00:47:15.375    
+8               0:48:55.875     0:06:15.583     29,263 kbps     39,450 kbps     00:50:17.041    35,467 kbps     00:50:29.625    35,154 kbps     00:53:02.375    152,411 bytes   639,691 bytes   00:50:38.166    
+9               0:55:11.458     0:05:21.499     25,852 kbps     38,196 kbps     00:56:53.791    35,489 kbps     00:56:50.000    34,838 kbps     00:57:54.958    134,648 bytes   585,186 bytes   00:56:47.166    
+10              1:00:32.958     0:04:40.416     27,547 kbps     38,444 kbps     01:04:03.916    35,412 kbps     01:03:56.083    35,128 kbps     01:03:51.000    143,472 bytes   585,697 bytes   01:04:01.041    
+11              1:05:13.375     0:08:25.875     26,448 kbps     44,334 kbps     01:13:20.541    35,762 kbps     01:12:56.541    35,085 kbps     01:13:26.375    137,748 bytes   637,126 bytes   01:13:03.041    
+12              1:13:39.250     0:06:08.250     29,599 kbps     40,305 kbps     01:14:13.666    35,700 kbps     01:16:27.541    35,146 kbps     01:14:56.333    154,164 bytes   639,474 bytes   01:15:08.375    
+13              1:19:47.500     0:04:33.458     4,979 kbps      13,192 kbps     01:20:15.708    8,907 kbps      01:20:11.458    7,716 kbps      01:20:10.791    25,936 bytes    182,291 bytes   01:20:31.416    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5060.792                26,997                  17,078,075,863  92,886,265      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5060.792                4,296                   2,717,871,428   15,559,692      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5060.792                4,320                   2,732,932,936   15,641,332      
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5060.792                27                      17,142,504      98,680          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: A.Spasso.Col.Panda.2019.Bluray.1080p.AVC.iTA-ENG.DTS-HD.5.1-CYBER
+Disc Size: 24,615,133,681 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 23,876,265,984 bytes
+Length: 1:24:20.958
+Total Bitrate: 37.74 Mbps
+Video: MPEG-4 AVC Video / 26996 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  4296 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4320 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 27.098 kbps
+
