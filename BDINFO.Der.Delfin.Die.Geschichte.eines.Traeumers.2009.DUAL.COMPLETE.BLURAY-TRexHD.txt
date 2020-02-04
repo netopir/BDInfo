@@ -1,0 +1,233 @@
+Disc Title:     Der Delfin
+Disc Label:     Der.Delfin.Die.Geschichte.eines.Traeumers.2009.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      23,973,710,755 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:27:57 19,556,001,792  23,973,710,755  29.65   22.97   DTS-HD Master 5.1 2421Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der Delfin
+Disc Label:     Der.Delfin.Die.Geschichte.eines.Traeumers.2009.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      23,973,710,755 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:27:57.230 (h:m:s.ms)
+Size:                   19,556,001,792 bytes
+Total Bitrate:          29.65 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22972 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2421 kbps       5.1 / 48 kHz /  2421 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Spanish         2440 kbps       5.1 / 48 kHz /  2440 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          45.479 kbps                     
+Presentation Graphics           German          0.200 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:27:45.260     19,527,690,240  29,670          
+00021.M2TS      1:27:45.260     0:00:11.970     28,311,552      18,921          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:46.817     31,155 kbps     50,568 kbps     00:05:11.936    40,165 kbps     00:05:07.932    38,943 kbps     00:05:02.927    162,413 bytes   504,588 bytes   00:04:17.382    
+2               0:08:46.817     0:08:46.901     21,435 kbps     32,794 kbps     00:09:57.722    29,658 kbps     00:12:36.964    29,249 kbps     00:12:33.502    111,750 bytes   373,080 bytes   00:12:39.550    
+3               0:17:33.719     0:10:13.237     28,932 kbps     41,293 kbps     00:23:53.890    38,315 kbps     00:22:43.236    38,013 kbps     00:22:42.778    150,836 bytes   485,675 bytes   00:23:54.766    
+4               0:27:46.956     0:07:08.469     25,196 kbps     39,036 kbps     00:33:26.462    36,328 kbps     00:28:00.011    35,660 kbps     00:28:00.136    131,362 bytes   452,376 bytes   00:32:45.546    
+5               0:34:55.426     0:09:06.254     22,704 kbps     40,258 kbps     00:35:23.412    37,779 kbps     00:42:34.051    36,264 kbps     00:35:57.572    118,368 bytes   400,032 bytes   00:38:29.682    
+6               0:44:01.680     0:07:07.552     19,810 kbps     40,311 kbps     00:46:38.795    37,712 kbps     00:46:34.750    36,729 kbps     00:46:30.454    103,282 bytes   444,050 bytes   00:49:56.910    
+7               0:51:09.232     0:05:01.467     21,965 kbps     37,633 kbps     00:51:41.223    32,905 kbps     00:51:37.636    29,326 kbps     00:51:35.801    114,516 bytes   396,223 bytes   00:54:58.545    
+8               0:56:10.700     0:11:14.340     18,571 kbps     39,228 kbps     00:56:47.612    36,995 kbps     01:06:10.091    31,806 kbps     01:05:22.960    96,819 bytes    446,139 bytes   01:05:31.510    
+9               1:07:25.041     0:10:33.758     26,311 kbps     40,496 kbps     01:11:03.300    38,250 kbps     01:10:40.194    38,069 kbps     01:10:40.694    137,171 bytes   522,868 bytes   01:10:58.837    
+10              1:17:58.799     0:09:58.431     13,856 kbps     40,238 kbps     01:18:10.686    38,456 kbps     01:20:17.854    37,982 kbps     01:20:12.766    72,245 bytes    463,774 bytes   01:27:52.308    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5265.093                22,992                  15,131,808,868  82,311,537      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5265.093                2,423                   1,594,411,372   9,490,492       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       spa (Spanish)           5265.093                2,442                   1,607,177,424   9,556,899       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5265.093                46                      30,000,208      170,610         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5265.093                0                       132,137         753             
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     11.803                  14,671                  21,646,737      117,800         
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            11.803                  1,583                   2,335,840       14,599          
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       spa (Spanish)           11.803                  1,583                   2,335,840       14,599          
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            11.803                  0                       70              7               
+00021.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            11.803                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der Delfin
+Disc Label: Der.Delfin.Die.Geschichte.eines.Traeumers.2009.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size: 23,973,710,755 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 19,556,001,792 bytes
+Length: 1:27:57.230
+Total Bitrate: 29.65 Mbps
+Video: MPEG-4 AVC Video / 22972 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2421 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  2440 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 45.479 kbps
+Subtitle: German / 0.200 kbps
+
+
+********************
+PLAYLIST: 00602.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00602.MPLS                                                      AVC     1:27:57 19,556,001,792  23,973,710,755  29.65   22.97   DTS-HD Master 5.1 2421Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der Delfin
+Disc Label:     Der.Delfin.Die.Geschichte.eines.Traeumers.2009.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      23,973,710,755 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00602.MPLS
+Length:                 1:27:57.230 (h:m:s.ms)
+Size:                   19,556,001,792 bytes
+Total Bitrate:          29.65 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22972 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2421 kbps       5.1 / 48 kHz /  2421 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Spanish         2440 kbps       5.1 / 48 kHz /  2440 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          45.479 kbps                     
+Presentation Graphics           German          0.200 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:27:45.260     19,527,690,240  29,670          
+00021.M2TS      1:27:45.260     0:00:11.970     28,311,552      18,921          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:46.817     31,155 kbps     50,568 kbps     00:05:11.936    40,165 kbps     00:05:07.932    38,943 kbps     00:05:02.927    162,413 bytes   504,588 bytes   00:04:17.382    
+2               0:08:46.817     0:08:46.901     21,435 kbps     32,794 kbps     00:09:57.722    29,658 kbps     00:12:36.964    29,249 kbps     00:12:33.502    111,750 bytes   373,080 bytes   00:12:39.550    
+3               0:17:33.719     0:10:13.237     28,932 kbps     41,293 kbps     00:23:53.890    38,315 kbps     00:22:43.236    38,013 kbps     00:22:42.778    150,836 bytes   485,675 bytes   00:23:54.766    
+4               0:27:46.956     0:07:08.469     25,196 kbps     39,036 kbps     00:33:26.462    36,328 kbps     00:28:00.011    35,660 kbps     00:28:00.136    131,362 bytes   452,376 bytes   00:32:45.546    
+5               0:34:55.426     0:09:06.254     22,704 kbps     40,258 kbps     00:35:23.412    37,779 kbps     00:42:34.051    36,264 kbps     00:35:57.572    118,368 bytes   400,032 bytes   00:38:29.682    
+6               0:44:01.680     0:07:07.552     19,810 kbps     40,311 kbps     00:46:38.795    37,712 kbps     00:46:34.750    36,729 kbps     00:46:30.454    103,282 bytes   444,050 bytes   00:49:56.910    
+7               0:51:09.232     0:05:01.467     21,965 kbps     37,633 kbps     00:51:41.223    32,905 kbps     00:51:37.636    29,326 kbps     00:51:35.801    114,516 bytes   396,223 bytes   00:54:58.545    
+8               0:56:10.700     0:11:14.340     18,571 kbps     39,228 kbps     00:56:47.612    36,995 kbps     01:06:10.091    31,806 kbps     01:05:22.960    96,819 bytes    446,139 bytes   01:05:31.510    
+9               1:07:25.041     0:10:33.758     26,311 kbps     40,496 kbps     01:11:03.300    38,250 kbps     01:10:40.194    38,069 kbps     01:10:40.694    137,171 bytes   522,868 bytes   01:10:58.837    
+10              1:17:58.799     0:09:58.431     13,856 kbps     40,238 kbps     01:18:10.686    38,456 kbps     01:20:17.854    37,982 kbps     01:20:12.766    72,245 bytes    463,774 bytes   01:27:52.308    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5265.093                22,992                  15,131,808,868  82,311,537      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5265.093                2,423                   1,594,411,372   9,490,492       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       spa (Spanish)           5265.093                2,442                   1,607,177,424   9,556,899       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5265.093                46                      30,000,208      170,610         
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5265.093                0                       132,137         753             
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     11.803                  14,671                  21,646,737      117,800         
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            11.803                  1,583                   2,335,840       14,599          
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       spa (Spanish)           11.803                  1,583                   2,335,840       14,599          
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            11.803                  0                       70              7               
+00021.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            11.803                  0                       70              7               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der Delfin
+Disc Label: Der.Delfin.Die.Geschichte.eines.Traeumers.2009.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size: 23,973,710,755 bytes
+Protection: AACS
+Playlist: 00602.MPLS
+Size: 19,556,001,792 bytes
+Length: 1:27:57.230
+Total Bitrate: 29.65 Mbps
+Video: MPEG-4 AVC Video / 22972 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2421 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  2440 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 45.479 kbps
+Subtitle: German / 0.200 kbps
+
