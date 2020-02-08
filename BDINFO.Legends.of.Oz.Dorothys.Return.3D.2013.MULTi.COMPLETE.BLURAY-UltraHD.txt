@@ -1,0 +1,210 @@
+Disc Title:     Die Legende von Oz
+Disc Label:     Legends.of.Oz.Dorothys.Return.3D.2013.MULTi.COMPLETE.BLURAY-UltraHD
+Disc Size:      48,081,579,689 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:32:17 17,534,552,064  48,081,579,689  25.33   18.99   DTS-HD Master 5.1 2380Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Legende von Oz
+Disc Label:     Legends.of.Oz.Dorothys.Return.3D.2013.MULTi.COMPLETE.BLURAY-UltraHD
+Disc Size:      48,081,579,689 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:32:17.949 (h:m:s.ms)
+Size:                   17,534,552,064 bytes
+Total Bitrate:          25.33 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        18989 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2380 kbps       5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2380 kbps       5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.220 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:32:17.949     17,534,552,064  25,330          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:52.406     19,059 kbps     40,845 kbps     00:08:51.405    37,447 kbps     00:00:06.214    33,879 kbps     00:00:02.460    99,356 bytes    640,033 bytes   00:06:25.134    
+2               0:08:52.406     0:13:31.435     21,396 kbps     42,325 kbps     00:09:51.716    38,103 kbps     00:13:55.626    37,868 kbps     00:13:50.538    111,550 bytes   639,893 bytes   00:09:48.462    
+3               0:22:23.842     0:12:58.694     20,919 kbps     39,563 kbps     00:33:34.137    37,951 kbps     00:22:33.060    36,614 kbps     00:22:28.513    109,061 bytes   640,302 bytes   00:23:54.808    
+4               0:35:22.537     0:10:40.848     17,190 kbps     40,099 kbps     00:35:27.708    34,466 kbps     00:35:26.958    30,498 kbps     00:35:25.414    89,621 bytes    621,182 bytes   00:40:18.499    
+5               0:46:03.385     0:09:53.801     23,713 kbps     42,428 kbps     00:49:39.101    38,444 kbps     00:50:57.512    38,145 kbps     00:50:52.424    123,629 bytes   639,999 bytes   00:49:04.691    
+6               0:55:57.187     0:10:53.069     17,442 kbps     43,767 kbps     01:01:57.922    35,803 kbps     00:56:26.549    33,250 kbps     00:57:52.218    90,937 bytes    562,626 bytes   00:59:39.576    
+7               1:06:50.256     0:07:24.777     16,615 kbps     32,753 kbps     01:11:36.208    24,992 kbps     01:08:48.207    22,812 kbps     01:12:02.818    86,622 bytes    575,744 bytes   01:13:53.512    
+8               1:14:15.033     0:09:46.919     20,854 kbps     40,839 kbps     01:19:10.245    37,724 kbps     01:17:05.454    32,749 kbps     01:17:01.408    108,722 bytes   639,365 bytes   01:21:59.039    
+9               1:24:01.953     0:08:15.995     10,572 kbps     24,621 kbps     01:26:57.629    17,236 kbps     01:26:53.666    16,042 kbps     01:26:48.578    55,124 bytes    421,820 bytes   01:29:20.521    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5537.782                18,989                  13,144,925,157  71,516,954      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5537.782                2,380                   1,647,772,664   9,811,997       
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5537.782                2,380                   1,647,446,944   9,810,411       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5537.782                0                       152,447         861             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Legende von Oz
+Disc Label: Legends.of.Oz.Dorothys.Return.3D.2013.MULTi.COMPLETE.BLURAY-UltraHD
+Disc Size: 48,081,579,689 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 17,534,552,064 bytes
+Length: 1:32:17.949
+Total Bitrate: 25.33 Mbps
+Video: MPEG-4 AVC Video / 18989 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.220 kbps
+
+
+********************
+PLAYLIST: 00022.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      AVC     1:32:17 21,051,273,216  48,081,579,689  30.41   23.86   DTS-HD Master 5.1 2380Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Legende von Oz
+Disc Label:     Legends.of.Oz.Dorothys.Return.3D.2013.MULTi.COMPLETE.BLURAY-UltraHD
+Disc Size:      48,081,579,689 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS
+Length:                 1:32:17.949 (h:m:s.ms)
+Size:                   21,051,273,216 bytes
+Total Bitrate:          30.41 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23857 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2380 kbps       5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2380 kbps       5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.220 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     1:32:17.949     21,051,273,216  30,410          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:52.406     23,561 kbps     44,388 kbps     00:08:20.374    29,299 kbps     00:04:16.923    27,945 kbps     00:04:38.069    122,825 bytes   741,084 bytes   00:06:24.550    
+2               0:08:52.406     0:13:31.435     23,910 kbps     44,760 kbps     00:13:48.577    31,093 kbps     00:13:49.203    28,764 kbps     00:13:49.203    124,654 bytes   779,023 bytes   00:09:00.915    
+3               0:22:23.842     0:12:58.694     24,217 kbps     41,051 kbps     00:28:19.197    31,164 kbps     00:26:17.409    29,321 kbps     00:29:17.797    126,255 bytes   781,664 bytes   00:24:41.438    
+4               0:35:22.537     0:10:40.848     23,560 kbps     37,985 kbps     00:45:52.833    28,802 kbps     00:45:38.527    26,921 kbps     00:45:38.652    122,831 bytes   695,479 bytes   00:40:19.834    
+5               0:46:03.385     0:09:53.801     24,422 kbps     45,680 kbps     00:48:39.333    29,762 kbps     00:49:50.529    28,313 kbps     00:50:09.006    127,323 bytes   769,508 bytes   00:52:28.728    
+6               0:55:57.187     0:10:53.069     23,515 kbps     44,595 kbps     01:01:57.505    28,809 kbps     00:58:11.321    27,474 kbps     00:56:35.100    122,596 bytes   771,376 bytes   01:02:26.743    
+7               1:06:50.256     0:07:24.777     24,446 kbps     43,332 kbps     01:11:35.332    28,641 kbps     01:11:31.245    27,231 kbps     01:13:48.924    127,451 bytes   686,524 bytes   01:14:10.237    
+8               1:14:15.033     0:09:46.919     24,511 kbps     39,931 kbps     01:18:21.279    29,265 kbps     01:19:06.241    27,495 kbps     01:18:43.927    127,790 bytes   782,957 bytes   01:21:58.038    
+9               1:24:01.953     0:08:15.995     22,381 kbps     39,307 kbps     01:30:07.485    29,967 kbps     01:30:03.481    27,754 kbps     01:30:07.860    116,695 bytes   544,078 bytes   01:29:20.646    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x1B            AVC                                     5537.866                23,857                  16,514,932,287  89,833,239      
+00022.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5537.866                2,380                   1,647,772,664   9,811,997       
+00022.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5537.866                2,380                   1,647,446,944   9,810,411       
+00022.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5537.866                0                       152,447         861             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Legende von Oz
+Disc Label: Legends.of.Oz.Dorothys.Return.3D.2013.MULTi.COMPLETE.BLURAY-UltraHD
+Disc Size: 48,081,579,689 bytes
+Protection: AACS
+Playlist: 00022.MPLS
+Size: 21,051,273,216 bytes
+Length: 1:32:17.949
+Total Bitrate: 30.41 Mbps
+Video: MPEG-4 AVC Video / 23857 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2380 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.220 kbps
+
