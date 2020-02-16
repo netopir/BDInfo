@@ -1,0 +1,122 @@
+Disc Title:     A Shaun The Sheep Movie: Farmageddon
+Disc Label:     A.Shaun.the.Sheep.Movie.Farmageddon.2019.COMPLETE.BLURAY-COASTER
+Disc Size:      33,744,729,531 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:26:46 27,239,077,248  33,744,729,531  41.85   27.77   DTS-HD Master 5.1 3796Kbps (48kHz/24-bit) Dolby Atmos 7.1 4768Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     A Shaun The Sheep Movie: Farmageddon
+Disc Label:     A.Shaun.the.Sheep.Movie.Farmageddon.2019.COMPLETE.BLURAY-COASTER
+Disc Size:      33,744,729,531 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:26:46.541 (h:m:s.ms)
+Size:                   27,239,077,248 bytes
+Total Bitrate:          41.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27774 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3796 kbps       5.1 / 48 kHz /  3796 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby TrueHD/Atmos Audio        English         4768 kbps       7.1 / 48 kHz /  4128 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+LPCM Audio                      English         2304 kbps       2.0 / 48 kHz /  2304 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         24.051 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:26:46.541     27,239,077,248  41,853          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:22.208     27,744 kbps     44,278 kbps     00:04:03.291    36,424 kbps     00:01:48.583    35,774 kbps     00:01:48.374    144,484 bytes   860,029 bytes   00:05:44.458    
+2               0:06:22.208     0:04:27.166     28,254 kbps     40,958 kbps     00:08:56.166    33,709 kbps     00:06:36.500    31,499 kbps     00:09:41.583    147,158 bytes   836,711 bytes   00:06:24.250    
+3               0:10:49.375     0:06:42.125     28,418 kbps     42,274 kbps     00:17:09.124    33,406 kbps     00:17:07.208    32,523 kbps     00:14:22.374    148,008 bytes   856,945 bytes   00:14:58.041    
+4               0:17:31.500     0:05:14.625     28,412 kbps     43,345 kbps     00:20:03.124    35,378 kbps     00:20:03.125    33,502 kbps     00:19:14.416    147,979 bytes   866,938 bytes   00:20:05.041    
+5               0:22:46.125     0:10:05.875     27,542 kbps     45,231 kbps     00:25:12.583    33,330 kbps     00:25:09.083    31,037 kbps     00:24:54.166    143,446 bytes   858,781 bytes   00:26:47.041    
+6               0:32:52.000     0:05:26.833     27,269 kbps     40,558 kbps     00:36:54.124    33,379 kbps     00:37:23.708    31,421 kbps     00:37:33.208    142,026 bytes   859,321 bytes   00:36:55.166    
+7               0:38:18.833     0:06:08.833     28,480 kbps     44,267 kbps     00:44:23.333    35,131 kbps     00:39:16.458    32,016 kbps     00:41:44.791    148,335 bytes   857,418 bytes   00:42:58.958    
+8               0:44:27.666     0:10:16.250     28,148 kbps     44,313 kbps     00:44:29.916    34,510 kbps     00:54:33.000    32,723 kbps     00:54:28.833    146,605 bytes   837,137 bytes   00:52:38.083    
+9               0:54:43.916     0:06:15.291     28,568 kbps     40,807 kbps     00:54:54.916    33,360 kbps     01:00:45.666    32,146 kbps     01:00:40.374    148,792 bytes   841,748 bytes   01:00:01.041    
+10              1:00:59.208     0:04:48.541     28,018 kbps     41,981 kbps     01:03:34.291    35,234 kbps     01:03:08.916    34,117 kbps     01:03:06.916    145,925 bytes   846,713 bytes   01:03:10.041    
+11              1:05:47.750     0:06:37.291     27,584 kbps     42,714 kbps     01:08:46.708    32,673 kbps     01:08:51.083    31,304 kbps     01:11:12.958    143,666 bytes   826,166 bytes   01:07:17.833    
+12              1:12:25.041     0:14:21.500     26,553 kbps     42,596 kbps     01:17:01.374    34,490 kbps     01:16:16.291    31,898 kbps     01:16:13.541    138,315 bytes   840,604 bytes   01:16:19.291    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5206.458                27,775                  18,076,076,238  98,313,972      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5206.458                3,797                   2,470,806,968   14,224,299      
+00000.M2TS      4353 (0x1101)   0x83            Atmos           eng (English)           5206.458                4,769                   3,103,430,762   20,732,727      
+00000.M2TS      4354 (0x1102)   0x80            LPCM            eng (English)           5206.458                2,311                   1,503,878,348   8,331,736       
+00000.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5206.458                24                      15,653,009      92,999          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: A Shaun The Sheep Movie: Farmageddon
+Disc Label: A.Shaun.the.Sheep.Movie.Farmageddon.2019.COMPLETE.BLURAY-COASTER
+Disc Size: 33,744,729,531 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 27,239,077,248 bytes
+Length: 1:26:46.541
+Total Bitrate: 41.85 Mbps
+Video: MPEG-4 AVC Video / 27774 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3796 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4128 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / LPCM Audio / 2.0 / 48 kHz /  2304 kbps / 24-bit
+Subtitle: English / 24.051 kbps
+
