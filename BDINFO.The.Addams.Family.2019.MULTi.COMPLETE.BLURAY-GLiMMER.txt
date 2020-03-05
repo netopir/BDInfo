@@ -1,0 +1,337 @@
+Disc Title:     The Addams Family
+Disc Label:     The.Addams.Family.2019.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size:      34,958,396,910 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00612.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00612.MPLS                                                      AVC     1:27:01 28,211,896,320  34,958,396,910  43.23   29.30   DTS-HD Master 7.1 4319Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Addams Family
+Disc Label:     The.Addams.Family.2019.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size:      34,958,396,910 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00612.MPLS
+Length:                 1:27:01.216 (h:m:s.ms)
+Size:                   28,211,896,320 bytes
+Total Bitrate:          43.23 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29305 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4319 kbps       7.1 / 48 kHz /  4319 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD High-Res Audio           Czech           2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Hungarian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Polish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Croatian        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Romanian        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Slovenian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Slovak          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         49.940 kbps                     
+Presentation Graphics           Czech           38.261 kbps                     
+Presentation Graphics           Hungarian       43.181 kbps                     
+Presentation Graphics           Polish          42.993 kbps                     
+Presentation Graphics           Croatian        39.938 kbps                     
+Presentation Graphics           Romanian        42.381 kbps                     
+Presentation Graphics           Slovenian       37.952 kbps                     
+Presentation Graphics           Hungarian       0.400 kbps                      
+Presentation Graphics           Polish          3.999 kbps                      
+Presentation Graphics           Croatian        4.641 kbps                      
+Presentation Graphics           Romanian        4.437 kbps                      
+Presentation Graphics           Slovak          0.376 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00246.M2TS      0:00:00.000     1:27:01.216     28,211,896,320  43,227          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:08.558     30,135 kbps     43,812 kbps     00:04:45.410    34,876 kbps     00:03:46.392    32,377 kbps     00:03:41.638    157,090 bytes   766,654 bytes   00:02:31.526    
+2               0:05:08.558     0:05:26.909     30,130 kbps     50,506 kbps     00:09:18.391    33,719 kbps     00:10:28.085    32,856 kbps     00:09:09.090    157,085 bytes   780,309 bytes   00:09:18.891    
+3               0:10:35.468     0:05:11.477     29,562 kbps     52,293 kbps     00:10:49.565    34,380 kbps     00:14:53.642    32,873 kbps     00:10:36.218    154,122 bytes   772,566 bytes   00:11:07.625    
+4               0:15:46.946     0:03:48.311     27,912 kbps     40,566 kbps     00:17:58.744    33,286 kbps     00:18:06.919    32,639 kbps     00:18:06.794    145,519 bytes   779,301 bytes   00:18:45.624    
+5               0:19:35.257     0:05:39.547     29,563 kbps     48,071 kbps     00:20:26.350    35,353 kbps     00:20:47.579    33,200 kbps     00:20:42.574    154,128 bytes   783,461 bytes   00:24:31.511    
+6               0:25:14.804     0:04:10.959     28,312 kbps     48,388 kbps     00:26:18.076    34,361 kbps     00:26:14.781    33,018 kbps     00:26:09.109    147,607 bytes   781,917 bytes   00:26:23.999    
+7               0:29:25.764     0:04:54.794     28,342 kbps     45,086 kbps     00:29:35.940    35,342 kbps     00:33:46.524    33,140 kbps     00:33:41.519    147,765 bytes   775,089 bytes   00:32:30.448    
+8               0:34:20.558     0:05:26.409     27,494 kbps     41,164 kbps     00:35:54.110    33,417 kbps     00:38:36.480    32,166 kbps     00:35:54.110    143,339 bytes   781,824 bytes   00:35:23.871    
+9               0:39:46.967     0:05:14.772     29,866 kbps     45,692 kbps     00:44:00.929    33,152 kbps     00:43:52.671    32,339 kbps     00:41:31.780    155,707 bytes   780,146 bytes   00:42:37.638    
+10              0:45:01.740     0:04:05.870     28,997 kbps     48,284 kbps     00:45:53.542    34,369 kbps     00:45:49.663    32,540 kbps     00:47:14.081    151,176 bytes   781,715 bytes   00:49:07.611    
+11              0:49:07.611     0:04:33.314     30,384 kbps     42,130 kbps     00:50:13.135    34,012 kbps     00:50:11.049    32,454 kbps     00:50:06.003    158,409 bytes   782,143 bytes   00:52:44.703    
+12              0:53:40.926     0:02:55.633     29,570 kbps     40,380 kbps     00:56:28.218    32,999 kbps     00:56:26.466    31,948 kbps     00:53:57.192    154,164 bytes   777,977 bytes   00:54:31.101    
+13              0:56:36.559     0:03:24.454     27,669 kbps     42,354 kbps     00:58:15.700    33,659 kbps     00:59:29.274    32,211 kbps     00:58:12.238    144,253 bytes   776,716 bytes   00:58:13.198    
+14              1:00:01.014     0:03:44.933     28,849 kbps     41,594 kbps     01:01:17.465    33,444 kbps     01:01:21.678    32,537 kbps     01:01:08.498    150,406 bytes   780,726 bytes   01:03:34.352    
+15              1:03:45.947     0:02:16.511     29,374 kbps     39,772 kbps     01:05:37.016    33,374 kbps     01:05:20.374    32,278 kbps     01:05:15.411    153,140 bytes   781,279 bytes   01:04:41.043    
+16              1:06:02.458     0:04:52.125     30,277 kbps     43,670 kbps     01:09:48.517    33,099 kbps     01:06:59.849    32,419 kbps     01:06:16.931    157,848 bytes   765,692 bytes   01:10:25.304    
+17              1:10:54.583     0:07:14.892     29,660 kbps     53,876 kbps     01:11:28.200    34,329 kbps     01:11:24.488    32,736 kbps     01:12:02.067    154,633 bytes   781,231 bytes   01:15:09.963    
+18              1:18:09.476     0:02:11.840     29,884 kbps     42,604 kbps     01:19:25.135    34,251 kbps     01:19:52.746    32,627 kbps     01:19:46.198    155,802 bytes   769,175 bytes   01:20:14.434    
+19              1:20:21.316     0:00:50.008     25,276 kbps     39,332 kbps     01:20:56.852    33,750 kbps     01:20:56.518    30,499 kbps     01:20:54.850    131,777 bytes   782,803 bytes   01:21:10.824    
+20              1:21:11.324     0:05:49.891     30,508 kbps     52,393 kbps     01:21:28.967    34,564 kbps     01:21:24.838    32,851 kbps     01:21:43.315    159,071 bytes   726,272 bytes   01:25:19.989    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00246.M2TS      4113 (0x1011)   0x1B            AVC                                     5221.091                29,306                  19,125,920,587  104,018,738     
+00246.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5221.091                4,319                   2,818,623,748   16,133,526      
+00246.M2TS      4353 (0x1101)   0x85            DTS-HD HR       ces (Czech)             5221.091                2,046                   1,335,325,992   7,831,824       
+00246.M2TS      4354 (0x1102)   0x82            DTS             hun (Hungarian)         5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4355 (0x1103)   0x82            DTS             pol (Polish)            5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4356 (0x1104)   0x82            DTS             hrv (Croatian)          5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4357 (0x1105)   0x82            DTS             ron (Romanian)          5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4358 (0x1106)   0x82            DTS             slv (Slovenian)         5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4359 (0x1107)   0x82            DTS             slk (Slovak)            5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5221.091                50                      32,593,598      186,567         
+00246.M2TS      4609 (0x1201)   0x90            PGS             ces (Czech)             5221.091                38                      24,971,266      143,978         
+00246.M2TS      4610 (0x1202)   0x90            PGS             hun (Hungarian)         5221.091                43                      28,182,120      161,414         
+00246.M2TS      4611 (0x1203)   0x90            PGS             pol (Polish)            5221.091                43                      28,059,389      160,779         
+00246.M2TS      4612 (0x1204)   0x90            PGS             hrv (Croatian)          5221.091                40                      26,065,596      149,959         
+00246.M2TS      4613 (0x1205)   0x90            PGS             ron (Romanian)          5221.091                42                      27,659,720      158,590         
+00246.M2TS      4614 (0x1206)   0x90            PGS             slv (Slovenian)         5221.091                38                      24,769,234      142,894         
+00246.M2TS      4615 (0x1207)   0x90            PGS             hun (Hungarian)         5221.091                0                       260,869         1,532           
+00246.M2TS      4616 (0x1208)   0x90            PGS             pol (Polish)            5221.091                4                       2,609,969       14,945          
+00246.M2TS      4617 (0x1209)   0x90            PGS             hrv (Croatian)          5221.091                5                       3,028,802       17,542          
+00246.M2TS      4618 (0x120A)   0x90            PGS             ron (Romanian)          5221.091                4                       2,896,052       16,641          
+00246.M2TS      4619 (0x120B)   0x90            PGS             slk (Slovak)            5221.091                0                       245,233         1,477           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Addams Family
+Disc Label: The.Addams.Family.2019.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size: 34,958,396,910 bytes
+Protection: AACS
+Playlist: 00612.MPLS
+Size: 28,211,896,320 bytes
+Length: 1:27:01.216
+Total Bitrate: 43.23 Mbps
+Video: MPEG-4 AVC Video / 29305 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4319 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Czech / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Hungarian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Polish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Croatian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Romanian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Slovenian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Slovak / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Subtitle: English / 49.940 kbps
+Subtitle: Czech / 38.261 kbps
+Subtitle: Hungarian / 43.181 kbps
+Subtitle: Polish / 42.993 kbps
+Subtitle: Croatian / 39.938 kbps
+Subtitle: Romanian / 42.381 kbps
+Subtitle: Slovenian / 37.952 kbps
+Subtitle: Hungarian / 0.400 kbps
+Subtitle: Polish / 3.999 kbps
+Subtitle: Croatian / 4.641 kbps
+Subtitle: Romanian / 4.437 kbps
+Subtitle: Slovak / 0.376 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:27:01 28,211,896,320  34,958,396,910  43.23   29.30   DTS-HD Master 7.1 4319Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Addams Family
+Disc Label:     The.Addams.Family.2019.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size:      34,958,396,910 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:27:01.216 (h:m:s.ms)
+Size:                   28,211,896,320 bytes
+Total Bitrate:          43.23 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29305 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4319 kbps       7.1 / 48 kHz /  4319 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD High-Res Audio           Czech           2046 kbps       7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS Audio                       Hungarian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Polish          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Croatian        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Romanian        768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Slovenian       768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Slovak          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         49.940 kbps                     
+Presentation Graphics           Czech           38.261 kbps                     
+Presentation Graphics           Hungarian       43.181 kbps                     
+Presentation Graphics           Polish          42.993 kbps                     
+Presentation Graphics           Croatian        39.938 kbps                     
+Presentation Graphics           Romanian        42.381 kbps                     
+Presentation Graphics           Slovenian       37.952 kbps                     
+Presentation Graphics           Hungarian       0.400 kbps                      
+Presentation Graphics           Polish          3.999 kbps                      
+Presentation Graphics           Croatian        4.641 kbps                      
+Presentation Graphics           Romanian        4.437 kbps                      
+Presentation Graphics           Slovak          0.376 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00246.M2TS      0:00:00.000     1:27:01.216     28,211,896,320  43,227          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:08.558     30,135 kbps     43,812 kbps     00:04:45.410    34,876 kbps     00:03:46.392    32,377 kbps     00:03:41.638    157,090 bytes   766,654 bytes   00:02:31.526    
+2               0:05:08.558     0:05:26.909     30,130 kbps     50,506 kbps     00:09:18.391    33,719 kbps     00:10:28.085    32,856 kbps     00:09:09.090    157,085 bytes   780,309 bytes   00:09:18.891    
+3               0:10:35.468     0:05:11.477     29,562 kbps     52,293 kbps     00:10:49.565    34,380 kbps     00:14:53.642    32,873 kbps     00:10:36.218    154,122 bytes   772,566 bytes   00:11:07.625    
+4               0:15:46.946     0:03:48.311     27,912 kbps     40,566 kbps     00:17:58.744    33,286 kbps     00:18:06.919    32,639 kbps     00:18:06.794    145,519 bytes   779,301 bytes   00:18:45.624    
+5               0:19:35.257     0:05:39.547     29,563 kbps     48,071 kbps     00:20:26.350    35,353 kbps     00:20:47.579    33,200 kbps     00:20:42.574    154,128 bytes   783,461 bytes   00:24:31.511    
+6               0:25:14.804     0:04:10.959     28,312 kbps     48,388 kbps     00:26:18.076    34,361 kbps     00:26:14.781    33,018 kbps     00:26:09.109    147,607 bytes   781,917 bytes   00:26:23.999    
+7               0:29:25.764     0:04:54.794     28,342 kbps     45,086 kbps     00:29:35.940    35,342 kbps     00:33:46.524    33,140 kbps     00:33:41.519    147,765 bytes   775,089 bytes   00:32:30.448    
+8               0:34:20.558     0:05:26.409     27,494 kbps     41,164 kbps     00:35:54.110    33,417 kbps     00:38:36.480    32,166 kbps     00:35:54.110    143,339 bytes   781,824 bytes   00:35:23.871    
+9               0:39:46.967     0:05:14.772     29,866 kbps     45,692 kbps     00:44:00.929    33,152 kbps     00:43:52.671    32,339 kbps     00:41:31.780    155,707 bytes   780,146 bytes   00:42:37.638    
+10              0:45:01.740     0:04:05.870     28,997 kbps     48,284 kbps     00:45:53.542    34,369 kbps     00:45:49.663    32,540 kbps     00:47:14.081    151,176 bytes   781,715 bytes   00:49:07.611    
+11              0:49:07.611     0:04:33.314     30,384 kbps     42,130 kbps     00:50:13.135    34,012 kbps     00:50:11.049    32,454 kbps     00:50:06.003    158,409 bytes   782,143 bytes   00:52:44.703    
+12              0:53:40.926     0:02:55.633     29,570 kbps     40,380 kbps     00:56:28.218    32,999 kbps     00:56:26.466    31,948 kbps     00:53:57.192    154,164 bytes   777,977 bytes   00:54:31.101    
+13              0:56:36.559     0:03:24.454     27,669 kbps     42,354 kbps     00:58:15.700    33,659 kbps     00:59:29.274    32,211 kbps     00:58:12.238    144,253 bytes   776,716 bytes   00:58:13.198    
+14              1:00:01.014     0:03:44.933     28,849 kbps     41,594 kbps     01:01:17.465    33,444 kbps     01:01:21.678    32,537 kbps     01:01:08.498    150,406 bytes   780,726 bytes   01:03:34.352    
+15              1:03:45.947     0:02:16.511     29,374 kbps     39,772 kbps     01:05:37.016    33,374 kbps     01:05:20.374    32,278 kbps     01:05:15.411    153,140 bytes   781,279 bytes   01:04:41.043    
+16              1:06:02.458     0:04:52.125     30,277 kbps     43,670 kbps     01:09:48.517    33,099 kbps     01:06:59.849    32,419 kbps     01:06:16.931    157,848 bytes   765,692 bytes   01:10:25.304    
+17              1:10:54.583     0:07:14.892     29,660 kbps     53,876 kbps     01:11:28.200    34,329 kbps     01:11:24.488    32,736 kbps     01:12:02.067    154,633 bytes   781,231 bytes   01:15:09.963    
+18              1:18:09.476     0:02:11.840     29,884 kbps     42,604 kbps     01:19:25.135    34,251 kbps     01:19:52.746    32,627 kbps     01:19:46.198    155,802 bytes   769,175 bytes   01:20:14.434    
+19              1:20:21.316     0:00:50.008     25,276 kbps     39,332 kbps     01:20:56.852    33,750 kbps     01:20:56.518    30,499 kbps     01:20:54.850    131,777 bytes   782,803 bytes   01:21:10.824    
+20              1:21:11.324     0:05:49.891     30,508 kbps     52,393 kbps     01:21:28.967    34,564 kbps     01:21:24.838    32,851 kbps     01:21:43.315    159,071 bytes   726,272 bytes   01:25:19.989    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00246.M2TS      4113 (0x1011)   0x1B            AVC                                     5221.091                29,306                  19,125,920,587  104,018,738     
+00246.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5221.091                4,319                   2,818,623,748   16,133,526      
+00246.M2TS      4353 (0x1101)   0x85            DTS-HD HR       ces (Czech)             5221.091                2,046                   1,335,325,992   7,831,824       
+00246.M2TS      4354 (0x1102)   0x82            DTS             hun (Hungarian)         5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4355 (0x1103)   0x82            DTS             pol (Polish)            5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4356 (0x1104)   0x82            DTS             hrv (Croatian)          5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4357 (0x1105)   0x82            DTS             ron (Romanian)          5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4358 (0x1106)   0x82            DTS             slv (Slovenian)         5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4359 (0x1107)   0x82            DTS             slk (Slovak)            5221.091                768                     501,236,736     2,936,934       
+00246.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5221.091                50                      32,593,598      186,567         
+00246.M2TS      4609 (0x1201)   0x90            PGS             ces (Czech)             5221.091                38                      24,971,266      143,978         
+00246.M2TS      4610 (0x1202)   0x90            PGS             hun (Hungarian)         5221.091                43                      28,182,120      161,414         
+00246.M2TS      4611 (0x1203)   0x90            PGS             pol (Polish)            5221.091                43                      28,059,389      160,779         
+00246.M2TS      4612 (0x1204)   0x90            PGS             hrv (Croatian)          5221.091                40                      26,065,596      149,959         
+00246.M2TS      4613 (0x1205)   0x90            PGS             ron (Romanian)          5221.091                42                      27,659,720      158,590         
+00246.M2TS      4614 (0x1206)   0x90            PGS             slv (Slovenian)         5221.091                38                      24,769,234      142,894         
+00246.M2TS      4615 (0x1207)   0x90            PGS             hun (Hungarian)         5221.091                0                       260,869         1,532           
+00246.M2TS      4616 (0x1208)   0x90            PGS             pol (Polish)            5221.091                4                       2,609,969       14,945          
+00246.M2TS      4617 (0x1209)   0x90            PGS             hrv (Croatian)          5221.091                5                       3,028,802       17,542          
+00246.M2TS      4618 (0x120A)   0x90            PGS             ron (Romanian)          5221.091                4                       2,896,052       16,641          
+00246.M2TS      4619 (0x120B)   0x90            PGS             slk (Slovak)            5221.091                0                       245,233         1,477           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Addams Family
+Disc Label: The.Addams.Family.2019.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size: 34,958,396,910 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 28,211,896,320 bytes
+Length: 1:27:01.216
+Total Bitrate: 43.23 Mbps
+Video: MPEG-4 AVC Video / 29305 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4319 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Czech / DTS-HD High-Res Audio / 7.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Hungarian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Polish / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Croatian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Romanian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Slovenian / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Slovak / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Subtitle: English / 49.940 kbps
+Subtitle: Czech / 38.261 kbps
+Subtitle: Hungarian / 43.181 kbps
+Subtitle: Polish / 42.993 kbps
+Subtitle: Croatian / 39.938 kbps
+Subtitle: Romanian / 42.381 kbps
+Subtitle: Slovenian / 37.952 kbps
+Subtitle: Hungarian / 0.400 kbps
+Subtitle: Polish / 3.999 kbps
+Subtitle: Croatian / 4.641 kbps
+Subtitle: Romanian / 4.437 kbps
+Subtitle: Slovak / 0.376 kbps
+
