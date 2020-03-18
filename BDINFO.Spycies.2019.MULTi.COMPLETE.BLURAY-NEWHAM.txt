@@ -1,0 +1,212 @@
+Disc Label:     Spycies.2019.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size:      21,628,969,809 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 01005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01005.MPLS                                                      AVC     1:39:34 19,303,464,960  21,628,969,809  25.85   20.00   DTS-HD Master 5.1 2161Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Spycies.2019.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size:      21,628,969,809 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01005.MPLS
+Length:                 1:39:34.416 (h:m:s.ms)
+Size:                   19,303,464,960 bytes
+Total Bitrate:          25.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19999 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2161 kbps       5.1 / 48 kHz /  2161 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+DTS-HD Master Audio             English         2138 kbps       5.1 / 48 kHz /  2138 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.287 kbps                      
+Presentation Graphics           German          38.639 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:39:34.000     19,303,452,672  25,850          
+00017.M2TS      1:39:34.000     0:00:00.416     12,288          236             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:09.916     25,104 kbps     56,962 kbps     00:03:57.000    40,704 kbps     00:01:41.333    37,829 kbps     00:04:47.333    130,738 bytes   725,802 bytes   00:02:09.416    
+2               0:06:09.916     0:08:14.666     17,001 kbps     50,386 kbps     00:12:02.375    40,001 kbps     00:09:33.500    37,596 kbps     00:09:32.458    88,545 bytes    768,525 bytes   00:12:14.541    
+3               0:14:24.583     0:09:35.958     21,406 kbps     54,693 kbps     00:20:28.041    36,145 kbps     00:17:41.000    34,505 kbps     00:18:33.083    111,488 bytes   579,120 bytes   00:18:13.791    
+4               0:24:00.541     0:05:22.708     19,755 kbps     48,776 kbps     00:29:05.291    33,378 kbps     00:29:05.083    28,364 kbps     00:27:29.833    102,893 bytes   646,564 bytes   00:29:07.166    
+5               0:29:23.250     0:13:03.833     20,534 kbps     60,532 kbps     00:35:09.500    38,593 kbps     00:34:13.416    34,000 kbps     00:34:13.750    106,948 bytes   615,814 bytes   00:34:14.208    
+6               0:42:27.083     0:07:35.541     14,247 kbps     29,799 kbps     00:49:08.208    24,963 kbps     00:49:06.291    22,055 kbps     00:49:19.083    74,201 bytes    470,678 bytes   00:49:14.250    
+7               0:50:02.625     0:08:31.375     22,104 kbps     48,483 kbps     00:52:27.333    37,216 kbps     00:53:38.125    35,303 kbps     00:55:28.541    115,123 bytes   731,187 bytes   00:52:28.375    
+8               0:58:34.000     0:11:19.916     19,906 kbps     62,357 kbps     01:08:53.916    40,693 kbps     01:08:35.833    37,667 kbps     01:05:24.416    103,679 bytes   730,615 bytes   01:05:59.458    
+9               1:09:53.916     0:04:43.500     17,495 kbps     47,959 kbps     01:13:26.458    35,968 kbps     01:13:25.250    27,473 kbps     01:13:20.833    91,118 bytes    814,163 bytes   01:13:29.500    
+10              1:14:37.416     0:01:58.083     27,663 kbps     50,730 kbps     01:14:44.541    40,494 kbps     01:15:54.416    37,839 kbps     01:15:14.666    144,081 bytes   905,030 bytes   01:14:46.583    
+11              1:16:35.500     0:16:35.333     24,167 kbps     58,910 kbps     01:26:35.916    40,365 kbps     01:30:49.125    37,398 kbps     01:27:53.958    125,872 bytes   939,892 bytes   01:28:03.958    
+12              1:33:10.833     0:05:57.166     9,431 kbps      35,530 kbps     01:35:02.333    24,925 kbps     01:34:26.750    22,486 kbps     01:34:53.499    49,120 bytes    477,650 bytes   01:33:54.291    
+13              1:39:08.000     0:00:26.416     323 kbps        1,262 kbps      01:39:08.958    618 kbps        01:39:08.041    517 kbps        01:39:08.958    1,685 bytes     78,648 bytes    01:39:09.000    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5973.875                20,001                  14,935,174,129  81,253,378      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5973.875                2,161                   1,613,799,544   9,474,068       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5973.875                2,139                   1,596,987,192   9,381,323       
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5973.875                0                       214,152         1,251           
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5973.875                39                      28,855,690      163,325         
+00017.M2TS      4113 (0x1011)   0x1B            AVC                                     0.250                   170                     5,321           32              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Spycies.2019.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size: 21,628,969,809 bytes
+Protection: AACS
+Playlist: 01005.MPLS
+Size: 19,303,464,960 bytes
+Length: 1:39:34.416
+Total Bitrate: 25.85 Mbps
+Video: MPEG-4 AVC Video / 19999 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2161 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2138 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+Subtitle: German / 0.287 kbps
+Subtitle: German / 38.639 kbps
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:39:34 19,303,452,672  21,628,969,809  25.85   20.00   DTS-HD Master 5.1 2161Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Spycies.2019.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size:      21,628,969,809 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:39:34.000 (h:m:s.ms)
+Size:                   19,303,452,672 bytes
+Total Bitrate:          25.85 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20000 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2161 kbps       5.1 / 48 kHz /  2161 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+DTS-HD Master Audio             English         2139 kbps       5.1 / 48 kHz /  2139 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.287 kbps                      
+Presentation Graphics           German          38.642 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:39:34.000     19,303,452,672  25,850          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:39:34.000     20,000 kbps     62,357 kbps     01:08:53.916    40,704 kbps     00:01:41.333    37,839 kbps     01:15:14.666    104,168 bytes   939,892 bytes   01:28:03.958    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5973.875                20,001                  14,935,174,129  81,253,378      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5973.875                2,161                   1,613,799,544   9,474,068       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5973.875                2,139                   1,596,987,192   9,381,323       
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5973.875                0                       214,152         1,251           
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5973.875                39                      28,855,690      163,325         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Spycies.2019.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size: 21,628,969,809 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 19,303,452,672 bytes
+Length: 1:39:34.000
+Total Bitrate: 25.85 Mbps
+Video: MPEG-4 AVC Video / 20000 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2161 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2139 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1152 kbps / 16-bit / DN -4dB)
+Subtitle: German / 0.287 kbps
+Subtitle: German / 38.642 kbps
+
