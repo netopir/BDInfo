@@ -1,0 +1,178 @@
+Disc Title:     The Lion King 2 - Blu-ray™
+Disc Label:     The.Lion.King.II.Simba's.Pride.1998.1080p.EUR.Blu-ray.AVC.DTS-HD.MA.5.1-KM
+Disc Size:      28,938,094,953 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:20:49 22,965,417,984  28,938,094,953  37.88   29.98   DTS-HD Master 5.1 2351Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Lion King 2 - Blu-ray™
+Disc Label:     The.Lion.King.II.Simba's.Pride.1998.1080p.EUR.Blu-ray.AVC.DTS-HD.MA.5.1-KM
+Disc Size:      28,938,094,953 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:20:49.845 (h:m:s.ms)
+Size:                   22,965,417,984 bytes
+Total Bitrate:          37.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29981 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2351 kbps       5.1 / 48 kHz /  2351 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Bulgarian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Romanian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         25.421 kbps                     
+Presentation Graphics           English         29.069 kbps                     
+Presentation Graphics           Slovak          21.630 kbps                     
+Presentation Graphics           Hebrew          15.528 kbps                     
+Presentation Graphics           Bulgarian       20.633 kbps                     
+Presentation Graphics           Romanian        23.932 kbps                     
+Presentation Graphics           Croatian        20.664 kbps                     
+Presentation Graphics           Slovenian       21.920 kbps                     
+Presentation Graphics           Czech           0.044 kbps                      
+Presentation Graphics           Hebrew          0.031 kbps                      
+Presentation Graphics           Bulgarian       0.047 kbps                      
+Presentation Graphics           Romanian        0.050 kbps                      
+Presentation Graphics           Croatian        0.055 kbps                      
+Presentation Graphics           Czech           20.818 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00030.M2TS      0:00:00.000     1:20:49.845     22,965,417,984  37,882          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:33.129     29,785 kbps     35,826 kbps     00:02:36.030    32,838 kbps     00:02:35.780    31,530 kbps     00:02:35.238    155,253 bytes   393,542 bytes   00:01:26.086    
+2               0:03:33.129     0:02:05.875     29,571 kbps     34,141 kbps     00:04:38.903    32,225 kbps     00:03:37.842    30,637 kbps     00:03:38.092    154,170 bytes   452,339 bytes   00:03:43.389    
+3               0:05:39.005     0:03:37.050     30,422 kbps     35,479 kbps     00:08:14.577    32,697 kbps     00:06:40.024    31,819 kbps     00:07:25.820    158,606 bytes   508,968 bytes   00:06:45.029    
+4               0:09:16.055     0:05:05.013     29,948 kbps     35,998 kbps     00:10:43.225    31,979 kbps     00:10:39.805    31,596 kbps     00:11:08.709    156,136 bytes   471,301 bytes   00:11:25.851    
+5               0:14:21.068     0:04:48.621     29,992 kbps     37,448 kbps     00:19:06.520    32,446 kbps     00:17:44.062    31,551 kbps     00:17:38.307    156,365 bytes   470,322 bytes   00:14:41.463    
+6               0:19:09.690     0:02:38.491     30,295 kbps     35,419 kbps     00:19:42.806    32,757 kbps     00:19:09.815    31,948 kbps     00:20:48.330    157,944 bytes   474,475 bytes   00:20:58.006    
+7               0:21:48.181     0:05:05.722     30,077 kbps     35,833 kbps     00:24:22.461    32,752 kbps     00:24:43.482    32,522 kbps     00:24:42.647    156,806 bytes   450,883 bytes   00:22:09.536    
+8               0:26:53.903     0:04:09.040     29,801 kbps     36,721 kbps     00:30:57.272    32,511 kbps     00:30:16.439    31,875 kbps     00:30:09.098    155,369 bytes   618,673 bytes   00:30:49.764    
+9               0:31:02.944     0:01:57.534     30,507 kbps     34,805 kbps     00:31:48.072    32,514 kbps     00:31:23.965    31,959 kbps     00:32:26.778    159,048 bytes   453,609 bytes   00:31:50.533    
+10              0:33:00.478     0:06:55.790     29,786 kbps     35,487 kbps     00:33:48.276    32,663 kbps     00:33:24.669    31,798 kbps     00:33:24.544    155,289 bytes   454,615 bytes   00:39:33.954    
+11              0:39:56.268     0:04:50.832     30,235 kbps     35,531 kbps     00:43:41.785    32,183 kbps     00:42:08.275    31,735 kbps     00:40:06.237    157,630 bytes   467,796 bytes   00:43:35.487    
+12              0:44:47.101     0:00:53.344     29,821 kbps     31,438 kbps     00:44:50.020    30,572 kbps     00:45:02.616    30,214 kbps     00:45:02.574    155,471 bytes   317,190 bytes   00:45:18.424    
+13              0:45:40.446     0:04:57.505     29,792 kbps     35,377 kbps     00:48:11.889    32,279 kbps     00:48:33.160    31,861 kbps     00:48:36.622    155,324 bytes   449,731 bytes   00:47:20.087    
+14              0:50:37.951     0:05:37.879     29,922 kbps     35,585 kbps     00:51:28.877    32,393 kbps     00:54:23.385    31,449 kbps     00:54:23.385    155,997 bytes   459,470 bytes   00:54:51.830    
+15              0:56:15.830     0:03:35.715     30,195 kbps     35,482 kbps     00:57:56.389    32,799 kbps     00:57:36.369    32,149 kbps     00:57:32.449    157,425 bytes   466,970 bytes   00:56:23.004    
+16              0:59:51.546     0:01:32.842     29,597 kbps     33,689 kbps     01:00:51.731    31,541 kbps     01:00:47.852    30,641 kbps     01:00:44.057    154,306 bytes   408,822 bytes   01:00:46.100    
+17              1:01:24.389     0:03:37.050     29,816 kbps     35,398 kbps     01:01:50.540    31,508 kbps     01:01:41.239    31,292 kbps     01:01:41.531    155,445 bytes   394,787 bytes   01:01:49.163    
+18              1:05:01.439     0:07:52.680     30,106 kbps     34,920 kbps     01:12:32.890    33,140 kbps     01:12:30.804    32,027 kbps     01:12:26.550    156,957 bytes   457,872 bytes   01:05:43.314    
+19              1:12:54.119     0:02:26.396     30,916 kbps     34,028 kbps     01:14:40.392    32,315 kbps     01:13:38.622    32,007 kbps     01:14:32.426    161,180 bytes   488,117 bytes   01:14:11.613    
+20              1:15:20.516     0:05:29.328     29,467 kbps     32,687 kbps     01:19:45.447    32,141 kbps     01:19:42.319    31,363 kbps     01:19:39.900    153,649 bytes   400,034 bytes   01:19:45.781    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00030.M2TS      4113 (0x1011)   0x1B            AVC                                     4849.678                29,982                  18,175,462,119  98,847,423      
+00030.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4849.678                2,351                   1,424,986,200   8,478,447       
+00030.M2TS      4353 (0x1101)   0x81            AC3             ces (Czech)             4849.678                640                     387,988,480     2,273,370       
+00030.M2TS      4354 (0x1102)   0x81            AC3             heb (Hebrew)            4849.678                640                     387,988,480     2,273,370       
+00030.M2TS      4355 (0x1103)   0x81            AC3             bul (Bulgarian)         4849.678                640                     387,988,480     2,273,370       
+00030.M2TS      4356 (0x1104)   0x81            AC3             ron (Romanian)          4849.678                640                     387,988,480     2,273,370       
+00030.M2TS      4357 (0x1105)   0x81            AC3             hrv (Croatian)          4849.678                640                     387,988,480     2,273,370       
+00030.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4849.678                25                      15,410,856      89,552          
+00030.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           4849.678                29                      17,622,344      102,755         
+00030.M2TS      4610 (0x1202)   0x90            PGS             slk (Slovak)            4849.678                22                      13,112,859      75,822          
+00030.M2TS      4611 (0x1203)   0x90            PGS             heb (Hebrew)            4849.678                16                      9,413,759       55,647          
+00030.M2TS      4612 (0x1204)   0x90            PGS             bul (Bulgarian)         4849.678                21                      12,508,273      72,558          
+00030.M2TS      4613 (0x1205)   0x90            PGS             ron (Romanian)          4849.678                24                      14,508,082      84,681          
+00030.M2TS      4614 (0x1206)   0x90            PGS             hrv (Croatian)          4849.678                21                      12,526,984      72,980          
+00030.M2TS      4615 (0x1207)   0x90            PGS             slv (Slovenian)         4849.678                22                      13,288,606      76,796          
+00030.M2TS      4616 (0x1208)   0x90            PGS             ces (Czech)             4849.678                0                       26,430          157             
+00030.M2TS      4617 (0x1209)   0x90            PGS             heb (Hebrew)            4849.678                0                       18,785          116             
+00030.M2TS      4618 (0x120A)   0x90            PGS             bul (Bulgarian)         4849.678                0                       28,603          169             
+00030.M2TS      4619 (0x120B)   0x90            PGS             ron (Romanian)          4849.678                0                       30,588          180             
+00030.M2TS      4620 (0x120C)   0x90            PGS             hrv (Croatian)          4849.678                0                       33,077          193             
+00030.M2TS      4621 (0x120D)   0x90            PGS             ces (Czech)             4849.678                21                      12,620,265      73,132          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Lion King 2 - Blu-ray™
+Disc Label: The.Lion.King.II.Simba's.Pride.1998.1080p.EUR.Blu-ray.AVC.DTS-HD.MA.5.1-KM
+Disc Size: 28,938,094,953 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 22,965,417,984 bytes
+Length: 1:20:49.845
+Total Bitrate: 37.88 Mbps
+Video: MPEG-4 AVC Video / 29981 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2351 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Bulgarian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 25.421 kbps
+Subtitle: English / 29.069 kbps
+Subtitle: Slovak / 21.630 kbps
+Subtitle: Hebrew / 15.528 kbps
+Subtitle: Bulgarian / 20.633 kbps
+Subtitle: Romanian / 23.932 kbps
+Subtitle: Croatian / 20.664 kbps
+Subtitle: Slovenian / 21.920 kbps
+Subtitle: Czech / 0.044 kbps
+Subtitle: Hebrew / 0.031 kbps
+Subtitle: Bulgarian / 0.047 kbps
+Subtitle: Romanian / 0.050 kbps
+Subtitle: Croatian / 0.055 kbps
+Subtitle: Czech / 20.818 kbps
+

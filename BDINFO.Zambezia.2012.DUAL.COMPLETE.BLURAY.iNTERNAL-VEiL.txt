@@ -1,0 +1,119 @@
+Disc Title:     Zambezia - Blu-ray™
+Disc Label:     Zambezia.2012.DUAL.COMPLETE.BLURAY.iNTERNAL-VEiL
+Disc Size:      27,948,694,506 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:22:32 22,430,902,272  27,948,694,506  36.23   29.96   DTS-HD Master 5.1 2214Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Zambezia - Blu-ray™
+Disc Label:     Zambezia.2012.DUAL.COMPLETE.BLURAY.iNTERNAL-VEiL
+Disc Size:      27,948,694,506 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:22:32.322 (h:m:s.ms)
+Size:                   22,430,902,272 bytes
+Total Bitrate:          36.23 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29958 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2214 kbps       5.1 / 48 kHz /  2214 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         1966 kbps       5.1 / 48 kHz /  1966 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          56.080 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:22:32.322     22,430,902,272  36,235          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:52.458     29,174 kbps     57,690 kbps     00:03:09.480    43,045 kbps     00:03:57.320    41,462 kbps     00:04:42.448    152,080 bytes   909,672 bytes   00:03:26.080    
+2               0:04:52.458     0:03:41.095     26,066 kbps     54,640 kbps     00:06:48.199    42,918 kbps     00:07:16.018    39,353 kbps     00:07:13.808    135,896 bytes   932,057 bytes   00:06:29.931    
+3               0:08:33.554     0:06:21.672     29,633 kbps     55,775 kbps     00:09:00.289    43,371 kbps     00:13:06.118    41,938 kbps     00:13:06.035    154,494 bytes   887,957 bytes   00:12:06.600    
+4               0:14:55.227     0:07:39.458     30,460 kbps     58,472 kbps     00:18:31.527    43,610 kbps     00:19:44.600    41,160 kbps     00:19:44.600    158,803 bytes   931,146 bytes   00:20:29.436    
+5               0:22:34.686     0:08:17.955     30,503 kbps     55,482 kbps     00:24:10.782    43,767 kbps     00:25:44.167    41,170 kbps     00:29:59.339    159,030 bytes   933,747 bytes   00:25:01.541    
+6               0:30:52.642     0:07:24.485     32,943 kbps     56,268 kbps     00:36:58.341    43,556 kbps     00:35:36.300    41,662 kbps     00:32:46.547    171,748 bytes   918,626 bytes   00:37:09.769    
+7               0:38:17.128     0:08:37.350     32,826 kbps     56,857 kbps     00:43:29.481    43,401 kbps     00:40:21.961    41,690 kbps     00:39:44.048    171,141 bytes   935,178 bytes   00:39:34.997    
+8               0:46:54.478     0:08:16.787     28,216 kbps     56,121 kbps     00:47:50.534    42,224 kbps     00:54:49.077    41,367 kbps     00:48:01.628    147,104 bytes   934,228 bytes   00:54:42.988    
+9               0:55:11.266     0:07:42.503     30,767 kbps     57,840 kbps     00:58:11.529    43,861 kbps     00:59:12.423    41,515 kbps     00:59:12.006    160,404 bytes   934,131 bytes   01:00:11.816    
+10              1:02:53.770     0:07:36.831     36,711 kbps     58,097 kbps     01:10:09.371    43,650 kbps     01:09:31.333    41,609 kbps     01:07:54.028    191,393 bytes   933,141 bytes   01:09:59.987    
+11              1:10:30.601     0:08:06.944     34,186 kbps     56,277 kbps     01:10:46.533    43,501 kbps     01:11:42.631    41,767 kbps     01:13:52.845    178,233 bytes   928,391 bytes   01:16:38.510    
+12              1:18:37.546     0:03:54.776     1,197 kbps      1,756 kbps      01:21:04.985    1,592 kbps      01:21:02.983    1,567 kbps      01:21:03.066    6,241 bytes     172,761 bytes   01:21:11.992    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     4952.156                29,959                  18,545,057,365  100,857,812     
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4952.156                2,214                   1,370,789,484   8,222,808       
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4952.156                1,966                   1,217,064,480   7,385,560       
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4952.156                56                      34,715,948      195,501         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Zambezia - Blu-ray™
+Disc Label: Zambezia.2012.DUAL.COMPLETE.BLURAY.iNTERNAL-VEiL
+Disc Size: 27,948,694,506 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 22,430,902,272 bytes
+Length: 1:22:32.322
+Total Bitrate: 36.23 Mbps
+Video: MPEG-4 AVC Video / 29958 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2214 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1966 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 56.080 kbps
+
