@@ -1,0 +1,185 @@
+Disc Title:     HOMEWARD
+Disc Label:     Homeward.2020.3D.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      30,030,747,729 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:20:33 21,436,489,728  30,030,747,729  35.48   26.00   DTS-HD Master 5.1 3562Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HOMEWARD
+Disc Label:     Homeward.2020.3D.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      30,030,747,729 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:20:33.662 (h:m:s.ms)
+Size:                   21,436,489,728 bytes
+Total Bitrate:          35.48 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3562 kbps       5.1 / 48 kHz /  3562 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3870 kbps       5.1 / 48 kHz /  3870 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:20:33.662     21,436,489,728  35,479          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:20:33.662     25,999 kbps     54,843 kbps     00:00:18.518    31,776 kbps     00:00:14.889    28,888 kbps     00:00:09.884    135,547 bytes   923,626 bytes   01:18:51.017    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4833.579                25,999                  15,708,824,388  85,438,153      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4833.579                3,562                   2,152,449,532   12,452,264      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4833.579                3,870                   2,338,104,936   13,460,332      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HOMEWARD
+Disc Label: Homeward.2020.3D.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size: 30,030,747,729 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 21,436,489,728 bytes
+Length: 1:20:33.662
+Total Bitrate: 35.48 Mbps
+Video: MPEG-4 AVC Video / 25999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3562 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3870 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:20:33 21,436,489,728  30,030,747,729  35.48   26.00   DTS-HD Master 5.1 3562Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HOMEWARD
+Disc Label:     Homeward.2020.3D.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      30,030,747,729 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:20:33.662 (h:m:s.ms)
+Size:                   21,436,489,728 bytes
+Total Bitrate:          35.48 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25999 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3562 kbps       5.1 / 48 kHz /  3562 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         3870 kbps       5.1 / 48 kHz /  3870 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:20:33.662     21,436,489,728  35,479          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:10:00.600     26,014 kbps     54,843 kbps     00:00:18.518    31,776 kbps     00:00:14.889    28,888 kbps     00:00:09.884    135,617 bytes   782,772 bytes   00:06:23.424    
+2               0:10:00.600     0:10:00.600     25,981 kbps     43,232 kbps     00:14:21.277    29,871 kbps     00:12:25.536    28,236 kbps     00:14:02.508    135,453 bytes   585,152 bytes   00:19:47.311    
+3               0:20:01.200     0:10:00.600     26,016 kbps     43,851 kbps     00:22:10.203    30,342 kbps     00:22:07.242    28,171 kbps     00:22:02.237    135,635 bytes   634,653 bytes   00:23:26.279    
+4               0:30:01.800     0:10:00.599     25,986 kbps     50,332 kbps     00:34:22.977    30,164 kbps     00:34:18.931    27,950 kbps     00:37:16.359    135,478 bytes   565,067 bytes   00:34:18.973    
+5               0:40:02.400     0:10:00.599     26,009 kbps     46,194 kbps     00:40:14.578    30,064 kbps     00:40:03.317    28,110 kbps     00:40:05.611    135,600 bytes   617,676 bytes   00:47:20.337    
+6               0:50:03.000     0:10:00.599     26,006 kbps     46,748 kbps     00:51:11.818    30,331 kbps     00:51:07.856    27,988 kbps     00:57:57.515    135,585 bytes   735,431 bytes   00:51:24.372    
+7               1:00:03.600     0:10:00.599     25,994 kbps     46,709 kbps     01:08:08.751    30,158 kbps     01:07:25.750    27,990 kbps     01:02:05.555    135,522 bytes   633,849 bytes   01:03:29.388    
+8               1:10:04.200     0:10:29.462     25,986 kbps     46,385 kbps     01:18:54.729    29,647 kbps     01:10:47.326    27,846 kbps     01:13:53.554    135,490 bytes   923,626 bytes   01:18:51.017    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4833.579                25,999                  15,708,824,388  85,438,153      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4833.579                3,562                   2,152,449,532   12,452,264      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4833.579                3,870                   2,338,104,936   13,460,332      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HOMEWARD
+Disc Label: Homeward.2020.3D.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size: 30,030,747,729 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 21,436,489,728 bytes
+Length: 1:20:33.662
+Total Bitrate: 35.48 Mbps
+Video: MPEG-4 AVC Video / 25999 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3562 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3870 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
