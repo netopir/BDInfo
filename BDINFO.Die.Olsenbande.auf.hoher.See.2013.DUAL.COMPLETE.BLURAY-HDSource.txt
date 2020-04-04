@@ -1,0 +1,220 @@
+Disc Title:     Die Olsenbande auf hoher See
+Disc Label:     Die.Olsenbande.auf.hoher.See.2013.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size:      32,968,667,726 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:20:07 27,596,820,480  32,968,667,726  45.92   35.39   DTS-HD Master 5.1 4046Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Olsenbande auf hoher See
+Disc Label:     Die.Olsenbande.auf.hoher.See.2013.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size:      32,968,667,726 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:20:07.291 (h:m:s.ms)
+Size:                   27,596,820,480 bytes
+Total Bitrate:          45.92 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        35394 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4046 kbps       5.1 / 48 kHz /  4046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             Danish          3984 kbps       5.1 / 48 kHz /  3984 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.040 kbps                      
+Presentation Graphics           German          39.731 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:20:07.291     27,596,820,480  45,925          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:20:07.291     35,394 kbps     45,676 kbps     00:08:50.083    38,633 kbps     01:16:05.375    37,707 kbps     00:08:41.083    184,346 bytes   639,772 bytes   00:09:03.291    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     4807.125                35,396                  21,268,937,085  115,659,365     
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4807.125                4,046                   2,431,356,148   13,963,937      
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       dan (Danish)            4807.125                3,985                   2,394,294,168   13,761,897      
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4807.125                0                       23,827          137             
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4807.125                40                      23,874,565      134,464         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Olsenbande auf hoher See
+Disc Label: Die.Olsenbande.auf.hoher.See.2013.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size: 32,968,667,726 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 27,596,820,480 bytes
+Length: 1:20:07.291
+Total Bitrate: 45.92 Mbps
+Video: MPEG-4 AVC Video / 35394 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS-HD Master Audio / 5.1 / 48 kHz /  3984 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 0.040 kbps
+Subtitle: German / 39.731 kbps
+
+
+********************
+PLAYLIST: 01101.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01101.MPLS                                                      AVC     1:20:07 27,596,820,480  32,968,667,726  45.92   35.39   DTS-HD Master 5.1 4046Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Olsenbande auf hoher See
+Disc Label:     Die.Olsenbande.auf.hoher.See.2013.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size:      32,968,667,726 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01101.MPLS
+Length:                 1:20:07.291 (h:m:s.ms)
+Size:                   27,596,820,480 bytes
+Total Bitrate:          45.92 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        35394 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4046 kbps       5.1 / 48 kHz /  4046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             Danish          3984 kbps       5.1 / 48 kHz /  3984 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.040 kbps                      
+Presentation Graphics           German          39.731 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:20:07.291     27,596,820,480  45,925          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:00:48.791     35,955 kbps     39,136 kbps     00:00:12.416    37,193 kbps     00:00:08.500    36,891 kbps     00:00:17.333    187,103 bytes   520,371 bytes   00:00:13.458    
+2               0:00:48.791     0:07:40.333     36,675 kbps     38,931 kbps     00:08:11.708    37,225 kbps     00:06:02.708    36,959 kbps     00:04:54.833    191,016 bytes   528,375 bytes   00:08:29.125    
+3               0:08:29.125     0:04:32.541     36,697 kbps     45,676 kbps     00:08:50.083    38,434 kbps     00:08:46.125    37,707 kbps     00:08:41.083    191,129 bytes   639,772 bytes   00:09:03.291    
+4               0:13:01.666     0:02:50.541     36,687 kbps     39,609 kbps     00:13:46.916    37,275 kbps     00:13:29.500    37,009 kbps     00:13:37.833    191,077 bytes   515,977 bytes   00:13:33.666    
+5               0:15:52.208     0:02:36.374     36,728 kbps     39,802 kbps     00:16:08.541    37,351 kbps     00:16:05.583    37,087 kbps     00:15:56.208    191,294 bytes   590,918 bytes   00:16:10.583    
+6               0:18:28.583     0:05:00.250     36,681 kbps     40,528 kbps     00:18:40.666    37,589 kbps     00:18:36.791    37,164 kbps     00:18:31.666    191,046 bytes   585,995 bytes   00:19:25.291    
+7               0:23:28.833     0:04:51.791     36,718 kbps     39,900 kbps     00:28:12.541    37,385 kbps     00:28:08.541    37,037 kbps     00:24:41.208    191,242 bytes   628,060 bytes   00:25:17.041    
+8               0:28:20.625     0:04:43.958     36,687 kbps     39,894 kbps     00:29:46.958    37,395 kbps     00:29:44.958    37,077 kbps     00:32:53.958    191,076 bytes   599,848 bytes   00:29:49.958    
+9               0:33:04.583     0:04:14.708     36,689 kbps     39,615 kbps     00:33:57.208    37,184 kbps     00:34:45.750    37,001 kbps     00:36:30.208    191,087 bytes   488,917 bytes   00:37:14.791    
+10              0:37:19.291     0:03:41.666     36,712 kbps     40,229 kbps     00:40:34.666    37,403 kbps     00:40:30.541    37,097 kbps     00:40:25.500    191,206 bytes   426,214 bytes   00:37:52.791    
+11              0:41:00.958     0:05:36.125     36,679 kbps     39,588 kbps     00:46:32.958    37,430 kbps     00:46:28.833    37,072 kbps     00:46:23.833    191,038 bytes   453,644 bytes   00:41:38.166    
+12              0:46:37.083     0:07:31.833     36,685 kbps     40,071 kbps     00:49:16.666    37,394 kbps     00:49:12.666    37,060 kbps     00:49:07.666    191,067 bytes   510,139 bytes   00:48:27.291    
+13              0:54:08.916     0:06:21.833     36,684 kbps     41,333 kbps     00:54:27.833    37,713 kbps     00:57:16.166    37,182 kbps     00:57:11.125    191,064 bytes   516,858 bytes   00:57:18.916    
+14              1:00:30.750     0:03:27.125     36,696 kbps     39,036 kbps     01:03:28.125    37,164 kbps     01:03:24.166    36,900 kbps     01:00:31.708    191,123 bytes   484,478 bytes   01:03:05.750    
+15              1:03:57.875     0:03:02.541     36,664 kbps     39,625 kbps     01:06:38.375    37,227 kbps     01:06:34.458    36,913 kbps     01:06:29.500    190,957 bytes   354,338 bytes   01:06:20.875    
+16              1:07:00.416     0:04:55.208     36,691 kbps     38,908 kbps     01:09:53.708    37,125 kbps     01:08:55.708    36,941 kbps     01:08:50.458    191,100 bytes   436,767 bytes   01:09:57.708    
+17              1:11:55.625     0:03:07.291     36,692 kbps     40,064 kbps     01:11:57.916    37,225 kbps     01:14:22.750    37,032 kbps     01:14:52.083    191,102 bytes   532,437 bytes   01:15:02.125    
+18              1:15:02.916     0:05:04.375     16,352 kbps     44,652 kbps     01:16:09.333    38,633 kbps     01:16:05.375    37,601 kbps     01:16:00.291    85,177 bytes    442,253 bytes   01:15:28.166    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     4807.125                35,396                  21,268,937,085  115,659,365     
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4807.125                4,046                   2,431,356,148   13,963,937      
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       dan (Danish)            4807.125                3,985                   2,394,294,168   13,761,897      
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4807.125                0                       23,827          137             
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4807.125                40                      23,874,565      134,464         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Olsenbande auf hoher See
+Disc Label: Die.Olsenbande.auf.hoher.See.2013.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size: 32,968,667,726 bytes
+Protection: AACS
+Playlist: 01101.MPLS
+Size: 27,596,820,480 bytes
+Length: 1:20:07.291
+Total Bitrate: 45.92 Mbps
+Video: MPEG-4 AVC Video / 35394 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Danish / DTS-HD Master Audio / 5.1 / 48 kHz /  3984 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 0.040 kbps
+Subtitle: German / 39.731 kbps
+
