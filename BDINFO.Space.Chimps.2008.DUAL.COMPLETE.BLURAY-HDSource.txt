@@ -1,0 +1,128 @@
+Disc Label:     Space.Chimps.2008.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size:      16,133,107,471 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:20:08 15,290,317,056  16,133,107,471  25.44   16.40   Dolby TrueHD 5.1 2443Kbps (48kHz/16-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Space.Chimps.2008.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size:      16,133,107,471 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:20:08.970 (h:m:s.ms)
+Size:                   15,290,317,056 bytes
+Total Bitrate:          25.44 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        16398 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              German          2443 kbps       5.1 / 48 kHz /  1803 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Dolby TrueHD Audio              English         2811 kbps       5.1 / 48 kHz /  2171 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          55.452 kbps                     
+Presentation Graphics           English         52.372 kbps                     
+Presentation Graphics           Turkish         52.292 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:20:08.970     15,290,317,056  25,436          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:30.705     17,476 kbps     40,816 kbps     00:03:23.244    37,448 kbps     00:03:00.597    32,205 kbps     00:00:06.589    91,101 bytes    518,362 bytes   00:01:06.566    
+2               0:05:30.705     0:01:06.065     14,736 kbps     39,585 kbps     00:05:43.343    35,629 kbps     00:05:40.548    30,895 kbps     00:05:35.460    76,826 bytes    380,549 bytes   00:05:39.714    
+3               0:06:36.771     0:04:30.270     12,561 kbps     29,492 kbps     00:10:01.017    25,502 kbps     00:10:00.433    20,782 kbps     00:10:41.307    65,486 bytes    514,419 bytes   00:07:03.047    
+4               0:11:07.041     0:02:49.085     17,673 kbps     45,252 kbps     00:12:57.818    35,682 kbps     00:12:54.815    31,573 kbps     00:12:51.979    92,140 bytes    490,383 bytes   00:13:29.517    
+5               0:13:56.126     0:05:20.069     15,137 kbps     38,620 kbps     00:18:30.526    29,036 kbps     00:18:27.481    26,834 kbps     00:18:28.232    78,920 bytes    369,509 bytes   00:17:49.401    
+6               0:19:16.196     0:01:14.657     14,122 kbps     25,838 kbps     00:19:36.300    20,185 kbps     00:20:08.373    18,288 kbps     00:20:20.010    73,628 bytes    300,203 bytes   00:19:38.260    
+7               0:20:30.854     0:05:10.518     19,046 kbps     45,264 kbps     00:20:44.117    35,938 kbps     00:20:42.157    32,324 kbps     00:21:49.224    99,296 bytes    584,168 bytes   00:20:47.162    
+8               0:25:41.373     0:03:35.715     13,786 kbps     39,693 kbps     00:26:04.479    33,186 kbps     00:26:03.270    30,196 kbps     00:26:01.601    71,876 bytes    433,828 bytes   00:27:53.672    
+9               0:29:17.088     0:02:44.455     13,486 kbps     36,354 kbps     00:30:54.978    22,767 kbps     00:30:51.766    19,944 kbps     00:30:49.055    70,309 bytes    404,811 bytes   00:30:59.357    
+10              0:32:01.544     0:07:05.258     19,986 kbps     47,009 kbps     00:35:36.384    36,442 kbps     00:35:57.655    34,412 kbps     00:35:53.651    104,197 bytes   635,618 bytes   00:35:02.058    
+11              0:39:06.802     0:02:09.671     17,612 kbps     37,535 kbps     00:39:17.772    28,425 kbps     00:39:24.528    22,847 kbps     00:39:50.096    91,821 bytes    520,764 bytes   00:39:16.479    
+12              0:41:16.474     0:05:11.436     16,747 kbps     42,057 kbps     00:44:16.987    35,919 kbps     00:44:13.108    33,739 kbps     00:45:12.000    87,312 bytes    521,351 bytes   00:44:27.498    
+13              0:46:27.910     0:03:01.890     23,666 kbps     42,446 kbps     00:47:10.869    38,179 kbps     00:48:57.309    34,599 kbps     00:48:52.346    123,383 bytes   553,746 bytes   00:48:55.849    
+14              0:49:29.800     0:03:31.294     18,207 kbps     42,907 kbps     00:50:37.284    31,009 kbps     00:49:55.701    26,676 kbps     00:50:10.549    94,923 bytes    571,115 bytes   00:50:37.325    
+15              0:53:01.094     0:07:28.072     15,002 kbps     39,833 kbps     00:53:33.668    32,700 kbps     00:55:36.416    27,479 kbps     00:53:26.411    78,216 bytes    565,080 bytes   00:56:04.486    
+16              1:00:29.167     0:02:01.204     16,412 kbps     33,392 kbps     01:01:28.643    24,668 kbps     01:02:09.183    21,646 kbps     01:01:51.290    85,567 bytes    547,277 bytes   01:01:08.748    
+17              1:02:30.371     0:06:08.284     17,870 kbps     45,451 kbps     01:07:16.365    35,896 kbps     01:08:02.286    30,727 kbps     01:07:07.565    93,164 bytes    540,914 bytes   01:02:31.289    
+18              1:08:38.656     0:07:27.071     16,077 kbps     44,761 kbps     01:10:41.487    29,618 kbps     01:13:18.936    25,868 kbps     01:11:54.268    83,818 bytes    613,767 bytes   01:13:37.246    
+19              1:16:05.727     0:00:28.194     23,639 kbps     40,996 kbps     01:16:26.665    38,271 kbps     01:16:22.869    33,589 kbps     01:16:17.656    123,242 bytes   539,303 bytes   01:16:26.707    
+20              1:16:33.922     0:03:35.048     6,606 kbps      33,618 kbps     01:16:38.844    17,459 kbps     01:19:18.795    14,982 kbps     01:19:16.168    34,442 bytes    464,927 bytes   01:19:58.919    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4809.930                16,395                  9,857,457,354   53,641,762      
+00002.M2TS      4352 (0x1100)   0x83            TrueHD          deu (German)            4809.930                2,442                   1,468,253,842   12,465,379      
+00002.M2TS      4353 (0x1101)   0x83            TrueHD          eng (English)           4809.930                2,810                   1,689,527,890   12,823,756      
+00002.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4809.930                55                      33,333,425      188,706         
+00002.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           4809.930                52                      31,482,137      178,587         
+00002.M2TS      4610 (0x1202)   0x90            PGS             tur (Turkish)           4809.930                52                      31,433,683      178,382         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Space.Chimps.2008.DUAL.COMPLETE.BLURAY-HDSource
+Disc Size: 16,133,107,471 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 15,290,317,056 bytes
+Length: 1:20:08.970
+Total Bitrate: 25.44 Mbps
+Video: MPEG-4 AVC Video / 16398 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / Dolby TrueHD Audio / 5.1 / 48 kHz /  1803 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Audio: English / Dolby TrueHD Audio / 5.1 / 48 kHz /  2171 kbps / 16-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)
+Subtitle: German / 55.452 kbps
+Subtitle: English / 52.372 kbps
+Subtitle: Turkish / 52.292 kbps
+

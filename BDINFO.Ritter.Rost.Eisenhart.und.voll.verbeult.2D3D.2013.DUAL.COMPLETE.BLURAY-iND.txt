@@ -1,0 +1,371 @@
+Disc Title:     Ritter Rost 3D
+Disc Label:     Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size:      46,734,680,846 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00022.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00022.MPLS                                                      AVC     1:23:58 18,590,435,328  46,734,680,846  29.52   21.52   DTS-HD Master 5.1 4504Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ritter Rost 3D
+Disc Label:     Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size:      46,734,680,846 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00022.MPLS
+Length:                 1:23:58.408 (h:m:s.ms)
+Size:                   18,590,435,328 bytes
+Total Bitrate:          29.52 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21520 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4504 kbps       5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         1819 kbps       2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     1:23:58.408     18,590,435,328  29,518          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:15.388     21,360 kbps     43,415 kbps     00:03:41.554    26,848 kbps     00:03:37.550    24,930 kbps     00:04:54.919    111,352 bytes   615,323 bytes   00:08:22.210    
+2               0:09:15.388     0:10:37.428     21,801 kbps     36,210 kbps     00:12:42.928    27,125 kbps     00:15:37.728    25,007 kbps     00:15:34.224    113,662 bytes   726,707 bytes   00:16:14.640    
+3               0:19:52.816     0:10:33.424     21,704 kbps     38,079 kbps     00:28:10.772    26,367 kbps     00:28:10.730    24,573 kbps     00:28:59.779    113,156 bytes   771,334 bytes   00:29:08.371    
+4               0:30:26.241     0:10:26.834     21,535 kbps     35,921 kbps     00:31:06.281    25,953 kbps     00:39:37.833    23,997 kbps     00:30:51.015    112,272 bytes   616,404 bytes   00:37:08.517    
+5               0:40:53.075     0:10:35.009     21,200 kbps     35,600 kbps     00:49:42.813    26,230 kbps     00:49:38.892    24,558 kbps     00:49:52.990    110,529 bytes   584,382 bytes   00:44:33.837    
+6               0:51:28.085     0:11:40.116     21,811 kbps     36,893 kbps     00:57:41.624    27,660 kbps     00:56:15.663    25,698 kbps     00:56:10.867    113,713 bytes   600,621 bytes   00:59:34.320    
+7               1:03:08.201     0:09:39.370     20,509 kbps     39,455 kbps     01:07:45.603    25,074 kbps     01:05:23.085    23,242 kbps     01:05:17.997    106,923 bytes   772,462 bytes   01:04:32.410    
+8               1:12:47.571     0:11:10.836     22,068 kbps     42,829 kbps     01:16:59.656    27,756 kbps     01:17:03.910    27,035 kbps     01:16:59.740    115,058 bytes   759,557 bytes   01:19:33.059    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x1B            AVC                                     5038.325                21,520                  13,553,148,140  73,729,179      
+00022.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5038.325                4,504                   2,836,464,920   16,206,009      
+00022.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5038.325                1,819                   1,145,435,672   6,721,161       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ritter Rost 3D
+Disc Label: Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size: 46,734,680,846 bytes
+Protection: AACS
+Playlist: 00022.MPLS
+Size: 18,590,435,328 bytes
+Length: 1:23:58.408
+Total Bitrate: 29.52 Mbps
+Video: MPEG-4 AVC Video / 21520 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00603.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00603.MPLS                                                      AVC     1:23:58 18,590,435,328  46,734,680,846  29.52   21.52   DTS-HD Master 5.1 4504Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ritter Rost 3D
+Disc Label:     Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size:      46,734,680,846 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00603.MPLS
+Length:                 1:23:58.408 (h:m:s.ms)
+Size:                   18,590,435,328 bytes
+Total Bitrate:          29.52 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21520 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4504 kbps       5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         1819 kbps       2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00022.M2TS      0:00:00.000     1:23:58.408     18,590,435,328  29,518          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:15.388     21,360 kbps     43,415 kbps     00:03:41.554    26,848 kbps     00:03:37.550    24,930 kbps     00:04:54.919    111,352 bytes   615,323 bytes   00:08:22.210    
+2               0:09:15.388     0:10:37.428     21,801 kbps     36,210 kbps     00:12:42.928    27,125 kbps     00:15:37.728    25,007 kbps     00:15:34.224    113,662 bytes   726,707 bytes   00:16:14.640    
+3               0:19:52.816     0:10:33.424     21,704 kbps     38,079 kbps     00:28:10.772    26,367 kbps     00:28:10.730    24,573 kbps     00:28:59.779    113,156 bytes   771,334 bytes   00:29:08.371    
+4               0:30:26.241     0:10:26.834     21,535 kbps     35,921 kbps     00:31:06.281    25,953 kbps     00:39:37.833    23,997 kbps     00:30:51.015    112,272 bytes   616,404 bytes   00:37:08.517    
+5               0:40:53.075     0:10:35.009     21,200 kbps     35,600 kbps     00:49:42.813    26,230 kbps     00:49:38.892    24,558 kbps     00:49:52.990    110,529 bytes   584,382 bytes   00:44:33.837    
+6               0:51:28.085     0:11:40.116     21,811 kbps     36,893 kbps     00:57:41.624    27,660 kbps     00:56:15.663    25,698 kbps     00:56:10.867    113,713 bytes   600,621 bytes   00:59:34.320    
+7               1:03:08.201     0:09:39.370     20,509 kbps     39,455 kbps     01:07:45.603    25,074 kbps     01:05:23.085    23,242 kbps     01:05:17.997    106,923 bytes   772,462 bytes   01:04:32.410    
+8               1:12:47.571     0:11:10.836     22,068 kbps     42,829 kbps     01:16:59.656    27,756 kbps     01:17:03.910    27,035 kbps     01:16:59.740    115,058 bytes   759,557 bytes   01:19:33.059    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00022.M2TS      4113 (0x1011)   0x1B            AVC                                     5038.325                21,520                  13,553,148,140  73,729,179      
+00022.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5038.325                4,504                   2,836,464,920   16,206,009      
+00022.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5038.325                1,819                   1,145,435,672   6,721,161       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ritter Rost 3D
+Disc Label: Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size: 46,734,680,846 bytes
+Protection: AACS
+Playlist: 00603.MPLS
+Size: 18,590,435,328 bytes
+Length: 1:23:58.408
+Total Bitrate: 29.52 Mbps
+Video: MPEG-4 AVC Video / 21520 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:23:58 15,608,530,944  46,734,680,846  24.78   16.98   DTS-HD Master 5.1 4504Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ritter Rost 3D
+Disc Label:     Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size:      46,734,680,846 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:23:58.366 (h:m:s.ms)
+Size:                   15,608,530,944 bytes
+Total Bitrate:          24.78 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        16983 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4504 kbps       5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         1819 kbps       2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:23:58.366     15,608,530,944  24,783          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:14.554     16,502 kbps     32,190 kbps     00:08:41.479    28,719 kbps     00:01:28.755    26,860 kbps     00:01:28.505    86,030 bytes    577,505 bytes   00:08:21.751    
+2               0:09:14.554     0:10:37.136     18,727 kbps     32,662 kbps     00:19:08.355    30,374 kbps     00:09:18.849    29,004 kbps     00:09:16.305    97,636 bytes    641,055 bytes   00:19:03.517    
+3               0:19:51.690     0:10:34.550     16,552 kbps     31,118 kbps     00:22:29.348    30,120 kbps     00:22:25.343    30,011 kbps     00:22:20.339    86,293 bytes    638,202 bytes   00:20:17.758    
+4               0:30:26.241     0:10:26.042     14,997 kbps     37,552 kbps     00:30:59.899    31,456 kbps     00:30:55.895    25,297 kbps     00:35:31.587    78,187 bytes    637,399 bytes   00:35:41.597    
+5               0:40:52.283     0:10:35.176     13,885 kbps     31,331 kbps     00:49:43.271    28,102 kbps     00:49:43.313    25,020 kbps     00:49:40.394    72,389 bytes    536,653 bytes   00:46:15.564    
+6               0:51:27.459     0:11:40.699     17,319 kbps     33,590 kbps     00:58:46.689    29,718 kbps     00:56:17.916    28,349 kbps     00:56:16.373    90,295 bytes    637,211 bytes   00:57:15.807    
+7               1:03:08.159     0:09:39.370     18,627 kbps     33,437 kbps     01:06:13.886    29,726 kbps     01:06:18.099    28,872 kbps     01:06:21.227    97,111 bytes    637,084 bytes   01:07:51.067    
+8               1:12:47.529     0:11:10.836     19,144 kbps     31,643 kbps     01:14:03.397    29,559 kbps     01:14:37.890    25,485 kbps     01:14:01.186    99,817 bytes    641,083 bytes   01:18:48.056    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5038.200                16,983                  10,695,575,830  58,198,516      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5038.200                4,504                   2,836,456,520   16,205,957      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5038.200                1,819                   1,145,429,724   6,721,125       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ritter Rost 3D
+Disc Label: Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size: 46,734,680,846 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 15,608,530,944 bytes
+Length: 1:23:58.366
+Total Bitrate: 24.78 Mbps
+Video: MPEG-4 AVC Video / 16983 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00602.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00602.MPLS                                                      AVC     1:23:58 15,608,530,944  46,734,680,846  24.78   16.98   DTS-HD Master 5.1 4504Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Ritter Rost 3D
+Disc Label:     Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size:      46,734,680,846 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00602.MPLS
+Length:                 1:23:58.366 (h:m:s.ms)
+Size:                   15,608,530,944 bytes
+Total Bitrate:          24.78 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        16983 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4504 kbps       5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         1819 kbps       2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:23:58.366     15,608,530,944  24,783          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:14.554     16,502 kbps     32,190 kbps     00:08:41.479    28,719 kbps     00:01:28.755    26,860 kbps     00:01:28.505    86,030 bytes    577,505 bytes   00:08:21.751    
+2               0:09:14.554     0:10:37.136     18,727 kbps     32,662 kbps     00:19:08.355    30,374 kbps     00:09:18.849    29,004 kbps     00:09:16.305    97,636 bytes    641,055 bytes   00:19:03.517    
+3               0:19:51.690     0:10:34.550     16,552 kbps     31,118 kbps     00:22:29.348    30,120 kbps     00:22:25.343    30,011 kbps     00:22:20.339    86,293 bytes    638,202 bytes   00:20:17.758    
+4               0:30:26.241     0:10:26.042     14,997 kbps     37,552 kbps     00:30:59.899    31,456 kbps     00:30:55.895    25,297 kbps     00:35:31.587    78,187 bytes    637,399 bytes   00:35:41.597    
+5               0:40:52.283     0:10:35.176     13,885 kbps     31,331 kbps     00:49:43.271    28,102 kbps     00:49:43.313    25,020 kbps     00:49:40.394    72,389 bytes    536,653 bytes   00:46:15.564    
+6               0:51:27.459     0:11:40.699     17,319 kbps     33,590 kbps     00:58:46.689    29,718 kbps     00:56:17.916    28,349 kbps     00:56:16.373    90,295 bytes    637,211 bytes   00:57:15.807    
+7               1:03:08.159     0:09:39.370     18,627 kbps     33,437 kbps     01:06:13.886    29,726 kbps     01:06:18.099    28,872 kbps     01:06:21.227    97,111 bytes    637,084 bytes   01:07:51.067    
+8               1:12:47.529     0:11:10.836     19,144 kbps     31,643 kbps     01:14:03.397    29,559 kbps     01:14:37.890    25,485 kbps     01:14:01.186    99,817 bytes    641,083 bytes   01:18:48.056    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     5038.200                16,983                  10,695,575,830  58,198,516      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5038.200                4,504                   2,836,456,520   16,205,957      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5038.200                1,819                   1,145,429,724   6,721,125       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Ritter Rost 3D
+Disc Label: Ritter.Rost.Eisenhart.und.voll.verbeult.2D3D.2013.DUAL.COMPLETE.BLURAY-iND
+Disc Size: 46,734,680,846 bytes
+Protection: AACS
+Playlist: 00602.MPLS
+Size: 15,608,530,944 bytes
+Length: 1:23:58.366
+Total Bitrate: 24.78 Mbps
+Video: MPEG-4 AVC Video / 16983 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4504 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1819 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit)
+
