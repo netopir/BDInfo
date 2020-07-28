@@ -1,0 +1,113 @@
+Disc Label:     Jetsons.The.Movie.1990.MULTi.COMPLETE.BLURAY-OLDHAM
+Disc Size:      19,116,313,383 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:21:58 19,050,461,184  19,116,313,383  30.99   26.15   DTS-HD Master 2.0 995Kbps (48kHz/16-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Jetsons.The.Movie.1990.MULTi.COMPLETE.BLURAY-OLDHAM
+Disc Size:      19,116,313,383 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:21:58.079 (h:m:s.ms)
+Size:                   19,050,461,184 bytes
+Total Bitrate:          30.99 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26149 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          995 kbps        2.0 / 48 kHz /   995 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+DTS-HD Master Audio             English         2080 kbps       5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          27.721 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:21:58.079     19,050,461,184  30,988          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:36.622     23,414 kbps     43,209 kbps     00:03:32.170    37,275 kbps     00:00:01.334    33,361 kbps     00:00:00.417    122,060 bytes   503,188 bytes   00:04:15.171    
+2               0:07:36.622     0:13:51.747     27,347 kbps     32,988 kbps     00:14:22.111    31,755 kbps     00:14:04.635    30,743 kbps     00:19:57.863    142,577 bytes   359,896 bytes   00:18:12.090    
+3               0:21:28.370     0:08:40.520     27,244 kbps     32,860 kbps     00:24:57.495    31,427 kbps     00:28:04.182    30,707 kbps     00:27:13.214    142,037 bytes   321,009 bytes   00:24:24.629    
+4               0:30:08.890     0:12:14.525     26,763 kbps     39,989 kbps     00:34:55.802    31,503 kbps     00:33:51.779    31,453 kbps     00:33:47.191    139,530 bytes   366,779 bytes   00:38:00.444    
+5               0:42:23.415     0:08:08.696     26,972 kbps     34,519 kbps     00:50:28.650    31,609 kbps     00:46:26.241    31,456 kbps     00:46:19.610    140,622 bytes   347,909 bytes   00:45:39.778    
+6               0:50:32.112     0:09:16.389     27,245 kbps     33,177 kbps     00:54:27.430    32,191 kbps     00:51:12.569    31,311 kbps     00:51:11.485    142,044 bytes   339,954 bytes   00:54:27.639    
+7               0:59:48.501     0:10:25.333     26,737 kbps     33,434 kbps     01:08:38.906    31,611 kbps     01:10:07.494    30,280 kbps     01:02:11.936    139,392 bytes   358,147 bytes   01:01:54.001    
+8               1:10:13.834     0:04:57.171     26,682 kbps     35,075 kbps     01:15:07.794    31,162 kbps     01:10:29.350    30,335 kbps     01:14:48.817    139,109 bytes   325,147 bytes   01:15:08.086    
+9               1:15:11.006     0:06:47.073     20,478 kbps     32,723 kbps     01:15:58.303    29,801 kbps     01:15:36.865    29,573 kbps     01:15:31.860    106,776 bytes   291,992 bytes   01:21:43.273    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     4917.913                26,150                  16,075,210,919  87,434,206      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4917.913                995                     611,706,592     3,806,669       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4917.913                2,080                   1,278,583,140   7,717,299       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4917.913                28                      17,041,483      98,177          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Jetsons.The.Movie.1990.MULTi.COMPLETE.BLURAY-OLDHAM
+Disc Size: 19,116,313,383 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 19,050,461,184 bytes
+Length: 1:21:58.079
+Total Bitrate: 30.99 Mbps
+Video: MPEG-4 AVC Video / 26149 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 2.0 / 48 kHz /   995 kbps / 16-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2080 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 27.721 kbps
+

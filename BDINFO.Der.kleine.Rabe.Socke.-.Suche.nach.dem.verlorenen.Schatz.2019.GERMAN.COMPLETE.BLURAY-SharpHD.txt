@@ -1,0 +1,114 @@
+Disc Title:     Der kleine Rabe Socke 3
+Disc Label:     Der.kleine.Rabe.Socke.-.Suche.nach.dem.verlorenen.Schatz.2019.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size:      22,851,495,930 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:13:01 20,525,199,360  22,851,495,930  37.47   29.95   DTS-HD Master 5.1 3803Kbps (48kHz/24-bit) DTS-HD Master 2.0 1679Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Der kleine Rabe Socke 3
+Disc Label:     Der.kleine.Rabe.Socke.-.Suche.nach.dem.verlorenen.Schatz.2019.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size:      22,851,495,930 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:13:01.833 (h:m:s.ms)
+Size:                   20,525,199,360 bytes
+Total Bitrate:          37.47 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29949 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3803 kbps       5.1 / 48 kHz /  3803 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+DTS-HD Master Audio             German          1679 kbps       2.0 / 48 kHz /  1679 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit / DN -1dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          37.961 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:13:01.833     20,525,199,360  37,473          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:43.500     30,427 kbps     45,657 kbps     00:01:33.416    39,326 kbps     00:00:59.333    38,652 kbps     00:00:54.250    158,465 bytes   640,879 bytes   00:06:19.958    
+2               0:09:43.500     0:09:32.375     30,838 kbps     44,668 kbps     00:17:44.000    38,484 kbps     00:19:04.416    38,278 kbps     00:18:59.541    160,616 bytes   640,832 bytes   00:18:32.583    
+3               0:19:15.875     0:11:46.791     31,972 kbps     42,147 kbps     00:20:12.000    38,283 kbps     00:21:54.166    37,073 kbps     00:29:27.791    166,522 bytes   640,905 bytes   00:24:16.708    
+4               0:31:02.666     0:10:21.666     30,850 kbps     42,095 kbps     00:32:34.958    38,077 kbps     00:31:37.500    36,871 kbps     00:32:15.750    160,679 bytes   640,793 bytes   00:33:45.708    
+5               0:41:24.333     0:10:32.500     31,018 kbps     43,673 kbps     00:42:05.708    38,653 kbps     00:43:06.875    37,481 kbps     00:43:56.875    161,554 bytes   640,844 bytes   00:45:22.500    
+6               0:51:56.833     0:09:25.666     31,678 kbps     44,063 kbps     00:58:58.416    38,434 kbps     00:58:54.500    37,335 kbps     00:59:33.333    164,987 bytes   640,907 bytes   00:59:06.208    
+7               1:01:22.500     0:11:39.333     23,608 kbps     45,392 kbps     01:08:43.500    38,488 kbps     01:07:56.166    35,914 kbps     01:07:53.500    122,964 bytes   640,789 bytes   01:01:53.333    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     4381.667                29,950                  16,403,697,597  89,211,833      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4381.667                3,804                   2,083,281,880   12,005,971      
+00021.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            4381.667                1,679                   919,529,668     5,415,898       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4381.667                38                      20,792,397      121,558         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Der kleine Rabe Socke 3
+Disc Label: Der.kleine.Rabe.Socke.-.Suche.nach.dem.verlorenen.Schatz.2019.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size: 22,851,495,930 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 20,525,199,360 bytes
+Length: 1:13:01.833
+Total Bitrate: 37.47 Mbps
+Video: MPEG-4 AVC Video / 29949 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3803 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+Audio: German / DTS-HD Master Audio / 2.0 / 48 kHz /  1679 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit / DN -1dB)
+Subtitle: German / 37.961 kbps
+
