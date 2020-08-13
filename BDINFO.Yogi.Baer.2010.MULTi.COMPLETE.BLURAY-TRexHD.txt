@@ -1,0 +1,148 @@
+Disc Title:     Yogi Bear
+Disc Label:     Yogi.Baer.2010.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      21,288,706,340 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     1:20:23 15,762,130,944  21,288,706,340  26.14   17.08   DTS-HD Master 5.1 3998Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Yogi Bear
+Disc Label:     Yogi.Baer.2010.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      21,288,706,340 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 1:20:23.401 (h:m:s.ms)
+Size:                   15,762,130,944 bytes
+Total Bitrate:          26.14 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        17079 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.0
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3998 kbps       5.1 / 48 kHz /  3998 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Dutch           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         44.052 kbps                     
+Presentation Graphics           French          35.171 kbps                     
+Presentation Graphics           German          51.181 kbps                     
+Presentation Graphics           Spanish         41.537 kbps                     
+Presentation Graphics           Dutch           39.243 kbps                     
+Presentation Graphics           French          0.354 kbps                      
+Presentation Graphics           Spanish         0.695 kbps                      
+Presentation Graphics           Dutch           0.582 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00040.M2TS      0:00:00.000     1:20:23.401     15,762,130,944  26,143          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:12:01.679     17,054 kbps     31,543 kbps     00:00:17.267    20,344 kbps     00:01:14.657    19,019 kbps     00:00:29.946    88,906 bytes    698,584 bytes   00:04:04.118    
+2               0:12:01.679     0:08:51.447     17,186 kbps     24,264 kbps     00:19:56.612    19,630 kbps     00:13:38.776    18,160 kbps     00:16:14.181    89,601 bytes    658,931 bytes   00:16:16.308    
+3               0:20:53.126     0:10:04.145     17,216 kbps     27,502 kbps     00:28:42.220    20,367 kbps     00:28:39.008    18,684 kbps     00:28:38.967    89,757 bytes    634,716 bytes   00:27:31.649    
+4               0:30:57.272     0:10:45.561     17,080 kbps     32,479 kbps     00:37:42.885    19,981 kbps     00:35:56.571    19,317 kbps     00:38:04.156    89,049 bytes    613,082 bytes   00:37:58.401    
+5               0:41:42.833     0:09:21.143     17,173 kbps     26,774 kbps     00:49:33.804    19,241 kbps     00:42:57.491    18,451 kbps     00:46:38.504    89,534 bytes    685,431 bytes   00:46:20.778    
+6               0:51:03.977     0:08:05.193     17,206 kbps     30,918 kbps     00:58:03.271    20,133 kbps     00:59:04.165    18,499 kbps     00:57:54.429    89,706 bytes    677,221 bytes   00:51:25.165    
+7               0:59:09.170     0:13:44.615     17,147 kbps     26,294 kbps     01:00:37.175    19,426 kbps     01:09:19.822    18,917 kbps     01:08:45.162    89,398 bytes    671,656 bytes   01:00:10.815    
+8               1:12:53.786     0:07:29.615     16,429 kbps     30,821 kbps     01:20:16.728    19,683 kbps     01:15:26.980    18,516 kbps     01:15:22.142    85,668 bytes    770,400 bytes   01:20:20.273    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00040.M2TS      4113 (0x1011)   0x1B            AVC                                     4823.319                17,080                  10,297,515,887  56,032,774      
+00040.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4823.319                3,998                   2,410,685,908   13,854,331      
+00040.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            4823.319                640                     385,955,840     2,261,460       
+00040.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            4823.319                640                     385,955,840     2,261,460       
+00040.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           4823.319                640                     385,955,840     2,261,460       
+00040.M2TS      4356 (0x1104)   0x81            AC3             nld (Dutch)             4823.319                640                     385,955,840     2,261,460       
+00040.M2TS      4357 (0x1105)   0x81            AC3             nld (Dutch)             4823.319                640                     385,955,840     2,261,460       
+00040.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4823.319                44                      26,560,300      152,860         
+00040.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            4823.319                35                      21,205,200      122,832         
+00040.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            4823.319                51                      30,858,242      176,611         
+00040.M2TS      4611 (0x1203)   0x90            PGS             spa (Spanish)           4823.319                42                      25,043,488      144,051         
+00040.M2TS      4612 (0x1204)   0x90            PGS             nld (Dutch)             4823.319                39                      23,660,753      136,271         
+00040.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            4823.319                0                       213,188         1,261           
+00040.M2TS      4614 (0x1206)   0x90            PGS             spa (Spanish)           4823.319                1                       419,054         2,440           
+00040.M2TS      4615 (0x1207)   0x90            PGS             nld (Dutch)             4823.319                1                       350,740         2,038           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Yogi Bear
+Disc Label: Yogi.Baer.2010.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size: 21,288,706,340 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 15,762,130,944 bytes
+Length: 1:20:23.401
+Total Bitrate: 26.14 Mbps
+Video: MPEG-4 AVC Video / 17079 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.0
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3998 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Dutch / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 44.052 kbps
+Subtitle: French / 35.171 kbps
+Subtitle: German / 51.181 kbps
+Subtitle: Spanish / 41.537 kbps
+Subtitle: Dutch / 39.243 kbps
+Subtitle: French / 0.354 kbps
+Subtitle: Spanish / 0.695 kbps
+Subtitle: Dutch / 0.582 kbps
+

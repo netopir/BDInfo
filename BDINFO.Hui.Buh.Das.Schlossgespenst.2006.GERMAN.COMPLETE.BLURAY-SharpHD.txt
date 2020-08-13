@@ -1,0 +1,138 @@
+Disc Title:     Hui Buh
+Disc Label:     Hui.Buh.Das.Schlossgespenst.2006.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size:      48,057,519,184 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:42:17 22,738,741,248  48,057,519,184  29.64   25.59   DTS-HD Hi-Res 5.1 2046Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Hui Buh
+Disc Label:     Hui.Buh.Das.Schlossgespenst.2006.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size:      48,057,519,184 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:42:17.916 (h:m:s.ms)
+Size:                   22,738,741,248 bytes
+Total Bitrate:          29.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25589 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          39.996 kbps                     
+Presentation Graphics           English         32.740 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00004.M2TS      0:00:00.000     1:42:16.916     22,738,716,672  29,642          
+00007.M2TS      1:42:16.916     0:00:01.000     24,576          197             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:36.291     23,688 kbps     38,343 kbps     00:02:23.874    29,504 kbps     00:00:40.708    27,684 kbps     00:02:18.124    123,362 bytes   340,919 bytes   00:02:12.708    
+2               0:06:36.291     0:05:28.000     28,969 kbps     38,423 kbps     00:10:09.708    35,295 kbps     00:10:18.875    33,596 kbps     00:10:17.458    150,879 bytes   352,977 bytes   00:10:19.916    
+3               0:12:04.291     0:05:29.125     32,357 kbps     39,368 kbps     00:17:07.416    38,031 kbps     00:15:19.166    37,904 kbps     00:15:31.833    168,527 bytes   411,386 bytes   00:17:07.458    
+4               0:17:33.416     0:02:12.375     29,089 kbps     35,756 kbps     00:17:41.666    33,301 kbps     00:17:40.625    31,802 kbps     00:18:08.000    151,507 bytes   304,580 bytes   00:17:41.708    
+5               0:19:45.791     0:04:04.750     29,475 kbps     38,586 kbps     00:21:17.708    37,456 kbps     00:21:13.750    36,160 kbps     00:21:09.375    153,517 bytes   339,616 bytes   00:19:56.791    
+6               0:23:50.541     0:03:12.874     26,400 kbps     33,395 kbps     00:25:40.499    31,248 kbps     00:25:44.708    30,041 kbps     00:25:39.124    137,501 bytes   324,125 bytes   00:25:44.750    
+7               0:27:03.416     0:03:59.916     26,865 kbps     33,856 kbps     00:29:08.541    31,564 kbps     00:29:08.125    31,208 kbps     00:29:06.916    139,924 bytes   301,535 bytes   00:27:58.000    
+8               0:31:03.333     0:03:20.458     25,096 kbps     32,270 kbps     00:31:33.416    29,292 kbps     00:31:41.500    28,317 kbps     00:31:39.583    130,707 bytes   257,333 bytes   00:31:33.458    
+9               0:34:23.791     0:04:07.500     25,847 kbps     38,885 kbps     00:36:59.541    36,727 kbps     00:36:57.875    31,248 kbps     00:36:52.791    134,620 bytes   339,177 bytes   00:37:00.583    
+10              0:38:31.291     0:06:19.875     23,418 kbps     34,229 kbps     00:44:05.208    30,252 kbps     00:44:04.625    27,101 kbps     00:43:59.125    121,967 bytes   313,298 bytes   00:44:51.166    
+11              0:44:51.166     0:04:07.541     26,916 kbps     38,347 kbps     00:45:37.541    34,703 kbps     00:47:54.000    34,338 kbps     00:47:54.000    140,186 bytes   331,850 bytes   00:47:54.041    
+12              0:48:58.708     0:03:10.541     30,033 kbps     36,020 kbps     00:51:50.958    35,218 kbps     00:51:46.875    33,702 kbps     00:51:42.000    156,420 bytes   305,570 bytes   00:49:55.583    
+13              0:52:09.250     0:03:44.583     28,846 kbps     38,008 kbps     00:55:05.083    34,545 kbps     00:53:42.125    32,022 kbps     00:54:12.000    150,238 bytes   340,589 bytes   00:53:44.000    
+14              0:55:53.833     0:04:55.041     29,832 kbps     39,895 kbps     00:58:11.041    37,945 kbps     00:58:07.041    37,854 kbps     00:57:17.833    155,373 bytes   337,951 bytes   00:57:52.833    
+15              1:00:48.875     0:05:10.291     26,408 kbps     35,348 kbps     01:01:40.750    30,301 kbps     01:04:05.916    29,643 kbps     01:04:03.000    137,542 bytes   334,610 bytes   01:01:41.083    
+16              1:05:59.166     0:05:28.333     24,659 kbps     29,609 kbps     01:10:09.916    28,156 kbps     01:08:56.291    27,821 kbps     01:08:52.250    128,433 bytes   257,207 bytes   01:10:09.041    
+17              1:11:27.500     0:04:45.208     24,345 kbps     33,004 kbps     01:14:59.166    31,164 kbps     01:14:51.833    30,074 kbps     01:14:50.666    126,795 bytes   276,256 bytes   01:14:59.958    
+18              1:16:12.708     0:04:31.416     27,152 kbps     38,093 kbps     01:17:44.458    34,216 kbps     01:20:39.125    32,924 kbps     01:20:21.416    141,414 bytes   371,849 bytes   01:17:44.500    
+19              1:20:44.125     0:04:48.541     25,662 kbps     37,833 kbps     01:23:45.208    31,486 kbps     01:22:32.375    30,420 kbps     01:22:32.375    133,656 bytes   277,610 bytes   01:24:52.041    
+20              1:25:32.666     0:03:47.791     26,294 kbps     33,543 kbps     01:28:57.541    29,804 kbps     01:28:55.083    28,222 kbps     01:29:07.541    136,946 bytes   279,694 bytes   01:28:28.583    
+21              1:29:20.458     0:02:47.000     25,173 kbps     30,655 kbps     01:31:19.625    27,677 kbps     01:31:02.458    27,021 kbps     01:29:57.083    131,110 bytes   266,138 bytes   01:30:23.208    
+22              1:32:07.458     0:01:38.291     31,524 kbps     39,266 kbps     01:32:52.500    38,023 kbps     01:32:52.625    37,899 kbps     01:32:40.458    164,187 bytes   375,465 bytes   01:32:54.500    
+23              1:33:45.750     0:08:32.166     10,999 kbps     26,992 kbps     01:41:23.708    23,249 kbps     01:41:22.208    20,382 kbps     01:41:19.208    57,290 bytes    316,255 bytes   01:41:24.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     6136.750                25,594                  19,632,797,161  106,785,710     
+00004.M2TS      4352 (0x1100)   0x85            DTS-HD HR       deu (German)            6136.750                2,046                   1,569,513,880   9,205,360       
+00004.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            6136.750                224                     171,832,192     958,885         
+00004.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            6136.750                224                     171,832,192     958,885         
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            6136.750                40                      30,686,303      173,384         
+00004.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           6136.750                33                      25,119,431      142,988         
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     0.875                   108                     11,831          72              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Hui Buh
+Disc Label: Hui.Buh.Das.Schlossgespenst.2006.GERMAN.COMPLETE.BLURAY-SharpHD
+Disc Size: 48,057,519,184 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 22,738,741,248 bytes
+Length: 1:42:17.916
+Total Bitrate: 29.64 Mbps
+Video: MPEG-4 AVC Video / 25589 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Subtitle: German / 39.996 kbps
+Subtitle: English / 32.740 kbps
+

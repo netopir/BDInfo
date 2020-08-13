@@ -1,0 +1,122 @@
+Disc Label:     Lotte.und.das.Geheimnis.der.Mondsteine.2011.DUAL.COMPLETE.BLURAY-SMAHD
+Disc Size:      19,820,170,228 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:15:26 18,210,625,536  19,820,170,228  32.19   26.27   DTS-HD Master 5.1 2063Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Lotte.und.das.Geheimnis.der.Mondsteine.2011.DUAL.COMPLETE.BLURAY-SMAHD
+Disc Size:      19,820,170,228 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:15:26.250 (h:m:s.ms)
+Size:                   18,210,625,536 bytes
+Total Bitrate:          32.19 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        26269 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2063 kbps       5.1 / 48 kHz /  2063 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         1923 kbps       5.1 / 48 kHz /  1923 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          31.658 kbps                     
+Presentation Graphics           English         24.863 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:15:24.250     18,202,939,392  32,187          
+00013.M2TS      1:15:24.250     0:00:02.000     7,686,144       30,745          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:44.000     24,372 kbps     57,478 kbps     00:02:34.374    35,465 kbps     00:02:48.375    32,811 kbps     00:00:51.708    126,924 bytes   982,978 bytes   00:05:59.625    
+2               0:07:44.000     0:05:28.291     25,494 kbps     57,525 kbps     00:08:56.708    35,663 kbps     00:08:43.000    32,835 kbps     00:11:08.958    132,781 bytes   982,760 bytes   00:08:33.958    
+3               0:13:12.291     0:04:13.666     29,146 kbps     57,589 kbps     00:15:35.333    35,575 kbps     00:15:41.291    32,861 kbps     00:16:02.541    151,802 bytes   982,254 bytes   00:14:51.750    
+4               0:17:25.958     0:08:51.375     27,100 kbps     57,214 kbps     00:25:28.666    35,646 kbps     00:23:41.000    32,860 kbps     00:17:27.916    141,146 bytes   982,530 bytes   00:17:43.458    
+5               0:26:17.333     0:02:58.333     27,170 kbps     57,501 kbps     00:26:45.833    35,523 kbps     00:26:45.833    32,822 kbps     00:26:45.833    141,509 bytes   979,249 bytes   00:26:58.041    
+6               0:29:15.666     0:10:57.041     26,597 kbps     57,470 kbps     00:36:48.625    35,707 kbps     00:35:00.833    32,848 kbps     00:37:09.958    138,528 bytes   982,879 bytes   00:39:04.083    
+7               0:40:12.708     0:04:56.583     28,651 kbps     56,961 kbps     00:40:41.833    35,369 kbps     00:41:51.708    32,738 kbps     00:44:42.166    149,222 bytes   977,696 bytes   00:44:07.083    
+8               0:45:09.291     0:10:04.375     27,109 kbps     57,525 kbps     00:47:57.333    35,705 kbps     00:54:43.125    32,851 kbps     00:47:39.583    141,191 bytes   981,995 bytes   00:46:28.375    
+9               0:55:13.666     0:04:24.416     27,208 kbps     57,398 kbps     00:59:36.958    35,470 kbps     00:55:42.541    32,734 kbps     00:55:42.083    141,709 bytes   982,588 bytes   00:58:57.291    
+10              0:59:38.083     0:06:31.250     28,264 kbps     56,618 kbps     01:01:05.583    35,573 kbps     01:02:10.500    32,844 kbps     01:05:48.166    147,210 bytes   980,382 bytes   01:02:01.458    
+11              1:06:09.333     0:06:39.000     27,793 kbps     57,560 kbps     01:07:02.750    35,590 kbps     01:09:19.041    32,787 kbps     01:10:37.791    144,753 bytes   982,924 bytes   01:10:34.125    
+12              1:12:48.333     0:02:35.916     5,317 kbps      10,303 kbps     01:14:44.291    9,095 kbps      01:14:41.208    8,708 kbps      01:14:38.291    27,693 bytes    159,097 bytes   01:14:43.333    
+13              1:15:24.250     0:00:02.000     28,751 kbps     30,000 kbps     01:15:24.250    0 kbps          00:00:00.000    0 kbps          00:00:00.000    152,930 bytes   156,249 bytes   01:15:24.375    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     4524.083                26,269                  14,855,409,332  80,799,358      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4524.083                2,064                   1,167,046,724   7,045,842       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4524.083                1,924                   1,088,248,572   6,627,444       
+00000.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4524.083                32                      17,911,558      102,045         
+00000.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           4524.083                25                      14,067,079      80,705          
+00013.M2TS      4113 (0x1011)   0x1B            AVC                                     1.875                   31,334                  7,343,991       39,952          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Lotte.und.das.Geheimnis.der.Mondsteine.2011.DUAL.COMPLETE.BLURAY-SMAHD
+Disc Size: 19,820,170,228 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 18,210,625,536 bytes
+Length: 1:15:26.250
+Total Bitrate: 32.19 Mbps
+Video: MPEG-4 AVC Video / 26269 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2063 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1923 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 31.658 kbps
+Subtitle: English / 24.863 kbps
+
