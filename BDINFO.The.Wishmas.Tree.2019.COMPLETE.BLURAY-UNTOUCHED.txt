@@ -1,0 +1,120 @@
+Disc Label:     The.Wishmas.Tree.2019.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      23,622,923,513 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:29:27 20,832,092,160  23,622,923,513  31.05   24.86   DTS-HD Master 5.1 2217Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     The.Wishmas.Tree.2019.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      23,622,923,513 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:29:27.500 (h:m:s.ms)
+Size:                   20,832,092,160 bytes
+Total Bitrate:          31.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24856 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2217 kbps       5.1 / 48 kHz /  2217 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2137 kbps       5.1 / 48 kHz /  2137 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.290 kbps                      
+Presentation Graphics           German          16.543 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:29:07.500     20,826,476,544  31,157          
+00002.M2TS      1:29:07.500     0:00:20.000     5,615,616       2,246           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:37.416     18,483 kbps     45,903 kbps     00:03:25.083    38,146 kbps     00:03:24.250    34,546 kbps     00:03:24.083    96,250 bytes    711,987 bytes   00:00:39.958    
+2               0:03:37.416     0:08:21.416     31,072 kbps     55,787 kbps     00:05:24.749    38,541 kbps     00:04:16.000    36,531 kbps     00:06:41.583    161,831 bytes   821,848 bytes   00:04:26.541    
+3               0:11:58.833     0:10:27.125     25,981 kbps     50,963 kbps     00:19:05.333    38,291 kbps     00:13:50.000    36,087 kbps     00:13:36.750    135,318 bytes   781,688 bytes   00:13:59.125    
+4               0:22:25.958     0:03:54.291     28,702 kbps     48,226 kbps     00:24:16.999    38,894 kbps     00:24:15.625    36,729 kbps     00:24:09.124    149,490 bytes   757,056 bytes   00:23:50.875    
+5               0:26:20.250     0:04:36.000     28,251 kbps     49,352 kbps     00:27:18.708    37,922 kbps     00:28:11.625    35,393 kbps     00:26:45.583    147,143 bytes   655,988 bytes   00:28:24.041    
+6               0:30:56.250     0:09:42.000     24,242 kbps     50,751 kbps     00:35:18.500    38,653 kbps     00:33:35.833    36,943 kbps     00:32:11.208    126,262 bytes   674,054 bytes   00:32:36.833    
+7               0:40:38.250     0:08:06.416     25,556 kbps     46,409 kbps     00:46:11.125    38,057 kbps     00:46:07.208    36,099 kbps     00:46:49.083    133,105 bytes   787,900 bytes   00:48:33.750    
+8               0:48:44.666     0:10:40.791     23,864 kbps     49,156 kbps     00:51:02.833    38,402 kbps     00:57:45.666    36,366 kbps     00:58:10.708    124,292 bytes   691,569 bytes   00:51:05.666    
+9               0:59:25.458     0:05:06.500     28,818 kbps     48,896 kbps     01:03:06.458    38,946 kbps     01:03:35.291    36,051 kbps     01:03:12.166    150,092 bytes   504,690 bytes   01:02:52.083    
+10              1:04:31.958     0:04:24.833     24,326 kbps     47,155 kbps     01:08:52.125    36,663 kbps     01:08:49.208    33,888 kbps     01:08:45.208    126,697 bytes   442,729 bytes   01:07:26.250    
+11              1:08:56.791     0:10:46.583     22,312 kbps     46,363 kbps     01:09:21.416    38,641 kbps     01:09:21.291    32,652 kbps     01:09:18.125    116,211 bytes   588,142 bytes   01:19:43.375    
+12              1:19:43.375     0:09:24.125     20,255 kbps     48,331 kbps     01:23:29.916    38,209 kbps     01:23:12.041    36,403 kbps     01:23:29.958    105,501 bytes   821,333 bytes   01:23:30.958    
+13              1:29:07.500     0:00:20.000     2,029 kbps      4,485 kbps      01:29:17.208    2,437 kbps      01:29:12.708    2,314 kbps      01:29:07.958    10,587 bytes    204,332 bytes   01:29:17.416    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5347.333                24,942                  16,671,573,312  90,681,043      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5347.333                2,225                   1,487,478,800   8,918,489       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5347.333                2,145                   1,433,740,672   8,625,803       
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5347.333                0                       194,630         1,204           
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5347.333                17                      11,099,442      65,517          
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     19.875                  2,090                   5,192,404       28,548          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: The.Wishmas.Tree.2019.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 23,622,923,513 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 20,832,092,160 bytes
+Length: 1:29:27.500
+Total Bitrate: 31.05 Mbps
+Video: MPEG-4 AVC Video / 24856 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2217 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2137 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.290 kbps
+Subtitle: German / 16.543 kbps
+
