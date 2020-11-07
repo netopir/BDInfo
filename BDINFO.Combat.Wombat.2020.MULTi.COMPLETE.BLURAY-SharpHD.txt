@@ -1,0 +1,116 @@
+Disc Label:     Combat.Wombat.2020.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      22,553,006,300 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:25:52 19,900,575,744  22,553,006,300  30.90   24.85   DTS-HD Master 5.1 2130Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Combat.Wombat.2020.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size:      22,553,006,300 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:25:52.875 (h:m:s.ms)
+Size:                   19,900,575,744 bytes
+Total Bitrate:          30.90 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24847 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2130 kbps       5.1 / 48 kHz /  2130 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2075 kbps       5.1 / 48 kHz /  2075 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          2.600 kbps                      
+Presentation Graphics           German          26.781 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:25:32.875     19,894,960,128  31,008          
+00002.M2TS      1:25:32.875     0:00:20.000     5,615,616       2,246           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:36.041     24,879 kbps     47,148 kbps     00:01:15.708    38,657 kbps     00:00:59.333    35,815 kbps     00:00:54.541    129,568 bytes   852,569 bytes   00:01:25.541    
+2               0:09:36.041     0:12:36.291     24,873 kbps     50,634 kbps     00:12:46.333    37,738 kbps     00:11:57.750    36,155 kbps     00:11:03.375    129,548 bytes   778,315 bytes   00:13:27.791    
+3               0:22:12.333     0:07:54.125     26,965 kbps     51,953 kbps     00:28:26.124    39,126 kbps     00:27:26.250    35,427 kbps     00:27:24.208    140,444 bytes   831,811 bytes   00:24:11.375    
+4               0:30:06.458     0:09:42.708     24,902 kbps     52,388 kbps     00:31:18.958    38,183 kbps     00:32:31.541    35,702 kbps     00:32:33.541    129,697 bytes   905,302 bytes   00:34:44.333    
+5               0:39:49.166     0:05:54.375     27,906 kbps     51,627 kbps     00:44:12.916    38,028 kbps     00:44:08.875    36,004 kbps     00:44:03.916    145,346 bytes   815,367 bytes   00:42:11.416    
+6               0:45:43.541     0:17:43.541     23,982 kbps     50,631 kbps     00:58:46.166    39,444 kbps     00:58:52.375    35,799 kbps     01:01:20.583    124,905 bytes   786,354 bytes   00:58:52.416    
+7               1:03:27.083     0:13:50.958     28,097 kbps     50,873 kbps     01:16:16.125    38,385 kbps     01:13:02.750    36,957 kbps     01:13:45.166    146,338 bytes   743,626 bytes   01:15:19.166    
+8               1:17:18.041     0:08:14.833     17,811 kbps     52,498 kbps     01:18:19.625    37,744 kbps     01:19:33.333    36,203 kbps     01:19:55.041    92,773 bytes    798,453 bytes   01:19:44.291    
+9               1:25:32.875     0:00:20.000     2,029 kbps      4,485 kbps      01:25:42.583    2,437 kbps      01:25:38.083    2,314 kbps      01:25:33.333    10,587 bytes    204,332 bytes   01:25:42.791    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5132.667                24,937                  15,999,119,877  87,023,376      
+00005.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5132.667                2,139                   1,372,068,080   8,255,533       
+00005.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5132.667                2,083                   1,336,295,384   8,058,796       
+00005.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5132.667                3                       1,675,004       9,748           
+00005.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5132.667                27                      17,249,813      100,132         
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     19.875                  2,090                   5,192,404       28,548          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Combat.Wombat.2020.MULTi.COMPLETE.BLURAY-SharpHD
+Disc Size: 22,553,006,300 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 19,900,575,744 bytes
+Length: 1:25:52.875
+Total Bitrate: 30.90 Mbps
+Video: MPEG-4 AVC Video / 24847 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2130 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2075 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 2.600 kbps
+Subtitle: German / 26.781 kbps
+

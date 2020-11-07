@@ -1,0 +1,220 @@
+Disc Title:     Jock
+Disc Label:     Jock.2011.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      24,222,921,810 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00012.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00012.MPLS                                                      AVC     1:19:41 17,108,545,536  24,222,921,810  28.62   22.90   DTS-HD Master 5.1 1907Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Jock
+Disc Label:     Jock.2011.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      24,222,921,810 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00012.MPLS
+Length:                 1:19:41.777 (h:m:s.ms)
+Size:                   17,108,545,536 bytes
+Total Bitrate:          28.62 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22898 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          1907 kbps       5.1 / 48 kHz /  1907 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+DTS-HD Master Audio             English         1996 kbps       5.1 / 48 kHz /  1996 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          2.845 kbps                      
+Presentation Graphics           German          48.416 kbps                     
+Presentation Graphics           English         36.779 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00012.M2TS      0:00:00.000     1:19:41.777     17,108,545,536  28,623          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:19:41.777     22,898 kbps     63,477 kbps     01:02:54.520    40,698 kbps     01:02:54.520    37,836 kbps     01:05:52.657    119,381 bytes   980,980 bytes   00:15:40.314    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00012.M2TS      4113 (0x1011)   0x1B            AVC                                     4781.610                22,899                  13,686,848,927  74,452,102      
+00012.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4781.610                1,907                   1,139,778,080   6,927,498       
+00012.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4781.610                1,996                   1,192,985,739   7,215,893       
+00012.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4781.610                3                       1,700,452       9,595           
+00012.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4781.610                48                      28,939,060      163,657         
+00012.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           4781.610                37                      21,983,638      125,765         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Jock
+Disc Label: Jock.2011.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size: 24,222,921,810 bytes
+Protection: AACS
+Playlist: 00012.MPLS
+Size: 17,108,545,536 bytes
+Length: 1:19:41.777
+Total Bitrate: 28.62 Mbps
+Video: MPEG-4 AVC Video / 22898 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1907 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1996 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+Subtitle: German / 2.845 kbps
+Subtitle: German / 48.416 kbps
+Subtitle: English / 36.779 kbps
+
+
+********************
+PLAYLIST: 01012.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01012.MPLS                                                      AVC     1:19:41 17,108,545,536  24,222,921,810  28.62   22.90   DTS-HD Master 5.1 1907Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Jock
+Disc Label:     Jock.2011.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size:      24,222,921,810 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01012.MPLS
+Length:                 1:19:41.777 (h:m:s.ms)
+Size:                   17,108,545,536 bytes
+Total Bitrate:          28.62 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        22898 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          1907 kbps       5.1 / 48 kHz /  1907 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+DTS-HD Master Audio             English         1996 kbps       5.1 / 48 kHz /  1996 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          2.845 kbps                      
+Presentation Graphics           German          48.416 kbps                     
+Presentation Graphics           English         36.779 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00012.M2TS      0:00:00.000     1:19:41.777     17,108,545,536  28,623          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:27.665     21,432 kbps     48,376 kbps     00:00:54.387    39,973 kbps     00:01:25.085    36,261 kbps     00:00:48.423    111,715 bytes   816,443 bytes   00:01:29.089    
+2               0:03:27.665     0:08:53.282     24,435 kbps     59,102 kbps     00:08:24.003    40,697 kbps     00:09:52.883    37,735 kbps     00:08:02.607    127,390 bytes   968,388 bytes   00:07:43.629    
+3               0:12:20.948     0:10:37.303     25,447 kbps     63,405 kbps     00:13:52.665    40,686 kbps     00:14:22.319    37,719 kbps     00:15:14.204    132,668 bytes   980,980 bytes   00:15:40.314    
+4               0:22:58.251     0:08:05.443     25,653 kbps     60,602 kbps     00:23:28.115    40,523 kbps     00:25:12.260    37,729 kbps     00:23:28.073    133,741 bytes   926,274 bytes   00:23:29.116    
+5               0:31:03.695     0:07:11.556     30,952 kbps     53,884 kbps     00:37:46.514    40,693 kbps     00:36:04.579    37,819 kbps     00:31:41.149    161,368 bytes   975,187 bytes   00:35:01.974    
+6               0:38:15.251     0:08:00.521     19,541 kbps     54,117 kbps     00:42:50.484    40,448 kbps     00:38:22.049    37,740 kbps     00:45:08.789    101,880 bytes   790,389 bytes   00:38:27.054    
+7               0:46:15.773     0:06:23.633     15,008 kbps     44,020 kbps     00:48:57.517    38,326 kbps     00:51:55.278    28,130 kbps     00:51:50.315    78,243 bytes    815,244 bytes   00:51:54.194    
+8               0:52:39.406     0:08:25.254     24,267 kbps     56,540 kbps     00:56:27.217    40,433 kbps     00:54:45.615    37,826 kbps     00:53:30.415    126,518 bytes   930,028 bytes   00:56:22.379    
+9               1:01:04.661     0:06:57.416     20,133 kbps     63,477 kbps     01:02:54.520    40,698 kbps     01:02:54.520    37,836 kbps     01:05:52.657    104,967 bytes   835,352 bytes   01:04:50.219    
+10              1:08:02.078     0:05:48.181     25,796 kbps     54,868 kbps     01:12:37.353    40,191 kbps     01:13:38.038    37,834 kbps     01:13:38.038    134,489 bytes   805,873 bytes   01:13:40.082    
+11              1:13:50.259     0:01:49.275     22,691 kbps     51,773 kbps     01:14:57.701    37,306 kbps     01:14:55.491    36,036 kbps     01:14:56.158    118,301 bytes   677,752 bytes   01:14:59.828    
+12              1:15:39.535     0:04:02.242     11,195 kbps     49,487 kbps     01:17:22.304    38,342 kbps     01:17:22.054    36,190 kbps     01:17:21.845    58,377 bytes    580,029 bytes   01:17:28.644    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00012.M2TS      4113 (0x1011)   0x1B            AVC                                     4781.610                22,899                  13,686,848,927  74,452,102      
+00012.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4781.610                1,907                   1,139,778,080   6,927,498       
+00012.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4781.610                1,996                   1,192,985,739   7,215,893       
+00012.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4781.610                3                       1,700,452       9,595           
+00012.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4781.610                48                      28,939,060      163,657         
+00012.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           4781.610                37                      21,983,638      125,765         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Jock
+Disc Label: Jock.2011.DUAL.COMPLETE.BLURAY-TRexHD
+Disc Size: 24,222,921,810 bytes
+Protection: AACS
+Playlist: 01012.MPLS
+Size: 17,108,545,536 bytes
+Length: 1:19:41.777
+Total Bitrate: 28.62 Mbps
+Video: MPEG-4 AVC Video / 22898 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1907 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1996 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /   896 kbps / 16-bit)
+Subtitle: German / 2.845 kbps
+Subtitle: German / 48.416 kbps
+Subtitle: English / 36.779 kbps
+

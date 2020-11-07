@@ -1,0 +1,129 @@
+Disc Title:     HOODWINKED
+Disc Label:     Hoodwinked.2005.1080i.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      21,216,793,609 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00007.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00007.MPLS                                                      AVC     1:20:53 18,093,885,312  21,216,793,609  29.82   23.64   DTS-HD Master 5.1 3651Kbps (48kHz/24-bit) DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     HOODWINKED
+Disc Label:     Hoodwinked.2005.1080i.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size:      21,216,793,609 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00007.MPLS
+Length:                 1:20:53.381 (h:m:s.ms)
+Size:                   18,093,885,312 bytes
+Total Bitrate:          29.82 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23635 kbps          1080i / 29.970 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3651 kbps       5.1 / 48 kHz /  3651 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         67.521 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00010.M2TS      0:00:00.000     1:20:53.381     18,093,885,312  29,825          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:25.011     19,131 kbps     47,876 kbps     00:00:35.402    39,711 kbps     00:00:34.234    36,628 kbps     00:00:34.300    79,772 bytes    436,637 bytes   00:00:35.735    
+2               0:02:25.011     0:03:05.151     27,046 kbps     41,539 kbps     00:02:33.686    37,229 kbps     00:02:30.450    34,442 kbps     00:02:30.216    112,803 bytes   489,198 bytes   00:02:33.019    
+3               0:05:30.163     0:05:04.203     26,553 kbps     41,637 kbps     00:05:53.319    37,295 kbps     00:05:53.286    36,059 kbps     00:05:52.952    110,750 bytes   507,122 bytes   00:08:06.686    
+4               0:10:34.367     0:03:23.703     21,865 kbps     42,757 kbps     00:11:25.985    38,074 kbps     00:11:25.184    35,605 kbps     00:13:13.459    91,197 bytes    507,558 bytes   00:13:21.834    
+5               0:13:58.070     0:03:52.966     24,968 kbps     43,532 kbps     00:16:44.069    38,676 kbps     00:16:51.410    36,328 kbps     00:16:48.674    104,138 bytes   510,877 bytes   00:16:01.627    
+6               0:17:51.036     0:04:10.416     21,882 kbps     42,457 kbps     00:20:45.811    39,032 kbps     00:20:42.207    37,087 kbps     00:20:39.338    91,268 bytes    506,368 bytes   00:20:45.043    
+7               0:22:01.453     0:03:06.553     26,355 kbps     40,190 kbps     00:23:18.063    35,799 kbps     00:24:48.920    34,717 kbps     00:23:11.423    109,924 bytes   510,405 bytes   00:22:52.471    
+8               0:25:08.006     0:02:36.256     26,457 kbps     43,990 kbps     00:25:29.227    38,966 kbps     00:26:47.806    33,226 kbps     00:27:01.252    110,349 bytes   510,002 bytes   00:26:20.245    
+9               0:27:44.262     0:02:59.712     25,803 kbps     47,935 kbps     00:29:05.610    40,489 kbps     00:29:01.940    37,148 kbps     00:29:40.378    107,619 bytes   508,957 bytes   00:27:51.469    
+10              0:30:43.975     0:03:48.394     18,724 kbps     43,378 kbps     00:33:30.608    36,717 kbps     00:33:30.007    32,422 kbps     00:33:30.108    78,095 bytes    498,164 bytes   00:30:44.776    
+11              0:34:32.370     0:04:16.322     28,257 kbps     43,482 kbps     00:34:56.627    38,020 kbps     00:37:09.860    36,162 kbps     00:38:26.037    117,853 bytes   509,979 bytes   00:37:48.666    
+12              0:38:48.693     0:02:53.506     23,310 kbps     45,412 kbps     00:41:13.170    38,093 kbps     00:41:12.303    36,493 kbps     00:41:07.198    97,220 bytes    498,759 bytes   00:39:41.312    
+13              0:41:42.199     0:04:40.580     29,612 kbps     42,768 kbps     00:42:54.138    38,139 kbps     00:42:51.835    36,879 kbps     00:42:48.399    123,505 bytes   510,223 bytes   00:46:10.567    
+14              0:46:22.779     0:04:15.254     23,773 kbps     41,014 kbps     00:47:09.893    36,670 kbps     00:47:09.893    35,194 kbps     00:46:52.676    99,155 bytes    487,193 bytes   00:47:49.233    
+15              0:50:38.034     0:02:54.340     27,792 kbps     41,300 kbps     00:50:50.280    36,106 kbps     00:51:29.386    35,238 kbps     00:51:01.057    115,917 bytes   510,409 bytes   00:51:27.851    
+16              0:53:32.375     0:03:12.392     22,673 kbps     37,856 kbps     00:56:13.636    33,867 kbps     00:54:31.601    29,736 kbps     00:54:31.601    94,564 bytes    486,026 bytes   00:54:52.322    
+17              0:56:44.768     0:03:18.298     24,681 kbps     43,584 kbps     00:56:57.213    36,693 kbps     00:56:57.213    34,086 kbps     00:57:24.474    102,942 bytes   509,893 bytes   00:57:45.562    
+18              1:00:03.066     0:04:30.937     23,429 kbps     43,662 kbps     01:03:39.882    38,246 kbps     01:03:39.115    36,500 kbps     01:03:34.877    97,717 bytes    507,780 bytes   01:02:55.004    
+19              1:04:34.003     0:05:11.477     25,008 kbps     44,996 kbps     01:04:49.285    38,544 kbps     01:04:47.416    34,728 kbps     01:04:42.411    104,305 bytes   509,850 bytes   01:04:49.352    
+20              1:09:45.481     0:04:23.296     27,183 kbps     42,950 kbps     01:12:04.753    38,411 kbps     01:10:47.409    36,159 kbps     01:10:47.042    113,376 bytes   510,528 bytes   01:13:41.483    
+21              1:14:08.777     0:06:44.604     10,073 kbps     24,502 kbps     01:20:26.721    22,045 kbps     01:20:25.854    19,771 kbps     01:20:22.651    42,017 bytes    355,513 bytes   01:20:26.755    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00010.M2TS      4113 (0x1011)   0x1B            AVC                                     4869.832                23,630                  14,384,124,174  78,259,885      
+00010.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           4869.832                3,654                   2,224,092,268   12,847,342      
+00010.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           4869.832                448                     272,717,312     1,521,860       
+00010.M2TS      4354 (0x1102)   0x81            AC3             fra (French)            4869.832                448                     272,742,400     1,522,000       
+00010.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           4869.832                67                      40,962,932      233,808         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: HOODWINKED
+Disc Label: Hoodwinked.2005.1080i.Blu-ray.AVC.DTS-HD.MA.5.1
+Disc Size: 21,216,793,609 bytes
+Protection: AACS
+Playlist: 00007.MPLS
+Size: 18,093,885,312 bytes
+Length: 1:20:53.381
+Total Bitrate: 29.82 Mbps
+Video: MPEG-4 AVC Video / 23635 kbps / 1080i / 29.970 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3651 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Subtitle: English / 67.521 kbps
+

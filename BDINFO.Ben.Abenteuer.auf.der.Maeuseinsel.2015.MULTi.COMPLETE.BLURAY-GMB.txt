@@ -1,0 +1,192 @@
+Disc Label:     Ben.Abenteuer.auf.der.Maeuseinsel.2015.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      20,870,143,594 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      MPEG-2  1:33:49 19,511,906,304  20,870,143,594  27.73   17.99   DTS-HD Master 5.1 3880Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Ben.Abenteuer.auf.der.Maeuseinsel.2015.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      20,870,143,594 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:33:49.624 (h:m:s.ms)
+Size:                   19,511,906,304 bytes
+Total Bitrate:          27.73 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            17991 kbps          1080p / 23.976 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3880 kbps       5.1 / 48 kHz /  3880 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+DTS-HD Master Audio             English         4136 kbps       5.1 / 48 kHz /  4136 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:33:49.624     19,511,906,304  27,727          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:12:08.978     17,335 kbps     22,562 kbps     00:01:59.244    18,736 kbps     00:05:50.350    18,448 kbps     00:06:30.932    90,371 bytes    528,097 bytes   00:06:56.499    
+2               0:12:08.978     0:12:20.990     17,057 kbps     22,922 kbps     00:12:20.448    19,033 kbps     00:23:56.268    18,661 kbps     00:24:08.822    88,927 bytes    563,945 bytes   00:24:18.790    
+3               0:24:29.968     0:11:58.008     17,691 kbps     25,086 kbps     00:32:23.191    19,144 kbps     00:32:23.191    18,670 kbps     00:35:47.311    92,233 bytes    664,464 bytes   00:32:24.150    
+4               0:36:27.977     0:10:23.998     17,936 kbps     25,591 kbps     00:46:11.810    19,266 kbps     00:46:36.877    18,915 kbps     00:46:37.503    93,511 bytes    674,221 bytes   00:37:18.486    
+5               0:46:51.975     0:12:10.938     17,911 kbps     23,743 kbps     00:56:19.125    19,599 kbps     00:58:38.890    19,137 kbps     00:58:38.890    93,381 bytes    543,293 bytes   00:53:01.094    
+6               0:59:02.914     0:10:49.023     16,829 kbps     23,351 kbps     01:00:41.679    19,722 kbps     01:07:38.596    19,349 kbps     01:07:33.549    87,741 bytes    453,952 bytes   01:07:43.434    
+7               1:09:51.937     0:11:43.035     19,253 kbps     24,548 kbps     01:15:57.844    20,582 kbps     01:20:59.020    20,248 kbps     01:15:35.989    100,378 bytes   525,325 bytes   01:20:54.766    
+8               1:21:34.973     0:07:29.907     19,372 kbps     25,043 kbps     01:25:56.025    21,124 kbps     01:25:55.942    20,810 kbps     01:28:54.329    100,994 bytes   682,757 bytes   01:25:40.885    
+9               1:29:04.881     0:04:44.742     20,530 kbps     26,035 kbps     01:33:38.487    25,099 kbps     01:33:43.117    24,757 kbps     01:33:38.404    107,051 bytes   660,086 bytes   01:30:57.994    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x02            MPEG-2                                  5629.499                17,991                  12,660,248,637  68,884,462      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5629.499                3,880                   2,730,134,292   15,715,033      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5629.499                4,136                   2,910,524,312   16,757,543      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Ben.Abenteuer.auf.der.Maeuseinsel.2015.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 20,870,143,594 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 19,511,906,304 bytes
+Length: 1:33:49.624
+Total Bitrate: 27.73 Mbps
+Video: MPEG-2 Video / 17991 kbps / 1080p / 23.976 fps / 16:9
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3880 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4136 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      MPEG-2  1:33:49 19,511,906,304  20,870,143,594  27.73   17.99   DTS-HD Master 5.1 3880Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Ben.Abenteuer.auf.der.Maeuseinsel.2015.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      20,870,143,594 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:33:49.624 (h:m:s.ms)
+Size:                   19,511,906,304 bytes
+Total Bitrate:          27.73 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-2 Video            17991 kbps          1080p / 23.976 fps / 16:9
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3880 kbps       5.1 / 48 kHz /  3880 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+DTS-HD Master Audio             English         4136 kbps       5.1 / 48 kHz /  4136 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:33:49.624     19,511,906,304  27,727          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:12:08.978     17,335 kbps     22,562 kbps     00:01:59.244    18,736 kbps     00:05:50.350    18,448 kbps     00:06:30.932    90,371 bytes    528,097 bytes   00:06:56.499    
+2               0:12:08.978     0:12:20.990     17,057 kbps     22,922 kbps     00:12:20.448    19,033 kbps     00:23:56.268    18,661 kbps     00:24:08.822    88,927 bytes    563,945 bytes   00:24:18.790    
+3               0:24:29.968     0:11:58.008     17,691 kbps     25,086 kbps     00:32:23.191    19,144 kbps     00:32:23.191    18,670 kbps     00:35:47.311    92,233 bytes    664,464 bytes   00:32:24.150    
+4               0:36:27.977     0:10:23.998     17,936 kbps     25,591 kbps     00:46:11.810    19,266 kbps     00:46:36.877    18,915 kbps     00:46:37.503    93,511 bytes    674,221 bytes   00:37:18.486    
+5               0:46:51.975     0:12:10.938     17,911 kbps     23,743 kbps     00:56:19.125    19,599 kbps     00:58:38.890    19,137 kbps     00:58:38.890    93,381 bytes    543,293 bytes   00:53:01.094    
+6               0:59:02.914     0:10:49.023     16,829 kbps     23,351 kbps     01:00:41.679    19,722 kbps     01:07:38.596    19,349 kbps     01:07:33.549    87,741 bytes    453,952 bytes   01:07:43.434    
+7               1:09:51.937     0:11:43.035     19,253 kbps     24,548 kbps     01:15:57.844    20,582 kbps     01:20:59.020    20,248 kbps     01:15:35.989    100,378 bytes   525,325 bytes   01:20:54.766    
+8               1:21:34.973     0:07:29.907     19,372 kbps     25,043 kbps     01:25:56.025    21,124 kbps     01:25:55.942    20,810 kbps     01:28:54.329    100,994 bytes   682,757 bytes   01:25:40.885    
+9               1:29:04.881     0:04:44.742     20,530 kbps     26,035 kbps     01:33:38.487    25,099 kbps     01:33:43.117    24,757 kbps     01:33:38.404    107,051 bytes   660,086 bytes   01:30:57.994    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x02            MPEG-2                                  5629.499                17,991                  12,660,248,637  68,884,462      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5629.499                3,880                   2,730,134,292   15,715,033      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5629.499                4,136                   2,910,524,312   16,757,543      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Ben.Abenteuer.auf.der.Maeuseinsel.2015.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 20,870,143,594 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 19,511,906,304 bytes
+Length: 1:33:49.624
+Total Bitrate: 27.73 Mbps
+Video: MPEG-2 Video / 17991 kbps / 1080p / 23.976 fps / 16:9
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3880 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4136 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -2dB)
+
