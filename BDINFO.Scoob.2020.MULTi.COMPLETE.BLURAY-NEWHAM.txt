@@ -1,0 +1,124 @@
+Disc Label:     Scoob.2020.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size:      35,158,732,973 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:33:46 26,342,731,776  35,158,732,973  37.45   30.39   DTS-HD Master 5.1 2314Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Scoob.2020.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size:      35,158,732,973 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:33:46.537 (h:m:s.ms)
+Size:                   26,342,731,776 bytes
+Total Bitrate:          37.45 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        30394 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2314 kbps       5.1 / 48 kHz /  2314 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             German          2315 kbps       5.1 / 48 kHz /  2315 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             German          192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         49.994 kbps                     
+Presentation Graphics           German          47.896 kbps                     
+Presentation Graphics           German          0.197 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+01218.M2TS      0:00:00.000     1:33:46.537     26,342,731,776  37,455          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:40.460     30,440 kbps     36,547 kbps     00:00:06.464    32,477 kbps     00:04:31.771    32,046 kbps     00:02:20.974    158,686 bytes   630,698 bytes   00:04:36.359    
+2               0:07:40.460     0:07:35.288     30,495 kbps     35,433 kbps     00:11:06.290    32,354 kbps     00:12:46.056    31,998 kbps     00:12:40.176    158,989 bytes   506,440 bytes   00:12:51.061    
+3               0:15:15.748     0:09:48.337     30,037 kbps     34,280 kbps     00:25:02.375    32,508 kbps     00:18:53.131    32,019 kbps     00:18:48.168    156,598 bytes   433,886 bytes   00:18:56.969    
+4               0:25:04.085     0:09:36.117     30,302 kbps     38,759 kbps     00:33:07.318    32,644 kbps     00:33:03.439    32,175 kbps     00:32:58.434    157,980 bytes   407,175 bytes   00:25:06.046    
+5               0:34:40.203     0:10:18.576     30,517 kbps     36,882 kbps     00:42:30.297    32,267 kbps     00:36:15.423    32,022 kbps     00:37:40.174    159,101 bytes   567,320 bytes   00:35:39.846    
+6               0:44:58.779     0:08:23.753     30,172 kbps     34,344 kbps     00:48:00.544    32,130 kbps     00:50:10.716    31,945 kbps     00:45:29.059    157,303 bytes   509,221 bytes   00:48:02.045    
+7               0:53:22.532     0:07:59.562     30,778 kbps     36,221 kbps     00:55:51.765    32,696 kbps     00:55:47.635    32,233 kbps     00:55:42.630    160,461 bytes   506,464 bytes   00:58:13.114    
+8               1:01:22.095     0:08:58.287     30,746 kbps     36,718 kbps     01:08:37.613    32,456 kbps     01:03:55.706    32,133 kbps     01:02:42.675    160,294 bytes   557,467 bytes   01:02:58.274    
+9               1:10:20.382     0:09:13.970     30,301 kbps     36,570 kbps     01:16:19.283    32,283 kbps     01:16:15.279    32,006 kbps     01:15:19.515    157,976 bytes   512,102 bytes   01:12:16.081    
+10              1:19:34.352     0:07:43.713     31,377 kbps     36,326 kbps     01:21:54.784    32,427 kbps     01:26:44.699    32,087 kbps     01:21:45.775    163,586 bytes   506,736 bytes   01:20:25.612    
+11              1:27:18.066     0:06:28.471     28,990 kbps     42,521 kbps     01:33:43.492    34,220 kbps     01:33:39.488    32,436 kbps     01:28:44.610    151,155 bytes   596,050 bytes   01:33:41.198    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+01218.M2TS      4113 (0x1011)   0x1B            AVC                                     5626.371                30,395                  21,376,704,606  116,256,092     
+01218.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5626.371                2,315                   1,627,824,428   9,737,870       
+01218.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5626.371                2,315                   1,628,355,424   9,741,691       
+01218.M2TS      4354 (0x1102)   0x81            AC3             deu (German)            5626.371                192                     135,037,440     879,150         
+01218.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5626.371                50                      35,161,457      204,388         
+01218.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5626.371                48                      33,685,834      193,199         
+01218.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5626.371                0                       138,660         811             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Scoob.2020.MULTi.COMPLETE.BLURAY-NEWHAM
+Disc Size: 35,158,732,973 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 26,342,731,776 bytes
+Length: 1:33:46.537
+Total Bitrate: 37.45 Mbps
+Video: MPEG-4 AVC Video / 30394 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2314 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2315 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 49.994 kbps
+Subtitle: German / 47.896 kbps
+Subtitle: German / 0.197 kbps
+
