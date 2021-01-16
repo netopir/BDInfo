@@ -1,0 +1,202 @@
+Disc Title:     Stockmann
+Disc Label:     Stockmann.Kleines.Stoeckchen.auf.grosser.Reise.2015.DUAL.COMPLETE.BLURAY-iFPD
+Disc Size:      15,754,823,308 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     0:26:27 8,148,049,920   15,754,823,308  41.06   32.00   DTS-HD Master 5.1 3805Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Stockmann
+Disc Label:     Stockmann.Kleines.Stoeckchen.auf.grosser.Reise.2015.DUAL.COMPLETE.BLURAY-iFPD
+Disc Size:      15,754,823,308 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 0:26:27.560 (h:m:s.ms)
+Size:                   8,148,049,920 bytes
+Total Bitrate:          41.06 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        31996 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3805 kbps       5.1 / 48 kHz /  3805 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+DTS-HD Master Audio             English         2754 kbps       5.1 / 48 kHz /  2754 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          31.557 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     0:26:27.560     8,148,049,920   41,059          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:49.360     33,572 kbps     46,736 kbps     00:03:16.680    38,044 kbps     00:04:47.279    37,317 kbps     00:04:42.240    167,848 bytes   640,801 bytes   00:04:58.920    
+2               0:08:49.360     0:07:19.080     31,744 kbps     47,356 kbps     00:15:39.000    38,374 kbps     00:15:35.000    37,010 kbps     00:15:03.440    158,718 bytes   640,343 bytes   00:15:34.040    
+3               0:16:08.440     0:09:52.919     30,838 kbps     47,788 kbps     00:20:02.240    38,765 kbps     00:19:58.280    37,120 kbps     00:17:21.360    154,189 bytes   640,801 bytes   00:16:21.320    
+4               0:26:01.359     0:00:26.200     30,582 kbps     38,366 kbps     00:26:12.640    37,148 kbps     00:26:08.560    36,898 kbps     00:26:04.320    153,142 bytes   429,514 bytes   00:26:02.359    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     1587.400                31,999                  6,349,410,460   34,530,841      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            1587.400                3,805                   755,085,380     4,351,375       
+00021.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            1587.400                224                     44,452,352      248,060         
+00021.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           1587.400                2,754                   546,508,252     3,217,994       
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            1587.400                32                      6,262,292       36,264          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Stockmann
+Disc Label: Stockmann.Kleines.Stoeckchen.auf.grosser.Reise.2015.DUAL.COMPLETE.BLURAY-iFPD
+Disc Size: 15,754,823,308 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 8,148,049,920 bytes
+Length: 0:26:27.560
+Total Bitrate: 41.06 Mbps
+Video: MPEG-4 AVC Video / 31996 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3805 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2754 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 31.557 kbps
+
+
+********************
+PLAYLIST: 00101.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00101.MPLS                                                      AVC     0:20:47 5,618,921,472   15,754,823,308  36.02   33.99   DTS 2.0 320Kbps (48kHz/24-bit)            
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Stockmann
+Disc Label:     Stockmann.Kleines.Stoeckchen.auf.grosser.Reise.2015.DUAL.COMPLETE.BLURAY-iFPD
+Disc Size:      15,754,823,308 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00101.MPLS
+Length:                 0:20:47.840 (h:m:s.ms)
+Size:                   5,618,921,472 bytes
+Total Bitrate:          36.02 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        33991 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          44.700 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00101.M2TS      0:00:00.000     0:20:47.840     5,618,921,472   36,023          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:05.160     33,660 kbps     42,724 kbps     00:04:25.240    40,257 kbps     00:00:35.319    39,984 kbps     00:00:28.400    168,282 bytes   639,233 bytes   00:05:39.400    
+2               0:07:05.160     0:07:09.600     35,435 kbps     44,046 kbps     00:13:49.960    40,393 kbps     00:13:45.960    39,882 kbps     00:10:49.360    177,176 bytes   616,920 bytes   00:13:50.720    
+3               0:14:14.760     0:06:33.079     32,770 kbps     41,871 kbps     00:18:38.800    40,201 kbps     00:18:34.800    39,927 kbps     00:19:45.440    163,868 bytes   516,794 bytes   00:18:39.800    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00101.M2TS      4113 (0x1011)   0x1B            AVC                                     1247.680                33,995                  5,301,868,769   28,832,616      
+00101.M2TS      4352 (0x1100)   0x82            DTS             deu (German)            1247.680                318                     49,601,640      350,955         
+00101.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            1247.680                45                      6,972,351       39,831          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Stockmann
+Disc Label: Stockmann.Kleines.Stoeckchen.auf.grosser.Reise.2015.DUAL.COMPLETE.BLURAY-iFPD
+Disc Size: 15,754,823,308 bytes
+Protection: AACS
+Playlist: 00101.MPLS
+Size: 5,618,921,472 bytes
+Length: 0:20:47.840
+Total Bitrate: 36.02 Mbps
+Video: MPEG-4 AVC Video / 33991 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit
+Subtitle: German / 44.700 kbps
+
