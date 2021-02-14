@@ -1,0 +1,120 @@
+Disc Title:     Die Monster Academy
+Disc Label:     Cranston.Academy.Monster.Zone.2020.MULTi.COMPLETE.BLURAY-MONUMENT
+Disc Size:      21,261,383,505 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:25:08 19,865,733,120  21,261,383,505  31.11   25.00   DTS-HD Master 5.1 2094Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Monster Academy
+Disc Label:     Cranston.Academy.Monster.Zone.2020.MULTi.COMPLETE.BLURAY-MONUMENT
+Disc Size:      21,261,383,505 bytes
+Protection:     AACS
+BDInfo:         0.7.5.5
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:25:08.228 (h:m:s.ms)
+Size:                   19,865,733,120 bytes
+Total Bitrate:          31.11 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25003 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2094 kbps       5.1 / 48 kHz /  2094 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2156 kbps       5.1 / 48 kHz /  2156 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.386 kbps                      
+Presentation Graphics           German          31.520 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00008.M2TS      0:00:00.000     1:25:08.228     19,865,733,120  31,112          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:09.113     23,630 kbps     62,950 kbps     00:00:55.764    40,616 kbps     00:07:06.592    37,822 kbps     00:07:06.717    123,184 bytes   908,031 bytes   00:08:09.113    
+2               0:08:09.113     0:07:11.264     31,264 kbps     62,700 kbps     00:10:45.061    40,595 kbps     00:10:16.574    37,830 kbps     00:08:24.921    162,995 bytes   983,867 bytes   00:08:59.956    
+3               0:15:20.377     0:06:12.830     20,432 kbps     59,309 kbps     00:20:22.763    40,640 kbps     00:20:27.517    37,638 kbps     00:20:27.517    106,521 bytes   812,331 bytes   00:20:58.215    
+4               0:21:33.208     0:08:35.139     24,775 kbps     61,860 kbps     00:29:59.214    40,627 kbps     00:28:40.051    37,850 kbps     00:28:39.050    129,167 bytes   823,856 bytes   00:28:34.629    
+5               0:30:08.348     0:08:48.694     20,341 kbps     63,018 kbps     00:33:18.788    40,649 kbps     00:34:51.047    37,625 kbps     00:34:51.089    106,051 bytes   977,584 bytes   00:33:23.835    
+6               0:38:57.043     0:05:06.973     20,919 kbps     57,659 kbps     00:42:15.241    40,341 kbps     00:42:03.479    37,480 kbps     00:42:03.354    109,060 bytes   847,008 bytes   00:42:15.366    
+7               0:44:04.016     0:05:45.845     26,664 kbps     63,162 kbps     00:48:40.459    40,681 kbps     00:45:53.876    37,835 kbps     00:48:40.500    139,014 bytes   949,835 bytes   00:44:36.632    
+8               0:49:49.861     0:05:40.798     24,904 kbps     50,628 kbps     00:50:37.075    40,647 kbps     00:55:11.516    37,622 kbps     00:55:10.223    129,838 bytes   683,648 bytes   00:50:08.880    
+9               0:55:30.660     0:05:45.636     27,667 kbps     60,613 kbps     00:56:46.152    40,503 kbps     00:56:30.011    37,804 kbps     00:56:41.481    144,241 bytes   705,078 bytes   01:00:17.739    
+10              1:01:16.297     0:08:12.533     28,682 kbps     63,475 kbps     01:07:45.186    40,672 kbps     01:05:47.985    37,825 kbps     01:07:45.186    149,535 bytes   973,201 bytes   01:09:18.863    
+11              1:09:28.831     0:09:14.720     30,659 kbps     63,406 kbps     01:17:52.334    40,680 kbps     01:16:10.148    37,832 kbps     01:18:17.776    159,840 bytes   930,919 bytes   01:15:38.700    
+12              1:18:43.552     0:06:24.675     17,468 kbps     63,326 kbps     01:20:46.007    40,667 kbps     01:20:46.007    37,803 kbps     01:20:20.398    91,080 bytes    954,631 bytes   01:20:46.049    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00008.M2TS      4113 (0x1011)   0x1B            AVC                                     5108.145                25,003                  15,965,183,021  86,838,995      
+00008.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            5108.145                2,094                   1,336,856,000   8,062,690       
+00008.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5108.145                2,156                   1,376,381,368   8,276,830       
+00008.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5108.145                0                       246,386         1,454           
+00008.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            5108.145                32                      20,126,125      116,218         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Monster Academy
+Disc Label: Cranston.Academy.Monster.Zone.2020.MULTi.COMPLETE.BLURAY-MONUMENT
+Disc Size: 21,261,383,505 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 19,865,733,120 bytes
+Length: 1:25:08.228
+Total Bitrate: 31.11 Mbps
+Video: MPEG-4 AVC Video / 25003 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2094 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2156 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 0.386 kbps
+Subtitle: German / 31.520 kbps
+
