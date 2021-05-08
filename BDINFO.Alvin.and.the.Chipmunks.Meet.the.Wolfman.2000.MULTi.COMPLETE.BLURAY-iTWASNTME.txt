@@ -1,0 +1,197 @@
+Disc Title:     ALVIN UND DIE CHIPMUNKS
+Disc Label:     Alvin.and.the.Chipmunks.Meet.the.Wolfman.2000.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      20,408,877,520 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:16:55 20,219,406,336  20,408,877,520  35.05   24.97   DTS-HD Master 5.1 3962Kbps (48kHz/24-bit) DTS-HD Master 2.0 2139Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     ALVIN UND DIE CHIPMUNKS
+Disc Label:     Alvin.and.the.Chipmunks.Meet.the.Wolfman.2000.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      20,408,877,520 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:16:55.027 (h:m:s.ms)
+Size:                   20,219,406,336 bytes
+Total Bitrate:          35.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24965 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3962 kbps       5.1 / 48 kHz /  3962 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             German          2139 kbps       2.0 / 48 kHz /  2139 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         1750 kbps       2.0 / 48 kHz /  1750 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:16:54.610     20,219,394,048  35,053          
+00005.M2TS      1:16:54.610     0:00:00.417     12,288          236             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:12.593     24,702 kbps     54,541 kbps     00:02:22.475    35,710 kbps     00:00:03.378    32,849 kbps     00:00:03.461    128,773 bytes   586,566 bytes   00:02:23.059    
+2               0:09:12.593     0:10:33.633     25,454 kbps     58,640 kbps     00:18:19.306    35,683 kbps     00:12:28.706    32,805 kbps     00:10:07.106    132,704 bytes   951,909 bytes   00:18:19.348    
+3               0:19:46.226     0:08:17.079     25,145 kbps     52,299 kbps     00:24:57.287    35,721 kbps     00:21:47.597    32,509 kbps     00:21:48.056    131,094 bytes   764,554 bytes   00:22:43.236    
+4               0:28:03.306     0:09:11.592     25,790 kbps     58,419 kbps     00:30:23.112    35,739 kbps     00:28:03.932    32,859 kbps     00:29:28.516    134,459 bytes   842,239 bytes   00:31:17.000    
+5               0:37:14.899     0:10:55.029     24,696 kbps     52,530 kbps     00:44:51.855    35,705 kbps     00:43:22.391    32,846 kbps     00:43:22.391    128,753 bytes   702,817 bytes   00:43:33.319    
+6               0:48:09.928     0:08:22.752     24,840 kbps     48,227 kbps     00:52:31.690    35,691 kbps     00:48:12.389    32,858 kbps     00:53:49.768    129,504 bytes   614,657 bytes   00:54:12.666    
+7               0:56:32.680     0:09:19.809     24,542 kbps     49,844 kbps     01:00:36.716    35,701 kbps     01:05:35.681    32,590 kbps     01:05:32.511    127,952 bytes   871,220 bytes   01:00:37.175    
+8               1:05:52.490     0:07:41.711     27,877 kbps     57,638 kbps     01:10:43.656    35,698 kbps     01:09:20.698    32,817 kbps     01:09:20.698    145,337 bytes   921,341 bytes   01:10:43.697    
+9               1:13:34.201     0:03:20.825     17,116 kbps     58,198 kbps     01:16:33.255    35,625 kbps     01:16:33.130    32,796 kbps     01:16:33.130    89,271 bytes    704,949 bytes   01:16:33.964    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4614.443                24,968                  14,401,900,383  78,335,698      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4614.443                3,963                   2,285,612,736   13,141,875      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            4614.443                2,139                   1,233,681,316   7,440,674       
+00002.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           4614.443                1,750                   1,009,595,500   6,186,026       
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     0.250                   170                     5,320           32              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: ALVIN UND DIE CHIPMUNKS
+Disc Label: Alvin.and.the.Chipmunks.Meet.the.Wolfman.2000.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size: 20,408,877,520 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 20,219,406,336 bytes
+Length: 1:16:55.027
+Total Bitrate: 35.05 Mbps
+Video: MPEG-4 AVC Video / 24965 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3962 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 2.0 / 48 kHz /  2139 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1750 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:16:54 20,219,394,048  20,408,877,520  35.05   24.97   DTS-HD Master 5.1 3962Kbps (48kHz/24-bit) DTS-HD Master 2.0 2139Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     ALVIN UND DIE CHIPMUNKS
+Disc Label:     Alvin.and.the.Chipmunks.Meet.the.Wolfman.2000.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size:      20,408,877,520 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:16:54.610 (h:m:s.ms)
+Size:                   20,219,394,048 bytes
+Total Bitrate:          35.05 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24967 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3962 kbps       5.1 / 48 kHz /  3962 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             German          2139 kbps       2.0 / 48 kHz /  2139 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+DTS-HD Master Audio             English         1750 kbps       2.0 / 48 kHz /  1750 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:16:54.610     20,219,394,048  35,053          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:16:54.610     24,967 kbps     58,640 kbps     00:18:19.306    35,739 kbps     00:28:03.932    32,859 kbps     00:29:28.516    130,170 bytes   951,909 bytes   00:18:19.348    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     4614.443                24,968                  14,401,900,383  78,335,698      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4614.443                3,963                   2,285,612,736   13,141,875      
+00002.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            4614.443                2,139                   1,233,681,316   7,440,674       
+00002.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           4614.443                1,750                   1,009,595,500   6,186,026       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: ALVIN UND DIE CHIPMUNKS
+Disc Label: Alvin.and.the.Chipmunks.Meet.the.Wolfman.2000.MULTi.COMPLETE.BLURAY-iTWASNTME
+Disc Size: 20,408,877,520 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 20,219,394,048 bytes
+Length: 1:16:54.610
+Total Bitrate: 35.05 Mbps
+Video: MPEG-4 AVC Video / 24967 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3962 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / DTS-HD Master Audio / 2.0 / 48 kHz /  2139 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / DTS-HD Master Audio / 2.0 / 48 kHz /  1750 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /  1509 kbps / 24-bit)
+
