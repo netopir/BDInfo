@@ -1,0 +1,118 @@
+Disc Title:     Yakari
+Disc Label:     Yakari.Der.Kinofilm.2020.DUAL.COMPLETE.BLURAY-ROCKEFELLER
+Disc Size:      33,987,787,065 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:22:35 27,164,436,480  33,987,787,065  43.86   32.97   DTS-HD Master 5.1 4014Kbps (48kHz/24-bit) DTS 2.0 320Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Yakari
+Disc Label:     Yakari.Der.Kinofilm.2020.DUAL.COMPLETE.BLURAY-ROCKEFELLER
+Disc Size:      33,987,787,065 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:22:35.125 (h:m:s.ms)
+Size:                   27,164,436,480 bytes
+Total Bitrate:          43.86 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        32970 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          4014 kbps       5.1 / 48 kHz /  4014 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit / DN -5dB
+DTS-HD Master Audio             English         4075 kbps       5.1 / 48 kHz /  4075 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          24.817 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:22:35.125     27,164,436,480  43,857          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:06.750     32,787 kbps     42,113 kbps     00:05:06.333    36,639 kbps     00:05:22.208    36,205 kbps     00:05:17.375    170,752 bytes   640,094 bytes   00:03:44.625    
+2               0:09:06.750     0:10:27.375     33,246 kbps     40,081 kbps     00:16:11.500    36,411 kbps     00:12:10.583    36,035 kbps     00:10:08.416    173,156 bytes   635,302 bytes   00:14:07.000    
+3               0:19:34.125     0:11:26.875     33,622 kbps     42,654 kbps     00:23:08.083    36,554 kbps     00:22:35.458    36,147 kbps     00:22:45.250    175,113 bytes   640,703 bytes   00:27:23.125    
+4               0:31:01.000     0:08:34.125     32,972 kbps     43,075 kbps     00:31:45.708    36,534 kbps     00:37:57.375    35,877 kbps     00:36:39.833    171,728 bytes   639,839 bytes   00:38:42.291    
+5               0:39:35.125     0:09:26.916     33,359 kbps     41,785 kbps     00:46:14.958    36,771 kbps     00:39:36.916    35,977 kbps     00:40:37.125    173,744 bytes   640,864 bytes   00:43:53.250    
+6               0:49:02.041     0:07:35.416     32,271 kbps     40,314 kbps     00:53:27.250    36,240 kbps     00:50:48.708    35,750 kbps     00:49:49.375    168,080 bytes   640,538 bytes   00:56:31.708    
+7               0:56:37.458     0:17:28.958     32,253 kbps     39,715 kbps     01:05:15.750    36,360 kbps     01:05:11.708    35,895 kbps     01:12:01.208    167,982 bytes   620,214 bytes   01:11:27.666    
+8               1:14:06.416     0:08:28.708     33,612 kbps     40,738 kbps     01:18:32.250    36,437 kbps     01:14:41.416    36,093 kbps     01:22:09.875    175,079 bytes   635,339 bytes   01:14:48.250    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     4954.958                32,971                  20,421,069,044  111,053,552     
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4954.958                4,014                   2,486,318,776   14,284,890      
+00021.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            4954.958                318                     196,966,232     1,393,629       
+00021.M2TS      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           4954.958                4,075                   2,524,100,636   14,493,049      
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4954.958                25                      15,371,142      90,299          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Yakari
+Disc Label: Yakari.Der.Kinofilm.2020.DUAL.COMPLETE.BLURAY-ROCKEFELLER
+Disc Size: 33,987,787,065 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 27,164,436,480 bytes
+Length: 1:22:35.125
+Total Bitrate: 43.86 Mbps
+Video: MPEG-4 AVC Video / 32970 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4014 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit / DN -5dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  4075 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+Subtitle: German / 24.817 kbps
+
