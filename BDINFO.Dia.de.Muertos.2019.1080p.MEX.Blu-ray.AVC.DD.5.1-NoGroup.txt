@@ -1,0 +1,192 @@
+Disc Label:     Dia.de.Muertos.2019.1080p.MEX.Blu-ray.AVC.DD.5.1-NoGroup
+Disc Size:      18,758,540,794 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00005.MPLS                                                      AVC     1:33:49 15,052,093,440  18,758,540,794  21.39   20.00   DD AC3 5.1 384Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Dia.de.Muertos.2019.1080p.MEX.Blu-ray.AVC.DD.5.1-NoGroup
+Disc Size:      18,758,540,794 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00005.MPLS
+Length:                 1:33:49.665 (h:m:s.ms)
+Size:                   15,052,093,440 bytes
+Total Bitrate:          21.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Undetermined    384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:33:49.665     15,052,093,440  21,390          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:53.788     19,998 kbps     38,759 kbps     00:00:29.029    23,824 kbps     00:00:25.358    21,912 kbps     00:00:20.353    104,252 bytes   868,142 bytes   00:04:00.114    
+2               0:06:53.788     0:09:11.717     20,016 kbps     38,717 kbps     00:11:49.625    23,524 kbps     00:11:46.664    21,877 kbps     00:12:19.613    104,354 bytes   970,883 bytes   00:13:42.029    
+3               0:16:05.506     0:07:40.543     20,001 kbps     34,504 kbps     00:21:27.494    23,465 kbps     00:22:39.232    21,865 kbps     00:16:29.989    104,277 bytes   974,603 bytes   00:21:28.245    
+4               0:23:46.049     0:08:21.167     20,004 kbps     32,497 kbps     00:26:34.551    23,049 kbps     00:27:57.217    21,823 kbps     00:25:48.129    104,292 bytes   959,970 bytes   00:27:26.936    
+5               0:32:07.216     0:07:31.367     19,989 kbps     38,428 kbps     00:37:46.389    23,824 kbps     00:35:31.170    21,892 kbps     00:37:12.104    104,225 bytes   919,299 bytes   00:32:33.242    
+6               0:39:38.584     0:07:06.008     20,016 kbps     31,898 kbps     00:40:40.771    22,773 kbps     00:41:23.397    21,726 kbps     00:45:48.287    104,352 bytes   954,689 bytes   00:44:20.157    
+7               0:46:44.593     0:08:15.912     19,975 kbps     32,178 kbps     00:46:48.555    23,027 kbps     00:50:02.874    21,529 kbps     00:49:57.911    104,140 bytes   968,564 bytes   00:49:27.965    
+8               0:55:00.505     0:08:15.661     20,012 kbps     33,268 kbps     00:59:12.465    23,424 kbps     00:57:12.512    21,915 kbps     00:57:38.663    104,332 bytes   979,308 bytes   00:57:29.446    
+9               1:03:16.167     0:07:36.330     20,007 kbps     32,671 kbps     01:09:01.971    23,375 kbps     01:08:08.334    21,692 kbps     01:06:31.737    104,308 bytes   970,824 bytes   01:09:47.725    
+10              1:10:52.498     0:06:47.448     19,993 kbps     33,994 kbps     01:11:14.895    22,896 kbps     01:13:50.926    21,532 kbps     01:16:48.478    104,236 bytes   976,211 bytes   01:12:22.129    
+11              1:17:39.946     0:09:07.880     19,989 kbps     34,041 kbps     01:23:55.321    23,525 kbps     01:19:39.107    21,795 kbps     01:19:35.479    104,211 bytes   974,987 bytes   01:20:45.632    
+12              1:26:47.827     0:07:01.838     19,998 kbps     32,218 kbps     01:26:49.245    23,323 kbps     01:26:59.505    21,511 kbps     01:26:54.792    104,272 bytes   752,629 bytes   01:27:17.023    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5629.582                20,000                  14,074,094,093  76,562,804      
+00005.M2TS      4352 (0x1100)   0x81            AC3             und (Undetermined)      5629.582                384                     270,223,688     1,583,358       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Dia.de.Muertos.2019.1080p.MEX.Blu-ray.AVC.DD.5.1-NoGroup
+Disc Size: 18,758,540,794 bytes
+Protection: AACS
+Playlist: 00005.MPLS
+Size: 15,052,093,440 bytes
+Length: 1:33:49.665
+Total Bitrate: 21.39 Mbps
+Video: MPEG-4 AVC Video / 20000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Undetermined / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+
+
+********************
+PLAYLIST: 01005.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01005.MPLS                                                      AVC     1:33:49 15,052,093,440  18,758,540,794  21.39   20.00   DD AC3 5.1 384Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Dia.de.Muertos.2019.1080p.MEX.Blu-ray.AVC.DD.5.1-NoGroup
+Disc Size:      18,758,540,794 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   01005.MPLS
+Length:                 1:33:49.665 (h:m:s.ms)
+Size:                   15,052,093,440 bytes
+Total Bitrate:          21.39 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        20000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Undetermined    384 kbps        5.1 / 48 kHz /   384 kbps / DN -27dB
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00005.M2TS      0:00:00.000     1:33:49.665     15,052,093,440  21,390          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:53.788     19,998 kbps     38,759 kbps     00:00:29.029    23,824 kbps     00:00:25.358    21,912 kbps     00:00:20.353    104,252 bytes   868,142 bytes   00:04:00.114    
+2               0:06:53.788     0:09:11.717     20,016 kbps     38,717 kbps     00:11:49.625    23,524 kbps     00:11:46.664    21,877 kbps     00:12:19.613    104,354 bytes   970,883 bytes   00:13:42.029    
+3               0:16:05.506     0:07:40.543     20,001 kbps     34,504 kbps     00:21:27.494    23,465 kbps     00:22:39.232    21,865 kbps     00:16:29.989    104,277 bytes   974,603 bytes   00:21:28.245    
+4               0:23:46.049     0:08:21.167     20,004 kbps     32,497 kbps     00:26:34.551    23,049 kbps     00:27:57.217    21,823 kbps     00:25:48.129    104,292 bytes   959,970 bytes   00:27:26.936    
+5               0:32:07.216     0:07:31.367     19,989 kbps     38,428 kbps     00:37:46.389    23,824 kbps     00:35:31.170    21,892 kbps     00:37:12.104    104,225 bytes   919,299 bytes   00:32:33.242    
+6               0:39:38.584     0:07:06.008     20,016 kbps     31,898 kbps     00:40:40.771    22,773 kbps     00:41:23.397    21,726 kbps     00:45:48.287    104,352 bytes   954,689 bytes   00:44:20.157    
+7               0:46:44.593     0:08:15.912     19,975 kbps     32,178 kbps     00:46:48.555    23,027 kbps     00:50:02.874    21,529 kbps     00:49:57.911    104,140 bytes   968,564 bytes   00:49:27.965    
+8               0:55:00.505     0:08:15.661     20,012 kbps     33,268 kbps     00:59:12.465    23,424 kbps     00:57:12.512    21,915 kbps     00:57:38.663    104,332 bytes   979,308 bytes   00:57:29.446    
+9               1:03:16.167     0:07:36.330     20,007 kbps     32,671 kbps     01:09:01.971    23,375 kbps     01:08:08.334    21,692 kbps     01:06:31.737    104,308 bytes   970,824 bytes   01:09:47.725    
+10              1:10:52.498     0:06:47.448     19,993 kbps     33,994 kbps     01:11:14.895    22,896 kbps     01:13:50.926    21,532 kbps     01:16:48.478    104,236 bytes   976,211 bytes   01:12:22.129    
+11              1:17:39.946     0:09:07.880     19,989 kbps     34,041 kbps     01:23:55.321    23,525 kbps     01:19:39.107    21,795 kbps     01:19:35.479    104,211 bytes   974,987 bytes   01:20:45.632    
+12              1:26:47.827     0:07:01.838     19,998 kbps     32,218 kbps     01:26:49.245    23,323 kbps     01:26:59.505    21,511 kbps     01:26:54.792    104,272 bytes   752,629 bytes   01:27:17.023    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00005.M2TS      4113 (0x1011)   0x1B            AVC                                     5629.582                20,000                  14,074,094,093  76,562,804      
+00005.M2TS      4352 (0x1100)   0x81            AC3             und (Undetermined)      5629.582                384                     270,223,688     1,583,358       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Dia.de.Muertos.2019.1080p.MEX.Blu-ray.AVC.DD.5.1-NoGroup
+Disc Size: 18,758,540,794 bytes
+Protection: AACS
+Playlist: 01005.MPLS
+Size: 15,052,093,440 bytes
+Length: 1:33:49.665
+Total Bitrate: 21.39 Mbps
+Video: MPEG-4 AVC Video / 20000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Undetermined / Dolby Digital Audio / 5.1 / 48 kHz /   384 kbps / DN -27dB
+

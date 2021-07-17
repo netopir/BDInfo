@@ -1,0 +1,178 @@
+Disc Label:     Cranston.Academy.Monster.Zone.2020.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-NoGroup
+Disc Size:      20,289,957,354 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:25:15 19,309,897,728  20,289,957,354  30.20   24.70   DTS-HD Master 5.1 3931Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Cranston.Academy.Monster.Zone.2020.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-NoGroup
+Disc Size:      20,289,957,354 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:25:15.110 (h:m:s.ms)
+Size:                   19,309,897,728 bytes
+Total Bitrate:          30.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24695 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Spanish         3931 kbps       5.1 / 48 kHz /  3931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:25:15.110     19,309,897,728  30,201          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:25:15.110     24,695 kbps     58,604 kbps     00:48:46.882    35,732 kbps     00:24:48.361    32,862 kbps     01:07:51.484    128,751 bytes   953,239 bytes   01:17:55.337    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5114.985                24,696                  15,789,888,197  85,886,250      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       spa (Spanish)           5114.985                3,931                   2,513,620,224   14,458,802      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Cranston.Academy.Monster.Zone.2020.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-NoGroup
+Disc Size: 20,289,957,354 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 19,309,897,728 bytes
+Length: 1:25:15.110
+Total Bitrate: 30.20 Mbps
+Video: MPEG-4 AVC Video / 24695 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  3931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+
+********************
+PLAYLIST: 01002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01002.MPLS                                                      AVC     1:25:15 19,309,897,728  20,289,957,354  30.20   24.70   DTS-HD Master 5.1 3931Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Cranston.Academy.Monster.Zone.2020.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-NoGroup
+Disc Size:      20,289,957,354 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   01002.MPLS
+Length:                 1:25:15.110 (h:m:s.ms)
+Size:                   19,309,897,728 bytes
+Total Bitrate:          30.20 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24695 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Spanish         3931 kbps       5.1 / 48 kHz /  3931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:25:15.110     19,309,897,728  30,201          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:15.661     23,489 kbps     57,983 kbps     00:00:05.046    35,730 kbps     00:02:10.046    32,843 kbps     00:07:13.641    122,448 bytes   929,172 bytes   00:06:39.524    
+2               0:08:15.661     0:07:11.264     29,658 kbps     57,139 kbps     00:10:51.442    35,728 kbps     00:10:51.233    32,859 kbps     00:08:31.469    154,623 bytes   912,784 bytes   00:08:51.614    
+3               0:15:26.926     0:06:12.914     21,764 kbps     53,999 kbps     00:20:34.149    35,691 kbps     00:20:33.857    32,395 kbps     00:15:36.769    113,469 bytes   849,010 bytes   00:20:59.549    
+4               0:21:39.840     0:08:30.426     23,630 kbps     57,948 kbps     00:27:03.121    35,732 kbps     00:24:48.361    32,831 kbps     00:24:48.236    123,196 bytes   934,906 bytes   00:28:26.913    
+5               0:30:10.266     0:08:53.366     22,261 kbps     58,509 kbps     00:34:18.514    35,696 kbps     00:33:25.169    32,835 kbps     00:34:49.754    116,056 bytes   930,948 bytes   00:33:29.215    
+6               0:39:03.632     0:06:41.442     21,058 kbps     49,732 kbps     00:43:46.415    35,643 kbps     00:43:42.953    32,861 kbps     00:43:56.675    109,786 bytes   949,440 bytes   00:44:43.138    
+7               0:45:45.075     0:05:47.305     26,110 kbps     58,604 kbps     00:48:46.882    35,658 kbps     00:48:46.882    32,813 kbps     00:48:46.882    136,127 bytes   817,359 bytes   00:47:55.706    
+8               0:51:32.380     0:06:16.250     26,958 kbps     48,849 kbps     00:57:36.035    35,716 kbps     00:55:15.937    32,839 kbps     00:55:15.520    140,548 bytes   845,955 bytes   00:53:03.346    
+9               0:57:48.631     0:04:44.117     27,953 kbps     52,381 kbps     00:59:00.995    35,691 kbps     00:59:33.695    32,797 kbps     00:59:33.695    145,732 bytes   840,476 bytes   01:02:08.808    
+10              1:02:32.749     0:06:13.748     27,157 kbps     57,890 kbps     01:07:51.484    35,703 kbps     01:05:02.607    32,862 kbps     01:07:51.484    141,583 bytes   889,158 bytes   01:04:12.098    
+11              1:08:46.497     0:07:29.699     29,714 kbps     57,313 kbps     01:11:24.154    35,593 kbps     01:09:42.887    32,803 kbps     01:14:18.704    154,917 bytes   949,567 bytes   01:09:16.902    
+12              1:16:16.196     0:08:58.913     19,886 kbps     58,499 kbps     01:20:52.556    35,724 kbps     01:20:52.556    32,753 kbps     01:18:24.324    103,692 bytes   953,239 bytes   01:17:55.337    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5114.985                24,696                  15,789,888,197  85,886,250      
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       spa (Spanish)           5114.985                3,931                   2,513,620,224   14,458,802      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Cranston.Academy.Monster.Zone.2020.1080p.Blu-ray.AVC.DTS-HD.MA.5.1-NoGroup
+Disc Size: 20,289,957,354 bytes
+Protection: AACS
+Playlist: 01002.MPLS
+Size: 19,309,897,728 bytes
+Length: 1:25:15.110
+Total Bitrate: 30.20 Mbps
+Video: MPEG-4 AVC Video / 24695 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Spanish / DTS-HD Master Audio / 5.1 / 48 kHz /  3931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+

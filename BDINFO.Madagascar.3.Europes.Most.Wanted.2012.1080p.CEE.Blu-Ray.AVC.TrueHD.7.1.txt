@@ -1,0 +1,195 @@
+Disc Label:     Madagascar.3.Europes.Most.Wanted.2012.1080p.CEE.Blu-Ray.AVC.TrueHD.7.1
+Disc Size:      41,539,082,967 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:33:24 31,002,329,088  41,539,082,967  44.26   27.02   Dolby TrueHD 7.1 5213Kbps (48kHz/24-bit)  
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Madagascar.3.Europes.Most.Wanted.2012.1080p.CEE.Blu-Ray.AVC.TrueHD.7.1
+Disc Size:      41,539,082,967 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:33:24.181 (h:m:s.ms)
+Size:                   31,002,329,088 bytes
+Total Bitrate:          44.26 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27022 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video        3271 kbps           480p / 23.976 fps / 16:9 / High Profile 3.2
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD Audio              English         5213 kbps       7.1 / 48 kHz /  4573 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Dolby Digital Audio             Czech           640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Hebrew          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Slovenian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+Dolby Digital Plus Audio        English         224 kbps        2.0 / 48 kHz /   224 kbps
+Dolby Digital Audio             Croatian        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Polish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Slovak          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Serbian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         25.124 kbps                     
+Presentation Graphics           Czech           41.793 kbps                     
+Presentation Graphics           English         44.821 kbps                     
+Presentation Graphics           Hebrew          29.600 kbps                     
+Presentation Graphics           Croatian        37.871 kbps                     
+Presentation Graphics           Polish          44.431 kbps                     
+Presentation Graphics           Slovenian       31.747 kbps                     
+Presentation Graphics           Slovak          40.485 kbps                     
+Presentation Graphics           English         71.144 kbps                     
+Presentation Graphics           Czech           0.618 kbps                      
+Presentation Graphics           Hebrew          0.404 kbps                      
+Presentation Graphics           Croatian        0.785 kbps                      
+Presentation Graphics           Polish          0.723 kbps                      
+Presentation Graphics           Slovenian       0.693 kbps                      
+Presentation Graphics           Slovak          0.667 kbps                      
+Presentation Graphics           Serbian         39.879 kbps                     
+Presentation Graphics           Serbian         0.684 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+01118.M2TS      0:00:00.000     1:33:24.181     31,002,329,088  44,256          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:16.315     26,997 kbps     34,720 kbps     00:02:31.860    30,394 kbps     00:00:44.544    30,093 kbps     00:02:22.851    140,732 bytes   638,650 bytes   00:02:47.208    
+2               0:05:16.315     0:05:35.668     27,332 kbps     37,290 kbps     00:07:27.822    31,421 kbps     00:07:23.818    30,491 kbps     00:07:18.813    142,496 bytes   639,018 bytes   00:06:02.528    
+3               0:10:51.984     0:08:54.325     27,817 kbps     34,731 kbps     00:19:01.098    30,745 kbps     00:16:53.637    30,180 kbps     00:18:12.549    145,026 bytes   635,959 bytes   00:17:16.618    
+4               0:19:46.310     0:08:03.524     26,348 kbps     34,318 kbps     00:22:20.714    30,450 kbps     00:27:27.312    30,103 kbps     00:27:27.145    137,364 bytes   636,554 bytes   00:27:37.155    
+5               0:27:49.834     0:05:00.717     28,128 kbps     34,124 kbps     00:32:36.371    30,742 kbps     00:30:43.258    30,106 kbps     00:30:01.549    146,647 bytes   634,298 bytes   00:30:00.882    
+6               0:32:50.551     0:07:44.422     25,716 kbps     36,174 kbps     00:32:56.683    30,274 kbps     00:34:05.918    29,597 kbps     00:33:48.526    134,071 bytes   627,972 bytes   00:35:41.264    
+7               0:40:34.974     0:06:17.001     26,945 kbps     35,540 kbps     00:44:41.845    30,950 kbps     00:44:37.841    30,033 kbps     00:44:46.600    140,479 bytes   502,243 bytes   00:45:42.823    
+8               0:46:51.975     0:05:08.558     27,034 kbps     34,692 kbps     00:50:25.939    30,829 kbps     00:50:22.019    30,315 kbps     00:50:16.930    140,941 bytes   639,947 bytes   00:47:47.072    
+9               0:52:00.534     0:06:54.622     27,382 kbps     35,318 kbps     00:52:48.707    30,572 kbps     00:52:01.201    30,168 kbps     00:54:24.177    142,755 bytes   638,256 bytes   00:52:30.605    
+10              0:58:55.156     0:01:28.254     27,296 kbps     32,227 kbps     01:00:15.445    30,135 kbps     00:59:29.023    29,439 kbps     01:00:06.352    142,311 bytes   477,912 bytes   00:59:55.508    
+11              1:00:23.411     0:03:55.902     26,963 kbps     32,749 kbps     01:03:27.011    30,310 kbps     01:03:23.090    29,953 kbps     01:02:00.174    140,573 bytes   538,077 bytes   01:02:41.549    
+12              1:04:19.313     0:06:40.358     26,965 kbps     34,714 kbps     01:05:21.626    30,623 kbps     01:05:17.747    29,984 kbps     01:06:42.790    140,582 bytes   577,312 bytes   01:08:07.583    
+13              1:10:59.672     0:04:30.645     26,025 kbps     33,545 kbps     01:12:19.877    30,272 kbps     01:14:05.691    29,807 kbps     01:11:57.563    135,681 bytes   640,861 bytes   01:12:33.849    
+14              1:15:30.317     0:05:39.464     27,336 kbps     34,745 kbps     01:18:00.509    30,706 kbps     01:17:56.421    30,223 kbps     01:17:51.416    142,517 bytes   586,431 bytes   01:16:05.310    
+15              1:21:09.781     0:01:38.848     28,589 kbps     36,423 kbps     01:21:34.723    30,963 kbps     01:21:30.760    30,415 kbps     01:21:25.714    149,052 bytes   636,401 bytes   01:22:14.346    
+16              1:22:48.630     0:10:35.551     26,986 kbps     36,596 kbps     01:23:07.774    30,406 kbps     01:23:15.991    29,904 kbps     01:31:27.106    140,702 bytes   524,035 bytes   01:33:20.928    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+01118.M2TS      4113 (0x1011)   0x1B            AVC                                     5604.015                27,023                  18,929,623,341  102,957,006     
+01118.M2TS      4352 (0x1100)   0x83            TrueHD          eng (English)           5604.015                5,213                   3,651,861,940   23,943,229      
+01118.M2TS      4353 (0x1101)   0x81            AC3             ces (Czech)             5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4354 (0x1102)   0x81            AC3             heb (Hebrew)            5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4355 (0x1103)   0x81            AC3             slv (Slovenian)         5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           5604.015                224                     156,917,376     875,655         
+01118.M2TS      4357 (0x1105)   0x81            AC3             hrv (Croatian)          5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4358 (0x1106)   0x81            AC3             pol (Polish)            5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4359 (0x1107)   0x81            AC3             slk (Slovak)            5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4360 (0x1108)   0x81            AC3             srp (Serbian)           5604.015                640                     448,335,360     2,626,965       
+01118.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5604.015                25                      17,599,862      108,872         
+01118.M2TS      4609 (0x1201)   0x90            PGS             ces (Czech)             5604.015                42                      29,277,235      167,298         
+01118.M2TS      4610 (0x1202)   0x90            PGS             eng (English)           5604.015                45                      31,398,243      178,577         
+01118.M2TS      4611 (0x1203)   0x90            PGS             heb (Hebrew)            5604.015                30                      20,735,167      120,614         
+01118.M2TS      4612 (0x1204)   0x90            PGS             hrv (Croatian)          5604.015                38                      26,529,786      152,020         
+01118.M2TS      4613 (0x1205)   0x90            PGS             pol (Polish)            5604.015                44                      31,124,595      177,302         
+01118.M2TS      4614 (0x1206)   0x90            PGS             slv (Slovenian)         5604.015                32                      22,239,371      128,563         
+01118.M2TS      4615 (0x1207)   0x90            PGS             slk (Slovak)            5604.015                40                      28,360,858      162,267         
+01118.M2TS      4616 (0x1208)   0x90            PGS             eng (English)           5604.015                71                      49,838,050      279,129         
+01118.M2TS      4617 (0x1209)   0x90            PGS             ces (Czech)             5604.015                1                       432,582         2,519           
+01118.M2TS      4618 (0x120A)   0x90            PGS             heb (Hebrew)            5604.015                0                       283,205         1,741           
+01118.M2TS      4619 (0x120B)   0x90            PGS             hrv (Croatian)          5604.015                1                       549,793         3,184           
+01118.M2TS      4620 (0x120C)   0x90            PGS             pol (Polish)            5604.015                1                       506,480         2,934           
+01118.M2TS      4621 (0x120D)   0x90            PGS             slv (Slovenian)         5604.015                1                       485,115         2,820           
+01118.M2TS      4622 (0x120E)   0x90            PGS             slk (Slovak)            5604.015                1                       467,303         2,725           
+01118.M2TS      4623 (0x120F)   0x90            PGS             srp (Serbian)           5604.015                40                      27,935,941      159,918         
+01118.M2TS      4624 (0x1210)   0x90            PGS             srp (Serbian)           5604.015                1                       479,290         2,796           
+01118.M2TS      6656 (0x1A00)   0xA1            AC3+            eng (English)           5604.015                224                     156,917,376     875,655         
+01118.M2TS      6912 (0x1B00)   0x1B            AVC                                     5604.015                3,271                   2,291,471,814   12,529,478      
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Madagascar.3.Europes.Most.Wanted.2012.1080p.CEE.Blu-Ray.AVC.TrueHD.7.1
+Disc Size: 41,539,082,967 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 31,002,329,088 bytes
+Length: 1:33:24.181
+Total Bitrate: 44.26 Mbps
+Video: MPEG-4 AVC Video / 27022 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video / 3271 kbps / 480p / 23.976 fps / 16:9 / High Profile 3.2
+Audio: English / Dolby TrueHD Audio / 7.1 / 48 kHz /  4573 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -27dB)
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Hebrew / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Slovenian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Audio: English / Dolby Digital Plus Audio / 2.0 / 48 kHz /   224 kbps
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Slovak / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 25.124 kbps
+Subtitle: Czech / 41.793 kbps
+Subtitle: English / 44.821 kbps
+Subtitle: Hebrew / 29.600 kbps
+Subtitle: Croatian / 37.871 kbps
+Subtitle: Polish / 44.431 kbps
+Subtitle: Slovenian / 31.747 kbps
+Subtitle: Slovak / 40.485 kbps
+Subtitle: English / 71.144 kbps
+Subtitle: Czech / 0.618 kbps
+Subtitle: Hebrew / 0.404 kbps
+Subtitle: Croatian / 0.785 kbps
+Subtitle: Polish / 0.723 kbps
+Subtitle: Slovenian / 0.693 kbps
+Subtitle: Slovak / 0.667 kbps
+Subtitle: Serbian / 39.879 kbps
+Subtitle: Serbian / 0.684 kbps
+
