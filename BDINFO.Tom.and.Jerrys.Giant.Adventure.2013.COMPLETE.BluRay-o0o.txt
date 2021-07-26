@@ -1,0 +1,262 @@
+Disc Title:     Tom and Jerry's Giant Adventure
+Disc Label:     Tom.and.Jerrys.Giant.Adventure.2013.COMPLETE.BluRay-o0o
+Disc Size:      10,414,413,483 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     0:57:06 9,819,039,744   10,414,413,483  22.92   15.54   DTS-HD Master 5.1 3953Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Tom and Jerry's Giant Adventure
+Disc Label:     Tom.and.Jerrys.Giant.Adventure.2013.COMPLETE.BluRay-o0o
+Disc Size:      10,414,413,483 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 0:57:06.881 (h:m:s.ms)
+Size:                   9,819,039,744 bytes
+Total Bitrate:          22.92 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        15538 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.0
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3953 kbps       5.1 / 48 kHz /  3953 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Spanish         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Dolby Digital Audio             Spanish         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Dolby Digital Audio             Russian         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Dolby Digital Audio           Japanese        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         Japanese        19.634 kbps                     
+Presentation Graphics           English         26.524 kbps                     
+Presentation Graphics           French          19.996 kbps                     
+Presentation Graphics           Russian         23.085 kbps                     
+* Presentation Graphics         Japanese        3.906 kbps                      
+Presentation Graphics           German          4.058 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     0:57:06.881     9,819,039,744   22,922          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:12:17.945     15,154 kbps     34,029 kbps     00:07:02.213    20,383 kbps     00:00:49.049    19,177 kbps     00:01:06.399    79,004 bytes    782,094 bytes   00:05:03.177    
+2               0:12:17.945     0:07:38.332     15,679 kbps     29,880 kbps     00:13:04.617    19,780 kbps     00:15:18.417    17,994 kbps     00:12:28.122    81,743 bytes    773,874 bytes   00:12:54.523    
+3               0:19:56.278     0:09:08.464     15,721 kbps     30,846 kbps     00:23:34.204    19,472 kbps     00:28:01.971    18,113 kbps     00:20:18.634    81,962 bytes    783,301 bytes   00:24:34.556    
+4               0:29:04.743     0:09:30.611     15,680 kbps     29,495 kbps     00:36:30.813    19,724 kbps     00:33:08.820    18,186 kbps     00:31:57.790    81,748 bytes    768,468 bytes   00:36:45.953    
+5               0:38:35.354     0:11:39.281     15,788 kbps     32,152 kbps     00:40:14.286    19,591 kbps     00:45:38.026    18,100 kbps     00:41:27.818    82,311 bytes    777,097 bytes   00:40:08.030    
+6               0:50:14.636     0:06:52.245     15,200 kbps     32,613 kbps     00:53:35.045    20,336 kbps     00:50:28.984    17,792 kbps     00:50:24.187    79,263 bytes    782,998 bytes   00:55:33.413    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     3426.798                15,538                  6,655,668,379   36,220,378      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3426.798                3,953                   1,693,331,228   9,737,154       
+00001.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            3426.798                640                     274,196,480     1,606,620       
+00001.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           3426.798                192                     82,258,944      535,540         
+00001.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           3426.798                192                     82,258,944      535,540         
+00001.M2TS      4356 (0x1104)   0x81            AC3             rus (Russian)           3426.798                192                     82,258,944      535,540         
+00001.M2TS      4357 (0x1105)   0x81            AC3             jpn (Japanese)          3426.798                640                     274,196,480     1,606,620       
+00001.M2TS      4608 (0x1200)   0x90            PGS             jpn (Japanese)          3426.798                20                      8,410,363       52,235          
+00001.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           3426.798                27                      11,361,637      66,344          
+00001.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            3426.798                20                      8,565,627       50,106          
+00001.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           3426.798                23                      9,888,582       57,467          
+00001.M2TS      4612 (0x1204)   0x90            PGS             jpn (Japanese)          3426.798                4                       1,672,973       12,575          
+00001.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            3426.798                4                       1,738,493       9,854           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Tom and Jerry's Giant Adventure
+Disc Label: Tom.and.Jerrys.Giant.Adventure.2013.COMPLETE.BluRay-o0o
+Disc Size: 10,414,413,483 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 9,819,039,744 bytes
+Length: 0:57:06.881
+Total Bitrate: 22.92 Mbps
+Video: MPEG-4 AVC Video / 15538 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.0
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3953 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Spanish / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: Spanish / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: Russian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Audio: Japanese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Subtitle: Japanese / 19.634 kbps
+Subtitle: English / 26.524 kbps
+Subtitle: French / 19.996 kbps
+Subtitle: Russian / 23.085 kbps
+* Subtitle: Japanese / 3.906 kbps
+Subtitle: German / 4.058 kbps
+
+
+********************
+PLAYLIST: 00101.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00101.MPLS                                                      AVC     0:57:06 9,819,039,744   10,414,413,483  22.92   15.54   DTS-HD Master 5.1 3953Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Tom and Jerry's Giant Adventure
+Disc Label:     Tom.and.Jerrys.Giant.Adventure.2013.COMPLETE.BluRay-o0o
+Disc Size:      10,414,413,483 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00101.MPLS
+Length:                 0:57:06.881 (h:m:s.ms)
+Size:                   9,819,039,744 bytes
+Total Bitrate:          22.92 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        15538 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.0
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3953 kbps       5.1 / 48 kHz /  3953 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Dolby Digital Audio           German          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Spanish         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Dolby Digital Audio           Spanish         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Dolby Digital Audio           Russian         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Dolby Digital Audio             Japanese        640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Japanese        19.634 kbps                     
+Presentation Graphics           English         26.524 kbps                     
+* Presentation Graphics         French          19.996 kbps                     
+* Presentation Graphics         Russian         23.085 kbps                     
+Presentation Graphics           Japanese        3.906 kbps                      
+* Presentation Graphics         German          4.058 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     0:57:06.881     9,819,039,744   22,922          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:12:17.945     15,154 kbps     34,029 kbps     00:07:02.213    20,383 kbps     00:00:49.049    19,177 kbps     00:01:06.399    79,004 bytes    782,094 bytes   00:05:03.177    
+2               0:12:17.945     0:07:38.332     15,679 kbps     29,880 kbps     00:13:04.617    19,780 kbps     00:15:18.417    17,994 kbps     00:12:28.122    81,743 bytes    773,874 bytes   00:12:54.523    
+3               0:19:56.278     0:09:08.464     15,721 kbps     30,846 kbps     00:23:34.204    19,472 kbps     00:28:01.971    18,113 kbps     00:20:18.634    81,962 bytes    783,301 bytes   00:24:34.556    
+4               0:29:04.743     0:09:30.611     15,680 kbps     29,495 kbps     00:36:30.813    19,724 kbps     00:33:08.820    18,186 kbps     00:31:57.790    81,748 bytes    768,468 bytes   00:36:45.953    
+5               0:38:35.354     0:11:39.281     15,788 kbps     32,152 kbps     00:40:14.286    19,591 kbps     00:45:38.026    18,100 kbps     00:41:27.818    82,311 bytes    777,097 bytes   00:40:08.030    
+6               0:50:14.636     0:06:52.245     15,200 kbps     32,613 kbps     00:53:35.045    20,336 kbps     00:50:28.984    17,792 kbps     00:50:24.187    79,263 bytes    782,998 bytes   00:55:33.413    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     3426.798                15,538                  6,655,668,379   36,220,378      
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           3426.798                3,953                   1,693,331,228   9,737,154       
+00001.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            3426.798                640                     274,196,480     1,606,620       
+00001.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           3426.798                192                     82,258,944      535,540         
+00001.M2TS      4355 (0x1103)   0x81            AC3             spa (Spanish)           3426.798                192                     82,258,944      535,540         
+00001.M2TS      4356 (0x1104)   0x81            AC3             rus (Russian)           3426.798                192                     82,258,944      535,540         
+00001.M2TS      4357 (0x1105)   0x81            AC3             jpn (Japanese)          3426.798                640                     274,196,480     1,606,620       
+00001.M2TS      4608 (0x1200)   0x90            PGS             jpn (Japanese)          3426.798                20                      8,410,363       52,235          
+00001.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           3426.798                27                      11,361,637      66,344          
+00001.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            3426.798                20                      8,565,627       50,106          
+00001.M2TS      4611 (0x1203)   0x90            PGS             rus (Russian)           3426.798                23                      9,888,582       57,467          
+00001.M2TS      4612 (0x1204)   0x90            PGS             jpn (Japanese)          3426.798                4                       1,672,973       12,575          
+00001.M2TS      4613 (0x1205)   0x90            PGS             deu (German)            3426.798                4                       1,738,493       9,854           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Tom and Jerry's Giant Adventure
+Disc Label: Tom.and.Jerrys.Giant.Adventure.2013.COMPLETE.BluRay-o0o
+Disc Size: 10,414,413,483 bytes
+Protection: AACS
+Playlist: 00101.MPLS
+Size: 9,819,039,744 bytes
+Length: 0:57:06.881
+Total Bitrate: 22.92 Mbps
+Video: MPEG-4 AVC Video / 15538 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.0
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3953 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+* Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Spanish / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Audio: Spanish / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+* Audio: Russian / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Audio: Japanese / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: Japanese / 19.634 kbps
+Subtitle: English / 26.524 kbps
+* Subtitle: French / 19.996 kbps
+* Subtitle: Russian / 23.085 kbps
+Subtitle: Japanese / 3.906 kbps
+* Subtitle: German / 4.058 kbps
+
