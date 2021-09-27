@@ -1,0 +1,110 @@
+Disc Title:     KALUOKA´HINA – The Enchanted Reef
+Disc Label:     Kaluoka.Hina.Das.Zauberriff.3D.2004.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      12,579,628,497 bytes
+Protection:     AACS
+Extras:         Blu-ray 3D
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     0:32:28 11,361,761,280  12,579,628,497  46.64   24.00   DTS-HD Master 5.1 2036Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     KALUOKA´HINA – The Enchanted Reef
+Disc Label:     Kaluoka.Hina.Das.Zauberriff.3D.2004.MULTi.COMPLETE.BLURAY-GMB
+Disc Size:      12,579,628,497 bytes
+Protection:     AACS
+Extras:         Blu-ray 3D
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 0:32:28.696 (h:m:s.ms)
+Size:                   11,361,761,280 bytes
+Total Bitrate:          46.64 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24000 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 MVC Video        15996 kbps          Right Eye       
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2036 kbps       5.1 / 48 kHz /  2036 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2062 kbps       5.1 / 48 kHz /  2062 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.SSIF      0:00:00.000     0:32:28.696     11,361,761,280  46,644          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:04:27.183     21,958 kbps     30,464 kbps     00:02:48.084    28,193 kbps     00:02:17.137    27,958 kbps     00:02:15.093    114,459 bytes   441,315 bytes   00:01:55.740    
+2               0:04:27.183     0:03:12.859     24,972 kbps     32,256 kbps     00:06:03.071    28,815 kbps     00:05:59.067    28,244 kbps     00:05:54.062    130,192 bytes   544,552 bytes   00:06:04.614    
+3               0:07:40.042     0:04:38.528     26,439 kbps     30,536 kbps     00:10:36.052    28,387 kbps     00:11:57.133    28,154 kbps     00:10:27.835    137,838 bytes   539,632 bytes   00:09:04.877    
+4               0:12:18.571     0:03:20.325     8,066 kbps      19,472 kbps     00:13:15.252    13,922 kbps     00:13:14.960    13,611 kbps     00:13:24.762    42,050 bytes    154,978 bytes   00:13:38.567    
+5               0:15:38.896     0:03:43.598     27,707 kbps     32,162 kbps     00:16:23.107    28,835 kbps     00:16:19.103    28,286 kbps     00:16:14.098    144,450 bytes   327,181 bytes   00:15:51.575    
+6               0:19:22.494     0:05:35.418     27,497 kbps     31,519 kbps     00:24:13.994    28,860 kbps     00:24:38.476    28,311 kbps     00:24:33.388    143,357 bytes   521,011 bytes   00:24:35.474    
+7               0:24:57.913     0:03:46.976     26,907 kbps     32,010 kbps     00:26:00.141    28,832 kbps     00:26:27.377    28,263 kbps     00:26:22.080    140,279 bytes   542,829 bytes   00:26:06.982    
+8               0:28:44.889     0:03:43.806     24,934 kbps     34,187 kbps     00:30:30.495    28,205 kbps     00:29:21.509    28,001 kbps     00:29:16.379    130,018 bytes   366,698 bytes   00:29:40.904    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.SSIF      4114 (0x1012)   0x20            MVC                                     1948.613                15,997                  3,896,508,795   21,207,720      
+00001.SSIF      4113 (0x1011)   0x1B            AVC                                     1948.613                24,001                  5,846,007,467   31,800,238      
+00001.SSIF      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            1948.613                2,036                   495,926,056     2,998,118       
+00001.SSIF      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           1948.613                2,062                   502,265,392     3,033,106       
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: KALUOKA´HINA – The Enchanted Reef
+Disc Label: Kaluoka.Hina.Das.Zauberriff.3D.2004.MULTi.COMPLETE.BLURAY-GMB
+Disc Size: 12,579,628,497 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 11,361,761,280 bytes
+Length: 0:32:28.696
+Total Bitrate: 46.64 Mbps
+Video: MPEG-4 AVC Video / 24000 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 MVC Video / 15996 kbps / Right Eye
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2036 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2062 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+

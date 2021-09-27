@@ -1,0 +1,242 @@
+Disc Title:     Troll
+Disc Label:     Troll.The.Tale.of.a.Tail.2018.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      24,175,226,686 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 01101.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01101.MPLS                                                      AVC     1:27:13 22,489,589,760  24,175,226,686  34.38   24.94   LPCM 2.0 1536Kbps (48kHz/16-bit)          DTS-HD Master 5.1 1937Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Troll
+Disc Label:     Troll.The.Tale.of.a.Tail.2018.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      24,175,226,686 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   01101.MPLS
+Length:                 1:27:13.439 (h:m:s.ms)
+Size:                   22,489,589,760 bytes
+Total Bitrate:          34.38 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24945 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      German          1536 kbps       2.0 / 48 kHz /  1536 kbps / 16-bit
+DTS-HD Master Audio             German          1937 kbps       5.1 / 48 kHz /  1937 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz /  1536 kbps / 16-bit
+DTS-HD Master Audio             English         1928 kbps       5.1 / 48 kHz /  1928 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          30.502 kbps                     
+Presentation Graphics           English         25.729 kbps                     
+Presentation Graphics           German          0.000 kbps                      
+Presentation Graphics           English         0.017 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00008.M2TS      0:00:00.000     1:27:12.439     22,489,454,592  34,385          
+00011.M2TS      1:27:12.439     0:00:01.000     135,168         1,081           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:13.000     24,159 kbps     37,065 kbps     00:02:06.960    31,654 kbps     00:02:40.480    30,954 kbps     00:02:37.280    120,771 bytes   454,659 bytes   00:00:59.400    
+2               0:03:13.000     0:06:04.600     28,492 kbps     42,625 kbps     00:04:50.000    32,479 kbps     00:09:10.600    31,033 kbps     00:07:59.760    142,459 bytes   742,076 bytes   00:03:36.160    
+3               0:09:17.600     0:05:14.800     26,878 kbps     37,308 kbps     00:11:19.560    32,084 kbps     00:11:03.360    30,864 kbps     00:09:45.000    134,391 bytes   507,587 bytes   00:09:22.920    
+4               0:14:32.400     0:04:24.960     26,072 kbps     38,544 kbps     00:18:43.320    31,690 kbps     00:18:06.880    30,669 kbps     00:18:25.200    130,359 bytes   512,209 bytes   00:17:55.000    
+5               0:18:57.360     0:04:10.719     25,017 kbps     41,739 kbps     00:20:02.440    32,483 kbps     00:22:10.400    29,777 kbps     00:19:26.960    125,087 bytes   693,507 bytes   00:22:52.120    
+6               0:23:08.080     0:04:33.720     25,079 kbps     36,237 kbps     00:25:05.560    30,297 kbps     00:26:51.280    28,847 kbps     00:25:27.400    125,393 bytes   640,022 bytes   00:24:17.960    
+7               0:27:41.800     0:06:16.200     26,408 kbps     38,137 kbps     00:29:34.640    31,614 kbps     00:28:08.680    30,358 kbps     00:28:42.640    132,039 bytes   517,015 bytes   00:28:55.720    
+8               0:33:58.000     0:07:52.800     25,957 kbps     43,690 kbps     00:39:16.000    31,873 kbps     00:35:12.920    31,181 kbps     00:35:46.840    129,787 bytes   521,373 bytes   00:34:28.200    
+9               0:41:50.800     0:08:10.399     25,790 kbps     37,334 kbps     00:46:42.480    31,949 kbps     00:46:42.480    30,603 kbps     00:46:38.400    128,949 bytes   472,757 bytes   00:47:28.960    
+10              0:50:01.200     0:04:53.800     26,575 kbps     44,396 kbps     00:54:03.440    32,904 kbps     00:53:41.080    30,474 kbps     00:53:54.760    132,877 bytes   748,131 bytes   00:51:15.680    
+11              0:54:55.000     0:08:05.400     27,799 kbps     38,907 kbps     00:57:50.480    32,819 kbps     01:00:18.280    31,742 kbps     00:57:31.240    138,997 bytes   599,313 bytes   01:00:54.120    
+12              1:03:00.400     0:07:58.400     26,926 kbps     40,670 kbps     01:10:25.320    32,391 kbps     01:05:01.880    31,070 kbps     01:09:43.440    134,630 bytes   663,213 bytes   01:08:18.680    
+13              1:10:58.800     0:08:32.599     26,569 kbps     40,816 kbps     01:12:56.600    32,891 kbps     01:14:00.920    30,955 kbps     01:11:11.560    132,846 bytes   792,946 bytes   01:16:44.640    
+14              1:19:31.400     0:07:42.040     9,378 kbps      40,912 kbps     01:19:48.560    32,514 kbps     01:19:36.400    31,154 kbps     01:19:31.720    46,899 bytes    466,293 bytes   01:21:10.200    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00008.M2TS      4113 (0x1011)   0x1B            AVC                                     5232.280                24,950                  16,318,266,167  88,762,449      
+00008.M2TS      4352 (0x1100)   0x80            LPCM            deu (German)            5232.280                1,542                   1,008,812,320   6,278,925       
+00008.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5232.280                1,937                   1,267,067,784   7,699,254       
+00008.M2TS      4354 (0x1102)   0x80            LPCM            eng (English)           5232.280                1,542                   1,008,814,432   6,278,928       
+00008.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5232.280                1,929                   1,261,309,347   7,666,410       
+00008.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5232.280                31                      19,953,948      115,494         
+00008.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5232.280                26                      16,831,599      98,496          
+00008.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5232.280                0                       129             8               
+00008.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           5232.280                0                       11,110          68              
+00011.M2TS      4113 (0x1011)   0x1B            AVC                                     0.840                   1,111                   116,640         654             
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Troll
+Disc Label: Troll.The.Tale.of.a.Tail.2018.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 24,175,226,686 bytes
+Protection: AACS
+Playlist: 01101.MPLS
+Size: 22,489,589,760 bytes
+Length: 1:27:13.439
+Total Bitrate: 34.38 Mbps
+Video: MPEG-4 AVC Video / 24945 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / LPCM Audio / 2.0 / 48 kHz /  1536 kbps / 16-bit
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1937 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / LPCM Audio / 2.0 / 48 kHz /  1536 kbps / 16-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1928 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 30.502 kbps
+Subtitle: English / 25.729 kbps
+Subtitle: German / 0.000 kbps
+Subtitle: English / 0.017 kbps
+
+
+********************
+PLAYLIST: 00008.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00008.MPLS                                                      AVC     1:27:12 22,489,454,592  24,175,226,686  34.38   24.95   LPCM 2.0 1536Kbps (48kHz/16-bit)          DTS-HD Master 5.1 1937Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Troll
+Disc Label:     Troll.The.Tale.of.a.Tail.2018.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      24,175,226,686 bytes
+Protection:     AACS
+Extras:         BD-Java, 50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00008.MPLS
+Length:                 1:27:12.439 (h:m:s.ms)
+Size:                   22,489,454,592 bytes
+Total Bitrate:          34.38 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24949 kbps          1080i / 25 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+LPCM Audio                      German          1536 kbps       2.0 / 48 kHz /  1536 kbps / 16-bit
+DTS-HD Master Audio             German          1937 kbps       5.1 / 48 kHz /  1937 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+LPCM Audio                      English         1536 kbps       2.0 / 48 kHz /  1536 kbps / 16-bit
+DTS-HD Master Audio             English         1928 kbps       5.1 / 48 kHz /  1928 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          30.508 kbps                     
+Presentation Graphics           English         25.734 kbps                     
+Presentation Graphics           German          0.000 kbps                      
+Presentation Graphics           English         0.017 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00008.M2TS      0:00:00.000     1:27:12.439     22,489,454,592  34,385          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     1:27:12.439     24,949 kbps     44,396 kbps     00:54:03.440    32,904 kbps     00:53:41.080    31,742 kbps     00:57:31.240    124,748 bytes   792,946 bytes   01:16:44.640    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00008.M2TS      4113 (0x1011)   0x1B            AVC                                     5232.280                24,950                  16,318,266,167  88,762,449      
+00008.M2TS      4352 (0x1100)   0x80            LPCM            deu (German)            5232.280                1,542                   1,008,812,320   6,278,925       
+00008.M2TS      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            5232.280                1,937                   1,267,067,784   7,699,254       
+00008.M2TS      4354 (0x1102)   0x80            LPCM            eng (English)           5232.280                1,542                   1,008,814,432   6,278,928       
+00008.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5232.280                1,929                   1,261,309,347   7,666,410       
+00008.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5232.280                31                      19,953,948      115,494         
+00008.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5232.280                26                      16,831,599      98,496          
+00008.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            5232.280                0                       129             8               
+00008.M2TS      4611 (0x1203)   0x90            PGS             eng (English)           5232.280                0                       11,110          68              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Troll
+Disc Label: Troll.The.Tale.of.a.Tail.2018.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 24,175,226,686 bytes
+Protection: AACS
+Playlist: 00008.MPLS
+Size: 22,489,454,592 bytes
+Length: 1:27:12.439
+Total Bitrate: 34.38 Mbps
+Video: MPEG-4 AVC Video / 24949 kbps / 1080i / 25 fps / 16:9 / High Profile 4.1
+Audio: German / LPCM Audio / 2.0 / 48 kHz /  1536 kbps / 16-bit
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  1937 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / LPCM Audio / 2.0 / 48 kHz /  1536 kbps / 16-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  1928 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 30.508 kbps
+Subtitle: English / 25.734 kbps
+Subtitle: German / 0.000 kbps
+Subtitle: English / 0.017 kbps
+
