@@ -1,0 +1,128 @@
+Disc Title:     100% Wolf
+Disc Label:     100.Percent.Wolf.2020.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      23,394,644,877 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00004.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00004.MPLS                                                      AVC     1:36:13 18,627,446,784  23,394,644,877  25.81   19.98   DTS-HD Hi-Res 5.1 2046Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     100% Wolf
+Disc Label:     100.Percent.Wolf.2020.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      23,394,644,877 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00004.MPLS
+Length:                 1:36:13.416 (h:m:s.ms)
+Size:                   18,627,446,784 bytes
+Total Bitrate:          25.81 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19984 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             German          224 kbps        2.0 / 48 kHz /   224 kbps / DN -31dB
+DTS-HD High-Res Audio           English         2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          34.687 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     1:36:12.416     18,627,422,208  25,816          
+00007.M2TS      1:36:12.416     0:00:01.000     24,576          197             
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:01.041     22,311 kbps     39,498 kbps     00:00:04.541    34,289 kbps     00:04:57.916    31,149 kbps     00:03:48.249    116,190 bytes   412,231 bytes   00:03:23.083    
+2               0:06:01.041     0:06:38.041     19,785 kbps     38,493 kbps     00:07:41.625    33,240 kbps     00:07:40.041    29,174 kbps     00:07:39.250    103,049 bytes   481,405 bytes   00:06:42.000    
+3               0:12:39.083     0:04:30.375     19,490 kbps     36,115 kbps     00:15:47.875    31,275 kbps     00:15:45.333    28,878 kbps     00:15:44.375    101,510 bytes   462,804 bytes   00:12:59.916    
+4               0:17:09.458     0:06:26.458     20,209 kbps     40,110 kbps     00:21:10.916    33,605 kbps     00:20:01.333    29,140 kbps     00:19:56.333    105,256 bytes   522,306 bytes   00:21:12.875    
+5               0:23:35.916     0:06:38.874     22,853 kbps     37,706 kbps     00:27:23.333    35,986 kbps     00:27:21.333    32,333 kbps     00:25:45.749    119,025 bytes   490,512 bytes   00:23:58.208    
+6               0:30:14.791     0:06:41.708     19,554 kbps     38,906 kbps     00:33:10.499    29,065 kbps     00:32:48.875    26,245 kbps     00:32:43.874    101,843 bytes   470,007 bytes   00:32:50.000    
+7               0:36:56.500     0:05:36.000     21,109 kbps     39,970 kbps     00:42:13.208    32,823 kbps     00:41:17.083    29,863 kbps     00:41:16.833    109,940 bytes   460,413 bytes   00:42:12.250    
+8               0:42:32.500     0:04:56.333     19,413 kbps     36,751 kbps     00:45:36.250    33,340 kbps     00:45:34.250    30,567 kbps     00:45:29.208    101,111 bytes   374,370 bytes   00:45:04.166    
+9               0:47:28.833     0:04:50.875     19,700 kbps     32,751 kbps     00:47:37.291    27,426 kbps     00:51:06.083    24,794 kbps     00:47:28.833    102,605 bytes   368,617 bytes   00:51:19.875    
+10              0:52:19.708     0:07:35.583     19,015 kbps     38,407 kbps     00:58:30.458    34,500 kbps     00:58:30.250    29,462 kbps     00:58:28.625    99,036 bytes    491,845 bytes   00:58:33.500    
+11              0:59:55.291     0:08:03.250     18,906 kbps     39,552 kbps     01:05:04.541    36,378 kbps     01:05:22.166    31,361 kbps     01:04:56.666    98,467 bytes    504,527 bytes   01:05:06.125    
+12              1:07:58.541     0:06:04.625     16,824 kbps     35,269 kbps     01:09:54.791    28,362 kbps     01:11:58.458    27,692 kbps     01:11:55.583    87,623 bytes    415,652 bytes   01:12:06.875    
+13              1:14:03.166     0:07:05.291     20,803 kbps     38,994 kbps     01:20:40.333    32,000 kbps     01:20:45.000    30,016 kbps     01:20:40.208    108,347 bytes   382,423 bytes   01:20:41.333    
+14              1:21:08.458     0:07:25.041     22,937 kbps     41,317 kbps     01:24:38.958    35,763 kbps     01:28:27.875    30,781 kbps     01:27:56.000    119,461 bytes   533,325 bytes   01:28:33.500    
+15              1:28:33.500     0:01:34.291     23,419 kbps     38,582 kbps     01:28:34.083    34,909 kbps     01:28:38.166    33,558 kbps     01:28:33.583    121,973 bytes   549,925 bytes   01:28:34.291    
+16              1:30:07.791     0:06:05.625     15,380 kbps     39,613 kbps     01:30:40.125    37,254 kbps     01:30:39.000    35,522 kbps     01:30:33.958    80,113 bytes    533,422 bytes   01:31:44.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     5772.250                19,988                  14,421,974,285  78,460,974      
+00006.M2TS      4352 (0x1100)   0x85            DTS-HD HR       deu (German)            5772.250                2,046                   1,476,295,392   8,658,624       
+00006.M2TS      4353 (0x1101)   0x81            AC3             deu (German)            5772.250                224                     161,626,752     901,935         
+00006.M2TS      4354 (0x1102)   0x85            DTS-HD HR       eng (English)           5772.250                2,046                   1,476,295,392   8,658,624       
+00006.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            5772.250                35                      25,033,089      144,247         
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     0.875                   108                     11,831          72              
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: 100% Wolf
+Disc Label: 100.Percent.Wolf.2020.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 23,394,644,877 bytes
+Protection: AACS
+Playlist: 00004.MPLS
+Size: 18,627,446,784 bytes
+Length: 1:36:13.416
+Total Bitrate: 25.81 Mbps
+Video: MPEG-4 AVC Video / 19984 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: German / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -31dB
+Audio: English / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: German / 34.687 kbps
+
