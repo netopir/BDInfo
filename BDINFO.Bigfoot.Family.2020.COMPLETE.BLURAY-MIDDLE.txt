@@ -1,0 +1,702 @@
+Disc Title:     Bigfoot Family
+Disc Label:     Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size:      38,628,084,627 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00038.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00038.MPLS                                                      AVC     1:28:44 19,888,115,712  38,628,084,627  29.88   21.93   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Family
+Disc Label:     Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size:      38,628,084,627 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00038.MPLS
+Length:                 1:28:44.652 (h:m:s.ms)
+Size:                   19,888,115,712 bytes
+Total Bitrate:          29.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21929 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         3847 kbps       5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           36.292 kbps                     
+Presentation Graphics           French          35.704 kbps                     
+Presentation Graphics           Dutch           0.310 kbps                      
+Presentation Graphics           French          0.314 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:44.652     19,888,115,712  29,881          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:55.159     21,937 kbps     41,156 kbps     00:01:01.186    34,208 kbps     00:00:08.675    29,425 kbps     00:01:01.186    114,361 bytes   955,009 bytes   00:08:48.361    
+2               0:08:55.159     0:04:31.270     22,662 kbps     39,359 kbps     00:12:52.938    28,154 kbps     00:12:53.147    26,765 kbps     00:11:23.808    118,150 bytes   761,950 bytes   00:12:05.266    
+3               0:13:26.430     0:08:05.234     22,673 kbps     36,715 kbps     00:14:00.422    29,431 kbps     00:17:19.997    28,291 kbps     00:17:17.369    118,205 bytes   983,215 bytes   00:14:24.780    
+4               0:21:31.665     0:08:08.988     22,924 kbps     35,545 kbps     00:28:55.775    31,530 kbps     00:28:53.732    28,832 kbps     00:29:20.592    119,514 bytes   961,321 bytes   00:29:20.967    
+5               0:29:40.653     0:07:32.618     22,281 kbps     39,971 kbps     00:34:02.832    29,574 kbps     00:36:05.746    26,910 kbps     00:36:14.463    116,163 bytes   967,753 bytes   00:33:58.870    
+6               0:37:13.272     0:08:17.914     23,255 kbps     39,417 kbps     00:43:19.805    30,272 kbps     00:41:49.673    28,675 kbps     00:44:43.889    121,240 bytes   954,512 bytes   00:40:44.275    
+7               0:45:31.186     0:06:49.867     22,301 kbps     36,422 kbps     00:46:16.273    30,662 kbps     00:47:26.927    28,508 kbps     00:47:21.922    116,268 bytes   971,367 bytes   00:47:42.693    
+8               0:52:21.054     0:07:42.587     22,839 kbps     37,091 kbps     00:55:33.580    29,160 kbps     00:56:49.531    28,287 kbps     00:53:26.077    119,072 bytes   941,680 bytes   00:55:32.620    
+9               1:00:03.641     0:05:53.853     22,681 kbps     39,944 kbps     01:03:00.234    30,282 kbps     01:00:35.715    28,341 kbps     01:04:46.632    118,246 bytes   954,242 bytes   01:00:04.642    
+10              1:05:57.495     0:10:21.370     23,213 kbps     41,747 kbps     01:06:23.354    28,951 kbps     01:12:16.999    28,465 kbps     01:13:10.344    121,019 bytes   929,719 bytes   01:06:04.126    
+11              1:16:18.865     0:07:32.034     22,943 kbps     34,313 kbps     01:23:01.810    28,852 kbps     01:23:25.000    27,585 kbps     01:23:18.827    119,614 bytes   850,283 bytes   01:22:58.598    
+12              1:23:50.900     0:04:53.751     8,426 kbps      29,313 kbps     01:25:26.871    25,014 kbps     01:23:55.822    22,591 kbps     01:25:13.691    43,936 bytes    354,231 bytes   01:25:32.418    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5324.569                21,929                  14,595,399,812  79,397,539      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5324.569                3,847                   2,560,598,344   14,747,135      
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5324.569                36                      24,155,147      137,094         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5324.569                36                      23,764,126      136,072         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5324.569                0                       206,594         1,195           
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5324.569                0                       208,830         1,214           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Family
+Disc Label: Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size: 38,628,084,627 bytes
+Protection: AACS
+Playlist: 00038.MPLS
+Size: 19,888,115,712 bytes
+Length: 1:28:44.652
+Total Bitrate: 29.88 Mbps
+Video: MPEG-4 AVC Video / 21929 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Dutch / 36.292 kbps
+Subtitle: French / 35.704 kbps
+Subtitle: Dutch / 0.310 kbps
+Subtitle: French / 0.314 kbps
+
+
+********************
+PLAYLIST: 00039.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00039.MPLS                                                      AVC     1:28:44 19,888,115,712  38,628,084,627  29.88   21.93   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Family
+Disc Label:     Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size:      38,628,084,627 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00039.MPLS
+Length:                 1:28:44.652 (h:m:s.ms)
+Size:                   19,888,115,712 bytes
+Total Bitrate:          29.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21929 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         3847 kbps       5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           36.292 kbps                     
+Presentation Graphics           French          35.704 kbps                     
+Presentation Graphics           Dutch           0.310 kbps                      
+Presentation Graphics           French          0.314 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:44.652     19,888,115,712  29,881          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:55.159     21,937 kbps     41,156 kbps     00:01:01.186    34,208 kbps     00:00:08.675    29,425 kbps     00:01:01.186    114,361 bytes   955,009 bytes   00:08:48.361    
+2               0:08:55.159     0:04:31.270     22,662 kbps     39,359 kbps     00:12:52.938    28,154 kbps     00:12:53.147    26,765 kbps     00:11:23.808    118,150 bytes   761,950 bytes   00:12:05.266    
+3               0:13:26.430     0:08:05.234     22,673 kbps     36,715 kbps     00:14:00.422    29,431 kbps     00:17:19.997    28,291 kbps     00:17:17.369    118,205 bytes   983,215 bytes   00:14:24.780    
+4               0:21:31.665     0:08:08.988     22,924 kbps     35,545 kbps     00:28:55.775    31,530 kbps     00:28:53.732    28,832 kbps     00:29:20.592    119,514 bytes   961,321 bytes   00:29:20.967    
+5               0:29:40.653     0:07:32.618     22,281 kbps     39,971 kbps     00:34:02.832    29,574 kbps     00:36:05.746    26,910 kbps     00:36:14.463    116,163 bytes   967,753 bytes   00:33:58.870    
+6               0:37:13.272     0:08:17.914     23,255 kbps     39,417 kbps     00:43:19.805    30,272 kbps     00:41:49.673    28,675 kbps     00:44:43.889    121,240 bytes   954,512 bytes   00:40:44.275    
+7               0:45:31.186     0:06:49.867     22,301 kbps     36,422 kbps     00:46:16.273    30,662 kbps     00:47:26.927    28,508 kbps     00:47:21.922    116,268 bytes   971,367 bytes   00:47:42.693    
+8               0:52:21.054     0:07:42.587     22,839 kbps     37,091 kbps     00:55:33.580    29,160 kbps     00:56:49.531    28,287 kbps     00:53:26.077    119,072 bytes   941,680 bytes   00:55:32.620    
+9               1:00:03.641     0:05:53.853     22,681 kbps     39,944 kbps     01:03:00.234    30,282 kbps     01:00:35.715    28,341 kbps     01:04:46.632    118,246 bytes   954,242 bytes   01:00:04.642    
+10              1:05:57.495     0:10:21.370     23,213 kbps     41,747 kbps     01:06:23.354    28,951 kbps     01:12:16.999    28,465 kbps     01:13:10.344    121,019 bytes   929,719 bytes   01:06:04.126    
+11              1:16:18.865     0:07:32.034     22,943 kbps     34,313 kbps     01:23:01.810    28,852 kbps     01:23:25.000    27,585 kbps     01:23:18.827    119,614 bytes   850,283 bytes   01:22:58.598    
+12              1:23:50.900     0:04:53.751     8,426 kbps      29,313 kbps     01:25:26.871    25,014 kbps     01:23:55.822    22,591 kbps     01:25:13.691    43,936 bytes    354,231 bytes   01:25:32.418    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5324.569                21,929                  14,595,399,812  79,397,539      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5324.569                3,847                   2,560,598,344   14,747,135      
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5324.569                36                      24,155,147      137,094         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5324.569                36                      23,764,126      136,072         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5324.569                0                       206,594         1,195           
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5324.569                0                       208,830         1,214           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Family
+Disc Label: Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size: 38,628,084,627 bytes
+Protection: AACS
+Playlist: 00039.MPLS
+Size: 19,888,115,712 bytes
+Length: 1:28:44.652
+Total Bitrate: 29.88 Mbps
+Video: MPEG-4 AVC Video / 21929 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Dutch / 36.292 kbps
+Subtitle: French / 35.704 kbps
+Subtitle: Dutch / 0.310 kbps
+Subtitle: French / 0.314 kbps
+
+
+********************
+PLAYLIST: 00040.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00040.MPLS                                                      AVC     1:28:44 19,888,115,712  38,628,084,627  29.88   21.93   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Family
+Disc Label:     Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size:      38,628,084,627 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00040.MPLS
+Length:                 1:28:44.652 (h:m:s.ms)
+Size:                   19,888,115,712 bytes
+Total Bitrate:          29.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21929 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         3847 kbps       5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           36.292 kbps                     
+Presentation Graphics           French          35.704 kbps                     
+Presentation Graphics           Dutch           0.310 kbps                      
+Presentation Graphics           French          0.314 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:44.652     19,888,115,712  29,881          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:55.159     21,937 kbps     41,156 kbps     00:01:01.186    34,208 kbps     00:00:08.675    29,425 kbps     00:01:01.186    114,361 bytes   955,009 bytes   00:08:48.361    
+2               0:08:55.159     0:04:31.270     22,662 kbps     39,359 kbps     00:12:52.938    28,154 kbps     00:12:53.147    26,765 kbps     00:11:23.808    118,150 bytes   761,950 bytes   00:12:05.266    
+3               0:13:26.430     0:08:05.234     22,673 kbps     36,715 kbps     00:14:00.422    29,431 kbps     00:17:19.997    28,291 kbps     00:17:17.369    118,205 bytes   983,215 bytes   00:14:24.780    
+4               0:21:31.665     0:08:08.988     22,924 kbps     35,545 kbps     00:28:55.775    31,530 kbps     00:28:53.732    28,832 kbps     00:29:20.592    119,514 bytes   961,321 bytes   00:29:20.967    
+5               0:29:40.653     0:07:32.618     22,281 kbps     39,971 kbps     00:34:02.832    29,574 kbps     00:36:05.746    26,910 kbps     00:36:14.463    116,163 bytes   967,753 bytes   00:33:58.870    
+6               0:37:13.272     0:08:17.914     23,255 kbps     39,417 kbps     00:43:19.805    30,272 kbps     00:41:49.673    28,675 kbps     00:44:43.889    121,240 bytes   954,512 bytes   00:40:44.275    
+7               0:45:31.186     0:06:49.867     22,301 kbps     36,422 kbps     00:46:16.273    30,662 kbps     00:47:26.927    28,508 kbps     00:47:21.922    116,268 bytes   971,367 bytes   00:47:42.693    
+8               0:52:21.054     0:07:42.587     22,839 kbps     37,091 kbps     00:55:33.580    29,160 kbps     00:56:49.531    28,287 kbps     00:53:26.077    119,072 bytes   941,680 bytes   00:55:32.620    
+9               1:00:03.641     0:05:53.853     22,681 kbps     39,944 kbps     01:03:00.234    30,282 kbps     01:00:35.715    28,341 kbps     01:04:46.632    118,246 bytes   954,242 bytes   01:00:04.642    
+10              1:05:57.495     0:10:21.370     23,213 kbps     41,747 kbps     01:06:23.354    28,951 kbps     01:12:16.999    28,465 kbps     01:13:10.344    121,019 bytes   929,719 bytes   01:06:04.126    
+11              1:16:18.865     0:07:32.034     22,943 kbps     34,313 kbps     01:23:01.810    28,852 kbps     01:23:25.000    27,585 kbps     01:23:18.827    119,614 bytes   850,283 bytes   01:22:58.598    
+12              1:23:50.900     0:04:53.751     8,426 kbps      29,313 kbps     01:25:26.871    25,014 kbps     01:23:55.822    22,591 kbps     01:25:13.691    43,936 bytes    354,231 bytes   01:25:32.418    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5324.569                21,929                  14,595,399,812  79,397,539      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5324.569                3,847                   2,560,598,344   14,747,135      
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5324.569                36                      24,155,147      137,094         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5324.569                36                      23,764,126      136,072         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5324.569                0                       206,594         1,195           
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5324.569                0                       208,830         1,214           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Family
+Disc Label: Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size: 38,628,084,627 bytes
+Protection: AACS
+Playlist: 00040.MPLS
+Size: 19,888,115,712 bytes
+Length: 1:28:44.652
+Total Bitrate: 29.88 Mbps
+Video: MPEG-4 AVC Video / 21929 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Dutch / 36.292 kbps
+Subtitle: French / 35.704 kbps
+Subtitle: Dutch / 0.310 kbps
+Subtitle: French / 0.314 kbps
+
+
+********************
+PLAYLIST: 00041.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00041.MPLS                                                      AVC     1:28:44 19,888,115,712  38,628,084,627  29.88   21.93   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Family
+Disc Label:     Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size:      38,628,084,627 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00041.MPLS
+Length:                 1:28:44.652 (h:m:s.ms)
+Size:                   19,888,115,712 bytes
+Total Bitrate:          29.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21929 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         3847 kbps       5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           36.292 kbps                     
+Presentation Graphics           French          35.704 kbps                     
+Presentation Graphics           Dutch           0.310 kbps                      
+Presentation Graphics           French          0.314 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:44.652     19,888,115,712  29,881          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:55.159     21,937 kbps     41,156 kbps     00:01:01.186    34,208 kbps     00:00:08.675    29,425 kbps     00:01:01.186    114,361 bytes   955,009 bytes   00:08:48.361    
+2               0:08:55.159     0:04:31.270     22,662 kbps     39,359 kbps     00:12:52.938    28,154 kbps     00:12:53.147    26,765 kbps     00:11:23.808    118,150 bytes   761,950 bytes   00:12:05.266    
+3               0:13:26.430     0:08:05.234     22,673 kbps     36,715 kbps     00:14:00.422    29,431 kbps     00:17:19.997    28,291 kbps     00:17:17.369    118,205 bytes   983,215 bytes   00:14:24.780    
+4               0:21:31.665     0:08:08.988     22,924 kbps     35,545 kbps     00:28:55.775    31,530 kbps     00:28:53.732    28,832 kbps     00:29:20.592    119,514 bytes   961,321 bytes   00:29:20.967    
+5               0:29:40.653     0:07:32.618     22,281 kbps     39,971 kbps     00:34:02.832    29,574 kbps     00:36:05.746    26,910 kbps     00:36:14.463    116,163 bytes   967,753 bytes   00:33:58.870    
+6               0:37:13.272     0:08:17.914     23,255 kbps     39,417 kbps     00:43:19.805    30,272 kbps     00:41:49.673    28,675 kbps     00:44:43.889    121,240 bytes   954,512 bytes   00:40:44.275    
+7               0:45:31.186     0:06:49.867     22,301 kbps     36,422 kbps     00:46:16.273    30,662 kbps     00:47:26.927    28,508 kbps     00:47:21.922    116,268 bytes   971,367 bytes   00:47:42.693    
+8               0:52:21.054     0:07:42.587     22,839 kbps     37,091 kbps     00:55:33.580    29,160 kbps     00:56:49.531    28,287 kbps     00:53:26.077    119,072 bytes   941,680 bytes   00:55:32.620    
+9               1:00:03.641     0:05:53.853     22,681 kbps     39,944 kbps     01:03:00.234    30,282 kbps     01:00:35.715    28,341 kbps     01:04:46.632    118,246 bytes   954,242 bytes   01:00:04.642    
+10              1:05:57.495     0:10:21.370     23,213 kbps     41,747 kbps     01:06:23.354    28,951 kbps     01:12:16.999    28,465 kbps     01:13:10.344    121,019 bytes   929,719 bytes   01:06:04.126    
+11              1:16:18.865     0:07:32.034     22,943 kbps     34,313 kbps     01:23:01.810    28,852 kbps     01:23:25.000    27,585 kbps     01:23:18.827    119,614 bytes   850,283 bytes   01:22:58.598    
+12              1:23:50.900     0:04:53.751     8,426 kbps      29,313 kbps     01:25:26.871    25,014 kbps     01:23:55.822    22,591 kbps     01:25:13.691    43,936 bytes    354,231 bytes   01:25:32.418    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5324.569                21,929                  14,595,399,812  79,397,539      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5324.569                3,847                   2,560,598,344   14,747,135      
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5324.569                36                      24,155,147      137,094         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5324.569                36                      23,764,126      136,072         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5324.569                0                       206,594         1,195           
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5324.569                0                       208,830         1,214           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Family
+Disc Label: Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size: 38,628,084,627 bytes
+Protection: AACS
+Playlist: 00041.MPLS
+Size: 19,888,115,712 bytes
+Length: 1:28:44.652
+Total Bitrate: 29.88 Mbps
+Video: MPEG-4 AVC Video / 21929 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Dutch / 36.292 kbps
+Subtitle: French / 35.704 kbps
+Subtitle: Dutch / 0.310 kbps
+Subtitle: French / 0.314 kbps
+
+
+********************
+PLAYLIST: 00042.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00042.MPLS                                                      AVC     1:28:44 19,888,115,712  38,628,084,627  29.88   21.93   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Family
+Disc Label:     Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size:      38,628,084,627 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00042.MPLS
+Length:                 1:28:44.652 (h:m:s.ms)
+Size:                   19,888,115,712 bytes
+Total Bitrate:          29.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21929 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         3847 kbps       5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           36.292 kbps                     
+Presentation Graphics           French          35.704 kbps                     
+Presentation Graphics           Dutch           0.310 kbps                      
+Presentation Graphics           French          0.314 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:44.652     19,888,115,712  29,881          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:55.159     21,937 kbps     41,156 kbps     00:01:01.186    34,208 kbps     00:00:08.675    29,425 kbps     00:01:01.186    114,361 bytes   955,009 bytes   00:08:48.361    
+2               0:08:55.159     0:04:31.270     22,662 kbps     39,359 kbps     00:12:52.938    28,154 kbps     00:12:53.147    26,765 kbps     00:11:23.808    118,150 bytes   761,950 bytes   00:12:05.266    
+3               0:13:26.430     0:08:05.234     22,673 kbps     36,715 kbps     00:14:00.422    29,431 kbps     00:17:19.997    28,291 kbps     00:17:17.369    118,205 bytes   983,215 bytes   00:14:24.780    
+4               0:21:31.665     0:08:08.988     22,924 kbps     35,545 kbps     00:28:55.775    31,530 kbps     00:28:53.732    28,832 kbps     00:29:20.592    119,514 bytes   961,321 bytes   00:29:20.967    
+5               0:29:40.653     0:07:32.618     22,281 kbps     39,971 kbps     00:34:02.832    29,574 kbps     00:36:05.746    26,910 kbps     00:36:14.463    116,163 bytes   967,753 bytes   00:33:58.870    
+6               0:37:13.272     0:08:17.914     23,255 kbps     39,417 kbps     00:43:19.805    30,272 kbps     00:41:49.673    28,675 kbps     00:44:43.889    121,240 bytes   954,512 bytes   00:40:44.275    
+7               0:45:31.186     0:06:49.867     22,301 kbps     36,422 kbps     00:46:16.273    30,662 kbps     00:47:26.927    28,508 kbps     00:47:21.922    116,268 bytes   971,367 bytes   00:47:42.693    
+8               0:52:21.054     0:07:42.587     22,839 kbps     37,091 kbps     00:55:33.580    29,160 kbps     00:56:49.531    28,287 kbps     00:53:26.077    119,072 bytes   941,680 bytes   00:55:32.620    
+9               1:00:03.641     0:05:53.853     22,681 kbps     39,944 kbps     01:03:00.234    30,282 kbps     01:00:35.715    28,341 kbps     01:04:46.632    118,246 bytes   954,242 bytes   01:00:04.642    
+10              1:05:57.495     0:10:21.370     23,213 kbps     41,747 kbps     01:06:23.354    28,951 kbps     01:12:16.999    28,465 kbps     01:13:10.344    121,019 bytes   929,719 bytes   01:06:04.126    
+11              1:16:18.865     0:07:32.034     22,943 kbps     34,313 kbps     01:23:01.810    28,852 kbps     01:23:25.000    27,585 kbps     01:23:18.827    119,614 bytes   850,283 bytes   01:22:58.598    
+12              1:23:50.900     0:04:53.751     8,426 kbps      29,313 kbps     01:25:26.871    25,014 kbps     01:23:55.822    22,591 kbps     01:25:13.691    43,936 bytes    354,231 bytes   01:25:32.418    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5324.569                21,929                  14,595,399,812  79,397,539      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5324.569                3,847                   2,560,598,344   14,747,135      
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5324.569                36                      24,155,147      137,094         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5324.569                36                      23,764,126      136,072         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5324.569                0                       206,594         1,195           
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5324.569                0                       208,830         1,214           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Family
+Disc Label: Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size: 38,628,084,627 bytes
+Protection: AACS
+Playlist: 00042.MPLS
+Size: 19,888,115,712 bytes
+Length: 1:28:44.652
+Total Bitrate: 29.88 Mbps
+Video: MPEG-4 AVC Video / 21929 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Dutch / 36.292 kbps
+Subtitle: French / 35.704 kbps
+Subtitle: Dutch / 0.310 kbps
+Subtitle: French / 0.314 kbps
+
+
+********************
+PLAYLIST: 00043.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00043.MPLS                                                      AVC     1:28:44 19,888,115,712  38,628,084,627  29.88   21.93   DTS 5.1 768Kbps (48kHz/24-bit)            DTS 5.1 768Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Family
+Disc Label:     Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size:      38,628,084,627 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00043.MPLS
+Length:                 1:28:44.652 (h:m:s.ms)
+Size:                   19,888,115,712 bytes
+Total Bitrate:          29.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21929 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS Audio                       Dutch           768 kbps        5.1 / 48 kHz /   768 kbps / 16-bit
+DTS Audio                       French          768 kbps        5.1 / 48 kHz /   768 kbps / 24-bit
+DTS-HD Master Audio             English         3847 kbps       5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           36.292 kbps                     
+Presentation Graphics           French          35.704 kbps                     
+Presentation Graphics           Dutch           0.310 kbps                      
+Presentation Graphics           French          0.314 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:28:44.652     19,888,115,712  29,881          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:55.159     21,937 kbps     41,156 kbps     00:01:01.186    34,208 kbps     00:00:08.675    29,425 kbps     00:01:01.186    114,361 bytes   955,009 bytes   00:08:48.361    
+2               0:08:55.159     0:04:31.270     22,662 kbps     39,359 kbps     00:12:52.938    28,154 kbps     00:12:53.147    26,765 kbps     00:11:23.808    118,150 bytes   761,950 bytes   00:12:05.266    
+3               0:13:26.430     0:08:05.234     22,673 kbps     36,715 kbps     00:14:00.422    29,431 kbps     00:17:19.997    28,291 kbps     00:17:17.369    118,205 bytes   983,215 bytes   00:14:24.780    
+4               0:21:31.665     0:08:08.988     22,924 kbps     35,545 kbps     00:28:55.775    31,530 kbps     00:28:53.732    28,832 kbps     00:29:20.592    119,514 bytes   961,321 bytes   00:29:20.967    
+5               0:29:40.653     0:07:32.618     22,281 kbps     39,971 kbps     00:34:02.832    29,574 kbps     00:36:05.746    26,910 kbps     00:36:14.463    116,163 bytes   967,753 bytes   00:33:58.870    
+6               0:37:13.272     0:08:17.914     23,255 kbps     39,417 kbps     00:43:19.805    30,272 kbps     00:41:49.673    28,675 kbps     00:44:43.889    121,240 bytes   954,512 bytes   00:40:44.275    
+7               0:45:31.186     0:06:49.867     22,301 kbps     36,422 kbps     00:46:16.273    30,662 kbps     00:47:26.927    28,508 kbps     00:47:21.922    116,268 bytes   971,367 bytes   00:47:42.693    
+8               0:52:21.054     0:07:42.587     22,839 kbps     37,091 kbps     00:55:33.580    29,160 kbps     00:56:49.531    28,287 kbps     00:53:26.077    119,072 bytes   941,680 bytes   00:55:32.620    
+9               1:00:03.641     0:05:53.853     22,681 kbps     39,944 kbps     01:03:00.234    30,282 kbps     01:00:35.715    28,341 kbps     01:04:46.632    118,246 bytes   954,242 bytes   01:00:04.642    
+10              1:05:57.495     0:10:21.370     23,213 kbps     41,747 kbps     01:06:23.354    28,951 kbps     01:12:16.999    28,465 kbps     01:13:10.344    121,019 bytes   929,719 bytes   01:06:04.126    
+11              1:16:18.865     0:07:32.034     22,943 kbps     34,313 kbps     01:23:01.810    28,852 kbps     01:23:25.000    27,585 kbps     01:23:18.827    119,614 bytes   850,283 bytes   01:22:58.598    
+12              1:23:50.900     0:04:53.751     8,426 kbps      29,313 kbps     01:25:26.871    25,014 kbps     01:23:55.822    22,591 kbps     01:25:13.691    43,936 bytes    354,231 bytes   01:25:32.418    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5324.569                21,929                  14,595,399,812  79,397,539      
+00000.M2TS      4352 (0x1100)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4353 (0x1101)   0x82            DTS             nld (Dutch)             5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4354 (0x1102)   0x82            DTS             fra (French)            5324.569                768                     511,166,464     2,995,116       
+00000.M2TS      4355 (0x1103)   0x86            DTS-HD MA       eng (English)           5324.569                3,847                   2,560,598,344   14,747,135      
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5324.569                36                      24,155,147      137,094         
+00000.M2TS      4609 (0x1201)   0x90            PGS             fra (French)            5324.569                36                      23,764,126      136,072         
+00000.M2TS      4610 (0x1202)   0x90            PGS             nld (Dutch)             5324.569                0                       206,594         1,195           
+00000.M2TS      4611 (0x1203)   0x90            PGS             fra (French)            5324.569                0                       208,830         1,214           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Family
+Disc Label: Bigfoot.Family.2020.COMPLETE.BLURAY-MIDDLE
+Disc Size: 38,628,084,627 bytes
+Protection: AACS
+Playlist: 00043.MPLS
+Size: 19,888,115,712 bytes
+Length: 1:28:44.652
+Total Bitrate: 29.88 Mbps
+Video: MPEG-4 AVC Video / 21929 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: Dutch / DTS Audio / 5.1 / 48 kHz /   768 kbps / 16-bit
+Audio: French / DTS Audio / 5.1 / 48 kHz /   768 kbps / 24-bit
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3847 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Dutch / 36.292 kbps
+Subtitle: French / 35.704 kbps
+Subtitle: Dutch / 0.310 kbps
+Subtitle: French / 0.314 kbps
+

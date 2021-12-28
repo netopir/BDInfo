@@ -1,0 +1,163 @@
+Disc Title:     Bigfoot Family - Blu-ray™
+Disc Label:     Bigfoot.Family.2020.MULTi.COMPLETE-MONUMENT
+Disc Size:      24,200,493,778 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:28:34 18,429,579,264  24,200,493,778  27.74   21.76   DTS-HD Master 5.1 2105Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Bigfoot Family - Blu-ray™
+Disc Label:     Bigfoot.Family.2020.MULTi.COMPLETE-MONUMENT
+Disc Size:      24,200,493,778 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:28:34.625 (h:m:s.ms)
+Size:                   18,429,579,264 bytes
+Total Bitrate:          27.74 Mbps
+
+Angle 1 Length:         0:10:21.375 (h:m:s.ms) / 1:28:34.625 (h:m:s.ms)
+Angle 1 Size:           2,027,489,280 bytes / 18,427,852,800 bytes
+Angle 1 Total Bitrate:  26.10 Mbps / 27.74 Mbps
+
+All Angles Length:      1:38:56.000 (h:m:s.ms)
+All Angles Size:        20,457,068,544 bytes
+All Angles Bitrate:     27.57 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21761 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+MPEG-4 AVC Video (1)    2348 (20083) kbps   1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          2105 kbps       5.1 / 48 kHz /  2105 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2096 kbps       5.1 / 48 kHz /  2096 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          45.552 kbps                     
+Presentation Graphics           German          0.448 kbps                      
+Presentation Graphics           German          45.552 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     0:02:45.000     575,496,192     27,903          
+00002.M2TS (1)  0:00:00.000     0:02:45.000     573,290,496     27,796          
+00003.M2TS      0:02:45.000     1:18:13.250     16,400,363,520  27,956          
+00004.M2TS      1:20:58.250     0:07:36.375     1,453,719,552   25,483          
+00005.M2TS (1)  1:20:58.250     0:07:36.375     1,454,198,784   25,491          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:24.958     20,440 kbps     46,526 kbps     00:01:38.583    33,254 kbps     00:01:48.291    31,897 kbps     00:01:44.124    106,445 bytes   737,332 bytes   00:02:04.291    
+2               0:05:24.958     0:08:13.958     20,225 kbps     40,947 kbps     00:13:02.166    32,648 kbps     00:10:53.583    30,026 kbps     00:10:53.333    105,340 bytes   657,753 bytes   00:06:47.625    
+3               0:13:38.916     0:07:46.125     22,438 kbps     46,499 kbps     00:20:44.791    32,904 kbps     00:18:20.291    31,503 kbps     00:18:14.916    116,865 bytes   827,418 bytes   00:20:45.125    
+4               0:21:25.041     0:06:51.416     24,242 kbps     45,938 kbps     00:24:05.875    33,086 kbps     00:23:52.375    31,320 kbps     00:23:47.083    126,261 bytes   797,861 bytes   00:21:35.458    
+5               0:28:16.458     0:06:39.333     20,074 kbps     40,357 kbps     00:31:07.666    32,019 kbps     00:34:39.958    31,178 kbps     00:30:49.374    104,551 bytes   805,489 bytes   00:31:06.541    
+6               0:34:55.791     0:09:30.625     21,459 kbps     43,928 kbps     00:36:39.041    34,155 kbps     00:38:40.625    31,888 kbps     00:36:39.041    111,766 bytes   771,185 bytes   00:38:59.458    
+7               0:44:26.416     0:07:39.000     21,909 kbps     44,300 kbps     00:45:45.416    32,813 kbps     00:45:31.000    31,679 kbps     00:49:06.541    114,112 bytes   706,270 bytes   00:51:40.416    
+8               0:52:05.416     0:07:26.958     22,039 kbps     43,238 kbps     00:58:19.791    33,361 kbps     00:58:29.875    31,706 kbps     00:59:21.541    114,785 bytes   730,116 bytes   00:55:23.875    
+9               0:59:32.375     0:07:20.208     18,823 kbps     45,742 kbps     01:06:13.916    33,608 kbps     01:01:56.083    29,992 kbps     01:05:01.125    98,038 bytes    629,551 bytes   01:06:19.583    
+10              1:06:52.583     0:09:16.291     25,396 kbps     45,674 kbps     01:12:38.250    33,713 kbps     01:14:22.291    31,449 kbps     01:09:53.791    132,272 bytes   825,744 bytes   01:13:47.750    
+11              1:16:08.875     0:07:25.541     26,010 kbps     44,206 kbps     01:23:05.000    33,303 kbps     01:17:11.916    32,082 kbps     01:17:06.833    135,468 bytes   741,074 bytes   01:21:12.500    
+12              1:23:34.416     0:05:00.208     14,708 kbps     39,237 kbps     01:23:38.750    31,785 kbps     01:25:00.000    31,004 kbps     01:24:59.875    76,626 bytes    543,637 bytes   01:25:19.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     164.833                 21,767                  448,500,405     2,439,824       
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            164.833                 2,235                   46,057,256      275,601         
+00001.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           164.833                 2,235                   46,052,728      275,563         
+00001.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            164.833                 4                       72,224          402             
+00001.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            164.833                 0                       1,507           15              
+00001.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            164.833                 4                       72,224          402             
+00002.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     164.833                 21,665                  446,394,915     2,428,338       
+00002.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       deu (German)            164.833                 2,235                   46,057,256      275,601         
+00002.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       eng (English)           164.833                 2,235                   46,052,728      275,563         
+00002.M2TS (1)  4608 (0x1200)   0x90            PGS             deu (German)            164.833                 4                       72,254          405             
+00002.M2TS (1)  4609 (0x1201)   0x90            PGS             deu (German)            164.833                 0                       1,507           15              
+00002.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            164.833                 4                       72,254          405             
+00003.M2TS      4113 (0x1011)   0x1B            AVC                                     4693.167                21,981                  12,895,000,390  70,147,383      
+00003.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4693.167                2,094                   1,228,186,564   7,407,789       
+00003.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           4693.167                2,083                   1,222,272,856   7,375,735       
+00003.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4693.167                50                      29,048,645      164,466         
+00003.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            4693.167                0                       259,430         1,489           
+00003.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            4693.167                50                      29,048,645      164,466         
+00004.M2TS      4113 (0x1011)   0x1B            AVC                                     456.292                 19,512                  1,112,888,748   6,054,684       
+00004.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            456.292                 2,172                   123,871,768     744,599         
+00004.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           456.292                 2,170                   123,788,636     743,780         
+00004.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            456.292                 20                      1,140,900       6,450           
+00004.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            456.292                 1                       36,825          207             
+00004.M2TS      4610 (0x1202)   0x90            PGS             deu (German)            456.292                 20                      1,140,900       6,450           
+00005.M2TS (1)  4113 (0x1011)   0x1B            AVC                                     456.292                 19,520                  1,113,354,035   6,057,177       
+00005.M2TS (1)  4352 (0x1100)   0x86            DTS-HD MA       deu (German)            456.292                 2,172                   123,871,768     744,599         
+00005.M2TS (1)  4353 (0x1101)   0x86            DTS-HD MA       eng (English)           456.292                 2,170                   123,788,636     743,780         
+00005.M2TS (1)  4608 (0x1200)   0x90            PGS             deu (German)            456.292                 20                      1,140,900       6,450           
+00005.M2TS (1)  4609 (0x1201)   0x90            PGS             deu (German)            456.292                 1                       36,825          207             
+00005.M2TS (1)  4610 (0x1202)   0x90            PGS             deu (German)            456.292                 20                      1,140,900       6,450           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Bigfoot Family - Blu-ray™
+Disc Label: Bigfoot.Family.2020.MULTi.COMPLETE-MONUMENT
+Disc Size: 24,200,493,778 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 18,429,579,264 bytes
+Length: 1:28:34.625
+Total Bitrate: 27.74 Mbps
+Video: MPEG-4 AVC Video / 21761 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 AVC Video (1) / 2348 (20083) kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2105 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2096 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: German / 45.552 kbps
+Subtitle: German / 0.448 kbps
+Subtitle: German / 45.552 kbps
+
