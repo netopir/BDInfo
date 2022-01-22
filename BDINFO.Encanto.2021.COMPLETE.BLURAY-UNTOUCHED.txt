@@ -1,0 +1,677 @@
+Disc Title:     Encanto - Blu-ray™
+Disc Label:     Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      48,659,084,934 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00099.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00099.MPLS                                                      AVC     1:42:07 28,802,979,840  48,659,084,934  37.61   24.98   DTS-HD Master 7.1 4814Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Encanto - Blu-ray™
+Disc Label:     Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      48,659,084,934 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00099.MPLS
+Length:                 1:42:07.037 (h:m:s.ms)
+Size:                   28,802,979,840 bytes
+Total Bitrate:          37.61 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24979 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* DTS-HD Master Audio           English         4814 kbps       7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+* Dolby Digital Plus Audio      German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+* Dolby Digital Plus Audio      Spanish         896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+* Dolby Digital Audio           Danish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Finnish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Norwegian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+* Dolby Digital Audio           Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         47.001 kbps                     
+* Presentation Graphics         German          32.488 kbps                     
+* Presentation Graphics         Spanish         30.570 kbps                     
+* Presentation Graphics         Danish          30.589 kbps                     
+* Presentation Graphics         Finnish         31.493 kbps                     
+* Presentation Graphics         Norwegian       29.608 kbps                     
+* Presentation Graphics         Swedish         27.133 kbps                     
+* Presentation Graphics         English         189.721 kbps                    
+* Presentation Graphics         German          77.217 kbps                     
+* Presentation Graphics         Spanish         60.632 kbps                     
+* Presentation Graphics         Danish          80.798 kbps                     
+* Presentation Graphics         Finnish         52.160 kbps                     
+* Presentation Graphics         Norwegian       71.125 kbps                     
+* Presentation Graphics         Swedish         77.447 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:42:07.037     28,802,979,840  37,608          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:57.654     20,901 kbps     34,842 kbps     00:01:58.076    31,325 kbps     00:02:16.386    31,040 kbps     00:00:22.605    108,949 bytes   508,173 bytes   00:02:13.007    
+2               0:03:57.654     0:05:51.642     27,580 kbps     35,697 kbps     00:07:30.366    31,522 kbps     00:07:05.675    31,110 kbps     00:05:20.903    143,790 bytes   640,129 bytes   00:09:48.421    
+3               0:09:49.297     0:05:18.276     25,189 kbps     33,538 kbps     00:10:04.145    31,404 kbps     00:10:00.141    31,095 kbps     00:09:55.136    131,325 bytes   606,464 bytes   00:11:40.741    
+4               0:15:07.573     0:01:47.315     26,166 kbps     33,334 kbps     00:16:11.136    30,792 kbps     00:15:57.581    29,733 kbps     00:15:52.785    136,416 bytes   508,179 bytes   00:16:25.776    
+5               0:16:54.888     0:04:53.918     24,814 kbps     34,162 kbps     00:21:34.835    31,061 kbps     00:20:54.127    30,804 kbps     00:20:51.333    129,369 bytes   520,104 bytes   00:19:58.530    
+6               0:21:48.807     0:03:06.102     25,806 kbps     33,663 kbps     00:24:02.941    31,229 kbps     00:24:07.487    30,993 kbps     00:24:02.482    134,540 bytes   570,634 bytes   00:22:18.545    
+7               0:24:54.910     0:04:03.701     23,824 kbps     32,520 kbps     00:26:20.412    31,164 kbps     00:26:25.250    30,906 kbps     00:26:20.704    124,205 bytes   618,111 bytes   00:26:58.950    
+8               0:28:58.611     0:02:12.006     19,617 kbps     32,497 kbps     00:31:05.154    29,874 kbps     00:31:05.154    25,718 kbps     00:31:00.608    102,274 bytes   556,039 bytes   00:31:10.076    
+9               0:31:10.618     0:07:24.485     26,595 kbps     35,890 kbps     00:35:38.010    31,559 kbps     00:37:36.796    31,019 kbps     00:33:41.269    138,655 bytes   639,613 bytes   00:31:42.483    
+10              0:38:35.104     0:06:22.715     25,022 kbps     34,867 kbps     00:43:41.994    31,315 kbps     00:43:40.326    31,078 kbps     00:43:40.451    130,453 bytes   636,650 bytes   00:41:23.397    
+11              0:44:57.820     0:08:42.146     24,955 kbps     34,111 kbps     00:46:50.933    31,436 kbps     00:47:47.656    31,012 kbps     00:47:41.191    130,105 bytes   582,186 bytes   00:48:18.312    
+12              0:53:39.966     0:07:42.378     24,550 kbps     33,552 kbps     00:58:03.980    31,111 kbps     00:59:27.814    31,006 kbps     00:59:22.850    127,992 bytes   545,131 bytes   00:57:04.212    
+13              1:01:22.345     0:05:05.722     25,229 kbps     33,888 kbps     01:03:52.286    31,259 kbps     01:03:48.366    30,852 kbps     01:04:23.651    131,532 bytes   604,794 bytes   01:02:09.308    
+14              1:06:28.067     0:05:13.187     27,480 kbps     34,398 kbps     01:07:20.453    31,517 kbps     01:07:58.741    31,097 kbps     01:07:58.532    143,271 bytes   640,865 bytes   01:09:19.613    
+15              1:11:41.255     0:04:56.879     22,657 kbps     35,507 kbps     01:13:53.762    30,812 kbps     01:16:26.665    28,988 kbps     01:13:48.757    118,122 bytes   512,169 bytes   01:13:18.018    
+16              1:16:38.135     0:07:47.258     25,342 kbps     37,309 kbps     01:19:03.363    31,500 kbps     01:23:15.740    31,179 kbps     01:23:10.735    132,123 bytes   620,636 bytes   01:16:50.897    
+17              1:24:25.393     0:06:36.813     24,705 kbps     34,980 kbps     01:30:57.660    31,342 kbps     01:27:19.943    30,875 kbps     01:27:16.481    128,798 bytes   638,126 bytes   01:26:45.283    
+18              1:31:02.206     0:11:04.830     24,967 kbps     38,129 kbps     01:33:17.592    32,253 kbps     01:33:13.504    30,858 kbps     01:33:08.499    130,174 bytes   640,849 bytes   01:31:46.626    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6126.871                24,980                  19,131,271,820  104,060,249     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6126.871                4,814                   3,686,758,820   20,995,142      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           6126.871                320                     245,081,600     1,531,760       
+00800.M2TS      4354 (0x1102)   0x84            AC3+            deu (German)            6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4355 (0x1103)   0x84            AC3+            spa (Spanish)           6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4356 (0x1104)   0x81            AC3             dan (Danish)            6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4357 (0x1105)   0x81            AC3             fin (Finnish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4358 (0x1106)   0x81            AC3             nor (Norwegian)         6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4359 (0x1107)   0x81            AC3             swe (Swedish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6126.871                47                      35,996,764      208,439         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6126.871                32                      24,882,133      144,231         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           6126.871                31                      23,413,238      135,544         
+00800.M2TS      4611 (0x1203)   0x90            PGS             dan (Danish)            6126.871                31                      23,427,317      134,088         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fin (Finnish)           6126.871                31                      24,119,545      139,502         
+00800.M2TS      4613 (0x1205)   0x90            PGS             nor (Norwegian)         6126.871                30                      22,676,222      131,609         
+00800.M2TS      4614 (0x1206)   0x90            PGS             swe (Swedish)           6126.871                27                      20,780,461      120,064         
+00800.M2TS      4615 (0x1207)   0x90            PGS             eng (English)           6126.871                190                     145,303,661     805,087         
+00800.M2TS      4616 (0x1208)   0x90            PGS             deu (German)            6126.871                77                      59,139,166      332,920         
+00800.M2TS      4617 (0x1209)   0x90            PGS             spa (Spanish)           6126.871                61                      46,436,641      262,254         
+00800.M2TS      4618 (0x120A)   0x90            PGS             dan (Danish)            6126.871                81                      61,881,760      347,671         
+00800.M2TS      4619 (0x120B)   0x90            PGS             fin (Finnish)           6126.871                52                      39,948,445      226,064         
+00800.M2TS      4620 (0x120C)   0x90            PGS             nor (Norwegian)         6126.871                71                      54,473,108      307,209         
+00800.M2TS      4621 (0x120D)   0x90            PGS             swe (Swedish)           6126.871                77                      59,314,963      333,279         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Encanto - Blu-ray™
+Disc Label: Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 48,659,084,934 bytes
+Protection: AACS
+Playlist: 00099.MPLS
+Size: 28,802,979,840 bytes
+Length: 1:42:07.037
+Total Bitrate: 37.61 Mbps
+Video: MPEG-4 AVC Video / 24979 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+* Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+* Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+* Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+* Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Subtitle: English / 47.001 kbps
+* Subtitle: German / 32.488 kbps
+* Subtitle: Spanish / 30.570 kbps
+* Subtitle: Danish / 30.589 kbps
+* Subtitle: Finnish / 31.493 kbps
+* Subtitle: Norwegian / 29.608 kbps
+* Subtitle: Swedish / 27.133 kbps
+* Subtitle: English / 189.721 kbps
+* Subtitle: German / 77.217 kbps
+* Subtitle: Spanish / 60.632 kbps
+* Subtitle: Danish / 80.798 kbps
+* Subtitle: Finnish / 52.160 kbps
+* Subtitle: Norwegian / 71.125 kbps
+* Subtitle: Swedish / 77.447 kbps
+
+
+********************
+PLAYLIST: 00700.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00700.MPLS                                                      AVC     1:42:07 28,802,979,840  48,659,084,934  37.61   24.98   DTS-HD Master 7.1 4814Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Encanto - Blu-ray™
+Disc Label:     Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      48,659,084,934 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00700.MPLS
+Length:                 1:42:07.037 (h:m:s.ms)
+Size:                   28,802,979,840 bytes
+Total Bitrate:          37.61 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24979 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4814 kbps       7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+* Dolby Digital Audio           English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Dolby Digital Plus Audio        Spanish         896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Dolby Digital Audio             Danish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Finnish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Norwegian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         47.001 kbps                     
+* Presentation Graphics         German          32.488 kbps                     
+* Presentation Graphics         Spanish         30.570 kbps                     
+* Presentation Graphics         Danish          30.589 kbps                     
+* Presentation Graphics         Finnish         31.493 kbps                     
+* Presentation Graphics         Norwegian       29.608 kbps                     
+* Presentation Graphics         Swedish         27.133 kbps                     
+Presentation Graphics           English         189.721 kbps                    
+Presentation Graphics           German          77.217 kbps                     
+Presentation Graphics           Spanish         60.632 kbps                     
+Presentation Graphics           Danish          80.798 kbps                     
+Presentation Graphics           Finnish         52.160 kbps                     
+Presentation Graphics           Norwegian       71.125 kbps                     
+Presentation Graphics           Swedish         77.447 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:42:07.037     28,802,979,840  37,608          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:57.654     20,901 kbps     34,842 kbps     00:01:58.076    31,325 kbps     00:02:16.386    31,040 kbps     00:00:22.605    108,949 bytes   508,173 bytes   00:02:13.007    
+2               0:03:57.654     0:05:51.642     27,580 kbps     35,697 kbps     00:07:30.366    31,522 kbps     00:07:05.675    31,110 kbps     00:05:20.903    143,790 bytes   640,129 bytes   00:09:48.421    
+3               0:09:49.297     0:05:18.276     25,189 kbps     33,538 kbps     00:10:04.145    31,404 kbps     00:10:00.141    31,095 kbps     00:09:55.136    131,325 bytes   606,464 bytes   00:11:40.741    
+4               0:15:07.573     0:01:47.315     26,166 kbps     33,334 kbps     00:16:11.136    30,792 kbps     00:15:57.581    29,733 kbps     00:15:52.785    136,416 bytes   508,179 bytes   00:16:25.776    
+5               0:16:54.888     0:04:53.918     24,814 kbps     34,162 kbps     00:21:34.835    31,061 kbps     00:20:54.127    30,804 kbps     00:20:51.333    129,369 bytes   520,104 bytes   00:19:58.530    
+6               0:21:48.807     0:03:06.102     25,806 kbps     33,663 kbps     00:24:02.941    31,229 kbps     00:24:07.487    30,993 kbps     00:24:02.482    134,540 bytes   570,634 bytes   00:22:18.545    
+7               0:24:54.910     0:04:03.701     23,824 kbps     32,520 kbps     00:26:20.412    31,164 kbps     00:26:25.250    30,906 kbps     00:26:20.704    124,205 bytes   618,111 bytes   00:26:58.950    
+8               0:28:58.611     0:02:12.006     19,617 kbps     32,497 kbps     00:31:05.154    29,874 kbps     00:31:05.154    25,718 kbps     00:31:00.608    102,274 bytes   556,039 bytes   00:31:10.076    
+9               0:31:10.618     0:07:24.485     26,595 kbps     35,890 kbps     00:35:38.010    31,559 kbps     00:37:36.796    31,019 kbps     00:33:41.269    138,655 bytes   639,613 bytes   00:31:42.483    
+10              0:38:35.104     0:06:22.715     25,022 kbps     34,867 kbps     00:43:41.994    31,315 kbps     00:43:40.326    31,078 kbps     00:43:40.451    130,453 bytes   636,650 bytes   00:41:23.397    
+11              0:44:57.820     0:08:42.146     24,955 kbps     34,111 kbps     00:46:50.933    31,436 kbps     00:47:47.656    31,012 kbps     00:47:41.191    130,105 bytes   582,186 bytes   00:48:18.312    
+12              0:53:39.966     0:07:42.378     24,550 kbps     33,552 kbps     00:58:03.980    31,111 kbps     00:59:27.814    31,006 kbps     00:59:22.850    127,992 bytes   545,131 bytes   00:57:04.212    
+13              1:01:22.345     0:05:05.722     25,229 kbps     33,888 kbps     01:03:52.286    31,259 kbps     01:03:48.366    30,852 kbps     01:04:23.651    131,532 bytes   604,794 bytes   01:02:09.308    
+14              1:06:28.067     0:05:13.187     27,480 kbps     34,398 kbps     01:07:20.453    31,517 kbps     01:07:58.741    31,097 kbps     01:07:58.532    143,271 bytes   640,865 bytes   01:09:19.613    
+15              1:11:41.255     0:04:56.879     22,657 kbps     35,507 kbps     01:13:53.762    30,812 kbps     01:16:26.665    28,988 kbps     01:13:48.757    118,122 bytes   512,169 bytes   01:13:18.018    
+16              1:16:38.135     0:07:47.258     25,342 kbps     37,309 kbps     01:19:03.363    31,500 kbps     01:23:15.740    31,179 kbps     01:23:10.735    132,123 bytes   620,636 bytes   01:16:50.897    
+17              1:24:25.393     0:06:36.813     24,705 kbps     34,980 kbps     01:30:57.660    31,342 kbps     01:27:19.943    30,875 kbps     01:27:16.481    128,798 bytes   638,126 bytes   01:26:45.283    
+18              1:31:02.206     0:11:04.830     24,967 kbps     38,129 kbps     01:33:17.592    32,253 kbps     01:33:13.504    30,858 kbps     01:33:08.499    130,174 bytes   640,849 bytes   01:31:46.626    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6126.871                24,980                  19,131,271,820  104,060,249     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6126.871                4,814                   3,686,758,820   20,995,142      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           6126.871                320                     245,081,600     1,531,760       
+00800.M2TS      4354 (0x1102)   0x84            AC3+            deu (German)            6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4355 (0x1103)   0x84            AC3+            spa (Spanish)           6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4356 (0x1104)   0x81            AC3             dan (Danish)            6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4357 (0x1105)   0x81            AC3             fin (Finnish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4358 (0x1106)   0x81            AC3             nor (Norwegian)         6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4359 (0x1107)   0x81            AC3             swe (Swedish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6126.871                47                      35,996,764      208,439         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6126.871                32                      24,882,133      144,231         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           6126.871                31                      23,413,238      135,544         
+00800.M2TS      4611 (0x1203)   0x90            PGS             dan (Danish)            6126.871                31                      23,427,317      134,088         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fin (Finnish)           6126.871                31                      24,119,545      139,502         
+00800.M2TS      4613 (0x1205)   0x90            PGS             nor (Norwegian)         6126.871                30                      22,676,222      131,609         
+00800.M2TS      4614 (0x1206)   0x90            PGS             swe (Swedish)           6126.871                27                      20,780,461      120,064         
+00800.M2TS      4615 (0x1207)   0x90            PGS             eng (English)           6126.871                190                     145,303,661     805,087         
+00800.M2TS      4616 (0x1208)   0x90            PGS             deu (German)            6126.871                77                      59,139,166      332,920         
+00800.M2TS      4617 (0x1209)   0x90            PGS             spa (Spanish)           6126.871                61                      46,436,641      262,254         
+00800.M2TS      4618 (0x120A)   0x90            PGS             dan (Danish)            6126.871                81                      61,881,760      347,671         
+00800.M2TS      4619 (0x120B)   0x90            PGS             fin (Finnish)           6126.871                52                      39,948,445      226,064         
+00800.M2TS      4620 (0x120C)   0x90            PGS             nor (Norwegian)         6126.871                71                      54,473,108      307,209         
+00800.M2TS      4621 (0x120D)   0x90            PGS             swe (Swedish)           6126.871                77                      59,314,963      333,279         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Encanto - Blu-ray™
+Disc Label: Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 48,659,084,934 bytes
+Protection: AACS
+Playlist: 00700.MPLS
+Size: 28,802,979,840 bytes
+Length: 1:42:07.037
+Total Bitrate: 37.61 Mbps
+Video: MPEG-4 AVC Video / 24979 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+* Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+* Subtitle: English / 47.001 kbps
+* Subtitle: German / 32.488 kbps
+* Subtitle: Spanish / 30.570 kbps
+* Subtitle: Danish / 30.589 kbps
+* Subtitle: Finnish / 31.493 kbps
+* Subtitle: Norwegian / 29.608 kbps
+* Subtitle: Swedish / 27.133 kbps
+Subtitle: English / 189.721 kbps
+Subtitle: German / 77.217 kbps
+Subtitle: Spanish / 60.632 kbps
+Subtitle: Danish / 80.798 kbps
+Subtitle: Finnish / 52.160 kbps
+Subtitle: Norwegian / 71.125 kbps
+Subtitle: Swedish / 77.447 kbps
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:42:07 28,802,979,840  48,659,084,934  37.61   24.98   DTS-HD Master 7.1 4814Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Encanto - Blu-ray™
+Disc Label:     Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      48,659,084,934 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:42:07.037 (h:m:s.ms)
+Size:                   28,802,979,840 bytes
+Total Bitrate:          37.61 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24979 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4814 kbps       7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Dolby Digital Plus Audio        Spanish         896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Dolby Digital Audio             Danish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Finnish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Norwegian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         47.001 kbps                     
+Presentation Graphics           German          32.488 kbps                     
+Presentation Graphics           Spanish         30.570 kbps                     
+Presentation Graphics           Danish          30.589 kbps                     
+Presentation Graphics           Finnish         31.493 kbps                     
+Presentation Graphics           Norwegian       29.608 kbps                     
+Presentation Graphics           Swedish         27.133 kbps                     
+* Presentation Graphics         English         189.721 kbps                    
+* Presentation Graphics         German          77.217 kbps                     
+* Presentation Graphics         Spanish         60.632 kbps                     
+* Presentation Graphics         Danish          80.798 kbps                     
+* Presentation Graphics         Finnish         52.160 kbps                     
+* Presentation Graphics         Norwegian       71.125 kbps                     
+* Presentation Graphics         Swedish         77.447 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:42:07.037     28,802,979,840  37,608          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:57.654     20,901 kbps     34,842 kbps     00:01:58.076    31,325 kbps     00:02:16.386    31,040 kbps     00:00:22.605    108,949 bytes   508,173 bytes   00:02:13.007    
+2               0:03:57.654     0:05:51.642     27,580 kbps     35,697 kbps     00:07:30.366    31,522 kbps     00:07:05.675    31,110 kbps     00:05:20.903    143,790 bytes   640,129 bytes   00:09:48.421    
+3               0:09:49.297     0:05:18.276     25,189 kbps     33,538 kbps     00:10:04.145    31,404 kbps     00:10:00.141    31,095 kbps     00:09:55.136    131,325 bytes   606,464 bytes   00:11:40.741    
+4               0:15:07.573     0:01:47.315     26,166 kbps     33,334 kbps     00:16:11.136    30,792 kbps     00:15:57.581    29,733 kbps     00:15:52.785    136,416 bytes   508,179 bytes   00:16:25.776    
+5               0:16:54.888     0:04:53.918     24,814 kbps     34,162 kbps     00:21:34.835    31,061 kbps     00:20:54.127    30,804 kbps     00:20:51.333    129,369 bytes   520,104 bytes   00:19:58.530    
+6               0:21:48.807     0:03:06.102     25,806 kbps     33,663 kbps     00:24:02.941    31,229 kbps     00:24:07.487    30,993 kbps     00:24:02.482    134,540 bytes   570,634 bytes   00:22:18.545    
+7               0:24:54.910     0:04:03.701     23,824 kbps     32,520 kbps     00:26:20.412    31,164 kbps     00:26:25.250    30,906 kbps     00:26:20.704    124,205 bytes   618,111 bytes   00:26:58.950    
+8               0:28:58.611     0:02:12.006     19,617 kbps     32,497 kbps     00:31:05.154    29,874 kbps     00:31:05.154    25,718 kbps     00:31:00.608    102,274 bytes   556,039 bytes   00:31:10.076    
+9               0:31:10.618     0:07:24.485     26,595 kbps     35,890 kbps     00:35:38.010    31,559 kbps     00:37:36.796    31,019 kbps     00:33:41.269    138,655 bytes   639,613 bytes   00:31:42.483    
+10              0:38:35.104     0:06:22.715     25,022 kbps     34,867 kbps     00:43:41.994    31,315 kbps     00:43:40.326    31,078 kbps     00:43:40.451    130,453 bytes   636,650 bytes   00:41:23.397    
+11              0:44:57.820     0:08:42.146     24,955 kbps     34,111 kbps     00:46:50.933    31,436 kbps     00:47:47.656    31,012 kbps     00:47:41.191    130,105 bytes   582,186 bytes   00:48:18.312    
+12              0:53:39.966     0:07:42.378     24,550 kbps     33,552 kbps     00:58:03.980    31,111 kbps     00:59:27.814    31,006 kbps     00:59:22.850    127,992 bytes   545,131 bytes   00:57:04.212    
+13              1:01:22.345     0:05:05.722     25,229 kbps     33,888 kbps     01:03:52.286    31,259 kbps     01:03:48.366    30,852 kbps     01:04:23.651    131,532 bytes   604,794 bytes   01:02:09.308    
+14              1:06:28.067     0:05:13.187     27,480 kbps     34,398 kbps     01:07:20.453    31,517 kbps     01:07:58.741    31,097 kbps     01:07:58.532    143,271 bytes   640,865 bytes   01:09:19.613    
+15              1:11:41.255     0:04:56.879     22,657 kbps     35,507 kbps     01:13:53.762    30,812 kbps     01:16:26.665    28,988 kbps     01:13:48.757    118,122 bytes   512,169 bytes   01:13:18.018    
+16              1:16:38.135     0:07:47.258     25,342 kbps     37,309 kbps     01:19:03.363    31,500 kbps     01:23:15.740    31,179 kbps     01:23:10.735    132,123 bytes   620,636 bytes   01:16:50.897    
+17              1:24:25.393     0:06:36.813     24,705 kbps     34,980 kbps     01:30:57.660    31,342 kbps     01:27:19.943    30,875 kbps     01:27:16.481    128,798 bytes   638,126 bytes   01:26:45.283    
+18              1:31:02.206     0:11:04.830     24,967 kbps     38,129 kbps     01:33:17.592    32,253 kbps     01:33:13.504    30,858 kbps     01:33:08.499    130,174 bytes   640,849 bytes   01:31:46.626    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6126.871                24,980                  19,131,271,820  104,060,249     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6126.871                4,814                   3,686,758,820   20,995,142      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           6126.871                320                     245,081,600     1,531,760       
+00800.M2TS      4354 (0x1102)   0x84            AC3+            deu (German)            6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4355 (0x1103)   0x84            AC3+            spa (Spanish)           6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4356 (0x1104)   0x81            AC3             dan (Danish)            6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4357 (0x1105)   0x81            AC3             fin (Finnish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4358 (0x1106)   0x81            AC3             nor (Norwegian)         6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4359 (0x1107)   0x81            AC3             swe (Swedish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6126.871                47                      35,996,764      208,439         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6126.871                32                      24,882,133      144,231         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           6126.871                31                      23,413,238      135,544         
+00800.M2TS      4611 (0x1203)   0x90            PGS             dan (Danish)            6126.871                31                      23,427,317      134,088         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fin (Finnish)           6126.871                31                      24,119,545      139,502         
+00800.M2TS      4613 (0x1205)   0x90            PGS             nor (Norwegian)         6126.871                30                      22,676,222      131,609         
+00800.M2TS      4614 (0x1206)   0x90            PGS             swe (Swedish)           6126.871                27                      20,780,461      120,064         
+00800.M2TS      4615 (0x1207)   0x90            PGS             eng (English)           6126.871                190                     145,303,661     805,087         
+00800.M2TS      4616 (0x1208)   0x90            PGS             deu (German)            6126.871                77                      59,139,166      332,920         
+00800.M2TS      4617 (0x1209)   0x90            PGS             spa (Spanish)           6126.871                61                      46,436,641      262,254         
+00800.M2TS      4618 (0x120A)   0x90            PGS             dan (Danish)            6126.871                81                      61,881,760      347,671         
+00800.M2TS      4619 (0x120B)   0x90            PGS             fin (Finnish)           6126.871                52                      39,948,445      226,064         
+00800.M2TS      4620 (0x120C)   0x90            PGS             nor (Norwegian)         6126.871                71                      54,473,108      307,209         
+00800.M2TS      4621 (0x120D)   0x90            PGS             swe (Swedish)           6126.871                77                      59,314,963      333,279         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Encanto - Blu-ray™
+Disc Label: Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 48,659,084,934 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 28,802,979,840 bytes
+Length: 1:42:07.037
+Total Bitrate: 37.61 Mbps
+Video: MPEG-4 AVC Video / 24979 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 47.001 kbps
+Subtitle: German / 32.488 kbps
+Subtitle: Spanish / 30.570 kbps
+Subtitle: Danish / 30.589 kbps
+Subtitle: Finnish / 31.493 kbps
+Subtitle: Norwegian / 29.608 kbps
+Subtitle: Swedish / 27.133 kbps
+* Subtitle: English / 189.721 kbps
+* Subtitle: German / 77.217 kbps
+* Subtitle: Spanish / 60.632 kbps
+* Subtitle: Danish / 80.798 kbps
+* Subtitle: Finnish / 52.160 kbps
+* Subtitle: Norwegian / 71.125 kbps
+* Subtitle: Swedish / 77.447 kbps
+
+
+********************
+PLAYLIST: 01600.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+01600.MPLS                                                      AVC     1:42:07 28,802,979,840  48,659,084,934  37.61   24.98   DTS-HD Master 7.1 4814Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Encanto - Blu-ray™
+Disc Label:     Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      48,659,084,934 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   01600.MPLS
+Length:                 1:42:07.037 (h:m:s.ms)
+Size:                   28,802,979,840 bytes
+Total Bitrate:          37.61 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24979 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4814 kbps       7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Dolby Digital Audio             English         320 kbps        2.0 / 48 kHz /   320 kbps / DN -27dB
+Dolby Digital Plus Audio        German          896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Dolby Digital Plus Audio        Spanish         896 kbps        7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Dolby Digital Audio             Danish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Finnish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Norwegian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+Dolby Digital Audio             Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         47.001 kbps                     
+Presentation Graphics           German          32.488 kbps                     
+Presentation Graphics           Spanish         30.570 kbps                     
+Presentation Graphics           Danish          30.589 kbps                     
+Presentation Graphics           Finnish         31.493 kbps                     
+Presentation Graphics           Norwegian       29.608 kbps                     
+Presentation Graphics           Swedish         27.133 kbps                     
+Presentation Graphics           English         189.721 kbps                    
+Presentation Graphics           German          77.217 kbps                     
+Presentation Graphics           Spanish         60.632 kbps                     
+Presentation Graphics           Danish          80.798 kbps                     
+Presentation Graphics           Finnish         52.160 kbps                     
+Presentation Graphics           Norwegian       71.125 kbps                     
+Presentation Graphics           Swedish         77.447 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:42:07.037     28,802,979,840  37,608          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:03:57.654     20,901 kbps     34,842 kbps     00:01:58.076    31,325 kbps     00:02:16.386    31,040 kbps     00:00:22.605    108,949 bytes   508,173 bytes   00:02:13.007    
+2               0:03:57.654     0:05:51.642     27,580 kbps     35,697 kbps     00:07:30.366    31,522 kbps     00:07:05.675    31,110 kbps     00:05:20.903    143,790 bytes   640,129 bytes   00:09:48.421    
+3               0:09:49.297     0:05:18.276     25,189 kbps     33,538 kbps     00:10:04.145    31,404 kbps     00:10:00.141    31,095 kbps     00:09:55.136    131,325 bytes   606,464 bytes   00:11:40.741    
+4               0:15:07.573     0:01:47.315     26,166 kbps     33,334 kbps     00:16:11.136    30,792 kbps     00:15:57.581    29,733 kbps     00:15:52.785    136,416 bytes   508,179 bytes   00:16:25.776    
+5               0:16:54.888     0:04:53.918     24,814 kbps     34,162 kbps     00:21:34.835    31,061 kbps     00:20:54.127    30,804 kbps     00:20:51.333    129,369 bytes   520,104 bytes   00:19:58.530    
+6               0:21:48.807     0:03:06.102     25,806 kbps     33,663 kbps     00:24:02.941    31,229 kbps     00:24:07.487    30,993 kbps     00:24:02.482    134,540 bytes   570,634 bytes   00:22:18.545    
+7               0:24:54.910     0:04:03.701     23,824 kbps     32,520 kbps     00:26:20.412    31,164 kbps     00:26:25.250    30,906 kbps     00:26:20.704    124,205 bytes   618,111 bytes   00:26:58.950    
+8               0:28:58.611     0:02:12.006     19,617 kbps     32,497 kbps     00:31:05.154    29,874 kbps     00:31:05.154    25,718 kbps     00:31:00.608    102,274 bytes   556,039 bytes   00:31:10.076    
+9               0:31:10.618     0:07:24.485     26,595 kbps     35,890 kbps     00:35:38.010    31,559 kbps     00:37:36.796    31,019 kbps     00:33:41.269    138,655 bytes   639,613 bytes   00:31:42.483    
+10              0:38:35.104     0:06:22.715     25,022 kbps     34,867 kbps     00:43:41.994    31,315 kbps     00:43:40.326    31,078 kbps     00:43:40.451    130,453 bytes   636,650 bytes   00:41:23.397    
+11              0:44:57.820     0:08:42.146     24,955 kbps     34,111 kbps     00:46:50.933    31,436 kbps     00:47:47.656    31,012 kbps     00:47:41.191    130,105 bytes   582,186 bytes   00:48:18.312    
+12              0:53:39.966     0:07:42.378     24,550 kbps     33,552 kbps     00:58:03.980    31,111 kbps     00:59:27.814    31,006 kbps     00:59:22.850    127,992 bytes   545,131 bytes   00:57:04.212    
+13              1:01:22.345     0:05:05.722     25,229 kbps     33,888 kbps     01:03:52.286    31,259 kbps     01:03:48.366    30,852 kbps     01:04:23.651    131,532 bytes   604,794 bytes   01:02:09.308    
+14              1:06:28.067     0:05:13.187     27,480 kbps     34,398 kbps     01:07:20.453    31,517 kbps     01:07:58.741    31,097 kbps     01:07:58.532    143,271 bytes   640,865 bytes   01:09:19.613    
+15              1:11:41.255     0:04:56.879     22,657 kbps     35,507 kbps     01:13:53.762    30,812 kbps     01:16:26.665    28,988 kbps     01:13:48.757    118,122 bytes   512,169 bytes   01:13:18.018    
+16              1:16:38.135     0:07:47.258     25,342 kbps     37,309 kbps     01:19:03.363    31,500 kbps     01:23:15.740    31,179 kbps     01:23:10.735    132,123 bytes   620,636 bytes   01:16:50.897    
+17              1:24:25.393     0:06:36.813     24,705 kbps     34,980 kbps     01:30:57.660    31,342 kbps     01:27:19.943    30,875 kbps     01:27:16.481    128,798 bytes   638,126 bytes   01:26:45.283    
+18              1:31:02.206     0:11:04.830     24,967 kbps     38,129 kbps     01:33:17.592    32,253 kbps     01:33:13.504    30,858 kbps     01:33:08.499    130,174 bytes   640,849 bytes   01:31:46.626    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     6126.871                24,980                  19,131,271,820  104,060,249     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6126.871                4,814                   3,686,758,820   20,995,142      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           6126.871                320                     245,081,600     1,531,760       
+00800.M2TS      4354 (0x1102)   0x84            AC3+            deu (German)            6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4355 (0x1103)   0x84            AC3+            spa (Spanish)           6126.871                896                     686,228,480     4,020,870       
+00800.M2TS      4356 (0x1104)   0x81            AC3             dan (Danish)            6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4357 (0x1105)   0x81            AC3             fin (Finnish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4358 (0x1106)   0x81            AC3             nor (Norwegian)         6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4359 (0x1107)   0x81            AC3             swe (Swedish)           6126.871                640                     490,163,200     2,872,050       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6126.871                47                      35,996,764      208,439         
+00800.M2TS      4609 (0x1201)   0x90            PGS             deu (German)            6126.871                32                      24,882,133      144,231         
+00800.M2TS      4610 (0x1202)   0x90            PGS             spa (Spanish)           6126.871                31                      23,413,238      135,544         
+00800.M2TS      4611 (0x1203)   0x90            PGS             dan (Danish)            6126.871                31                      23,427,317      134,088         
+00800.M2TS      4612 (0x1204)   0x90            PGS             fin (Finnish)           6126.871                31                      24,119,545      139,502         
+00800.M2TS      4613 (0x1205)   0x90            PGS             nor (Norwegian)         6126.871                30                      22,676,222      131,609         
+00800.M2TS      4614 (0x1206)   0x90            PGS             swe (Swedish)           6126.871                27                      20,780,461      120,064         
+00800.M2TS      4615 (0x1207)   0x90            PGS             eng (English)           6126.871                190                     145,303,661     805,087         
+00800.M2TS      4616 (0x1208)   0x90            PGS             deu (German)            6126.871                77                      59,139,166      332,920         
+00800.M2TS      4617 (0x1209)   0x90            PGS             spa (Spanish)           6126.871                61                      46,436,641      262,254         
+00800.M2TS      4618 (0x120A)   0x90            PGS             dan (Danish)            6126.871                81                      61,881,760      347,671         
+00800.M2TS      4619 (0x120B)   0x90            PGS             fin (Finnish)           6126.871                52                      39,948,445      226,064         
+00800.M2TS      4620 (0x120C)   0x90            PGS             nor (Norwegian)         6126.871                71                      54,473,108      307,209         
+00800.M2TS      4621 (0x120D)   0x90            PGS             swe (Swedish)           6126.871                77                      59,314,963      333,279         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Encanto - Blu-ray™
+Disc Label: Encanto.2021.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 48,659,084,934 bytes
+Protection: AACS
+Playlist: 01600.MPLS
+Size: 28,802,979,840 bytes
+Length: 1:42:07.037
+Total Bitrate: 37.61 Mbps
+Video: MPEG-4 AVC Video / 24979 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4814 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -4dB)
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   320 kbps / DN -27dB
+Audio: German / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Audio: Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   896 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   512 kbps / DN -27dB)
+Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
+Subtitle: English / 47.001 kbps
+Subtitle: German / 32.488 kbps
+Subtitle: Spanish / 30.570 kbps
+Subtitle: Danish / 30.589 kbps
+Subtitle: Finnish / 31.493 kbps
+Subtitle: Norwegian / 29.608 kbps
+Subtitle: Swedish / 27.133 kbps
+Subtitle: English / 189.721 kbps
+Subtitle: German / 77.217 kbps
+Subtitle: Spanish / 60.632 kbps
+Subtitle: Danish / 80.798 kbps
+Subtitle: Finnish / 52.160 kbps
+Subtitle: Norwegian / 71.125 kbps
+Subtitle: Swedish / 77.447 kbps
+
