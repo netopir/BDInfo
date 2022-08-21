@@ -1,0 +1,243 @@
+Disc Title:     Happy Family 2 - Blu-ray™
+Disc Label:     HAPPY FAMILY 2
+Disc Size:      37,002,697,081 bytes
+Protection:     AACS
+Extras:         BD-Java, Blu-ray 3D
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:43:03 34,299,371,520  37,002,697,081  44.38   19.99   Dolby Atmos 7.1 5821Kbps (48kHz/24-bit)   DTS-HD Master 5.1 2223Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Happy Family 2 - Blu-ray™
+Disc Label:     HAPPY FAMILY 2
+Disc Size:      37,002,697,081 bytes
+Protection:     AACS
+Extras:         BD-Java, Blu-ray 3D
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:43:03.385 (h:m:s.ms)
+Size:                   34,299,371,520 bytes
+Total Bitrate:          44.38 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19993 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 MVC Video        9994 kbps           Right Eye       
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        German          5821 kbps       7.1 / 48 kHz /  5181 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+DTS-HD Master Audio             German          2223 kbps       5.1 / 48 kHz /  2223 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2234 kbps       5.1 / 48 kHz /  2234 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       German          448 kbps        2.0 / 48 kHz /   448 kbps / 16-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          35.301 kbps                     
+Presentation Graphics           English         33.054 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.SSIF      0:00:00.000     1:43:03.385     34,299,371,520  44,376          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:53.950     22,299 kbps     29,464 kbps     00:05:41.758    26,565 kbps     00:01:41.267    26,216 kbps     00:01:24.667    116,248 bytes   607,130 bytes   00:04:33.648    
+2               0:08:53.950     0:06:39.190     22,107 kbps     29,571 kbps     00:12:06.976    26,671 kbps     00:12:02.930    26,079 kbps     00:09:20.518    115,254 bytes   608,110 bytes   00:12:07.852    
+3               0:15:33.140     0:10:52.735     20,945 kbps     32,448 kbps     00:23:07.552    26,534 kbps     00:19:57.321    26,079 kbps     00:20:11.585    109,197 bytes   570,768 bytes   00:24:38.518    
+4               0:26:25.875     0:07:59.604     21,148 kbps     30,139 kbps     00:29:40.487    26,640 kbps     00:27:35.612    26,128 kbps     00:26:45.353    110,255 bytes   613,352 bytes   00:27:40.617    
+5               0:34:25.480     0:06:47.448     22,058 kbps     28,738 kbps     00:36:58.174    26,458 kbps     00:35:20.368    26,054 kbps     00:38:06.158    114,998 bytes   639,883 bytes   00:37:20.446    
+6               0:41:12.928     0:12:03.889     19,856 kbps     31,848 kbps     00:50:30.652    26,610 kbps     00:42:35.511    26,224 kbps     00:42:30.422    103,522 bytes   637,765 bytes   00:42:40.349    
+7               0:53:16.818     0:07:48.801     20,554 kbps     31,549 kbps     00:58:37.013    26,781 kbps     00:58:33.176    26,362 kbps     00:58:27.962    107,160 bytes   636,336 bytes   01:00:07.228    
+8               1:01:05.620     0:06:54.789     20,956 kbps     30,222 kbps     01:05:40.686    26,654 kbps     01:02:28.369    26,148 kbps     01:02:44.927    109,254 bytes   484,661 bytes   01:05:41.520    
+9               1:08:00.409     0:08:21.834     19,036 kbps     28,807 kbps     01:09:52.771    26,423 kbps     01:09:48.767    26,150 kbps     01:09:43.762    99,242 bytes    504,675 bytes   01:09:53.772    
+10              1:16:22.244     0:08:14.160     21,413 kbps     31,190 kbps     01:17:56.088    26,902 kbps     01:17:36.234    26,194 kbps     01:21:06.027    111,637 bytes   482,479 bytes   01:24:31.107    
+11              1:24:36.404     0:10:09.442     21,606 kbps     33,638 kbps     01:30:05.775    26,390 kbps     01:33:56.631    25,978 kbps     01:32:42.682    112,643 bytes   435,082 bytes   01:30:29.132    
+12              1:34:45.846     0:08:17.538     8,212 kbps      29,204 kbps     01:34:48.349    25,228 kbps     01:35:59.670    24,192 kbps     01:36:00.004    42,820 bytes    458,385 bytes   01:36:05.301    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.SSIF      4114 (0x1012)   0x20            MVC                                     6183.302                9,994                   7,724,704,350   42,080,493      
+00001.SSIF      4113 (0x1011)   0x1B            AVC                                     6183.302                19,993                  15,452,772,544  84,070,536      
+00001.SSIF      4352 (0x1100)   0x83            Atmos           deu (German)            6183.302                5,821                   4,498,912,546   28,777,507      
+00001.SSIF      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            6183.302                2,223                   1,718,060,596   10,307,286      
+00001.SSIF      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           6183.302                2,234                   1,726,515,888   10,350,370      
+00001.SSIF      4355 (0x1103)   0x82            DTS             deu (German)            6183.302                447                     345,497,028     2,318,772       
+00001.SSIF      4608 (0x1200)   0x90            PGS             deu (German)            6183.302                35                      27,284,685      156,691         
+00001.SSIF      4609 (0x1201)   0x90            PGS             eng (English)           6183.302                33                      25,548,127      148,161         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Happy Family 2 - Blu-ray™
+Disc Label: HAPPY FAMILY 2
+Disc Size: 37,002,697,081 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 34,299,371,520 bytes
+Length: 1:43:03.385
+Total Bitrate: 44.38 Mbps
+Video: MPEG-4 AVC Video / 19993 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 MVC Video / 9994 kbps / Right Eye
+Audio: German / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  5181 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2223 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2234 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   448 kbps / 16-bit
+Subtitle: German / 35.301 kbps
+Subtitle: English / 33.054 kbps
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:43:03 34,299,371,520  37,002,697,081  44.38   19.99   Dolby Atmos 7.1 5821Kbps (48kHz/24-bit)   DTS-HD Master 5.1 2223Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Happy Family 2 - Blu-ray™
+Disc Label:     HAPPY FAMILY 2
+Disc Size:      37,002,697,081 bytes
+Protection:     AACS
+Extras:         BD-Java, Blu-ray 3D
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:43:03.385 (h:m:s.ms)
+Size:                   34,299,371,520 bytes
+Total Bitrate:          44.38 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19993 kbps          Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+MPEG-4 MVC Video        9994 kbps           Right Eye       
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        German          5821 kbps       7.1 / 48 kHz /  5181 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+DTS-HD Master Audio             German          2223 kbps       5.1 / 48 kHz /  2223 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2234 kbps       5.1 / 48 kHz /  2234 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS Audio                       German          448 kbps        2.0 / 48 kHz /   448 kbps / 16-bit
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          35.301 kbps                     
+Presentation Graphics           English         33.054 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.SSIF      0:00:00.000     1:43:03.385     34,299,371,520  44,376          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:08:53.950     22,299 kbps     29,464 kbps     00:05:41.758    26,565 kbps     00:01:41.267    26,216 kbps     00:01:24.667    116,248 bytes   607,130 bytes   00:04:33.648    
+2               0:08:53.950     0:06:39.190     22,107 kbps     29,571 kbps     00:12:06.976    26,671 kbps     00:12:02.930    26,079 kbps     00:09:20.518    115,254 bytes   608,110 bytes   00:12:07.852    
+3               0:15:33.140     0:10:52.735     20,945 kbps     32,448 kbps     00:23:07.552    26,534 kbps     00:19:57.321    26,079 kbps     00:20:11.585    109,197 bytes   570,768 bytes   00:24:38.518    
+4               0:26:25.875     0:07:59.604     21,148 kbps     30,139 kbps     00:29:40.487    26,640 kbps     00:27:35.612    26,128 kbps     00:26:45.353    110,255 bytes   613,352 bytes   00:27:40.617    
+5               0:34:25.480     0:06:47.448     22,058 kbps     28,738 kbps     00:36:58.174    26,458 kbps     00:35:20.368    26,054 kbps     00:38:06.158    114,998 bytes   639,883 bytes   00:37:20.446    
+6               0:41:12.928     0:12:03.889     19,856 kbps     31,848 kbps     00:50:30.652    26,610 kbps     00:42:35.511    26,224 kbps     00:42:30.422    103,522 bytes   637,765 bytes   00:42:40.349    
+7               0:53:16.818     0:07:48.801     20,554 kbps     31,549 kbps     00:58:37.013    26,781 kbps     00:58:33.176    26,362 kbps     00:58:27.962    107,160 bytes   636,336 bytes   01:00:07.228    
+8               1:01:05.620     0:06:54.789     20,956 kbps     30,222 kbps     01:05:40.686    26,654 kbps     01:02:28.369    26,148 kbps     01:02:44.927    109,254 bytes   484,661 bytes   01:05:41.520    
+9               1:08:00.409     0:08:21.834     19,036 kbps     28,807 kbps     01:09:52.771    26,423 kbps     01:09:48.767    26,150 kbps     01:09:43.762    99,242 bytes    504,675 bytes   01:09:53.772    
+10              1:16:22.244     0:08:14.160     21,413 kbps     31,190 kbps     01:17:56.088    26,902 kbps     01:17:36.234    26,194 kbps     01:21:06.027    111,637 bytes   482,479 bytes   01:24:31.107    
+11              1:24:36.404     0:10:09.442     21,606 kbps     33,638 kbps     01:30:05.775    26,390 kbps     01:33:56.631    25,978 kbps     01:32:42.682    112,643 bytes   435,082 bytes   01:30:29.132    
+12              1:34:45.846     0:08:17.538     8,212 kbps      29,204 kbps     01:34:48.349    25,228 kbps     01:35:59.670    24,192 kbps     01:36:00.004    42,820 bytes    458,385 bytes   01:36:05.301    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.SSIF      4114 (0x1012)   0x20            MVC                                     6183.302                9,994                   7,724,704,350   42,080,493      
+00001.SSIF      4113 (0x1011)   0x1B            AVC                                     6183.302                19,993                  15,452,772,544  84,070,536      
+00001.SSIF      4352 (0x1100)   0x83            Atmos           deu (German)            6183.302                5,821                   4,498,912,546   28,777,507      
+00001.SSIF      4353 (0x1101)   0x86            DTS-HD MA       deu (German)            6183.302                2,223                   1,718,060,596   10,307,286      
+00001.SSIF      4354 (0x1102)   0x86            DTS-HD MA       eng (English)           6183.302                2,234                   1,726,515,888   10,350,370      
+00001.SSIF      4355 (0x1103)   0x82            DTS             deu (German)            6183.302                447                     345,497,028     2,318,772       
+00001.SSIF      4608 (0x1200)   0x90            PGS             deu (German)            6183.302                35                      27,284,685      156,691         
+00001.SSIF      4609 (0x1201)   0x90            PGS             eng (English)           6183.302                33                      25,548,127      148,161         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Happy Family 2 - Blu-ray™
+Disc Label: HAPPY FAMILY 2
+Disc Size: 37,002,697,081 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 34,299,371,520 bytes
+Length: 1:43:03.385
+Total Bitrate: 44.38 Mbps
+Video: MPEG-4 AVC Video / 19993 kbps / Left Eye / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Video: MPEG-4 MVC Video / 9994 kbps / Right Eye
+Audio: German / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  5181 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   640 kbps / DN -31dB)
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  2223 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2234 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   448 kbps / 16-bit
+Subtitle: German / 35.301 kbps
+Subtitle: English / 33.054 kbps
+

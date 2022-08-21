@@ -1,0 +1,206 @@
+Disc Title:     The Lego Movie
+Disc Label:     The.Lego.Movie.2014.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size:      32,077,249,913 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     1:40:35 25,453,891,584  32,077,249,913  33.74   25.20   DTS-HD Master 5.1 2259Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Lego Movie
+Disc Label:     The.Lego.Movie.2014.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size:      32,077,249,913 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 1:40:35.320 (h:m:s.ms)
+Size:                   25,453,891,584 bytes
+Total Bitrate:          33.74 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        25200 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2259 kbps       5.1 / 48 kHz /  2259 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Czech           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Hungarian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Polish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Portuguese      448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Russian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Slovak          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Ukrainian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         50.983 kbps                     
+Presentation Graphics           Bulgarian       41.455 kbps                     
+Presentation Graphics           Croatian        40.294 kbps                     
+Presentation Graphics           Czech           38.947 kbps                     
+Presentation Graphics           Estonian        34.219 kbps                     
+Presentation Graphics           Hungarian       43.780 kbps                     
+Presentation Graphics           Latvian         34.905 kbps                     
+Presentation Graphics           Lithuanian      39.541 kbps                     
+Presentation Graphics           Polish          44.840 kbps                     
+Presentation Graphics           Portuguese      45.501 kbps                     
+Presentation Graphics           Romanian        38.394 kbps                     
+Presentation Graphics           Russian         36.736 kbps                     
+Presentation Graphics           Serbian         35.882 kbps                     
+Presentation Graphics           Slovak          40.035 kbps                     
+Presentation Graphics           Slovenian       33.025 kbps                     
+Presentation Graphics           Czech           0.463 kbps                      
+Presentation Graphics           Hungarian       0.134 kbps                      
+Presentation Graphics           Polish          0.286 kbps                      
+Presentation Graphics           Portuguese      0.435 kbps                      
+Presentation Graphics           Romanian        0.257 kbps                      
+Presentation Graphics           Russian         0.523 kbps                      
+Presentation Graphics           Slovak          0.428 kbps                      
+Presentation Graphics           Ukrainian       0.486 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00109.M2TS      0:00:00.000     1:40:35.320     25,453,891,584  33,740          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:44.041     24,697 kbps     55,158 kbps     00:00:06.464    33,854 kbps     00:00:24.649    32,895 kbps     00:01:41.476    128,750 bytes   772,138 bytes   00:00:13.263    
+2               0:09:44.041     0:08:34.347     25,475 kbps     37,320 kbps     00:09:47.628    31,175 kbps     00:09:49.338    30,784 kbps     00:09:44.417    132,814 bytes   502,215 bytes   00:18:02.206    
+3               0:18:18.388     0:11:32.358     24,338 kbps     36,512 kbps     00:25:50.757    31,071 kbps     00:22:37.856    28,892 kbps     00:21:27.911    126,887 bytes   676,262 bytes   00:19:45.350    
+4               0:29:50.747     0:08:57.286     25,513 kbps     50,722 kbps     00:37:52.937    34,386 kbps     00:37:49.016    31,929 kbps     00:34:48.544    133,014 bytes   609,624 bytes   00:38:25.344    
+5               0:38:48.034     0:09:57.013     26,105 kbps     46,231 kbps     00:42:32.591    34,382 kbps     00:42:28.671    32,184 kbps     00:41:41.624    136,097 bytes   736,167 bytes   00:42:29.046    
+6               0:48:45.047     0:09:04.377     25,095 kbps     45,353 kbps     00:50:35.907    34,495 kbps     00:50:56.219    32,339 kbps     00:50:54.551    130,836 bytes   600,745 bytes   00:56:50.657    
+7               0:57:49.424     0:08:15.828     25,530 kbps     44,159 kbps     01:02:21.487    34,337 kbps     00:58:38.348    32,435 kbps     01:02:13.104    133,102 bytes   703,492 bytes   00:58:11.779    
+8               1:06:05.252     0:10:18.951     25,340 kbps     41,802 kbps     01:09:43.429    34,581 kbps     01:09:39.800    32,032 kbps     01:09:35.254    132,113 bytes   583,520 bytes   01:09:54.231    
+9               1:16:24.204     0:09:31.946     25,415 kbps     46,764 kbps     01:17:38.945    34,206 kbps     01:16:25.497    31,257 kbps     01:16:39.511    132,502 bytes   574,730 bytes   01:22:48.546    
+10              1:25:56.151     0:07:01.170     26,719 kbps     43,872 kbps     01:26:03.074    34,168 kbps     01:27:31.371    32,861 kbps     01:31:47.460    139,298 bytes   603,400 bytes   01:29:45.588    
+11              1:32:57.321     0:07:37.999     23,207 kbps     37,251 kbps     01:32:58.364    31,298 kbps     01:32:58.364    27,907 kbps     01:32:58.364    121,011 bytes   781,786 bytes   01:40:32.192    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00109.M2TS      4113 (0x1011)   0x1B            AVC                                     6035.238                25,201                  19,011,527,434  103,408,498     
+00109.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           6035.238                2,259                   1,703,868,952   10,209,765      
+00109.M2TS      4353 (0x1101)   0x81            AC3             ces (Czech)             6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4354 (0x1102)   0x81            AC3             hun (Hungarian)         6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4355 (0x1103)   0x81            AC3             pol (Polish)            6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4356 (0x1104)   0x81            AC3             por (Portuguese)        6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4357 (0x1105)   0x81            AC3             ron (Romanian)          6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4358 (0x1106)   0x81            AC3             rus (Russian)           6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4359 (0x1107)   0x81            AC3             slk (Slovak)            6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4360 (0x1108)   0x81            AC3             ukr (Ukrainian)         6035.238                448                     337,978,368     1,886,040       
+00109.M2TS      4361 (0x1109)   0x81            AC3             eng (English)           6035.238                192                     144,847,872     943,020         
+00109.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6035.238                51                      38,462,455      222,959         
+00109.M2TS      4609 (0x1201)   0x90            PGS             bul (Bulgarian)         6035.238                41                      31,273,941      182,514         
+00109.M2TS      4610 (0x1202)   0x90            PGS             hrv (Croatian)          6035.238                40                      30,398,292      177,752         
+00109.M2TS      4611 (0x1203)   0x90            PGS             ces (Czech)             6035.238                39                      29,382,210      172,223         
+00109.M2TS      4612 (0x1204)   0x90            PGS             est (Estonian)          6035.238                34                      25,815,361      152,820         
+00109.M2TS      4613 (0x1205)   0x90            PGS             hun (Hungarian)         6035.238                44                      33,028,133      192,316         
+00109.M2TS      4614 (0x1206)   0x90            PGS             lav (Latvian)           6035.238                35                      26,333,080      155,482         
+00109.M2TS      4615 (0x1207)   0x90            PGS             lit (Lithuanian)        6035.238                40                      29,830,349      174,596         
+00109.M2TS      4616 (0x1208)   0x90            PGS             pol (Polish)            6035.238                45                      33,827,817      196,115         
+00109.M2TS      4617 (0x1209)   0x90            PGS             por (Portuguese)        6035.238                46                      34,326,707      199,010         
+00109.M2TS      4618 (0x120A)   0x90            PGS             ron (Romanian)          6035.238                38                      28,965,057      170,237         
+00109.M2TS      4619 (0x120B)   0x90            PGS             rus (Russian)           6035.238                37                      27,714,239      163,111         
+00109.M2TS      4620 (0x120C)   0x90            PGS             srp (Serbian)           6035.238                36                      27,069,740      159,527         
+00109.M2TS      4621 (0x120D)   0x90            PGS             slk (Slovak)            6035.238                40                      30,202,897      176,491         
+00109.M2TS      4622 (0x120E)   0x90            PGS             slv (Slovenian)         6035.238                33                      24,914,266      147,617         
+00109.M2TS      4623 (0x120F)   0x90            PGS             ces (Czech)             6035.238                0                       349,099         2,088           
+00109.M2TS      4624 (0x1210)   0x90            PGS             hun (Hungarian)         6035.238                0                       100,830         600             
+00109.M2TS      4625 (0x1211)   0x90            PGS             pol (Polish)            6035.238                0                       215,865         1,279           
+00109.M2TS      4626 (0x1212)   0x90            PGS             por (Portuguese)        6035.238                0                       327,924         1,932           
+00109.M2TS      4627 (0x1213)   0x90            PGS             ron (Romanian)          6035.238                0                       194,009         1,149           
+00109.M2TS      4628 (0x1214)   0x90            PGS             rus (Russian)           6035.238                1                       394,233         2,370           
+00109.M2TS      4629 (0x1215)   0x90            PGS             slk (Slovak)            6035.238                0                       322,907         1,915           
+00109.M2TS      4630 (0x1216)   0x90            PGS             ukr (Ukrainian)         6035.238                0                       366,754         2,200           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Lego Movie
+Disc Label: The.Lego.Movie.2014.MULTi.COMPLETE.BLURAY-GLiMMER
+Disc Size: 32,077,249,913 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 25,453,891,584 bytes
+Length: 1:40:35.320
+Total Bitrate: 33.74 Mbps
+Video: MPEG-4 AVC Video / 25200 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2259 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Czech / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Hungarian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Russian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Slovak / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Ukrainian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 50.983 kbps
+Subtitle: Bulgarian / 41.455 kbps
+Subtitle: Croatian / 40.294 kbps
+Subtitle: Czech / 38.947 kbps
+Subtitle: Estonian / 34.219 kbps
+Subtitle: Hungarian / 43.780 kbps
+Subtitle: Latvian / 34.905 kbps
+Subtitle: Lithuanian / 39.541 kbps
+Subtitle: Polish / 44.840 kbps
+Subtitle: Portuguese / 45.501 kbps
+Subtitle: Romanian / 38.394 kbps
+Subtitle: Russian / 36.736 kbps
+Subtitle: Serbian / 35.882 kbps
+Subtitle: Slovak / 40.035 kbps
+Subtitle: Slovenian / 33.025 kbps
+Subtitle: Czech / 0.463 kbps
+Subtitle: Hungarian / 0.134 kbps
+Subtitle: Polish / 0.286 kbps
+Subtitle: Portuguese / 0.435 kbps
+Subtitle: Romanian / 0.257 kbps
+Subtitle: Russian / 0.523 kbps
+Subtitle: Slovak / 0.428 kbps
+Subtitle: Ukrainian / 0.486 kbps
+

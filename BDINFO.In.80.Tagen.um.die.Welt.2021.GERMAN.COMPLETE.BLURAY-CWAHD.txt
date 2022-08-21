@@ -1,0 +1,117 @@
+Disc Title:     In 80 Tagen um die Welt
+Disc Label:     In.80.Tagen.um.die.Welt.2021.GERMAN.COMPLETE.BLURAY-CWAHD
+Disc Size:      22,184,161,408 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00006.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00006.MPLS                                                      AVC     1:22:30 20,737,320,960  22,184,161,408  33.51   27.89   DTS-HD Master 5.1 3917Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     In 80 Tagen um die Welt
+Disc Label:     In.80.Tagen.um.die.Welt.2021.GERMAN.COMPLETE.BLURAY-CWAHD
+Disc Size:      22,184,161,408 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00006.MPLS
+Length:                 1:22:30.958 (h:m:s.ms)
+Size:                   20,737,320,960 bytes
+Total Bitrate:          33.51 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27892 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3917 kbps       5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          0.045 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00007.M2TS      0:00:00.000     1:22:10.250     20,714,661,888  33,612          
+00008.M2TS      1:22:10.250     0:00:20.708     22,659,072      8,754           
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:12.958     28,726 kbps     51,259 kbps     00:00:19.541    40,491 kbps     00:00:15.583    39,048 kbps     00:00:10.541    149,599 bytes   440,635 bytes   00:01:43.416    
+2               0:07:12.958     0:10:28.666     28,798 kbps     39,223 kbps     00:12:55.291    37,370 kbps     00:12:53.083    34,114 kbps     00:12:47.791    149,992 bytes   453,218 bytes   00:12:45.208    
+3               0:17:41.625     0:07:35.916     29,496 kbps     39,113 kbps     00:22:15.916    34,143 kbps     00:23:13.916    33,554 kbps     00:23:09.791    153,627 bytes   380,313 bytes   00:21:39.541    
+4               0:25:17.541     0:08:26.916     27,761 kbps     38,616 kbps     00:33:09.833    35,904 kbps     00:33:08.583    32,853 kbps     00:33:02.625    144,587 bytes   415,193 bytes   00:33:44.458    
+5               0:33:44.458     0:09:07.124     30,667 kbps     40,560 kbps     00:38:17.666    38,085 kbps     00:33:48.416    37,420 kbps     00:33:44.458    159,726 bytes   452,334 bytes   00:33:51.458    
+6               0:42:51.583     0:08:40.125     27,916 kbps     39,648 kbps     00:43:08.583    37,702 kbps     00:43:08.750    36,727 kbps     00:43:03.666    145,398 bytes   394,128 bytes   00:43:09.583    
+7               0:51:31.708     0:06:15.166     28,534 kbps     39,337 kbps     00:54:37.458    38,178 kbps     00:54:33.500    37,902 kbps     00:54:28.458    148,615 bytes   437,741 bytes   00:54:41.166    
+8               0:57:46.875     0:07:55.333     29,968 kbps     40,283 kbps     01:04:43.041    37,557 kbps     00:57:46.958    34,924 kbps     01:04:42.125    156,083 bytes   477,317 bytes   01:04:43.958    
+9               1:05:42.208     0:04:11.625     29,632 kbps     37,704 kbps     01:06:04.666    36,247 kbps     01:06:02.083    34,399 kbps     01:06:41.250    154,332 bytes   324,700 bytes   01:08:30.083    
+10              1:09:53.833     0:06:55.958     30,186 kbps     40,355 kbps     01:15:59.125    38,226 kbps     01:15:55.166    37,819 kbps     01:15:52.833    157,217 bytes   392,679 bytes   01:14:48.208    
+11              1:16:49.791     0:05:41.166     11,048 kbps     34,733 kbps     01:22:03.166    32,604 kbps     01:22:01.083    30,608 kbps     01:21:58.750    57,547 bytes    390,986 bytes   01:22:07.833    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00007.M2TS      4113 (0x1011)   0x1B            AVC                                     4930.083                27,983                  17,244,601,338  93,789,654      
+00007.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4930.083                3,927                   2,419,864,892   13,933,853      
+00007.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4930.083                0                       27,838          165             
+00008.M2TS      4113 (0x1011)   0x1B            AVC                                     20.542                  6,575                   16,881,955      92,027          
+00008.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            20.542                  1,573                   4,039,360       25,246          
+00008.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            20.542                  0                       136             8               
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: In 80 Tagen um die Welt
+Disc Label: In.80.Tagen.um.die.Welt.2021.GERMAN.COMPLETE.BLURAY-CWAHD
+Disc Size: 22,184,161,408 bytes
+Protection: AACS
+Playlist: 00006.MPLS
+Size: 20,737,320,960 bytes
+Length: 1:22:30.958
+Total Bitrate: 33.51 Mbps
+Video: MPEG-4 AVC Video / 27892 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3917 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+Subtitle: German / 0.045 kbps
+

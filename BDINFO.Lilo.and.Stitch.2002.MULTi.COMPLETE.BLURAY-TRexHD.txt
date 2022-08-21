@@ -1,0 +1,175 @@
+Disc Title:     Lilo and Stitch - Blu-ray™
+Disc Label:     Lilo.and.Stitch.2002.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      29,287,387,932 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     1:25:15 26,154,485,760  29,287,387,932  40.91   29.00   DD AC3 5.1 640Kbps                        
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Lilo and Stitch - Blu-ray™
+Disc Label:     Lilo.and.Stitch.2002.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size:      29,287,387,932 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 1:25:15.068 (h:m:s.ms)
+Size:                   26,154,485,760 bytes
+Total Bitrate:          40.91 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        28998 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby Digital Audio             Danish          640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Finnish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD High-Res Audio           German          2046 kbps       5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             Italian         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Norwegian       640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+Dolby Digital Audio             Swedish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             English         3872 kbps       5.1 / 48 kHz /  3872 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         86.379 kbps                     
+Presentation Graphics           Danish          43.875 kbps                     
+Presentation Graphics           Finnish         42.907 kbps                     
+Presentation Graphics           German          47.063 kbps                     
+Presentation Graphics           Italian         44.907 kbps                     
+Presentation Graphics           Norwegian       44.381 kbps                     
+Presentation Graphics           Swedish         41.524 kbps                     
+Presentation Graphics           German          0.347 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00045.M2TS      0:00:00.000     1:25:14.567     26,151,868,416  40,906          
+00002.M2TS      1:25:14.567     0:00:00.500     2,617,344       41,836          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:55.884     28,890 kbps     33,399 kbps     00:00:17.017    30,443 kbps     00:00:42.500    29,994 kbps     00:00:40.749    150,583 bytes   519,483 bytes   00:00:47.338    
+2               0:02:55.884     0:03:38.009     29,348 kbps     33,365 kbps     00:03:19.115    30,472 kbps     00:05:03.511    30,102 kbps     00:04:58.548    153,006 bytes   556,457 bytes   00:03:24.078    
+3               0:06:33.893     0:01:55.490     27,925 kbps     32,554 kbps     00:06:38.648    30,350 kbps     00:06:35.686    29,976 kbps     00:06:34.852    145,587 bytes   563,068 bytes   00:07:14.183    
+4               0:08:29.383     0:01:28.588     27,575 kbps     33,024 kbps     00:08:38.976    30,469 kbps     00:08:34.764    30,020 kbps     00:08:29.759    143,766 bytes   541,979 bytes   00:08:39.727    
+5               0:09:57.972     0:04:57.922     29,257 kbps     34,489 kbps     00:11:14.799    30,379 kbps     00:14:02.174    30,141 kbps     00:14:34.123    152,534 bytes   631,284 bytes   00:14:44.091    
+6               0:14:55.895     0:05:02.927     28,416 kbps     34,104 kbps     00:17:39.600    30,496 kbps     00:17:35.512    30,110 kbps     00:15:40.481    148,150 bytes   635,949 bytes   00:17:41.018    
+7               0:19:58.822     0:01:33.176     29,370 kbps     33,754 kbps     00:20:07.956    30,894 kbps     00:20:04.119    30,183 kbps     00:19:59.114    153,122 bytes   564,010 bytes   00:20:08.874    
+8               0:21:31.999     0:02:22.392     29,336 kbps     34,165 kbps     00:23:01.088    30,552 kbps     00:22:53.622    30,167 kbps     00:22:52.079    152,945 bytes   628,155 bytes   00:23:00.295    
+9               0:23:54.391     0:01:00.560     28,993 kbps     33,616 kbps     00:24:34.306    30,457 kbps     00:24:30.302    30,092 kbps     00:24:25.380    151,158 bytes   370,869 bytes   00:24:08.905    
+10              0:24:54.951     0:03:46.309     29,227 kbps     38,417 kbps     00:26:01.768    31,437 kbps     00:25:57.681    30,593 kbps     00:25:52.676    152,374 bytes   636,694 bytes   00:25:48.588    
+11              0:28:41.261     0:01:45.230     29,614 kbps     33,586 kbps     00:29:58.838    30,399 kbps     00:29:54.834    30,097 kbps     00:29:49.954    154,396 bytes   633,086 bytes   00:28:42.262    
+12              0:30:26.491     0:01:17.452     29,677 kbps     33,091 kbps     00:31:24.716    30,489 kbps     00:30:44.175    30,087 kbps     00:31:24.716    154,722 bytes   631,720 bytes   00:30:27.200    
+13              0:31:43.943     0:03:16.404     28,802 kbps     33,191 kbps     00:32:21.189    30,391 kbps     00:32:20.813    30,075 kbps     00:32:12.180    150,161 bytes   542,420 bytes   00:33:24.460    
+14              0:35:00.348     0:01:37.305     29,442 kbps     34,153 kbps     00:35:20.868    30,473 kbps     00:35:49.021    30,024 kbps     00:36:20.386    153,500 bytes   606,639 bytes   00:35:21.619    
+15              0:36:37.653     0:02:52.505     29,366 kbps     34,403 kbps     00:39:23.277    30,436 kbps     00:37:55.815    29,992 kbps     00:39:07.678    153,100 bytes   601,751 bytes   00:37:55.856    
+16              0:39:30.159     0:01:29.589     28,668 kbps     32,948 kbps     00:39:52.389    30,283 kbps     00:39:48.385    30,063 kbps     00:39:43.339    149,464 bytes   494,182 bytes   00:40:57.663    
+17              0:40:59.748     0:05:05.263     29,173 kbps     34,542 kbps     00:45:05.536    30,646 kbps     00:45:01.532    30,135 kbps     00:44:56.485    152,096 bytes   615,097 bytes   00:44:24.161    
+18              0:46:05.012     0:03:29.000     28,821 kbps     32,403 kbps     00:47:29.263    30,279 kbps     00:46:21.904    29,958 kbps     00:47:21.296    150,261 bytes   484,536 bytes   00:47:30.222    
+19              0:49:34.012     0:00:51.676     28,239 kbps     31,776 kbps     00:50:24.688    29,900 kbps     00:49:45.232    29,754 kbps     00:49:52.239    147,228 bytes   467,524 bytes   00:50:25.689    
+20              0:50:25.689     0:01:42.602     27,812 kbps     32,544 kbps     00:50:49.171    30,229 kbps     00:50:45.500    29,928 kbps     00:50:40.495    144,997 bytes   509,210 bytes   00:50:52.132    
+21              0:52:08.291     0:03:03.141     29,078 kbps     33,573 kbps     00:52:11.711    30,423 kbps     00:54:17.420    29,944 kbps     00:52:10.085    151,602 bytes   522,689 bytes   00:52:12.504    
+22              0:55:11.433     0:00:37.454     28,746 kbps     32,873 kbps     00:55:46.176    30,369 kbps     00:55:42.297    30,024 kbps     00:55:37.125    149,868 bytes   414,303 bytes   00:55:26.656    
+23              0:55:48.887     0:01:30.090     29,623 kbps     33,671 kbps     00:56:44.359    30,547 kbps     00:56:40.355    30,002 kbps     00:56:35.392    154,439 bytes   498,068 bytes   00:57:18.977    
+24              0:57:18.977     0:05:14.647     29,349 kbps     34,452 kbps     01:00:23.703    30,620 kbps     01:00:19.699    30,146 kbps     01:00:41.137    153,013 bytes   625,038 bytes   00:58:17.702    
+25              1:02:33.624     0:01:07.525     29,319 kbps     32,852 kbps     01:03:34.685    30,312 kbps     01:03:25.718    29,946 kbps     01:03:23.925    152,858 bytes   529,782 bytes   01:02:46.220    
+26              1:03:41.150     0:01:26.002     29,489 kbps     32,986 kbps     01:04:12.098    30,391 kbps     01:04:07.927    30,030 kbps     01:03:42.109    153,743 bytes   516,318 bytes   01:03:52.036    
+27              1:05:07.153     0:02:46.082     29,109 kbps     33,448 kbps     01:05:22.084    30,230 kbps     01:05:20.958    30,063 kbps     01:05:17.496    151,763 bytes   544,102 bytes   01:05:48.903    
+28              1:07:53.235     0:06:00.568     28,581 kbps     35,289 kbps     01:08:03.412    30,979 kbps     01:07:59.533    30,364 kbps     01:07:54.570    149,008 bytes   495,734 bytes   01:08:04.246    
+29              1:13:53.804     0:03:24.829     29,000 kbps     33,023 kbps     01:14:00.269    30,387 kbps     01:13:56.265    30,011 kbps     01:13:56.890    151,193 bytes   537,435 bytes   01:15:20.933    
+30              1:17:18.634     0:07:56.434     29,082 kbps     34,429 kbps     01:18:00.008    30,559 kbps     01:17:44.826    30,233 kbps     01:17:45.911    151,633 bytes   630,170 bytes   01:17:31.730    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00045.M2TS      4113 (0x1011)   0x1B            AVC                                     5114.401                28,998                  18,538,195,925  100,822,647     
+00045.M2TS      4352 (0x1100)   0x81            AC3             dan (Danish)            5114.401                641                     409,891,840     2,401,710       
+00045.M2TS      4353 (0x1101)   0x81            AC3             fin (Finnish)           5114.401                641                     409,891,840     2,401,710       
+00045.M2TS      4354 (0x1102)   0x85            DTS-HD HR       deu (German)            5114.401                2,050                   1,310,372,976   7,685,472       
+00045.M2TS      4355 (0x1103)   0x81            AC3             ita (Italian)           5114.401                641                     409,891,840     2,401,710       
+00045.M2TS      4356 (0x1104)   0x81            AC3             nor (Norwegian)         5114.401                641                     409,891,840     2,401,710       
+00045.M2TS      4357 (0x1105)   0x81            AC3             swe (Swedish)           5114.401                641                     409,891,840     2,401,710       
+00045.M2TS      4358 (0x1106)   0x86            DTS-HD MA       eng (English)           5114.401                3,872                   2,475,568,876   14,252,585      
+00045.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5114.401                86                      55,229,317      313,386         
+00045.M2TS      4609 (0x1201)   0x90            PGS             dan (Danish)            5114.401                44                      28,052,639      157,827         
+00045.M2TS      4610 (0x1202)   0x90            PGS             fin (Finnish)           5114.401                43                      27,434,214      154,224         
+00045.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5114.401                47                      30,091,020      169,741         
+00045.M2TS      4612 (0x1204)   0x90            PGS             ita (Italian)           5114.401                45                      28,712,539      161,398         
+00045.M2TS      4613 (0x1205)   0x90            PGS             nor (Norwegian)         5114.401                44                      28,376,433      159,633         
+00045.M2TS      4614 (0x1206)   0x90            PGS             swe (Swedish)           5114.401                42                      26,549,743      149,264         
+00045.M2TS      4615 (0x1207)   0x90            PGS             deu (German)            5114.401                0                       222,170         1,258           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     0.375                   53,334                  2,502,493       13,608          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Lilo and Stitch - Blu-ray™
+Disc Label: Lilo.and.Stitch.2002.MULTi.COMPLETE.BLURAY-TRexHD
+Disc Size: 29,287,387,932 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 26,154,485,760 bytes
+Length: 1:25:15.068
+Total Bitrate: 40.91 Mbps
+Video: MPEG-4 AVC Video / 28998 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: German / DTS-HD High-Res Audio / 5.1 / 48 kHz /  2046 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: Italian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3872 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: English / 86.379 kbps
+Subtitle: Danish / 43.875 kbps
+Subtitle: Finnish / 42.907 kbps
+Subtitle: German / 47.063 kbps
+Subtitle: Italian / 44.907 kbps
+Subtitle: Norwegian / 44.381 kbps
+Subtitle: Swedish / 41.524 kbps
+Subtitle: German / 0.347 kbps
+

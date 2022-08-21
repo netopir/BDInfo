@@ -1,0 +1,470 @@
+Disc Title:     Vivo - Blu-ray™
+Disc Label:     Vivo.2021.COMPLETE.BLURAY-iNTEGRUM
+Disc Size:      31,234,531,526 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00001.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00001.MPLS                                                      AVC     1:35:40 28,510,961,664  31,234,531,526  39.73   27.85   DTS-HD Master 5.1 2336Kbps (48kHz/16-bit) DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Vivo - Blu-ray™
+Disc Label:     Vivo.2021.COMPLETE.BLURAY-iNTEGRUM
+Disc Size:      31,234,531,526 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00001.MPLS
+Length:                 1:35:40.735 (h:m:s.ms)
+Size:                   28,510,961,664 bytes
+Total Bitrate:          39.73 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27849 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2336 kbps       5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             French          2304 kbps       5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Portuguese      2312 kbps       5.1 / 48 kHz /  2312 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.529 kbps                     
+Presentation Graphics           English         34.896 kbps                     
+Presentation Graphics           Chinese         31.518 kbps                     
+Presentation Graphics           Chinese         31.702 kbps                     
+Presentation Graphics           French          30.996 kbps                     
+Presentation Graphics           Korean          27.001 kbps                     
+Presentation Graphics           Portuguese      36.650 kbps                     
+Presentation Graphics           Spanish         37.613 kbps                     
+Presentation Graphics           Thai            35.252 kbps                     
+Presentation Graphics           English         722.019 kbps                    
+Presentation Graphics           French          12.932 kbps                     
+Presentation Graphics           Portuguese      11.143 kbps                     
+Presentation Graphics           Spanish         11.232 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:35:40.735     28,510,961,664  39,731          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:41.299     27,245 kbps     50,588 kbps     00:05:34.625    32,075 kbps     00:00:47.422    30,601 kbps     00:05:25.408    142,024 bytes   738,164 bytes   00:01:23.833    
+2               0:05:41.299     0:02:55.800     27,997 kbps     36,539 kbps     00:06:07.408    30,835 kbps     00:07:10.471    29,475 kbps     00:07:05.466    145,963 bytes   629,842 bytes   00:06:25.009    
+3               0:08:37.099     0:05:05.305     27,935 kbps     38,782 kbps     00:10:54.862    30,852 kbps     00:12:43.387    29,488 kbps     00:12:51.604    145,641 bytes   597,307 bytes   00:10:57.531    
+4               0:13:42.404     0:04:38.152     27,970 kbps     38,759 kbps     00:16:21.397    30,475 kbps     00:14:40.045    29,450 kbps     00:14:40.045    145,822 bytes   589,984 bytes   00:18:11.381    
+5               0:18:20.557     0:04:54.627     27,965 kbps     45,234 kbps     00:23:11.807    30,719 kbps     00:22:45.947    29,881 kbps     00:22:25.218    145,799 bytes   660,269 bytes   00:23:11.139    
+6               0:23:15.185     0:04:59.424     27,767 kbps     40,388 kbps     00:25:04.252    30,794 kbps     00:25:00.207    29,579 kbps     00:24:55.994    144,763 bytes   779,251 bytes   00:24:34.055    
+7               0:28:14.609     0:06:58.418     27,828 kbps     41,713 kbps     00:32:06.758    31,326 kbps     00:30:54.769    29,591 kbps     00:30:55.645    145,082 bytes   696,447 bytes   00:33:25.461    
+8               0:35:13.027     0:05:22.822     27,919 kbps     37,151 kbps     00:37:36.379    30,451 kbps     00:40:29.051    29,556 kbps     00:37:27.662    145,555 bytes   696,693 bytes   00:37:09.769    
+9               0:40:35.850     0:04:19.550     27,832 kbps     36,986 kbps     00:42:47.314    30,303 kbps     00:42:08.901    29,169 kbps     00:42:02.478    145,105 bytes   763,027 bytes   00:42:13.781    
+10              0:44:55.401     0:05:14.022     27,929 kbps     37,974 kbps     00:45:49.455    30,460 kbps     00:45:55.210    29,233 kbps     00:48:41.627    145,608 bytes   681,243 bytes   00:45:34.815    
+11              0:50:09.423     0:05:29.912     27,814 kbps     42,325 kbps     00:55:34.664    30,914 kbps     00:55:34.289    29,134 kbps     00:51:55.445    145,010 bytes   705,448 bytes   00:52:27.727    
+12              0:55:39.336     0:05:52.101     28,007 kbps     36,545 kbps     00:59:51.546    30,201 kbps     00:59:47.584    29,356 kbps     00:59:56.718    146,018 bytes   476,276 bytes   00:57:01.960    
+13              1:01:31.437     0:04:41.948     27,998 kbps     37,266 kbps     01:04:38.666    29,983 kbps     01:03:17.043    29,256 kbps     01:04:30.366    145,969 bytes   587,664 bytes   01:05:39.060    
+14              1:06:13.386     0:04:37.610     27,993 kbps     37,043 kbps     01:06:21.477    30,547 kbps     01:06:44.667    29,515 kbps     01:06:44.834    145,942 bytes   551,038 bytes   01:06:32.154    
+15              1:10:50.996     0:06:26.594     27,880 kbps     38,366 kbps     01:11:39.253    30,713 kbps     01:11:36.125    29,242 kbps     01:11:31.120    145,353 bytes   570,028 bytes   01:12:37.227    
+16              1:17:17.591     0:18:23.143     27,794 kbps     43,710 kbps     01:35:36.647    31,560 kbps     01:29:07.342    30,369 kbps     01:26:16.171    144,909 bytes   735,886 bytes   01:28:45.069    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5740.610                27,850                  19,984,323,436  108,691,446     
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5740.610                2,336                   1,676,478,052   10,045,717      
+00001.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5740.610                640                     459,261,440     2,690,985       
+00001.M2TS      4354 (0x1102)   0x86            DTS-HD MA       fra (French)            5740.610                2,304                   1,652,995,720   9,934,537       
+00001.M2TS      4355 (0x1103)   0x86            DTS-HD MA       por (Portuguese)        5740.610                2,312                   1,658,875,972   9,963,580       
+00001.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           5740.610                640                     459,261,440     2,690,985       
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5740.610                47                      33,388,629      193,317         
+00001.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5740.610                35                      25,040,851      145,119         
+00001.M2TS      4610 (0x1202)   0x90            PGS             zho (Chinese)           5740.610                32                      22,617,340      132,236         
+00001.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5740.610                32                      22,749,016      132,942         
+00001.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            5740.610                31                      22,242,605      130,024         
+00001.M2TS      4613 (0x1205)   0x90            PGS             kor (Korean)            5740.610                27                      19,375,381      113,912         
+00001.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5740.610                37                      26,299,734      152,092         
+00001.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           5740.610                38                      26,990,984      155,862         
+00001.M2TS      4616 (0x1208)   0x90            PGS             tha (Thai)              5740.610                35                      25,296,240      146,812         
+00001.M2TS      4617 (0x1209)   0x90            PGS             eng (English)           5740.610                722                     518,114,659     2,836,570       
+00001.M2TS      4618 (0x120A)   0x90            PGS             fra (French)            5740.610                13                      9,279,546       53,865          
+00001.M2TS      4619 (0x120B)   0x90            PGS             por (Portuguese)        5740.610                11                      7,996,179       45,985          
+00001.M2TS      4620 (0x120C)   0x90            PGS             spa (Spanish)           5740.610                11                      8,059,821       46,242          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Vivo - Blu-ray™
+Disc Label: Vivo.2021.COMPLETE.BLURAY-iNTEGRUM
+Disc Size: 31,234,531,526 bytes
+Protection: AACS
+Playlist: 00001.MPLS
+Size: 28,510,961,664 bytes
+Length: 1:35:40.735
+Total Bitrate: 39.73 Mbps
+Video: MPEG-4 AVC Video / 27849 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Portuguese / DTS-HD Master Audio / 5.1 / 48 kHz /  2312 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 46.529 kbps
+Subtitle: English / 34.896 kbps
+Subtitle: Chinese / 31.518 kbps
+Subtitle: Chinese / 31.702 kbps
+Subtitle: French / 30.996 kbps
+Subtitle: Korean / 27.001 kbps
+Subtitle: Portuguese / 36.650 kbps
+Subtitle: Spanish / 37.613 kbps
+Subtitle: Thai / 35.252 kbps
+Subtitle: English / 722.019 kbps
+Subtitle: French / 12.932 kbps
+Subtitle: Portuguese / 11.143 kbps
+Subtitle: Spanish / 11.232 kbps
+
+
+********************
+PLAYLIST: 00368.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00368.MPLS                                                      AVC     1:35:40 28,510,961,664  31,234,531,526  39.73   27.85   DTS-HD Master 5.1 2336Kbps (48kHz/16-bit) DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Vivo - Blu-ray™
+Disc Label:     Vivo.2021.COMPLETE.BLURAY-iNTEGRUM
+Disc Size:      31,234,531,526 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00368.MPLS
+Length:                 1:35:40.735 (h:m:s.ms)
+Size:                   28,510,961,664 bytes
+Total Bitrate:          39.73 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27849 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2336 kbps       5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             French          2304 kbps       5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Portuguese      2312 kbps       5.1 / 48 kHz /  2312 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         46.529 kbps                     
+Presentation Graphics           English         34.896 kbps                     
+Presentation Graphics           Chinese         31.518 kbps                     
+Presentation Graphics           Chinese         31.702 kbps                     
+Presentation Graphics           French          30.996 kbps                     
+Presentation Graphics           Korean          27.001 kbps                     
+Presentation Graphics           Portuguese      36.650 kbps                     
+Presentation Graphics           Spanish         37.613 kbps                     
+Presentation Graphics           Thai            35.252 kbps                     
+* Presentation Graphics         English         722.019 kbps                    
+* Presentation Graphics         French          12.932 kbps                     
+* Presentation Graphics         Portuguese      11.143 kbps                     
+* Presentation Graphics         Spanish         11.232 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:35:40.735     28,510,961,664  39,731          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:41.299     27,245 kbps     50,588 kbps     00:05:34.625    32,075 kbps     00:00:47.422    30,601 kbps     00:05:25.408    142,024 bytes   738,164 bytes   00:01:23.833    
+2               0:05:41.299     0:02:55.800     27,997 kbps     36,539 kbps     00:06:07.408    30,835 kbps     00:07:10.471    29,475 kbps     00:07:05.466    145,963 bytes   629,842 bytes   00:06:25.009    
+3               0:08:37.099     0:05:05.305     27,935 kbps     38,782 kbps     00:10:54.862    30,852 kbps     00:12:43.387    29,488 kbps     00:12:51.604    145,641 bytes   597,307 bytes   00:10:57.531    
+4               0:13:42.404     0:04:38.152     27,970 kbps     38,759 kbps     00:16:21.397    30,475 kbps     00:14:40.045    29,450 kbps     00:14:40.045    145,822 bytes   589,984 bytes   00:18:11.381    
+5               0:18:20.557     0:04:54.627     27,965 kbps     45,234 kbps     00:23:11.807    30,719 kbps     00:22:45.947    29,881 kbps     00:22:25.218    145,799 bytes   660,269 bytes   00:23:11.139    
+6               0:23:15.185     0:04:59.424     27,767 kbps     40,388 kbps     00:25:04.252    30,794 kbps     00:25:00.207    29,579 kbps     00:24:55.994    144,763 bytes   779,251 bytes   00:24:34.055    
+7               0:28:14.609     0:06:58.418     27,828 kbps     41,713 kbps     00:32:06.758    31,326 kbps     00:30:54.769    29,591 kbps     00:30:55.645    145,082 bytes   696,447 bytes   00:33:25.461    
+8               0:35:13.027     0:05:22.822     27,919 kbps     37,151 kbps     00:37:36.379    30,451 kbps     00:40:29.051    29,556 kbps     00:37:27.662    145,555 bytes   696,693 bytes   00:37:09.769    
+9               0:40:35.850     0:04:19.550     27,832 kbps     36,986 kbps     00:42:47.314    30,303 kbps     00:42:08.901    29,169 kbps     00:42:02.478    145,105 bytes   763,027 bytes   00:42:13.781    
+10              0:44:55.401     0:05:14.022     27,929 kbps     37,974 kbps     00:45:49.455    30,460 kbps     00:45:55.210    29,233 kbps     00:48:41.627    145,608 bytes   681,243 bytes   00:45:34.815    
+11              0:50:09.423     0:05:29.912     27,814 kbps     42,325 kbps     00:55:34.664    30,914 kbps     00:55:34.289    29,134 kbps     00:51:55.445    145,010 bytes   705,448 bytes   00:52:27.727    
+12              0:55:39.336     0:05:52.101     28,007 kbps     36,545 kbps     00:59:51.546    30,201 kbps     00:59:47.584    29,356 kbps     00:59:56.718    146,018 bytes   476,276 bytes   00:57:01.960    
+13              1:01:31.437     0:04:41.948     27,998 kbps     37,266 kbps     01:04:38.666    29,983 kbps     01:03:17.043    29,256 kbps     01:04:30.366    145,969 bytes   587,664 bytes   01:05:39.060    
+14              1:06:13.386     0:04:37.610     27,993 kbps     37,043 kbps     01:06:21.477    30,547 kbps     01:06:44.667    29,515 kbps     01:06:44.834    145,942 bytes   551,038 bytes   01:06:32.154    
+15              1:10:50.996     0:06:26.594     27,880 kbps     38,366 kbps     01:11:39.253    30,713 kbps     01:11:36.125    29,242 kbps     01:11:31.120    145,353 bytes   570,028 bytes   01:12:37.227    
+16              1:17:17.591     0:18:23.143     27,794 kbps     43,710 kbps     01:35:36.647    31,560 kbps     01:29:07.342    30,369 kbps     01:26:16.171    144,909 bytes   735,886 bytes   01:28:45.069    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5740.610                27,850                  19,984,323,436  108,691,446     
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5740.610                2,336                   1,676,478,052   10,045,717      
+00001.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5740.610                640                     459,261,440     2,690,985       
+00001.M2TS      4354 (0x1102)   0x86            DTS-HD MA       fra (French)            5740.610                2,304                   1,652,995,720   9,934,537       
+00001.M2TS      4355 (0x1103)   0x86            DTS-HD MA       por (Portuguese)        5740.610                2,312                   1,658,875,972   9,963,580       
+00001.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           5740.610                640                     459,261,440     2,690,985       
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5740.610                47                      33,388,629      193,317         
+00001.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5740.610                35                      25,040,851      145,119         
+00001.M2TS      4610 (0x1202)   0x90            PGS             zho (Chinese)           5740.610                32                      22,617,340      132,236         
+00001.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5740.610                32                      22,749,016      132,942         
+00001.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            5740.610                31                      22,242,605      130,024         
+00001.M2TS      4613 (0x1205)   0x90            PGS             kor (Korean)            5740.610                27                      19,375,381      113,912         
+00001.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5740.610                37                      26,299,734      152,092         
+00001.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           5740.610                38                      26,990,984      155,862         
+00001.M2TS      4616 (0x1208)   0x90            PGS             tha (Thai)              5740.610                35                      25,296,240      146,812         
+00001.M2TS      4617 (0x1209)   0x90            PGS             eng (English)           5740.610                722                     518,114,659     2,836,570       
+00001.M2TS      4618 (0x120A)   0x90            PGS             fra (French)            5740.610                13                      9,279,546       53,865          
+00001.M2TS      4619 (0x120B)   0x90            PGS             por (Portuguese)        5740.610                11                      7,996,179       45,985          
+00001.M2TS      4620 (0x120C)   0x90            PGS             spa (Spanish)           5740.610                11                      8,059,821       46,242          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Vivo - Blu-ray™
+Disc Label: Vivo.2021.COMPLETE.BLURAY-iNTEGRUM
+Disc Size: 31,234,531,526 bytes
+Protection: AACS
+Playlist: 00368.MPLS
+Size: 28,510,961,664 bytes
+Length: 1:35:40.735
+Total Bitrate: 39.73 Mbps
+Video: MPEG-4 AVC Video / 27849 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Portuguese / DTS-HD Master Audio / 5.1 / 48 kHz /  2312 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Subtitle: English / 46.529 kbps
+Subtitle: English / 34.896 kbps
+Subtitle: Chinese / 31.518 kbps
+Subtitle: Chinese / 31.702 kbps
+Subtitle: French / 30.996 kbps
+Subtitle: Korean / 27.001 kbps
+Subtitle: Portuguese / 36.650 kbps
+Subtitle: Spanish / 37.613 kbps
+Subtitle: Thai / 35.252 kbps
+* Subtitle: English / 722.019 kbps
+* Subtitle: French / 12.932 kbps
+* Subtitle: Portuguese / 11.143 kbps
+* Subtitle: Spanish / 11.232 kbps
+
+
+********************
+PLAYLIST: 00369.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00369.MPLS                                                      AVC     1:35:40 28,510,961,664  31,234,531,526  39.73   27.85   DTS-HD Master 5.1 2336Kbps (48kHz/16-bit) DD AC3 5.1 640Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Vivo - Blu-ray™
+Disc Label:     Vivo.2021.COMPLETE.BLURAY-iNTEGRUM
+Disc Size:      31,234,531,526 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00369.MPLS
+Length:                 1:35:40.735 (h:m:s.ms)
+Size:                   28,510,961,664 bytes
+Total Bitrate:          39.73 Mbps
+
+(*) Indicates included stream hidden by this playlist.
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        27849 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         2336 kbps       5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             English         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+DTS-HD Master Audio             French          2304 kbps       5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             Portuguese      2312 kbps       5.1 / 48 kHz /  2312 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Spanish         640 kbps        5.1 / 48 kHz /   640 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+* Presentation Graphics         English         46.529 kbps                     
+* Presentation Graphics         English         34.896 kbps                     
+* Presentation Graphics         Chinese         31.518 kbps                     
+* Presentation Graphics         Chinese         31.702 kbps                     
+* Presentation Graphics         French          30.996 kbps                     
+* Presentation Graphics         Korean          27.001 kbps                     
+* Presentation Graphics         Portuguese      36.650 kbps                     
+* Presentation Graphics         Spanish         37.613 kbps                     
+* Presentation Graphics         Thai            35.252 kbps                     
+Presentation Graphics           English         722.019 kbps                    
+Presentation Graphics           French          12.932 kbps                     
+Presentation Graphics           Portuguese      11.143 kbps                     
+Presentation Graphics           Spanish         11.232 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00001.M2TS      0:00:00.000     1:35:40.735     28,510,961,664  39,731          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:05:41.299     27,245 kbps     50,588 kbps     00:05:34.625    32,075 kbps     00:00:47.422    30,601 kbps     00:05:25.408    142,024 bytes   738,164 bytes   00:01:23.833    
+2               0:05:41.299     0:02:55.800     27,997 kbps     36,539 kbps     00:06:07.408    30,835 kbps     00:07:10.471    29,475 kbps     00:07:05.466    145,963 bytes   629,842 bytes   00:06:25.009    
+3               0:08:37.099     0:05:05.305     27,935 kbps     38,782 kbps     00:10:54.862    30,852 kbps     00:12:43.387    29,488 kbps     00:12:51.604    145,641 bytes   597,307 bytes   00:10:57.531    
+4               0:13:42.404     0:04:38.152     27,970 kbps     38,759 kbps     00:16:21.397    30,475 kbps     00:14:40.045    29,450 kbps     00:14:40.045    145,822 bytes   589,984 bytes   00:18:11.381    
+5               0:18:20.557     0:04:54.627     27,965 kbps     45,234 kbps     00:23:11.807    30,719 kbps     00:22:45.947    29,881 kbps     00:22:25.218    145,799 bytes   660,269 bytes   00:23:11.139    
+6               0:23:15.185     0:04:59.424     27,767 kbps     40,388 kbps     00:25:04.252    30,794 kbps     00:25:00.207    29,579 kbps     00:24:55.994    144,763 bytes   779,251 bytes   00:24:34.055    
+7               0:28:14.609     0:06:58.418     27,828 kbps     41,713 kbps     00:32:06.758    31,326 kbps     00:30:54.769    29,591 kbps     00:30:55.645    145,082 bytes   696,447 bytes   00:33:25.461    
+8               0:35:13.027     0:05:22.822     27,919 kbps     37,151 kbps     00:37:36.379    30,451 kbps     00:40:29.051    29,556 kbps     00:37:27.662    145,555 bytes   696,693 bytes   00:37:09.769    
+9               0:40:35.850     0:04:19.550     27,832 kbps     36,986 kbps     00:42:47.314    30,303 kbps     00:42:08.901    29,169 kbps     00:42:02.478    145,105 bytes   763,027 bytes   00:42:13.781    
+10              0:44:55.401     0:05:14.022     27,929 kbps     37,974 kbps     00:45:49.455    30,460 kbps     00:45:55.210    29,233 kbps     00:48:41.627    145,608 bytes   681,243 bytes   00:45:34.815    
+11              0:50:09.423     0:05:29.912     27,814 kbps     42,325 kbps     00:55:34.664    30,914 kbps     00:55:34.289    29,134 kbps     00:51:55.445    145,010 bytes   705,448 bytes   00:52:27.727    
+12              0:55:39.336     0:05:52.101     28,007 kbps     36,545 kbps     00:59:51.546    30,201 kbps     00:59:47.584    29,356 kbps     00:59:56.718    146,018 bytes   476,276 bytes   00:57:01.960    
+13              1:01:31.437     0:04:41.948     27,998 kbps     37,266 kbps     01:04:38.666    29,983 kbps     01:03:17.043    29,256 kbps     01:04:30.366    145,969 bytes   587,664 bytes   01:05:39.060    
+14              1:06:13.386     0:04:37.610     27,993 kbps     37,043 kbps     01:06:21.477    30,547 kbps     01:06:44.667    29,515 kbps     01:06:44.834    145,942 bytes   551,038 bytes   01:06:32.154    
+15              1:10:50.996     0:06:26.594     27,880 kbps     38,366 kbps     01:11:39.253    30,713 kbps     01:11:36.125    29,242 kbps     01:11:31.120    145,353 bytes   570,028 bytes   01:12:37.227    
+16              1:17:17.591     0:18:23.143     27,794 kbps     43,710 kbps     01:35:36.647    31,560 kbps     01:29:07.342    30,369 kbps     01:26:16.171    144,909 bytes   735,886 bytes   01:28:45.069    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00001.M2TS      4113 (0x1011)   0x1B            AVC                                     5740.610                27,850                  19,984,323,436  108,691,446     
+00001.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5740.610                2,336                   1,676,478,052   10,045,717      
+00001.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5740.610                640                     459,261,440     2,690,985       
+00001.M2TS      4354 (0x1102)   0x86            DTS-HD MA       fra (French)            5740.610                2,304                   1,652,995,720   9,934,537       
+00001.M2TS      4355 (0x1103)   0x86            DTS-HD MA       por (Portuguese)        5740.610                2,312                   1,658,875,972   9,963,580       
+00001.M2TS      4356 (0x1104)   0x81            AC3             spa (Spanish)           5740.610                640                     459,261,440     2,690,985       
+00001.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5740.610                47                      33,388,629      193,317         
+00001.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5740.610                35                      25,040,851      145,119         
+00001.M2TS      4610 (0x1202)   0x90            PGS             zho (Chinese)           5740.610                32                      22,617,340      132,236         
+00001.M2TS      4611 (0x1203)   0x90            PGS             zho (Chinese)           5740.610                32                      22,749,016      132,942         
+00001.M2TS      4612 (0x1204)   0x90            PGS             fra (French)            5740.610                31                      22,242,605      130,024         
+00001.M2TS      4613 (0x1205)   0x90            PGS             kor (Korean)            5740.610                27                      19,375,381      113,912         
+00001.M2TS      4614 (0x1206)   0x90            PGS             por (Portuguese)        5740.610                37                      26,299,734      152,092         
+00001.M2TS      4615 (0x1207)   0x90            PGS             spa (Spanish)           5740.610                38                      26,990,984      155,862         
+00001.M2TS      4616 (0x1208)   0x90            PGS             tha (Thai)              5740.610                35                      25,296,240      146,812         
+00001.M2TS      4617 (0x1209)   0x90            PGS             eng (English)           5740.610                722                     518,114,659     2,836,570       
+00001.M2TS      4618 (0x120A)   0x90            PGS             fra (French)            5740.610                13                      9,279,546       53,865          
+00001.M2TS      4619 (0x120B)   0x90            PGS             por (Portuguese)        5740.610                11                      7,996,179       45,985          
+00001.M2TS      4620 (0x120C)   0x90            PGS             spa (Spanish)           5740.610                11                      8,059,821       46,242          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Vivo - Blu-ray™
+Disc Label: Vivo.2021.COMPLETE.BLURAY-iNTEGRUM
+Disc Size: 31,234,531,526 bytes
+Protection: AACS
+Playlist: 00369.MPLS
+Size: 28,510,961,664 bytes
+Length: 1:35:40.735
+Total Bitrate: 39.73 Mbps
+Video: MPEG-4 AVC Video / 27849 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2336 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Portuguese / DTS-HD Master Audio / 5.1 / 48 kHz /  2312 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -31dB
+* Subtitle: English / 46.529 kbps
+* Subtitle: English / 34.896 kbps
+* Subtitle: Chinese / 31.518 kbps
+* Subtitle: Chinese / 31.702 kbps
+* Subtitle: French / 30.996 kbps
+* Subtitle: Korean / 27.001 kbps
+* Subtitle: Portuguese / 36.650 kbps
+* Subtitle: Spanish / 37.613 kbps
+* Subtitle: Thai / 35.252 kbps
+Subtitle: English / 722.019 kbps
+Subtitle: French / 12.932 kbps
+Subtitle: Portuguese / 11.143 kbps
+Subtitle: Spanish / 11.232 kbps
+

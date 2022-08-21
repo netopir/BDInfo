@@ -1,0 +1,111 @@
+Disc Label:     Big.Trip.2019.COMPLETE.BLURAY-MIDDLE
+Disc Size:      17,286,621,202 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00000.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00000.MPLS                                                      AVC     1:23:41 16,246,616,064  17,286,621,202  25.88   19.93   DTS-HD Master 5.1 2152Kbps (48kHz/16-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Big.Trip.2019.COMPLETE.BLURAY-MIDDLE
+Disc Size:      17,286,621,202 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00000.MPLS
+Length:                 1:23:41.333 (h:m:s.ms)
+Size:                   16,246,616,064 bytes
+Total Bitrate:          25.88 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        19926 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Dutch           2152 kbps       5.1 / 48 kHz /  2152 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+DTS-HD Master Audio             English         2168 kbps       5.1 / 48 kHz /  2168 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Dutch           27.368 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00000.M2TS      0:00:00.000     1:23:41.333     16,246,616,064  25,884          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:14:38.625     21,735 kbps     50,991 kbps     00:10:13.791    37,374 kbps     00:10:11.791    34,584 kbps     00:00:21.999    113,199 bytes   722,127 bytes   00:09:19.000    
+2               0:14:38.625     0:12:48.500     22,386 kbps     45,560 kbps     00:24:05.458    36,136 kbps     00:25:46.416    34,388 kbps     00:16:31.208    116,592 bytes   746,030 bytes   00:15:33.833    
+3               0:27:27.125     0:16:25.000     20,379 kbps     42,266 kbps     00:28:11.041    37,596 kbps     00:35:25.083    34,133 kbps     00:40:23.291    106,140 bytes   618,701 bytes   00:32:43.583    
+4               0:43:52.125     0:12:17.708     20,570 kbps     48,716 kbps     00:51:53.666    35,711 kbps     00:52:44.625    33,567 kbps     00:46:05.500    107,133 bytes   705,639 bytes   00:48:45.666    
+5               0:56:09.833     0:11:30.083     18,377 kbps     48,860 kbps     00:56:37.375    37,483 kbps     00:58:40.416    34,246 kbps     01:03:27.791    95,714 bytes    544,027 bytes   01:03:34.833    
+6               1:07:39.916     0:11:52.666     21,084 kbps     45,795 kbps     01:12:39.000    37,236 kbps     01:16:11.750    33,253 kbps     01:13:11.208    109,814 bytes   651,491 bytes   01:13:05.250    
+7               1:19:32.583     0:04:08.750     3,211 kbps      14,508 kbps     01:19:56.333    8,586 kbps      01:19:55.416    6,492 kbps      01:19:54.541    16,727 bytes    108,506 bytes   01:19:57.166    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00000.M2TS      4113 (0x1011)   0x1B            AVC                                     5021.208                19,926                  12,506,800,245  68,042,299      
+00000.M2TS      4352 (0x1100)   0x86            DTS-HD MA       nld (Dutch)             5021.208                2,152                   1,350,782,092   8,127,611       
+00000.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           5021.208                2,168                   1,360,997,124   8,180,675       
+00000.M2TS      4608 (0x1200)   0x90            PGS             nld (Dutch)             5021.208                27                      17,178,171      98,655          
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Big.Trip.2019.COMPLETE.BLURAY-MIDDLE
+Disc Size: 17,286,621,202 bytes
+Protection: AACS
+Playlist: 00000.MPLS
+Size: 16,246,616,064 bytes
+Length: 1:23:41.333
+Total Bitrate: 25.88 Mbps
+Video: MPEG-4 AVC Video / 19926 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Dutch / DTS-HD Master Audio / 5.1 / 48 kHz /  2152 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2168 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Subtitle: Dutch / 27.368 kbps
+

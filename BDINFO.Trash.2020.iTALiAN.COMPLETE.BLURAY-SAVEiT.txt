@@ -1,0 +1,112 @@
+Disc Label:     Trash.2020.iTALiAN.COMPLETE.BLURAY-SAVEiT
+Disc Size:      23,954,180,206 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00002.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00002.MPLS                                                      AVC     1:28:16 23,509,764,096  23,954,180,206  35.51   29.99   DTS-HD Master 5.1 3713Kbps (48kHz/24-bit) 
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Label:     Trash.2020.iTALiAN.COMPLETE.BLURAY-SAVEiT
+Disc Size:      23,954,180,206 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00002.MPLS
+Length:                 1:28:16.750 (h:m:s.ms)
+Size:                   23,509,764,096 bytes
+Total Bitrate:          35.51 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        29986 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             Italian         3713 kbps       5.1 / 48 kHz /  3713 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           Italian         28.723 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00002.M2TS      0:00:00.000     1:28:16.750     23,509,764,096  35,508          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:35.541     18,292 kbps     40,889 kbps     00:01:18.499    37,123 kbps     00:01:14.625    35,864 kbps     00:01:15.291    95,248 bytes    524,308 bytes   00:01:19.458    
+2               0:02:35.541     0:07:02.375     29,872 kbps     39,533 kbps     00:04:44.874    38,005 kbps     00:05:18.083    37,820 kbps     00:05:13.166    155,583 bytes   422,551 bytes   00:05:05.166    
+3               0:09:37.916     0:07:51.875     30,789 kbps     45,607 kbps     00:15:27.333    39,240 kbps     00:15:23.291    37,883 kbps     00:15:33.000    160,358 bytes   609,395 bytes   00:13:42.250    
+4               0:17:29.791     0:07:12.333     35,796 kbps     40,831 kbps     00:21:35.875    38,368 kbps     00:22:08.333    38,043 kbps     00:21:26.625    186,438 bytes   552,796 bytes   00:24:20.083    
+5               0:24:42.125     0:07:40.000     29,067 kbps     40,828 kbps     00:29:33.999    38,166 kbps     00:29:19.166    37,685 kbps     00:25:23.916    151,389 bytes   515,134 bytes   00:29:34.916    
+6               0:32:22.125     0:06:46.166     31,241 kbps     47,382 kbps     00:34:56.583    39,048 kbps     00:34:52.625    37,777 kbps     00:34:07.208    162,714 bytes   514,770 bytes   00:36:41.125    
+7               0:39:08.291     0:06:50.500     30,572 kbps     43,746 kbps     00:45:14.583    38,420 kbps     00:42:26.416    37,927 kbps     00:40:49.375    159,229 bytes   600,435 bytes   00:42:31.291    
+8               0:45:58.791     0:07:10.875     33,622 kbps     47,619 kbps     00:47:13.208    39,589 kbps     00:47:09.250    38,741 kbps     00:47:04.208    175,114 bytes   638,067 bytes   00:52:40.791    
+9               0:53:09.666     0:05:54.333     30,959 kbps     44,304 kbps     00:56:59.041    39,083 kbps     00:56:55.125    38,009 kbps     00:57:31.916    161,244 bytes   546,524 bytes   00:58:22.791    
+10              0:59:04.000     0:05:03.625     30,215 kbps     42,535 kbps     01:02:12.583    38,539 kbps     01:02:29.458    37,996 kbps     01:02:03.458    157,369 bytes   556,990 bytes   01:01:29.000    
+11              1:04:07.625     0:09:00.750     31,459 kbps     46,639 kbps     01:08:35.083    39,125 kbps     01:06:02.958    38,021 kbps     01:09:05.875    163,850 bytes   543,535 bytes   01:06:07.625    
+12              1:13:08.375     0:11:32.833     30,483 kbps     54,832 kbps     01:20:38.541    41,300 kbps     01:20:34.583    39,484 kbps     01:20:29.541    158,766 bytes   606,068 bytes   01:20:39.375    
+13              1:24:41.208     0:03:35.541     9,243 kbps      16,246 kbps     01:27:22.166    14,766 kbps     01:27:18.791    13,552 kbps     01:27:16.166    48,148 bytes    200,221 bytes   01:27:20.208    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00002.M2TS      4113 (0x1011)   0x1B            AVC                                     5296.583                29,987                  19,853,779,218  107,974,875     
+00002.M2TS      4352 (0x1100)   0x86            DTS-HD MA       ita (Italian)           5296.583                3,713                   2,458,101,420   14,185,121      
+00002.M2TS      4608 (0x1200)   0x90            PGS             ita (Italian)           5296.583                29                      19,017,545      109,216         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Label: Trash.2020.iTALiAN.COMPLETE.BLURAY-SAVEiT
+Disc Size: 23,954,180,206 bytes
+Protection: AACS
+Playlist: 00002.MPLS
+Size: 23,509,764,096 bytes
+Length: 1:28:16.750
+Total Bitrate: 35.51 Mbps
+Video: MPEG-4 AVC Video / 29986 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: Italian / DTS-HD Master Audio / 5.1 / 48 kHz /  3713 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Subtitle: Italian / 28.723 kbps
+

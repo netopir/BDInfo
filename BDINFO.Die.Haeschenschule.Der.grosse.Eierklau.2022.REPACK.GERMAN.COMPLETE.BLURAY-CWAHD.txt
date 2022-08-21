@@ -1,0 +1,117 @@
+Disc Title:     Die Häschenschule - Der große Eierklau
+Disc Label:     Die.Haeschenschule.Der.grosse.Eierklau.2022.REPACK.GERMAN.COMPLETE.BLURAY-CWAHD
+Disc Size:      23,012,277,736 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00021.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00021.MPLS                                                      AVC     1:16:02 20,214,964,224  23,012,277,736  35.45   24.99   DTS-HD Master 5.1 3974Kbps (48kHz/24-bit) DTS 2.0 320Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Die Häschenschule - Der große Eierklau
+Disc Label:     Die.Haeschenschule.Der.grosse.Eierklau.2022.REPACK.GERMAN.COMPLETE.BLURAY-CWAHD
+Disc Size:      23,012,277,736 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00021.MPLS
+Length:                 1:16:02.291 (h:m:s.ms)
+Size:                   20,214,964,224 bytes
+Total Bitrate:          35.45 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        24993 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             German          3974 kbps       5.1 / 48 kHz /  3974 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+DTS Audio                       German          320 kbps        2.0 / 48 kHz /   320 kbps / 24-bit / DN -8dB
+DTS-HD Master Audio             German          4021 kbps       5.1 / 48 kHz /  4021 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -6dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           German          34.446 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00021.M2TS      0:00:00.000     1:16:02.291     20,214,964,224  35,447          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:09:09.458     26,223 kbps     39,272 kbps     00:01:11.666    34,633 kbps     00:07:49.208    34,218 kbps     00:07:44.083    136,566 bytes   639,450 bytes   00:06:14.625    
+2               0:09:09.458     0:10:23.791     27,477 kbps     40,382 kbps     00:12:11.541    34,646 kbps     00:18:12.583    33,820 kbps     00:10:26.500    143,107 bytes   639,791 bytes   00:18:05.958    
+3               0:19:33.250     0:09:51.375     26,462 kbps     40,409 kbps     00:27:26.833    34,355 kbps     00:20:07.416    33,833 kbps     00:21:10.791    137,823 bytes   640,724 bytes   00:28:06.750    
+4               0:29:24.625     0:09:52.375     24,135 kbps     37,116 kbps     00:37:27.583    33,828 kbps     00:37:38.500    32,930 kbps     00:37:27.583    125,701 bytes   637,234 bytes   00:35:45.916    
+5               0:39:17.000     0:09:07.041     27,631 kbps     40,582 kbps     00:45:38.750    34,518 kbps     00:46:04.375    34,047 kbps     00:45:48.416    143,912 bytes   638,638 bytes   00:42:07.875    
+6               0:48:24.041     0:09:02.583     26,113 kbps     38,935 kbps     00:51:12.666    34,822 kbps     00:49:06.625    32,574 kbps     00:48:38.916    136,004 bytes   629,528 bytes   00:53:22.416    
+7               0:57:26.625     0:18:35.666     20,838 kbps     38,908 kbps     01:08:03.000    34,728 kbps     01:01:32.833    34,269 kbps     01:02:30.000    108,534 bytes   640,782 bytes   01:07:17.750    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00021.M2TS      4113 (0x1011)   0x1B            AVC                                     4562.125                24,994                  14,253,162,926  77,526,533      
+00021.M2TS      4352 (0x1100)   0x86            DTS-HD MA       deu (German)            4562.125                3,974                   2,266,270,076   13,033,386      
+00021.M2TS      4353 (0x1101)   0x82            DTS             deu (German)            4562.125                318                     181,351,160     1,283,145       
+00021.M2TS      4354 (0x1102)   0x86            DTS-HD MA       deu (German)            4562.125                4,021                   2,292,842,180   13,175,817      
+00021.M2TS      4608 (0x1200)   0x90            PGS             deu (German)            4562.125                34                      19,644,164      114,529         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Die Häschenschule - Der große Eierklau
+Disc Label: Die.Haeschenschule.Der.grosse.Eierklau.2022.REPACK.GERMAN.COMPLETE.BLURAY-CWAHD
+Disc Size: 23,012,277,736 bytes
+Protection: AACS
+Playlist: 00021.MPLS
+Size: 20,214,964,224 bytes
+Length: 1:16:02.291
+Total Bitrate: 35.45 Mbps
+Video: MPEG-4 AVC Video / 24993 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  3974 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -5dB)
+Audio: German / DTS Audio / 2.0 / 48 kHz /   320 kbps / 24-bit / DN -8dB
+Audio: German / DTS-HD Master Audio / 5.1 / 48 kHz /  4021 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit / DN -6dB)
+Subtitle: German / 34.446 kbps
+
