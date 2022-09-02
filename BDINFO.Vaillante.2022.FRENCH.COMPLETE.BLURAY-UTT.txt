@@ -1,0 +1,119 @@
+Disc Title:     VAILLANTE
+Disc Label:     Vaillante.2022.FRENCH.COMPLETE.BLURAY-UTT
+Disc Size:      38,604,135,875 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00003.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00003.MPLS                                                      AVC     1:32:17 29,708,660,736  38,604,135,875  42.92   36.84   DTS-HD Master 5.1 2449Kbps (48kHz/16-bit) DTS-HD Master 2.0 1376Kbps (48kHz/24-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     VAILLANTE
+Disc Label:     Vaillante.2022.FRENCH.COMPLETE.BLURAY-UTT
+Disc Size:      38,604,135,875 bytes
+Protection:     AACS
+Extras:         50Hz Content
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00003.MPLS
+Length:                 1:32:17.041 (h:m:s.ms)
+Size:                   29,708,660,736 bytes
+Total Bitrate:          42.92 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        36837 kbps          1080p / 24 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             French          2449 kbps       5.1 / 48 kHz /  2449 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -1dB)
+DTS-HD Master Audio             French          1376 kbps       2.0 / 48 kHz /  1376 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit / DN -1dB)
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           French          33.741 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00006.M2TS      0:00:00.000     1:32:17.041     29,708,660,736  42,924          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:07:17.791     35,912 kbps     57,174 kbps     00:03:29.624    41,666 kbps     00:03:25.750    40,573 kbps     00:03:20.666    187,025 bytes   747,365 bytes   00:03:34.416    
+2               0:07:17.791     0:08:01.375     37,209 kbps     51,872 kbps     00:09:34.874    42,566 kbps     00:09:30.958    39,033 kbps     00:09:26.041    193,798 bytes   754,647 bytes   00:11:40.041    
+3               0:15:19.166     0:07:37.875     37,068 kbps     52,900 kbps     00:17:45.291    39,918 kbps     00:17:42.250    38,756 kbps     00:17:36.708    193,060 bytes   741,406 bytes   00:17:48.041    
+4               0:22:57.041     0:06:19.500     36,976 kbps     52,631 kbps     00:23:16.833    41,126 kbps     00:24:44.916    39,407 kbps     00:23:16.833    192,585 bytes   771,000 bytes   00:25:32.416    
+5               0:29:16.541     0:07:12.958     37,179 kbps     49,316 kbps     00:29:34.208    40,141 kbps     00:30:35.375    38,979 kbps     00:30:35.333    193,638 bytes   716,043 bytes   00:34:04.291    
+6               0:36:29.500     0:06:25.833     36,920 kbps     48,645 kbps     00:40:58.833    40,482 kbps     00:37:09.625    39,659 kbps     00:40:58.874    192,290 bytes   762,694 bytes   00:42:52.083    
+7               0:42:55.333     0:08:41.166     36,991 kbps     49,511 kbps     00:43:02.208    40,967 kbps     00:44:48.250    39,076 kbps     00:51:12.124    192,663 bytes   765,345 bytes   00:46:29.791    
+8               0:51:36.500     0:06:58.541     37,199 kbps     56,822 kbps     00:55:36.833    42,264 kbps     00:55:32.875    39,918 kbps     00:55:27.833    193,743 bytes   729,326 bytes   00:51:41.208    
+9               0:58:35.041     0:06:31.708     37,189 kbps     49,928 kbps     01:02:42.333    40,618 kbps     01:02:32.291    38,653 kbps     01:02:31.249    193,693 bytes   759,544 bytes   00:58:35.833    
+10              1:05:06.750     0:07:59.083     37,011 kbps     47,601 kbps     01:08:50.541    39,701 kbps     01:06:25.083    38,533 kbps     01:08:50.541    192,768 bytes   586,627 bytes   01:06:22.666    
+11              1:13:05.833     0:06:50.500     37,073 kbps     60,185 kbps     01:14:16.749    42,297 kbps     01:14:15.416    39,485 kbps     01:14:10.374    193,088 bytes   740,762 bytes   01:19:14.541    
+12              1:19:56.333     0:12:20.708     35,942 kbps     54,098 kbps     01:27:48.374    40,809 kbps     01:27:53.583    40,373 kbps     01:30:26.583    187,209 bytes   774,327 bytes   01:25:36.833    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00006.M2TS      4113 (0x1011)   0x1B            AVC                                     5536.958                36,838                  25,495,987,410  138,643,172     
+00006.M2TS      4352 (0x1100)   0x86            DTS-HD MA       fra (French)            5536.958                2,449                   1,695,337,744   10,066,192      
+00006.M2TS      4353 (0x1101)   0x86            DTS-HD MA       fra (French)            5536.958                1,376                   952,258,604     5,700,319       
+00006.M2TS      4608 (0x1200)   0x90            PGS             fra (French)            5536.958                34                      23,353,036      137,408         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: VAILLANTE
+Disc Label: Vaillante.2022.FRENCH.COMPLETE.BLURAY-UTT
+Disc Size: 38,604,135,875 bytes
+Protection: AACS
+Playlist: 00003.MPLS
+Size: 29,708,660,736 bytes
+Length: 1:32:17.041
+Total Bitrate: 42.92 Mbps
+Video: MPEG-4 AVC Video / 36837 kbps / 1080p / 24 fps / 16:9 / High Profile 4.1
+Audio: French / DTS-HD Master Audio / 5.1 / 48 kHz /  2449 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit / DN -1dB)
+Audio: French / DTS-HD Master Audio / 2.0 / 48 kHz /  1376 kbps / 24-bit (DTS Core: 2.0 / 48 kHz /   768 kbps / 24-bit / DN -1dB)
+Subtitle: French / 33.741 kbps
+

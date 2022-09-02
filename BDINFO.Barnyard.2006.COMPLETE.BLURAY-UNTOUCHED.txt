@@ -1,0 +1,152 @@
+Disc Title:     Barnyard
+Disc Label:     Barnyard.2006.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      33,643,105,088 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:29:35 29,313,128,448  33,643,105,088  43.63   35.99   DTS-HD Master 5.1 3526Kbps (48kHz/24-bit) DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     Barnyard
+Disc Label:     Barnyard.2006.COMPLETE.BLURAY-UNTOUCHED
+Disc Size:      33,643,105,088 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:29:35.411 (h:m:s.ms)
+Size:                   29,313,128,448 bytes
+Total Bitrate:          43.63 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        35989 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         3526 kbps       5.1 / 48 kHz /  3526 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             German          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         224 kbps        2.0 / 48 kHz /   224 kbps / DN -27dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         31.494 kbps                     
+Presentation Graphics           English         43.720 kbps                     
+Presentation Graphics           French          31.453 kbps                     
+Presentation Graphics           German          33.840 kbps                     
+Presentation Graphics           German          72.650 kbps                     
+Presentation Graphics           French          71.887 kbps                     
+Presentation Graphics           English         80.130 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:29:35.411     29,313,128,448  43,626          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:06:18.669     36,031 kbps     44,334 kbps     00:05:22.864    38,765 kbps     00:05:12.937    38,216 kbps     00:05:13.855    187,831 bytes   640,908 bytes   00:03:21.075    
+2               0:06:18.669     0:04:44.534     35,985 kbps     40,417 kbps     00:09:54.552    38,283 kbps     00:06:46.531    37,933 kbps     00:07:19.063    187,607 bytes   639,678 bytes   00:09:02.542    
+3               0:11:03.204     0:04:39.487     35,981 kbps     44,163 kbps     00:11:58.843    38,894 kbps     00:11:54.922    38,224 kbps     00:11:49.959    187,588 bytes   640,830 bytes   00:12:34.336    
+4               0:15:42.691     0:05:31.456     35,999 kbps     41,391 kbps     00:17:14.533    38,436 kbps     00:17:11.071    38,185 kbps     00:17:05.566    187,680 bytes   636,963 bytes   00:17:12.489    
+5               0:21:14.147     0:04:57.505     35,990 kbps     41,921 kbps     00:22:56.666    38,509 kbps     00:21:25.283    38,040 kbps     00:21:20.320    187,635 bytes   636,207 bytes   00:24:40.228    
+6               0:26:11.653     0:05:53.102     35,992 kbps     46,989 kbps     00:28:36.548    39,087 kbps     00:27:25.602    38,040 kbps     00:26:56.781    187,648 bytes   636,488 bytes   00:32:01.836    
+7               0:32:04.756     0:05:35.043     35,981 kbps     41,564 kbps     00:36:33.274    38,545 kbps     00:36:29.270    38,163 kbps     00:37:16.567    187,587 bytes   639,935 bytes   00:37:37.838    
+8               0:37:39.799     0:05:13.438     35,994 kbps     41,714 kbps     00:42:34.802    38,188 kbps     00:38:57.001    38,034 kbps     00:39:49.553    187,655 bytes   638,903 bytes   00:42:53.237    
+9               0:42:53.237     0:03:25.747     35,952 kbps     45,054 kbps     00:44:40.803    38,432 kbps     00:44:44.181    38,209 kbps     00:43:43.203    187,440 bytes   640,809 bytes   00:43:56.342    
+10              0:46:18.984     0:05:04.012     35,997 kbps     41,877 kbps     00:50:17.889    38,218 kbps     00:47:20.837    37,834 kbps     00:49:42.104    187,673 bytes   637,390 bytes   00:46:57.439    
+11              0:51:22.996     0:04:02.867     35,986 kbps     41,948 kbps     00:54:05.742    38,669 kbps     00:54:02.572    38,111 kbps     00:53:57.651    187,613 bytes   633,723 bytes   00:55:05.677    
+12              0:55:25.864     0:03:29.250     35,986 kbps     40,470 kbps     00:56:32.472    38,298 kbps     00:58:23.708    38,045 kbps     00:58:18.703    187,616 bytes   614,133 bytes   00:56:30.637    
+13              0:58:55.114     0:04:23.513     35,968 kbps     40,550 kbps     00:59:39.492    38,301 kbps     01:00:34.047    37,959 kbps     01:00:29.042    187,519 bytes   639,855 bytes   01:02:40.548    
+14              1:03:18.628     0:05:31.748     36,000 kbps     43,122 kbps     01:08:10.669    38,711 kbps     01:08:00.076    38,256 kbps     01:07:57.490    187,689 bytes   640,794 bytes   01:07:40.765    
+15              1:08:50.376     0:03:19.532     35,978 kbps     40,639 kbps     01:10:49.119    38,248 kbps     01:08:56.090    37,982 kbps     01:10:22.593    187,574 bytes   579,718 bytes   01:10:49.161    
+16              1:12:09.908     0:04:07.997     35,996 kbps     41,635 kbps     01:15:34.738    38,321 kbps     01:13:27.277    38,001 kbps     01:14:47.941    187,667 bytes   640,257 bytes   01:14:07.609    
+17              1:16:17.906     0:06:32.058     35,981 kbps     41,649 kbps     01:17:44.493    38,349 kbps     01:20:55.559    38,019 kbps     01:21:36.808    187,588 bytes   590,553 bytes   01:21:00.564    
+18              1:22:49.965     0:06:45.446     35,977 kbps     42,354 kbps     01:29:33.201    37,946 kbps     01:29:02.962    37,872 kbps     01:28:11.619    187,586 bytes   518,757 bytes   01:28:28.261    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5375.245                35,990                  24,181,867,492  131,498,003     
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5375.245                3,526                   2,368,990,452   13,710,236      
+00800.M2TS      4353 (0x1101)   0x81            AC3             fra (French)            5375.245                448                     301,023,744     1,679,820       
+00800.M2TS      4354 (0x1102)   0x81            AC3             eng (English)           5375.245                448                     301,023,744     1,679,820       
+00800.M2TS      4355 (0x1103)   0x81            AC3             deu (German)            5375.245                448                     301,023,744     1,679,820       
+00800.M2TS      4356 (0x1104)   0x81            AC3             eng (English)           5375.245                224                     150,511,872     839,910         
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5375.245                31                      21,161,611      122,060         
+00800.M2TS      4609 (0x1201)   0x90            PGS             eng (English)           5375.245                44                      29,376,514      170,022         
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5375.245                31                      21,134,143      121,836         
+00800.M2TS      4611 (0x1203)   0x90            PGS             deu (German)            5375.245                34                      22,738,133      130,465         
+00800.M2TS      4612 (0x1204)   0x90            PGS             deu (German)            5375.245                73                      48,815,765      278,632         
+00800.M2TS      4613 (0x1205)   0x90            PGS             fra (French)            5375.245                72                      48,302,730      275,939         
+00800.M2TS      4614 (0x1206)   0x90            PGS             eng (English)           5375.245                80                      53,841,265      305,877         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: Barnyard
+Disc Label: Barnyard.2006.COMPLETE.BLURAY-UNTOUCHED
+Disc Size: 33,643,105,088 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 29,313,128,448 bytes
+Length: 1:29:35.411
+Total Bitrate: 43.63 Mbps
+Video: MPEG-4 AVC Video / 35989 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  3526 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: German / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   224 kbps / DN -27dB
+Subtitle: English / 31.494 kbps
+Subtitle: English / 43.720 kbps
+Subtitle: French / 31.453 kbps
+Subtitle: German / 33.840 kbps
+Subtitle: German / 72.650 kbps
+Subtitle: French / 71.887 kbps
+Subtitle: English / 80.130 kbps
+

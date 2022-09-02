@@ -1,0 +1,775 @@
+Disc Title:     The Croods
+Disc Label:     The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size:      40,176,092,486 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00800.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00800.MPLS                                                      AVC     1:38:36 27,356,854,272  40,176,092,486  36.99   23.95   DTS-HD Master 7.1 4931Kbps (48kHz/24-bit) DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Croods
+Disc Label:     The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size:      40,176,092,486 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00800.MPLS
+Length:                 1:38:36.911 (h:m:s.ms)
+Size:                   27,356,854,272 bytes
+Total Bitrate:          36.99 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23949 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4931 kbps       7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Spanish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Arabic          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Hindi           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Polish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Portuguese      448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Urdu            448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         35.531 kbps                     
+Presentation Graphics           Spanish         22.884 kbps                     
+Presentation Graphics           French          25.196 kbps                     
+Presentation Graphics           Arabic          11.649 kbps                     
+Presentation Graphics           Greek           22.589 kbps                     
+Presentation Graphics           Hindi           0.020 kbps                      
+Presentation Graphics           Icelandic       24.147 kbps                     
+Presentation Graphics           Polish          21.263 kbps                     
+Presentation Graphics           Portuguese      23.428 kbps                     
+Presentation Graphics           Romanian        20.287 kbps                     
+Presentation Graphics           Serbian         21.737 kbps                     
+Presentation Graphics           Turkish         23.569 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:38:36.911     27,356,854,272  36,988          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:34.988     22,765 kbps     42,069 kbps     00:01:24.292    31,736 kbps     00:00:57.891    30,905 kbps     00:00:52.886    118,657 bytes   638,079 bytes   00:02:27.147    
+2               0:02:34.988     0:02:16.761     25,871 kbps     32,797 kbps     00:04:40.280    30,494 kbps     00:02:38.241    29,837 kbps     00:02:36.990    134,879 bytes   531,989 bytes   00:04:47.829    
+3               0:04:51.749     0:04:09.499     26,117 kbps     34,287 kbps     00:06:56.249    30,577 kbps     00:05:19.152    30,023 kbps     00:05:17.775    136,161 bytes   418,316 bytes   00:05:29.078    
+4               0:09:01.249     0:03:19.866     22,423 kbps     31,409 kbps     00:09:24.272    29,725 kbps     00:09:23.729    28,169 kbps     00:09:41.831    116,904 bytes   410,456 bytes   00:09:41.956    
+5               0:12:21.115     0:01:43.686     22,603 kbps     37,393 kbps     00:14:03.217    28,446 kbps     00:13:59.338    26,054 kbps     00:13:07.495    117,841 bytes   475,819 bytes   00:14:03.926    
+6               0:14:04.802     0:04:28.226     23,641 kbps     32,394 kbps     00:17:36.513    30,529 kbps     00:17:38.223    30,318 kbps     00:17:37.222    123,255 bytes   406,695 bytes   00:14:05.219    
+7               0:18:33.028     0:03:23.953     23,591 kbps     31,748 kbps     00:21:15.899    30,344 kbps     00:19:36.008    30,167 kbps     00:19:32.921    122,994 bytes   350,748 bytes   00:21:56.982    
+8               0:21:56.982     0:01:27.754     24,938 kbps     32,490 kbps     00:22:49.618    30,187 kbps     00:22:18.003    28,445 kbps     00:22:18.003    130,014 bytes   427,054 bytes   00:22:01.987    
+9               0:23:24.736     0:03:25.038     27,218 kbps     32,124 kbps     00:26:38.847    30,556 kbps     00:26:39.139    30,372 kbps     00:25:42.040    141,904 bytes   404,785 bytes   00:26:43.935    
+10              0:26:49.774     0:01:47.357     24,952 kbps     32,382 kbps     00:28:11.648    30,096 kbps     00:27:27.812    29,230 kbps     00:27:27.812    130,090 bytes   515,740 bytes   00:27:32.359    
+11              0:28:37.132     0:01:48.525     27,034 kbps     34,895 kbps     00:28:55.775    30,895 kbps     00:30:09.224    30,025 kbps     00:29:56.878    140,941 bytes   624,578 bytes   00:30:13.228    
+12              0:30:25.657     0:02:22.976     28,012 kbps     33,163 kbps     00:30:43.216    30,767 kbps     00:30:32.247    30,490 kbps     00:30:26.241    146,043 bytes   528,144 bytes   00:30:37.252    
+13              0:32:48.633     0:03:14.736     29,416 kbps     34,628 kbps     00:35:15.029    31,095 kbps     00:35:11.025    30,607 kbps     00:35:06.020    153,359 bytes   421,518 bytes   00:34:48.336    
+14              0:36:03.369     0:02:30.191     25,605 kbps     32,754 kbps     00:36:22.597    30,382 kbps     00:36:18.593    29,734 kbps     00:38:23.134    133,493 bytes   419,106 bytes   00:37:47.598    
+15              0:38:33.561     0:03:00.972     29,136 kbps     32,891 kbps     00:38:56.709    30,882 kbps     00:40:11.784    30,500 kbps     00:40:12.910    151,903 bytes   592,194 bytes   00:40:22.795    
+16              0:41:34.533     0:03:04.309     27,741 kbps     34,621 kbps     00:42:23.332    31,000 kbps     00:41:37.119    30,562 kbps     00:42:14.323    144,631 bytes   620,982 bytes   00:43:16.051    
+17              0:44:38.842     0:03:23.786     22,403 kbps     33,768 kbps     00:48:01.587    30,555 kbps     00:47:39.106    30,031 kbps     00:47:34.101    116,800 bytes   537,544 bytes   00:48:00.002    
+18              0:48:02.629     0:04:08.331     26,325 kbps     34,769 kbps     00:49:50.487    30,908 kbps     00:48:28.030    30,534 kbps     00:51:45.977    137,247 bytes   640,311 bytes   00:51:22.704    
+19              0:52:10.961     0:03:06.519     27,488 kbps     35,885 kbps     00:52:47.038    31,105 kbps     00:52:43.034    30,363 kbps     00:53:12.689    143,309 bytes   491,741 bytes   00:53:07.309    
+20              0:55:17.480     0:04:57.297     23,780 kbps     33,348 kbps     00:55:17.605    30,816 kbps     00:59:39.242    30,227 kbps     00:55:18.106    123,979 bytes   569,677 bytes   00:57:20.228    
+21              1:00:14.777     0:03:43.306     24,124 kbps     36,670 kbps     01:02:50.516    31,546 kbps     01:02:46.512    30,608 kbps     01:03:01.152    125,771 bytes   587,643 bytes   01:02:51.476    
+22              1:03:58.084     0:01:50.652     26,953 kbps     34,361 kbps     01:05:42.271    30,634 kbps     01:05:10.948    30,452 kbps     01:05:05.234    140,520 bytes   582,435 bytes   01:04:44.630    
+23              1:05:48.736     0:02:55.300     25,712 kbps     33,164 kbps     01:05:53.699    30,853 kbps     01:05:49.695    29,905 kbps     01:06:35.574    134,049 bytes   565,451 bytes   01:07:40.556    
+24              1:08:44.036     0:02:03.248     21,614 kbps     30,301 kbps     01:08:51.961    28,546 kbps     01:08:51.377    27,733 kbps     01:08:48.249    112,683 bytes   461,800 bytes   01:08:52.002    
+25              1:10:47.284     0:01:49.859     26,165 kbps     33,763 kbps     01:11:57.187    30,590 kbps     01:12:13.620    30,189 kbps     01:12:08.615    136,414 bytes   472,606 bytes   01:12:10.075    
+26              1:12:37.144     0:01:24.501     25,765 kbps     32,899 kbps     01:12:42.900    30,557 kbps     01:12:41.648    29,891 kbps     01:12:55.537    134,327 bytes   504,551 bytes   01:12:50.157    
+27              1:14:01.645     0:05:46.929     24,145 kbps     34,702 kbps     01:19:45.864    29,456 kbps     01:15:52.005    28,575 kbps     01:15:52.005    125,881 bytes   347,992 bytes   01:19:24.593    
+28              1:19:48.575     0:03:21.284     24,915 kbps     39,527 kbps     01:21:27.632    31,784 kbps     01:21:44.107    31,111 kbps     01:21:39.060    129,893 bytes   460,434 bytes   01:21:28.425    
+29              1:23:09.859     0:02:06.876     25,443 kbps     32,095 kbps     01:23:34.968    30,541 kbps     01:25:10.480    29,259 kbps     01:23:30.005    132,649 bytes   430,043 bytes   01:23:17.409    
+30              1:25:16.736     0:02:47.584     23,121 kbps     31,170 kbps     01:27:29.077    30,253 kbps     01:26:18.298    28,843 kbps     01:26:15.503    120,541 bytes   461,743 bytes   01:27:49.889    
+31              1:28:04.320     0:01:57.909     25,456 kbps     32,701 kbps     01:28:49.073    30,578 kbps     01:28:26.718    29,928 kbps     01:28:54.245    132,716 bytes   445,683 bytes   01:28:49.907    
+32              1:30:02.230     0:08:34.680     10,509 kbps     33,071 kbps     01:38:27.526    28,704 kbps     01:38:27.526    24,476 kbps     01:38:22.187    54,793 bytes    620,193 bytes   01:31:36.032    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5916.744                23,950                  17,712,969,177  96,348,868      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5916.744                4,932                   3,647,362,120   20,739,775      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4355 (0x1103)   0x81            AC3             fra (French)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4356 (0x1104)   0x81            AC3             ara (Arabic)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4357 (0x1105)   0x81            AC3             ell (Greek)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4358 (0x1106)   0x81            AC3             hin (Hindi)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4359 (0x1107)   0x81            AC3             isl (Icelandic)         5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4360 (0x1108)   0x81            AC3             pol (Polish)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4361 (0x1109)   0x81            AC3             por (Portuguese)        5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4362 (0x110A)   0x81            AC3             ron (Romanian)          5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4363 (0x110B)   0x81            AC3             srp (Serbian)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4364 (0x110C)   0x81            AC3             tur (Turkish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4365 (0x110D)   0x81            AC3             urd (Urdu)              5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5916.744                36                      26,279,206      154,483         
+00800.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5916.744                23                      16,925,155      98,668          
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5916.744                25                      18,635,427      110,130         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5916.744                12                      8,615,497       53,971          
+00800.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5916.744                23                      16,707,194      96,240          
+00800.M2TS      4613 (0x1205)   0x90            PGS             hin (Hindi)             5916.744                0                       14,772          94              
+00800.M2TS      4614 (0x1206)   0x90            PGS             isl (Icelandic)         5916.744                24                      17,859,501      104,175         
+00800.M2TS      4615 (0x1207)   0x90            PGS             pol (Polish)            5916.744                21                      15,726,187      92,615          
+00800.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5916.744                23                      17,327,954      100,883         
+00800.M2TS      4617 (0x1209)   0x90            PGS             ron (Romanian)          5916.744                20                      15,004,226      88,657          
+00800.M2TS      4618 (0x120A)   0x90            PGS             srp (Serbian)           5916.744                22                      16,076,863      94,476          
+00800.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5916.744                24                      17,431,597      101,862         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Croods
+Disc Label: The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size: 40,176,092,486 bytes
+Protection: AACS
+Playlist: 00800.MPLS
+Size: 27,356,854,272 bytes
+Length: 1:38:36.911
+Total Bitrate: 36.99 Mbps
+Video: MPEG-4 AVC Video / 23949 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Hindi / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Urdu / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 35.531 kbps
+Subtitle: Spanish / 22.884 kbps
+Subtitle: French / 25.196 kbps
+Subtitle: Arabic / 11.649 kbps
+Subtitle: Greek / 22.589 kbps
+Subtitle: Hindi / 0.020 kbps
+Subtitle: Icelandic / 24.147 kbps
+Subtitle: Polish / 21.263 kbps
+Subtitle: Portuguese / 23.428 kbps
+Subtitle: Romanian / 20.287 kbps
+Subtitle: Serbian / 21.737 kbps
+Subtitle: Turkish / 23.569 kbps
+
+
+********************
+PLAYLIST: 00801.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00801.MPLS                                                      AVC     1:38:36 27,356,854,272  40,176,092,486  36.99   23.95   DTS-HD Master 7.1 4931Kbps (48kHz/24-bit) DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Croods
+Disc Label:     The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size:      40,176,092,486 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00801.MPLS
+Length:                 1:38:36.911 (h:m:s.ms)
+Size:                   27,356,854,272 bytes
+Total Bitrate:          36.99 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23949 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4931 kbps       7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Spanish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Arabic          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Hindi           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Polish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Portuguese      448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Urdu            448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         35.531 kbps                     
+Presentation Graphics           Spanish         22.884 kbps                     
+Presentation Graphics           French          25.196 kbps                     
+Presentation Graphics           Arabic          11.649 kbps                     
+Presentation Graphics           Greek           22.589 kbps                     
+Presentation Graphics           Hindi           0.020 kbps                      
+Presentation Graphics           Icelandic       24.147 kbps                     
+Presentation Graphics           Polish          21.263 kbps                     
+Presentation Graphics           Portuguese      23.428 kbps                     
+Presentation Graphics           Romanian        20.287 kbps                     
+Presentation Graphics           Serbian         21.737 kbps                     
+Presentation Graphics           Turkish         23.569 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:38:36.911     27,356,854,272  36,988          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:34.988     22,765 kbps     42,069 kbps     00:01:24.292    31,736 kbps     00:00:57.891    30,905 kbps     00:00:52.886    118,657 bytes   638,079 bytes   00:02:27.147    
+2               0:02:34.988     0:02:16.761     25,871 kbps     32,797 kbps     00:04:40.280    30,494 kbps     00:02:38.241    29,837 kbps     00:02:36.990    134,879 bytes   531,989 bytes   00:04:47.829    
+3               0:04:51.749     0:04:09.499     26,117 kbps     34,287 kbps     00:06:56.249    30,577 kbps     00:05:19.152    30,023 kbps     00:05:17.775    136,161 bytes   418,316 bytes   00:05:29.078    
+4               0:09:01.249     0:03:19.866     22,423 kbps     31,409 kbps     00:09:24.272    29,725 kbps     00:09:23.729    28,169 kbps     00:09:41.831    116,904 bytes   410,456 bytes   00:09:41.956    
+5               0:12:21.115     0:01:43.686     22,603 kbps     37,393 kbps     00:14:03.217    28,446 kbps     00:13:59.338    26,054 kbps     00:13:07.495    117,841 bytes   475,819 bytes   00:14:03.926    
+6               0:14:04.802     0:04:28.226     23,641 kbps     32,394 kbps     00:17:36.513    30,529 kbps     00:17:38.223    30,318 kbps     00:17:37.222    123,255 bytes   406,695 bytes   00:14:05.219    
+7               0:18:33.028     0:03:23.953     23,591 kbps     31,748 kbps     00:21:15.899    30,344 kbps     00:19:36.008    30,167 kbps     00:19:32.921    122,994 bytes   350,748 bytes   00:21:56.982    
+8               0:21:56.982     0:01:27.754     24,938 kbps     32,490 kbps     00:22:49.618    30,187 kbps     00:22:18.003    28,445 kbps     00:22:18.003    130,014 bytes   427,054 bytes   00:22:01.987    
+9               0:23:24.736     0:03:25.038     27,218 kbps     32,124 kbps     00:26:38.847    30,556 kbps     00:26:39.139    30,372 kbps     00:25:42.040    141,904 bytes   404,785 bytes   00:26:43.935    
+10              0:26:49.774     0:01:47.357     24,952 kbps     32,382 kbps     00:28:11.648    30,096 kbps     00:27:27.812    29,230 kbps     00:27:27.812    130,090 bytes   515,740 bytes   00:27:32.359    
+11              0:28:37.132     0:01:48.525     27,034 kbps     34,895 kbps     00:28:55.775    30,895 kbps     00:30:09.224    30,025 kbps     00:29:56.878    140,941 bytes   624,578 bytes   00:30:13.228    
+12              0:30:25.657     0:02:22.976     28,012 kbps     33,163 kbps     00:30:43.216    30,767 kbps     00:30:32.247    30,490 kbps     00:30:26.241    146,043 bytes   528,144 bytes   00:30:37.252    
+13              0:32:48.633     0:03:14.736     29,416 kbps     34,628 kbps     00:35:15.029    31,095 kbps     00:35:11.025    30,607 kbps     00:35:06.020    153,359 bytes   421,518 bytes   00:34:48.336    
+14              0:36:03.369     0:02:30.191     25,605 kbps     32,754 kbps     00:36:22.597    30,382 kbps     00:36:18.593    29,734 kbps     00:38:23.134    133,493 bytes   419,106 bytes   00:37:47.598    
+15              0:38:33.561     0:03:00.972     29,136 kbps     32,891 kbps     00:38:56.709    30,882 kbps     00:40:11.784    30,500 kbps     00:40:12.910    151,903 bytes   592,194 bytes   00:40:22.795    
+16              0:41:34.533     0:03:04.309     27,741 kbps     34,621 kbps     00:42:23.332    31,000 kbps     00:41:37.119    30,562 kbps     00:42:14.323    144,631 bytes   620,982 bytes   00:43:16.051    
+17              0:44:38.842     0:03:23.786     22,403 kbps     33,768 kbps     00:48:01.587    30,555 kbps     00:47:39.106    30,031 kbps     00:47:34.101    116,800 bytes   537,544 bytes   00:48:00.002    
+18              0:48:02.629     0:04:08.331     26,325 kbps     34,769 kbps     00:49:50.487    30,908 kbps     00:48:28.030    30,534 kbps     00:51:45.977    137,247 bytes   640,311 bytes   00:51:22.704    
+19              0:52:10.961     0:03:06.519     27,488 kbps     35,885 kbps     00:52:47.038    31,105 kbps     00:52:43.034    30,363 kbps     00:53:12.689    143,309 bytes   491,741 bytes   00:53:07.309    
+20              0:55:17.480     0:04:57.297     23,780 kbps     33,348 kbps     00:55:17.605    30,816 kbps     00:59:39.242    30,227 kbps     00:55:18.106    123,979 bytes   569,677 bytes   00:57:20.228    
+21              1:00:14.777     0:03:43.306     24,124 kbps     36,670 kbps     01:02:50.516    31,546 kbps     01:02:46.512    30,608 kbps     01:03:01.152    125,771 bytes   587,643 bytes   01:02:51.476    
+22              1:03:58.084     0:01:50.652     26,953 kbps     34,361 kbps     01:05:42.271    30,634 kbps     01:05:10.948    30,452 kbps     01:05:05.234    140,520 bytes   582,435 bytes   01:04:44.630    
+23              1:05:48.736     0:02:55.300     25,712 kbps     33,164 kbps     01:05:53.699    30,853 kbps     01:05:49.695    29,905 kbps     01:06:35.574    134,049 bytes   565,451 bytes   01:07:40.556    
+24              1:08:44.036     0:02:03.248     21,614 kbps     30,301 kbps     01:08:51.961    28,546 kbps     01:08:51.377    27,733 kbps     01:08:48.249    112,683 bytes   461,800 bytes   01:08:52.002    
+25              1:10:47.284     0:01:49.859     26,165 kbps     33,763 kbps     01:11:57.187    30,590 kbps     01:12:13.620    30,189 kbps     01:12:08.615    136,414 bytes   472,606 bytes   01:12:10.075    
+26              1:12:37.144     0:01:24.501     25,765 kbps     32,899 kbps     01:12:42.900    30,557 kbps     01:12:41.648    29,891 kbps     01:12:55.537    134,327 bytes   504,551 bytes   01:12:50.157    
+27              1:14:01.645     0:05:46.929     24,145 kbps     34,702 kbps     01:19:45.864    29,456 kbps     01:15:52.005    28,575 kbps     01:15:52.005    125,881 bytes   347,992 bytes   01:19:24.593    
+28              1:19:48.575     0:03:21.284     24,915 kbps     39,527 kbps     01:21:27.632    31,784 kbps     01:21:44.107    31,111 kbps     01:21:39.060    129,893 bytes   460,434 bytes   01:21:28.425    
+29              1:23:09.859     0:02:06.876     25,443 kbps     32,095 kbps     01:23:34.968    30,541 kbps     01:25:10.480    29,259 kbps     01:23:30.005    132,649 bytes   430,043 bytes   01:23:17.409    
+30              1:25:16.736     0:02:47.584     23,121 kbps     31,170 kbps     01:27:29.077    30,253 kbps     01:26:18.298    28,843 kbps     01:26:15.503    120,541 bytes   461,743 bytes   01:27:49.889    
+31              1:28:04.320     0:01:57.909     25,456 kbps     32,701 kbps     01:28:49.073    30,578 kbps     01:28:26.718    29,928 kbps     01:28:54.245    132,716 bytes   445,683 bytes   01:28:49.907    
+32              1:30:02.230     0:08:34.680     10,509 kbps     33,071 kbps     01:38:27.526    28,704 kbps     01:38:27.526    24,476 kbps     01:38:22.187    54,793 bytes    620,193 bytes   01:31:36.032    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5916.744                23,950                  17,712,969,177  96,348,868      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5916.744                4,932                   3,647,362,120   20,739,775      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4355 (0x1103)   0x81            AC3             fra (French)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4356 (0x1104)   0x81            AC3             ara (Arabic)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4357 (0x1105)   0x81            AC3             ell (Greek)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4358 (0x1106)   0x81            AC3             hin (Hindi)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4359 (0x1107)   0x81            AC3             isl (Icelandic)         5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4360 (0x1108)   0x81            AC3             pol (Polish)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4361 (0x1109)   0x81            AC3             por (Portuguese)        5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4362 (0x110A)   0x81            AC3             ron (Romanian)          5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4363 (0x110B)   0x81            AC3             srp (Serbian)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4364 (0x110C)   0x81            AC3             tur (Turkish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4365 (0x110D)   0x81            AC3             urd (Urdu)              5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5916.744                36                      26,279,206      154,483         
+00800.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5916.744                23                      16,925,155      98,668          
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5916.744                25                      18,635,427      110,130         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5916.744                12                      8,615,497       53,971          
+00800.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5916.744                23                      16,707,194      96,240          
+00800.M2TS      4613 (0x1205)   0x90            PGS             hin (Hindi)             5916.744                0                       14,772          94              
+00800.M2TS      4614 (0x1206)   0x90            PGS             isl (Icelandic)         5916.744                24                      17,859,501      104,175         
+00800.M2TS      4615 (0x1207)   0x90            PGS             pol (Polish)            5916.744                21                      15,726,187      92,615          
+00800.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5916.744                23                      17,327,954      100,883         
+00800.M2TS      4617 (0x1209)   0x90            PGS             ron (Romanian)          5916.744                20                      15,004,226      88,657          
+00800.M2TS      4618 (0x120A)   0x90            PGS             srp (Serbian)           5916.744                22                      16,076,863      94,476          
+00800.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5916.744                24                      17,431,597      101,862         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Croods
+Disc Label: The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size: 40,176,092,486 bytes
+Protection: AACS
+Playlist: 00801.MPLS
+Size: 27,356,854,272 bytes
+Length: 1:38:36.911
+Total Bitrate: 36.99 Mbps
+Video: MPEG-4 AVC Video / 23949 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Hindi / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Urdu / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 35.531 kbps
+Subtitle: Spanish / 22.884 kbps
+Subtitle: French / 25.196 kbps
+Subtitle: Arabic / 11.649 kbps
+Subtitle: Greek / 22.589 kbps
+Subtitle: Hindi / 0.020 kbps
+Subtitle: Icelandic / 24.147 kbps
+Subtitle: Polish / 21.263 kbps
+Subtitle: Portuguese / 23.428 kbps
+Subtitle: Romanian / 20.287 kbps
+Subtitle: Serbian / 21.737 kbps
+Subtitle: Turkish / 23.569 kbps
+
+
+********************
+PLAYLIST: 00850.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00850.MPLS                                                      AVC     1:38:36 27,356,854,272  40,176,092,486  36.99   23.95   DTS-HD Master 7.1 4931Kbps (48kHz/24-bit) DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Croods
+Disc Label:     The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size:      40,176,092,486 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00850.MPLS
+Length:                 1:38:36.911 (h:m:s.ms)
+Size:                   27,356,854,272 bytes
+Total Bitrate:          36.99 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23949 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4931 kbps       7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Spanish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Arabic          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Hindi           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Polish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Portuguese      448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Urdu            448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         35.531 kbps                     
+Presentation Graphics           Spanish         22.884 kbps                     
+Presentation Graphics           French          25.196 kbps                     
+Presentation Graphics           Arabic          11.649 kbps                     
+Presentation Graphics           Greek           22.589 kbps                     
+Presentation Graphics           Hindi           0.020 kbps                      
+Presentation Graphics           Icelandic       24.147 kbps                     
+Presentation Graphics           Polish          21.263 kbps                     
+Presentation Graphics           Portuguese      23.428 kbps                     
+Presentation Graphics           Romanian        20.287 kbps                     
+Presentation Graphics           Serbian         21.737 kbps                     
+Presentation Graphics           Turkish         23.569 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:38:36.911     27,356,854,272  36,988          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:34.988     22,765 kbps     42,069 kbps     00:01:24.292    31,736 kbps     00:00:57.891    30,905 kbps     00:00:52.886    118,657 bytes   638,079 bytes   00:02:27.147    
+2               0:02:34.988     0:02:16.761     25,871 kbps     32,797 kbps     00:04:40.280    30,494 kbps     00:02:38.241    29,837 kbps     00:02:36.990    134,879 bytes   531,989 bytes   00:04:47.829    
+3               0:04:51.749     0:04:09.499     26,117 kbps     34,287 kbps     00:06:56.249    30,577 kbps     00:05:19.152    30,023 kbps     00:05:17.775    136,161 bytes   418,316 bytes   00:05:29.078    
+4               0:09:01.249     0:03:19.866     22,423 kbps     31,409 kbps     00:09:24.272    29,725 kbps     00:09:23.729    28,169 kbps     00:09:41.831    116,904 bytes   410,456 bytes   00:09:41.956    
+5               0:12:21.115     0:01:43.686     22,603 kbps     37,393 kbps     00:14:03.217    28,446 kbps     00:13:59.338    26,054 kbps     00:13:07.495    117,841 bytes   475,819 bytes   00:14:03.926    
+6               0:14:04.802     0:04:28.226     23,641 kbps     32,394 kbps     00:17:36.513    30,529 kbps     00:17:38.223    30,318 kbps     00:17:37.222    123,255 bytes   406,695 bytes   00:14:05.219    
+7               0:18:33.028     0:03:23.953     23,591 kbps     31,748 kbps     00:21:15.899    30,344 kbps     00:19:36.008    30,167 kbps     00:19:32.921    122,994 bytes   350,748 bytes   00:21:56.982    
+8               0:21:56.982     0:01:27.754     24,938 kbps     32,490 kbps     00:22:49.618    30,187 kbps     00:22:18.003    28,445 kbps     00:22:18.003    130,014 bytes   427,054 bytes   00:22:01.987    
+9               0:23:24.736     0:03:25.038     27,218 kbps     32,124 kbps     00:26:38.847    30,556 kbps     00:26:39.139    30,372 kbps     00:25:42.040    141,904 bytes   404,785 bytes   00:26:43.935    
+10              0:26:49.774     0:01:47.357     24,952 kbps     32,382 kbps     00:28:11.648    30,096 kbps     00:27:27.812    29,230 kbps     00:27:27.812    130,090 bytes   515,740 bytes   00:27:32.359    
+11              0:28:37.132     0:01:48.525     27,034 kbps     34,895 kbps     00:28:55.775    30,895 kbps     00:30:09.224    30,025 kbps     00:29:56.878    140,941 bytes   624,578 bytes   00:30:13.228    
+12              0:30:25.657     0:02:22.976     28,012 kbps     33,163 kbps     00:30:43.216    30,767 kbps     00:30:32.247    30,490 kbps     00:30:26.241    146,043 bytes   528,144 bytes   00:30:37.252    
+13              0:32:48.633     0:03:14.736     29,416 kbps     34,628 kbps     00:35:15.029    31,095 kbps     00:35:11.025    30,607 kbps     00:35:06.020    153,359 bytes   421,518 bytes   00:34:48.336    
+14              0:36:03.369     0:02:30.191     25,605 kbps     32,754 kbps     00:36:22.597    30,382 kbps     00:36:18.593    29,734 kbps     00:38:23.134    133,493 bytes   419,106 bytes   00:37:47.598    
+15              0:38:33.561     0:03:00.972     29,136 kbps     32,891 kbps     00:38:56.709    30,882 kbps     00:40:11.784    30,500 kbps     00:40:12.910    151,903 bytes   592,194 bytes   00:40:22.795    
+16              0:41:34.533     0:03:04.309     27,741 kbps     34,621 kbps     00:42:23.332    31,000 kbps     00:41:37.119    30,562 kbps     00:42:14.323    144,631 bytes   620,982 bytes   00:43:16.051    
+17              0:44:38.842     0:03:23.786     22,403 kbps     33,768 kbps     00:48:01.587    30,555 kbps     00:47:39.106    30,031 kbps     00:47:34.101    116,800 bytes   537,544 bytes   00:48:00.002    
+18              0:48:02.629     0:04:08.331     26,325 kbps     34,769 kbps     00:49:50.487    30,908 kbps     00:48:28.030    30,534 kbps     00:51:45.977    137,247 bytes   640,311 bytes   00:51:22.704    
+19              0:52:10.961     0:03:06.519     27,488 kbps     35,885 kbps     00:52:47.038    31,105 kbps     00:52:43.034    30,363 kbps     00:53:12.689    143,309 bytes   491,741 bytes   00:53:07.309    
+20              0:55:17.480     0:04:57.297     23,780 kbps     33,348 kbps     00:55:17.605    30,816 kbps     00:59:39.242    30,227 kbps     00:55:18.106    123,979 bytes   569,677 bytes   00:57:20.228    
+21              1:00:14.777     0:03:43.306     24,124 kbps     36,670 kbps     01:02:50.516    31,546 kbps     01:02:46.512    30,608 kbps     01:03:01.152    125,771 bytes   587,643 bytes   01:02:51.476    
+22              1:03:58.084     0:01:50.652     26,953 kbps     34,361 kbps     01:05:42.271    30,634 kbps     01:05:10.948    30,452 kbps     01:05:05.234    140,520 bytes   582,435 bytes   01:04:44.630    
+23              1:05:48.736     0:02:55.300     25,712 kbps     33,164 kbps     01:05:53.699    30,853 kbps     01:05:49.695    29,905 kbps     01:06:35.574    134,049 bytes   565,451 bytes   01:07:40.556    
+24              1:08:44.036     0:02:03.248     21,614 kbps     30,301 kbps     01:08:51.961    28,546 kbps     01:08:51.377    27,733 kbps     01:08:48.249    112,683 bytes   461,800 bytes   01:08:52.002    
+25              1:10:47.284     0:01:49.859     26,165 kbps     33,763 kbps     01:11:57.187    30,590 kbps     01:12:13.620    30,189 kbps     01:12:08.615    136,414 bytes   472,606 bytes   01:12:10.075    
+26              1:12:37.144     0:01:24.501     25,765 kbps     32,899 kbps     01:12:42.900    30,557 kbps     01:12:41.648    29,891 kbps     01:12:55.537    134,327 bytes   504,551 bytes   01:12:50.157    
+27              1:14:01.645     0:05:46.929     24,145 kbps     34,702 kbps     01:19:45.864    29,456 kbps     01:15:52.005    28,575 kbps     01:15:52.005    125,881 bytes   347,992 bytes   01:19:24.593    
+28              1:19:48.575     0:03:21.284     24,915 kbps     39,527 kbps     01:21:27.632    31,784 kbps     01:21:44.107    31,111 kbps     01:21:39.060    129,893 bytes   460,434 bytes   01:21:28.425    
+29              1:23:09.859     0:02:06.876     25,443 kbps     32,095 kbps     01:23:34.968    30,541 kbps     01:25:10.480    29,259 kbps     01:23:30.005    132,649 bytes   430,043 bytes   01:23:17.409    
+30              1:25:16.736     0:02:47.584     23,121 kbps     31,170 kbps     01:27:29.077    30,253 kbps     01:26:18.298    28,843 kbps     01:26:15.503    120,541 bytes   461,743 bytes   01:27:49.889    
+31              1:28:04.320     0:01:57.909     25,456 kbps     32,701 kbps     01:28:49.073    30,578 kbps     01:28:26.718    29,928 kbps     01:28:54.245    132,716 bytes   445,683 bytes   01:28:49.907    
+32              1:30:02.230     0:08:34.680     10,509 kbps     33,071 kbps     01:38:27.526    28,704 kbps     01:38:27.526    24,476 kbps     01:38:22.187    54,793 bytes    620,193 bytes   01:31:36.032    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5916.744                23,950                  17,712,969,177  96,348,868      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5916.744                4,932                   3,647,362,120   20,739,775      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4355 (0x1103)   0x81            AC3             fra (French)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4356 (0x1104)   0x81            AC3             ara (Arabic)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4357 (0x1105)   0x81            AC3             ell (Greek)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4358 (0x1106)   0x81            AC3             hin (Hindi)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4359 (0x1107)   0x81            AC3             isl (Icelandic)         5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4360 (0x1108)   0x81            AC3             pol (Polish)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4361 (0x1109)   0x81            AC3             por (Portuguese)        5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4362 (0x110A)   0x81            AC3             ron (Romanian)          5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4363 (0x110B)   0x81            AC3             srp (Serbian)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4364 (0x110C)   0x81            AC3             tur (Turkish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4365 (0x110D)   0x81            AC3             urd (Urdu)              5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5916.744                36                      26,279,206      154,483         
+00800.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5916.744                23                      16,925,155      98,668          
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5916.744                25                      18,635,427      110,130         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5916.744                12                      8,615,497       53,971          
+00800.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5916.744                23                      16,707,194      96,240          
+00800.M2TS      4613 (0x1205)   0x90            PGS             hin (Hindi)             5916.744                0                       14,772          94              
+00800.M2TS      4614 (0x1206)   0x90            PGS             isl (Icelandic)         5916.744                24                      17,859,501      104,175         
+00800.M2TS      4615 (0x1207)   0x90            PGS             pol (Polish)            5916.744                21                      15,726,187      92,615          
+00800.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5916.744                23                      17,327,954      100,883         
+00800.M2TS      4617 (0x1209)   0x90            PGS             ron (Romanian)          5916.744                20                      15,004,226      88,657          
+00800.M2TS      4618 (0x120A)   0x90            PGS             srp (Serbian)           5916.744                22                      16,076,863      94,476          
+00800.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5916.744                24                      17,431,597      101,862         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Croods
+Disc Label: The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size: 40,176,092,486 bytes
+Protection: AACS
+Playlist: 00850.MPLS
+Size: 27,356,854,272 bytes
+Length: 1:38:36.911
+Total Bitrate: 36.99 Mbps
+Video: MPEG-4 AVC Video / 23949 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Hindi / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Urdu / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 35.531 kbps
+Subtitle: Spanish / 22.884 kbps
+Subtitle: French / 25.196 kbps
+Subtitle: Arabic / 11.649 kbps
+Subtitle: Greek / 22.589 kbps
+Subtitle: Hindi / 0.020 kbps
+Subtitle: Icelandic / 24.147 kbps
+Subtitle: Polish / 21.263 kbps
+Subtitle: Portuguese / 23.428 kbps
+Subtitle: Romanian / 20.287 kbps
+Subtitle: Serbian / 21.737 kbps
+Subtitle: Turkish / 23.569 kbps
+
+
+********************
+PLAYLIST: 00851.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00851.MPLS                                                      AVC     1:38:36 27,356,854,272  40,176,092,486  36.99   23.95   DTS-HD Master 7.1 4931Kbps (48kHz/24-bit) DD AC3 5.1 448Kbps
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The Croods
+Disc Label:     The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size:      40,176,092,486 bytes
+Protection:     AACS
+Extras:         BD-Java
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00851.MPLS
+Length:                 1:38:36.911 (h:m:s.ms)
+Size:                   27,356,854,272 bytes
+Total Bitrate:          36.99 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        23949 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+DTS-HD Master Audio             English         4931 kbps       7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Dolby Digital Audio             English         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Spanish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             French          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Arabic          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Hindi           448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Polish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Portuguese      448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Romanian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Serbian         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Turkish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+Dolby Digital Audio             Urdu            448 kbps        5.1 / 48 kHz /   448 kbps / DN -31dB
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         35.531 kbps                     
+Presentation Graphics           Spanish         22.884 kbps                     
+Presentation Graphics           French          25.196 kbps                     
+Presentation Graphics           Arabic          11.649 kbps                     
+Presentation Graphics           Greek           22.589 kbps                     
+Presentation Graphics           Hindi           0.020 kbps                      
+Presentation Graphics           Icelandic       24.147 kbps                     
+Presentation Graphics           Polish          21.263 kbps                     
+Presentation Graphics           Portuguese      23.428 kbps                     
+Presentation Graphics           Romanian        20.287 kbps                     
+Presentation Graphics           Serbian         21.737 kbps                     
+Presentation Graphics           Turkish         23.569 kbps                     
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00800.M2TS      0:00:00.000     1:38:36.911     27,356,854,272  36,988          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:02:34.988     22,765 kbps     42,069 kbps     00:01:24.292    31,736 kbps     00:00:57.891    30,905 kbps     00:00:52.886    118,657 bytes   638,079 bytes   00:02:27.147    
+2               0:02:34.988     0:02:16.761     25,871 kbps     32,797 kbps     00:04:40.280    30,494 kbps     00:02:38.241    29,837 kbps     00:02:36.990    134,879 bytes   531,989 bytes   00:04:47.829    
+3               0:04:51.749     0:04:09.499     26,117 kbps     34,287 kbps     00:06:56.249    30,577 kbps     00:05:19.152    30,023 kbps     00:05:17.775    136,161 bytes   418,316 bytes   00:05:29.078    
+4               0:09:01.249     0:03:19.866     22,423 kbps     31,409 kbps     00:09:24.272    29,725 kbps     00:09:23.729    28,169 kbps     00:09:41.831    116,904 bytes   410,456 bytes   00:09:41.956    
+5               0:12:21.115     0:01:43.686     22,603 kbps     37,393 kbps     00:14:03.217    28,446 kbps     00:13:59.338    26,054 kbps     00:13:07.495    117,841 bytes   475,819 bytes   00:14:03.926    
+6               0:14:04.802     0:04:28.226     23,641 kbps     32,394 kbps     00:17:36.513    30,529 kbps     00:17:38.223    30,318 kbps     00:17:37.222    123,255 bytes   406,695 bytes   00:14:05.219    
+7               0:18:33.028     0:03:23.953     23,591 kbps     31,748 kbps     00:21:15.899    30,344 kbps     00:19:36.008    30,167 kbps     00:19:32.921    122,994 bytes   350,748 bytes   00:21:56.982    
+8               0:21:56.982     0:01:27.754     24,938 kbps     32,490 kbps     00:22:49.618    30,187 kbps     00:22:18.003    28,445 kbps     00:22:18.003    130,014 bytes   427,054 bytes   00:22:01.987    
+9               0:23:24.736     0:03:25.038     27,218 kbps     32,124 kbps     00:26:38.847    30,556 kbps     00:26:39.139    30,372 kbps     00:25:42.040    141,904 bytes   404,785 bytes   00:26:43.935    
+10              0:26:49.774     0:01:47.357     24,952 kbps     32,382 kbps     00:28:11.648    30,096 kbps     00:27:27.812    29,230 kbps     00:27:27.812    130,090 bytes   515,740 bytes   00:27:32.359    
+11              0:28:37.132     0:01:48.525     27,034 kbps     34,895 kbps     00:28:55.775    30,895 kbps     00:30:09.224    30,025 kbps     00:29:56.878    140,941 bytes   624,578 bytes   00:30:13.228    
+12              0:30:25.657     0:02:22.976     28,012 kbps     33,163 kbps     00:30:43.216    30,767 kbps     00:30:32.247    30,490 kbps     00:30:26.241    146,043 bytes   528,144 bytes   00:30:37.252    
+13              0:32:48.633     0:03:14.736     29,416 kbps     34,628 kbps     00:35:15.029    31,095 kbps     00:35:11.025    30,607 kbps     00:35:06.020    153,359 bytes   421,518 bytes   00:34:48.336    
+14              0:36:03.369     0:02:30.191     25,605 kbps     32,754 kbps     00:36:22.597    30,382 kbps     00:36:18.593    29,734 kbps     00:38:23.134    133,493 bytes   419,106 bytes   00:37:47.598    
+15              0:38:33.561     0:03:00.972     29,136 kbps     32,891 kbps     00:38:56.709    30,882 kbps     00:40:11.784    30,500 kbps     00:40:12.910    151,903 bytes   592,194 bytes   00:40:22.795    
+16              0:41:34.533     0:03:04.309     27,741 kbps     34,621 kbps     00:42:23.332    31,000 kbps     00:41:37.119    30,562 kbps     00:42:14.323    144,631 bytes   620,982 bytes   00:43:16.051    
+17              0:44:38.842     0:03:23.786     22,403 kbps     33,768 kbps     00:48:01.587    30,555 kbps     00:47:39.106    30,031 kbps     00:47:34.101    116,800 bytes   537,544 bytes   00:48:00.002    
+18              0:48:02.629     0:04:08.331     26,325 kbps     34,769 kbps     00:49:50.487    30,908 kbps     00:48:28.030    30,534 kbps     00:51:45.977    137,247 bytes   640,311 bytes   00:51:22.704    
+19              0:52:10.961     0:03:06.519     27,488 kbps     35,885 kbps     00:52:47.038    31,105 kbps     00:52:43.034    30,363 kbps     00:53:12.689    143,309 bytes   491,741 bytes   00:53:07.309    
+20              0:55:17.480     0:04:57.297     23,780 kbps     33,348 kbps     00:55:17.605    30,816 kbps     00:59:39.242    30,227 kbps     00:55:18.106    123,979 bytes   569,677 bytes   00:57:20.228    
+21              1:00:14.777     0:03:43.306     24,124 kbps     36,670 kbps     01:02:50.516    31,546 kbps     01:02:46.512    30,608 kbps     01:03:01.152    125,771 bytes   587,643 bytes   01:02:51.476    
+22              1:03:58.084     0:01:50.652     26,953 kbps     34,361 kbps     01:05:42.271    30,634 kbps     01:05:10.948    30,452 kbps     01:05:05.234    140,520 bytes   582,435 bytes   01:04:44.630    
+23              1:05:48.736     0:02:55.300     25,712 kbps     33,164 kbps     01:05:53.699    30,853 kbps     01:05:49.695    29,905 kbps     01:06:35.574    134,049 bytes   565,451 bytes   01:07:40.556    
+24              1:08:44.036     0:02:03.248     21,614 kbps     30,301 kbps     01:08:51.961    28,546 kbps     01:08:51.377    27,733 kbps     01:08:48.249    112,683 bytes   461,800 bytes   01:08:52.002    
+25              1:10:47.284     0:01:49.859     26,165 kbps     33,763 kbps     01:11:57.187    30,590 kbps     01:12:13.620    30,189 kbps     01:12:08.615    136,414 bytes   472,606 bytes   01:12:10.075    
+26              1:12:37.144     0:01:24.501     25,765 kbps     32,899 kbps     01:12:42.900    30,557 kbps     01:12:41.648    29,891 kbps     01:12:55.537    134,327 bytes   504,551 bytes   01:12:50.157    
+27              1:14:01.645     0:05:46.929     24,145 kbps     34,702 kbps     01:19:45.864    29,456 kbps     01:15:52.005    28,575 kbps     01:15:52.005    125,881 bytes   347,992 bytes   01:19:24.593    
+28              1:19:48.575     0:03:21.284     24,915 kbps     39,527 kbps     01:21:27.632    31,784 kbps     01:21:44.107    31,111 kbps     01:21:39.060    129,893 bytes   460,434 bytes   01:21:28.425    
+29              1:23:09.859     0:02:06.876     25,443 kbps     32,095 kbps     01:23:34.968    30,541 kbps     01:25:10.480    29,259 kbps     01:23:30.005    132,649 bytes   430,043 bytes   01:23:17.409    
+30              1:25:16.736     0:02:47.584     23,121 kbps     31,170 kbps     01:27:29.077    30,253 kbps     01:26:18.298    28,843 kbps     01:26:15.503    120,541 bytes   461,743 bytes   01:27:49.889    
+31              1:28:04.320     0:01:57.909     25,456 kbps     32,701 kbps     01:28:49.073    30,578 kbps     01:28:26.718    29,928 kbps     01:28:54.245    132,716 bytes   445,683 bytes   01:28:49.907    
+32              1:30:02.230     0:08:34.680     10,509 kbps     33,071 kbps     01:38:27.526    28,704 kbps     01:38:27.526    24,476 kbps     01:38:22.187    54,793 bytes    620,193 bytes   01:31:36.032    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00800.M2TS      4113 (0x1011)   0x1B            AVC                                     5916.744                23,950                  17,712,969,177  96,348,868      
+00800.M2TS      4352 (0x1100)   0x86            DTS-HD MA       eng (English)           5916.744                4,932                   3,647,362,120   20,739,775      
+00800.M2TS      4353 (0x1101)   0x81            AC3             eng (English)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4354 (0x1102)   0x81            AC3             spa (Spanish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4355 (0x1103)   0x81            AC3             fra (French)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4356 (0x1104)   0x81            AC3             ara (Arabic)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4357 (0x1105)   0x81            AC3             ell (Greek)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4358 (0x1106)   0x81            AC3             hin (Hindi)             5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4359 (0x1107)   0x81            AC3             isl (Icelandic)         5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4360 (0x1108)   0x81            AC3             pol (Polish)            5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4361 (0x1109)   0x81            AC3             por (Portuguese)        5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4362 (0x110A)   0x81            AC3             ron (Romanian)          5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4363 (0x110B)   0x81            AC3             srp (Serbian)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4364 (0x110C)   0x81            AC3             tur (Turkish)           5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4365 (0x110D)   0x81            AC3             urd (Urdu)              5916.744                448                     331,347,968     1,849,040       
+00800.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           5916.744                36                      26,279,206      154,483         
+00800.M2TS      4609 (0x1201)   0x90            PGS             spa (Spanish)           5916.744                23                      16,925,155      98,668          
+00800.M2TS      4610 (0x1202)   0x90            PGS             fra (French)            5916.744                25                      18,635,427      110,130         
+00800.M2TS      4611 (0x1203)   0x90            PGS             ara (Arabic)            5916.744                12                      8,615,497       53,971          
+00800.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             5916.744                23                      16,707,194      96,240          
+00800.M2TS      4613 (0x1205)   0x90            PGS             hin (Hindi)             5916.744                0                       14,772          94              
+00800.M2TS      4614 (0x1206)   0x90            PGS             isl (Icelandic)         5916.744                24                      17,859,501      104,175         
+00800.M2TS      4615 (0x1207)   0x90            PGS             pol (Polish)            5916.744                21                      15,726,187      92,615          
+00800.M2TS      4616 (0x1208)   0x90            PGS             por (Portuguese)        5916.744                23                      17,327,954      100,883         
+00800.M2TS      4617 (0x1209)   0x90            PGS             ron (Romanian)          5916.744                20                      15,004,226      88,657          
+00800.M2TS      4618 (0x120A)   0x90            PGS             srp (Serbian)           5916.744                22                      16,076,863      94,476          
+00800.M2TS      4619 (0x120B)   0x90            PGS             tur (Turkish)           5916.744                24                      17,431,597      101,862         
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The Croods
+Disc Label: The.Croods.2013.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-INaM
+Disc Size: 40,176,092,486 bytes
+Protection: AACS
+Playlist: 00851.MPLS
+Size: 27,356,854,272 bytes
+Length: 1:38:36.911
+Total Bitrate: 36.99 Mbps
+Video: MPEG-4 AVC Video / 23949 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / DTS-HD Master Audio / 7.1 / 48 kHz /  4931 kbps / 24-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 24-bit)
+Audio: English / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Arabic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Hindi / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Portuguese / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Romanian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Serbian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Turkish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Audio: Urdu / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB
+Subtitle: English / 35.531 kbps
+Subtitle: Spanish / 22.884 kbps
+Subtitle: French / 25.196 kbps
+Subtitle: Arabic / 11.649 kbps
+Subtitle: Greek / 22.589 kbps
+Subtitle: Hindi / 0.020 kbps
+Subtitle: Icelandic / 24.147 kbps
+Subtitle: Polish / 21.263 kbps
+Subtitle: Portuguese / 23.428 kbps
+Subtitle: Romanian / 20.287 kbps
+Subtitle: Serbian / 21.737 kbps
+Subtitle: Turkish / 23.569 kbps
+

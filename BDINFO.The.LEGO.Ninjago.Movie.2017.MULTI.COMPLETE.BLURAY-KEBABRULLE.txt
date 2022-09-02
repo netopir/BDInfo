@@ -1,0 +1,181 @@
+Disc Title:     The LEGO® NINJAGO® Movie
+Disc Label:     The.LEGO.Ninjago.Movie.2017.MULTI.COMPLETE.BLURAY-KEBABRULLE
+Disc Size:      38,005,561,645 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+Notes:          
+
+BDINFO HOME:
+  Cinema Squid (old)
+    http://www.cinemasquid.com/blu-ray/tools/bdinfo
+  UniqProject GitHub (new)
+   https://github.com/UniqProject/BDInfo
+
+INCLUDES FORUMS REPORT FOR:
+  AVS Forum Blu-ray Audio and Video Specifications Thread
+    http://www.avsforum.com/avs-vb/showthread.php?t=1155731
+
+
+********************
+PLAYLIST: 00100.MPLS
+********************
+
+<--- BEGIN FORUMS PASTE --->
+[code]
+                                                                                                                Total   Video                                             
+Title                                                           Codec   Length  Movie Size      Disc Size       Bitrate Bitrate Main Audio Track                          Secondary Audio Track
+-----                                                           ------  ------- --------------  --------------  ------- ------- ------------------                        ---------------------
+00100.MPLS                                                      AVC     1:41:26 26,711,181,312  38,005,561,645  35.11   21.28   Dolby Atmos 7.1 4371Kbps (48kHz/24-bit)   DTS-HD Master 5.1 2304Kbps (48kHz/16-bit)
+[/code]
+
+[code]
+
+DISC INFO:
+
+Disc Title:     The LEGO® NINJAGO® Movie
+Disc Label:     The.LEGO.Ninjago.Movie.2017.MULTI.COMPLETE.BLURAY-KEBABRULLE
+Disc Size:      38,005,561,645 bytes
+Protection:     AACS
+BDInfo:         0.7.5.6
+
+PLAYLIST REPORT:
+
+Name:                   00100.MPLS
+Length:                 1:41:26.622 (h:m:s.ms)
+Size:                   26,711,181,312 bytes
+Total Bitrate:          35.11 Mbps
+
+VIDEO:
+
+Codec                   Bitrate             Description     
+-----                   -------             -----------     
+MPEG-4 AVC Video        21275 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+
+AUDIO:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Dolby TrueHD/Atmos Audio        English         4371 kbps       7.1 / 48 kHz /  3923 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   448 kbps / DN -27dB)
+DTS-HD Master Audio             English         2304 kbps       5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Dolby Digital Audio             Croatian        448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Danish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Finnish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Greek           448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Icelandic       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Norwegian       448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Polish          448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             Swedish         448 kbps        5.1 / 48 kHz /   448 kbps / DN -27dB
+Dolby Digital Audio             English         192 kbps        2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+
+SUBTITLES:
+
+Codec                           Language        Bitrate         Description     
+-----                           --------        -------         -----------     
+Presentation Graphics           English         51.281 kbps                     
+Presentation Graphics           Croatian        42.085 kbps                     
+Presentation Graphics           Danish          38.622 kbps                     
+Presentation Graphics           Finnish         30.588 kbps                     
+Presentation Graphics           Greek           46.199 kbps                     
+Presentation Graphics           Icelandic       43.098 kbps                     
+Presentation Graphics           Norwegian       43.306 kbps                     
+Presentation Graphics           Polish          45.429 kbps                     
+Presentation Graphics           Slovenian       35.660 kbps                     
+Presentation Graphics           Swedish         44.081 kbps                     
+Presentation Graphics           Croatian        0.469 kbps                      
+Presentation Graphics           Greek           0.546 kbps                      
+Presentation Graphics           Icelandic       0.152 kbps                      
+Presentation Graphics           Polish          0.547 kbps                      
+
+FILES:
+
+Name            Time In         Length          Size            Total Bitrate   
+----            -------         ------          ----            -------------   
+00042.M2TS      0:00:00.000     1:41:26.622     26,711,181,312  35,108          
+
+CHAPTERS:
+
+Number          Time In         Length          Avg Video Rate  Max 1-Sec Rate  Max 1-Sec Time  Max 5-Sec Rate  Max 5-Sec Time  Max 10Sec Rate  Max 10Sec Time  Avg Frame Size  Max Frame Size  Max Frame Time  
+------          -------         ------          --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  
+1               0:00:00.000     0:11:44.745     21,522 kbps     28,655 kbps     00:04:06.079    27,104 kbps     00:04:02.116    26,604 kbps     00:03:58.905    112,197 bytes   388,842 bytes   00:05:12.645    
+2               0:11:44.745     0:11:47.706     21,421 kbps     28,410 kbps     00:18:21.600    26,981 kbps     00:18:17.596    26,638 kbps     00:20:58.548    111,678 bytes   322,176 bytes   00:16:13.472    
+3               0:23:32.452     0:07:37.331     21,225 kbps     26,922 kbps     00:23:48.635    24,409 kbps     00:23:44.464    23,953 kbps     00:23:39.626    110,659 bytes   336,530 bytes   00:23:38.083    
+4               0:31:09.784     0:09:43.583     21,692 kbps     28,909 kbps     00:33:41.728    25,612 kbps     00:32:32.533    24,790 kbps     00:33:03.773    113,093 bytes   318,087 bytes   00:37:58.109    
+5               0:40:53.367     0:12:55.024     21,501 kbps     27,670 kbps     00:46:11.852    24,417 kbps     00:45:47.035    23,094 kbps     00:45:43.699    112,094 bytes   341,966 bytes   00:50:01.415    
+6               0:53:48.391     0:09:17.139     20,981 kbps     26,544 kbps     01:02:47.305    24,380 kbps     01:02:47.305    23,827 kbps     01:02:45.178    109,386 bytes   340,935 bytes   00:54:31.142    
+7               1:03:05.531     0:13:02.156     20,340 kbps     24,502 kbps     01:14:58.660    22,885 kbps     01:14:54.698    22,590 kbps     01:13:15.224    106,045 bytes   334,500 bytes   01:11:16.730    
+8               1:16:07.688     0:09:05.920     21,607 kbps     27,566 kbps     01:24:42.368    24,223 kbps     01:24:32.400    23,771 kbps     01:24:33.318    112,651 bytes   308,929 bytes   01:22:51.216    
+9               1:25:13.608     0:06:57.291     21,093 kbps     26,988 kbps     01:31:03.416    25,342 kbps     01:31:00.329    24,282 kbps     01:30:54.907    109,968 bytes   300,789 bytes   01:31:04.417    
+10              1:32:10.900     0:09:15.721     21,488 kbps     28,747 kbps     01:35:24.552    25,150 kbps     01:32:13.569    25,004 kbps     01:32:15.488    112,039 bytes   640,780 bytes   01:40:52.046    
+
+STREAM DIAGNOSTICS:
+
+File            PID             Type            Codec           Language                Seconds                 Bitrate                 Bytes           Packets         
+----            ---             ----            -----           --------                --------------          --------------          -------------   -----           
+00042.M2TS      4113 (0x1011)   0x1B            AVC                                     6086.455                21,276                  16,186,841,035  88,057,229      
+00042.M2TS      4352 (0x1100)   0x83            Atmos           eng (English)           6086.455                4,371                   3,325,596,518   22,273,056      
+00042.M2TS      4353 (0x1101)   0x86            DTS-HD MA       eng (English)           6086.455                2,304                   1,753,075,260   10,490,935      
+00042.M2TS      4354 (0x1102)   0x81            AC3             hrv (Croatian)          6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4355 (0x1103)   0x81            AC3             dan (Danish)            6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4356 (0x1104)   0x81            AC3             fin (Finnish)           6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4357 (0x1105)   0x81            AC3             ell (Greek)             6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4358 (0x1106)   0x81            AC3             isl (Icelandic)         6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4359 (0x1107)   0x81            AC3             nor (Norwegian)         6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4360 (0x1108)   0x81            AC3             pol (Polish)            6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4361 (0x1109)   0x81            AC3             swe (Swedish)           6086.455                448                     340,847,360     1,902,050       
+00042.M2TS      4362 (0x110A)   0x81            AC3             eng (English)           6086.455                192                     146,077,440     951,025         
+00042.M2TS      4608 (0x1200)   0x90            PGS             eng (English)           6086.455                51                      39,015,748      225,732         
+00042.M2TS      4609 (0x1201)   0x90            PGS             hrv (Croatian)          6086.455                42                      32,019,443      186,522         
+00042.M2TS      4610 (0x1202)   0x90            PGS             dan (Danish)            6086.455                39                      29,384,722      169,011         
+00042.M2TS      4611 (0x1203)   0x90            PGS             fin (Finnish)           6086.455                31                      23,271,890      138,871         
+00042.M2TS      4612 (0x1204)   0x90            PGS             ell (Greek)             6086.455                46                      35,149,534      203,756         
+00042.M2TS      4613 (0x1205)   0x90            PGS             isl (Icelandic)         6086.455                43                      32,790,517      190,170         
+00042.M2TS      4614 (0x1206)   0x90            PGS             nor (Norwegian)         6086.455                43                      32,948,085      191,451         
+00042.M2TS      4615 (0x1207)   0x90            PGS             pol (Polish)            6086.455                45                      34,563,548      200,341         
+00042.M2TS      4616 (0x1208)   0x90            PGS             slv (Slovenian)         6086.455                36                      27,131,259      155,225         
+00042.M2TS      4617 (0x1209)   0x90            PGS             swe (Swedish)           6086.455                44                      33,538,382      194,744         
+00042.M2TS      4618 (0x120A)   0x90            PGS             hrv (Croatian)          6086.455                0                       356,921         2,079           
+00042.M2TS      4619 (0x120B)   0x90            PGS             ell (Greek)             6086.455                1                       415,482         2,407           
+00042.M2TS      4620 (0x120C)   0x90            PGS             isl (Icelandic)         6086.455                0                       115,301         684             
+00042.M2TS      4621 (0x120D)   0x90            PGS             pol (Polish)            6086.455                1                       415,950         2,408           
+
+[/code]
+<---- END FORUMS PASTE ---->
+
+QUICK SUMMARY:
+
+Disc Title: The LEGO® NINJAGO® Movie
+Disc Label: The.LEGO.Ninjago.Movie.2017.MULTI.COMPLETE.BLURAY-KEBABRULLE
+Disc Size: 38,005,561,645 bytes
+Protection: AACS
+Playlist: 00100.MPLS
+Size: 26,711,181,312 bytes
+Length: 1:41:26.622
+Total Bitrate: 35.11 Mbps
+Video: MPEG-4 AVC Video / 21275 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Audio: English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  3923 kbps / 24-bit (AC3 Embedded: 5.1-EX / 48 kHz /   448 kbps / DN -27dB)
+Audio: English / DTS-HD Master Audio / 5.1 / 48 kHz /  2304 kbps / 16-bit (DTS Core: 5.1 / 48 kHz /  1509 kbps / 16-bit)
+Audio: Croatian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Danish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Finnish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Greek / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Icelandic / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Norwegian / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Polish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: Swedish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -27dB
+Audio: English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB / Dolby Surround
+Subtitle: English / 51.281 kbps
+Subtitle: Croatian / 42.085 kbps
+Subtitle: Danish / 38.622 kbps
+Subtitle: Finnish / 30.588 kbps
+Subtitle: Greek / 46.199 kbps
+Subtitle: Icelandic / 43.098 kbps
+Subtitle: Norwegian / 43.306 kbps
+Subtitle: Polish / 45.429 kbps
+Subtitle: Slovenian / 35.660 kbps
+Subtitle: Swedish / 44.081 kbps
+Subtitle: Croatian / 0.469 kbps
+Subtitle: Greek / 0.546 kbps
+Subtitle: Icelandic / 0.152 kbps
+Subtitle: Polish / 0.547 kbps
+
